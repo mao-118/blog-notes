@@ -1,0 +1,212 @@
+import{H as e,V as t,et as n,j as r}from"./chunks/framework.ByEJxCeM.js";var i=JSON.parse(`{"title":"处理 js 资源","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/webpack/fundamentals/javascript-assets.md","filePath":"frontend/webpack/fundamentals/javascript-assets.md"}`),a={name:`frontend/webpack/fundamentals/javascript-assets.md`};function o(r,i,a,o,s,c){return n(),t(`div`,null,[...i[0]||=[e(`<h1 id="处理-js-资源" tabindex="-1">处理 js 资源 <a class="header-anchor" href="#处理-js-资源" aria-label="Permalink to “处理 js 资源”">​</a></h1><p>有人可能会问，js 资源 Webpack 不能已经处理了吗，为什么我们还要处理呢？</p><p>原因是 Webpack 对 js 处理是有限的，只能编译 js 中 ES 模块化语法，不能编译其他语法，导致 js 不能在 IE 等浏览器运行，所以我们希望做一些兼容性处理。</p><p>其次开发中，团队对代码格式是有严格要求的，我们不能由肉眼去检测代码格式，需要使用专业的工具来检测。</p><ul><li><p>针对 js 兼容性处理，我们使用 Babel 来完成</p></li><li><p>针对代码格式，我们使用 Eslint 来完成</p></li></ul><p>我们先完成 Eslint，检测代码格式无误后，在由 Babel 做代码兼容性处理</p><h2 id="eslint" tabindex="-1">Eslint <a class="header-anchor" href="#eslint" aria-label="Permalink to “Eslint”">​</a></h2><p>可组装的 JavaScript 和 JSX 检查工具。</p><p>这句话意思就是：它是用来检测 js 和 jsx 语法的工具，可以配置各项功能</p><p>我们使用 Eslint，关键是写 Eslint 配置文件，里面写上各种 rules 规则，将来运行 Eslint 时就会以写的规则对代码进行检查</p><h3 id="_1-配置文件" tabindex="-1">1. 配置文件 <a class="header-anchor" href="#_1-配置文件" aria-label="Permalink to “1. 配置文件”">​</a></h3><p>配置文件由很多种写法：</p><ul><li><p><code>.eslintrc.*</code>：新建文件，位于项目根目录</p></li><li><p><code>.eslintrc</code></p></li><li><p><code>.eslintrc.js</code></p></li><li><p><code>.eslintrc.json</code></p></li><li><p>区别在于配置格式不一样</p></li><li><p><code>package.json</code> 中 <code>eslintConfig</code>：不需要创建文件，在原有文件基础上写</p></li></ul><p>ESLint 会查找和自动读取它们，所以以上配置文件只需要存在一个即可</p><h3 id="_2-具体配置" tabindex="-1">2. 具体配置 <a class="header-anchor" href="#_2-具体配置" aria-label="Permalink to “2. 具体配置”">​</a></h3><p>我们以 <code>.eslintrc.js</code> 配置文件为例：</p><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">module</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">exports</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> {</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // 解析选项</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  parserOptions: {},</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // 具体检查规则</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  rules: {},</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // 继承其他规则</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  extends: [],</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // ...</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // 其他规则详见：https://eslint.bootcss.com/docs/user-guide/configuring</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">};</span></span></code></pre></div><ol><li>parserOptions 解析选项</li></ol><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">parserOptions</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">  ecmaVersion</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// ES 语法版本</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">  sourceType</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;module&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// ES 模块化</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">  ecmaFeatures</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: { </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// ES 其他特性</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">    jsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">true</span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;"> // 如果是 React 项目，就需要开启 jsx 语法</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  }</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">}</span></span></code></pre></div><ol start="2"><li>rules 具体规则</li></ol><ul><li><p><code>&quot;off&quot;</code> 或 <code>0</code> - 关闭规则</p></li><li><p><code>&quot;warn&quot;</code> 或 <code>1</code> - 开启规则，使用警告级别的错误：<code>warn</code> (不会导致程序退出)</p></li><li><p><code>&quot;error&quot;</code> 或 <code>2</code> - 开启规则，使用错误级别的错误：<code>error</code> (当被触发的时候，程序会退出)</p></li></ul><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">rules</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">  semi</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;error&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 禁止使用分号</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">  &#39;array-callback-return&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&#39;warn&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 强制数组方法的回调函数中有 return 语句，否则警告</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">  &#39;default-case&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: [</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &#39;warn&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 要求 switch 语句中有 default 分支，否则警告</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    { commentPattern: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&#39;^no default$&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> } </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 允许在最后注释 no default, 就不会有警告了</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  ],</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">  eqeqeq</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: [</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &#39;warn&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 强制使用 === 和 !==，否则警告</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &#39;smart&#39;</span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;"> // https://eslint.bootcss.com/docs/rules/eqeqeq#smart 除了少数情况下不会有警告</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  ],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">}</span></span></code></pre></div><p>更多规则详见：<a href="https://eslint.bootcss.com/docs/rules/" target="_blank" rel="noreferrer">规则文档</a></p><ol start="3"><li>extends 继承</li></ol><p>开发中一点点写 rules 规则太费劲了，所以有更好的办法，继承现有的规则。</p><p>现有以下较为有名的规则：</p><ul><li><p><a href="https://eslint.bootcss.com/docs/rules/" target="_blank" rel="noreferrer">Eslint 官方的规则</a>：<code>eslint:recommended</code></p></li><li><p><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-plugin-eslint" target="_blank" rel="noreferrer">Vue Cli 官方的规则</a>：<code>plugin:vue/essential</code></p></li><li><p><a href="https://github.com/facebook/create-react-app/tree/main/packages/eslint-config-react-app" target="_blank" rel="noreferrer">React Cli 官方的规则</a>：<code>react-app</code></p></li></ul><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 例如在React项目中，我们可以这样写配置</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">module</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">exports</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  extends: [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;react-app&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  rules: {</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">    // 我们的规则会覆盖掉react-app的规则</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">    // 所以想要修改规则直接改就是了</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    eqeqeq: [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;warn&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;smart&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">};</span></span></code></pre></div><h3 id="_3-在-webpack-中使用" tabindex="-1">3. 在 Webpack 中使用 <a class="header-anchor" href="#_3-在-webpack-中使用" aria-label="Permalink to “3. 在 Webpack 中使用”">​</a></h3><ol><li>下载包</li></ol><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>npm i eslint-webpack-plugin eslint -D</span></span></code></pre></div><ol start="2"><li>定义 Eslint 配置文件</li></ol><ul><li>.eslintrc.js</li></ul><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">module</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">exports</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> {</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // 继承 Eslint 规则</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  extends: [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;eslint:recommended&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  env: {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    node: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 启用node中全局变量</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    browser: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 启用浏览器中全局变量</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  parserOptions: {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    ecmaVersion: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    sourceType: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;module&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  rules: {</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &quot;no-var&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 不能使用 var 定义变量</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">};</span></span></code></pre></div><ol start="3"><li>修改 js 文件代码</li></ol><ul><li>main.js</li></ul><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>import count from &quot;./js/count&quot;;</span></span>
+<span class="line"><span>import sum from &quot;./js/sum&quot;;</span></span>
+<span class="line"><span>// 引入资源，Webpack才会对其打包</span></span>
+<span class="line"><span>import &quot;./css/iconfont.css&quot;;</span></span>
+<span class="line"><span>import &quot;./css/index.css&quot;;</span></span>
+<span class="line"><span>import &quot;./less/index.less&quot;;</span></span>
+<span class="line"><span>import &quot;./sass/index.sass&quot;;</span></span>
+<span class="line"><span>import &quot;./sass/index.scss&quot;;</span></span>
+<span class="line"><span>import &quot;./styl/index.styl&quot;;</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>var result1 = count(2, 1);</span></span>
+<span class="line"><span>console.log(result1);</span></span>
+<span class="line"><span>var result2 = sum(1, 2, 3, 4);</span></span>
+<span class="line"><span>console.log(result2);</span></span></code></pre></div><ol><li>配置</li></ol><ul><li>webpack.config.js</li></ul><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>const path = require(&quot;path&quot;);</span></span>
+<span class="line"><span>const ESLintWebpackPlugin = require(&quot;eslint-webpack-plugin&quot;);</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>module.exports = {</span></span>
+<span class="line"><span>  entry: &quot;./src/main.js&quot;,</span></span>
+<span class="line"><span>  output: {</span></span>
+<span class="line"><span>    path: path.resolve(__dirname, &quot;dist&quot;),</span></span>
+<span class="line"><span>    filename: &quot;static/js/main.js&quot;, // 将 js 文件输出到 static/js 目录中</span></span>
+<span class="line"><span>    clean: true, // 自动将上次打包目录资源清空</span></span>
+<span class="line"><span>  },</span></span>
+<span class="line"><span>  module: {</span></span>
+<span class="line"><span>    rules: [</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        // 用来匹配 .css 结尾的文件</span></span>
+<span class="line"><span>        test: /\\.css$/,</span></span>
+<span class="line"><span>        // use 数组里面 Loader 执行顺序是从右到左</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.less$/,</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;, &quot;less-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.s[ac]ss$/,</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;, &quot;sass-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.styl$/,</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;, &quot;stylus-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.(png|jpe?g|gif|webp)$/,</span></span>
+<span class="line"><span>        type: &quot;asset&quot;,</span></span>
+<span class="line"><span>        parser: {</span></span>
+<span class="line"><span>          dataUrlCondition: {</span></span>
+<span class="line"><span>            maxSize: 10 * 1024, // 小于10kb的图片会被base64处理</span></span>
+<span class="line"><span>          },</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>        generator: {</span></span>
+<span class="line"><span>          // 将图片文件输出到 static/imgs 目录中</span></span>
+<span class="line"><span>          // 将图片文件命名 [hash:8][ext][query]</span></span>
+<span class="line"><span>          // [hash:8]: hash值取8位</span></span>
+<span class="line"><span>          // [ext]: 使用之前的文件扩展名</span></span>
+<span class="line"><span>          // [query]: 添加之前的query参数</span></span>
+<span class="line"><span>          filename: &quot;static/imgs/[hash:8][ext][query]&quot;,</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.(ttf|woff2?)$/,</span></span>
+<span class="line"><span>        type: &quot;asset/resource&quot;,</span></span>
+<span class="line"><span>        generator: {</span></span>
+<span class="line"><span>          filename: &quot;static/media/[hash:8][ext][query]&quot;,</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>    ],</span></span>
+<span class="line"><span>  },</span></span>
+<span class="line"><span>  plugins: [</span></span>
+<span class="line"><span>    new ESLintWebpackPlugin({</span></span>
+<span class="line"><span>      // 指定检查文件的根目录</span></span>
+<span class="line"><span>      context: path.resolve(__dirname, &quot;src&quot;),</span></span>
+<span class="line"><span>    }),</span></span>
+<span class="line"><span>  ],</span></span>
+<span class="line"><span>  mode: &quot;development&quot;,</span></span>
+<span class="line"><span>};</span></span></code></pre></div><ol start="5"><li>运行指令</li></ol><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>npx webpack</span></span></code></pre></div><p>在控制台查看 Eslint 检查效果</p><h3 id="_4-vscode-eslint-插件" tabindex="-1">4. VSCode Eslint 插件 <a class="header-anchor" href="#_4-vscode-eslint-插件" aria-label="Permalink to “4. VSCode Eslint 插件”">​</a></h3><p>打开 VSCode，下载 Eslint 插件，即可不用编译就能看到错误，可以提前解决</p><p>但是此时就会对项目所有文件默认进行 Eslint 检查了，我们 dist 目录下的打包后文件就会报错。但是我们只需要检查 src 下面的文件，不需要检查 dist 下面的文件。</p><p>所以可以使用 Eslint 忽略文件解决。在项目根目录新建下面文件:</p><ul><li><code>.eslintignore</code></li></ul><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span># 忽略dist目录下所有文件</span></span>
+<span class="line"><span>dist</span></span></code></pre></div><h2 id="babel" tabindex="-1">Babel <a class="header-anchor" href="#babel" aria-label="Permalink to “Babel”">​</a></h2><p>JavaScript 编译器。</p><p>主要用于将 ES6 语法编写的代码转换为向后兼容的 JavaScript 语法，以便能够运行在当前和旧版本的浏览器或其他环境中</p><h3 id="_1-配置文件-1" tabindex="-1">1. 配置文件 <a class="header-anchor" href="#_1-配置文件-1" aria-label="Permalink to “1. 配置文件”">​</a></h3><p>配置文件由很多种写法：</p><ul><li><p><code>babel.config.*</code>：新建文件，位于项目根目录</p></li><li><p><code>babel.config.js</code></p></li><li><p><code>babel.config.json</code></p></li><li><p><code>.babelrc.*</code>：新建文件，位于项目根目录</p></li><li><p><code>.babelrc</code></p></li><li><p><code>.babelrc.js</code></p></li><li><p><code>.babelrc.json</code></p></li><li><p><code>package.json</code> 中 <code>babel</code>：不需要创建文件，在原有文件基础上写</p></li></ul><p>Babel 会查找和自动读取它们，所以以上配置文件只需要存在一个即可</p><h3 id="_2-具体配置-1" tabindex="-1">2. 具体配置 <a class="header-anchor" href="#_2-具体配置-1" aria-label="Permalink to “2. 具体配置”">​</a></h3><p>我们以 <code>babel.config.js</code> 配置文件为例：</p><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">module</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">exports</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> {</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">  // 预设</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  presets: [],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">};</span></span></code></pre></div><ol><li>presets 预设</li></ol><p>简单理解：就是一组 Babel 插件, 扩展 Babel 功能</p><ul><li><p><code>@babel/preset-env</code>: 一个智能预设，允许您使用最新的 JavaScript。</p></li><li><p><code>@babel/preset-react</code>：一个用来编译 React jsx 语法的预设</p></li><li><p><code>@babel/preset-typescript</code>：一个用来编译 TypeScript 语法的预设</p></li></ul><h3 id="_3-在-webpack-中使用-1" tabindex="-1">3. 在 Webpack 中使用 <a class="header-anchor" href="#_3-在-webpack-中使用-1" aria-label="Permalink to “3. 在 Webpack 中使用”">​</a></h3><ol><li>下载包</li></ol><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>npm i babel-loader @babel/core @babel/preset-env -D</span></span></code></pre></div><ol start="2"><li>定义 Babel 配置文件</li></ol><ul><li>babel.config.js</li></ul><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">module</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">exports</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  presets: [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;@babel/preset-env&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">};</span></span></code></pre></div><ol start="3"><li>修改 js 文件代码</li></ol><ul><li>main.js</li></ul><div class="language-javascript"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> count </span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./js/count&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> sum </span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./js/sum&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#62687b;--shiki-dark:#818e99;">// 引入资源，Webpack才会对其打包</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./css/iconfont.css&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./css/index.css&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./less/index.less&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./sass/index.sass&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./sass/index.scss&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">import</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;./styl/index.styl&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> result1</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> count</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">console.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">log</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(result1);</span></span>
+<span class="line"><span style="--shiki-light:#c62739;--shiki-dark:#F97583;">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> result2</span><span style="--shiki-light:#c62739;--shiki-dark:#F97583;"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> sum</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">4</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">console.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">log</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(result2);</span></span></code></pre></div><ol start="4"><li>配置</li></ol><ul><li>webpack.config.js</li></ul><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>const path = require(&quot;path&quot;);</span></span>
+<span class="line"><span>const ESLintWebpackPlugin = require(&quot;eslint-webpack-plugin&quot;);</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>module.exports = {</span></span>
+<span class="line"><span>  entry: &quot;./src/main.js&quot;,</span></span>
+<span class="line"><span>  output: {</span></span>
+<span class="line"><span>    path: path.resolve(__dirname, &quot;dist&quot;),</span></span>
+<span class="line"><span>    filename: &quot;static/js/main.js&quot;, // 将 js 文件输出到 static/js 目录中</span></span>
+<span class="line"><span>    clean: true, // 自动将上次打包目录资源清空</span></span>
+<span class="line"><span>  },</span></span>
+<span class="line"><span>  module: {</span></span>
+<span class="line"><span>    rules: [</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        // 用来匹配 .css 结尾的文件</span></span>
+<span class="line"><span>        test: /\\.css$/,</span></span>
+<span class="line"><span>        // use 数组里面 Loader 执行顺序是从右到左</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.less$/,</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;, &quot;less-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.s[ac]ss$/,</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;, &quot;sass-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.styl$/,</span></span>
+<span class="line"><span>        use: [&quot;style-loader&quot;, &quot;css-loader&quot;, &quot;stylus-loader&quot;],</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.(png|jpe?g|gif|webp)$/,</span></span>
+<span class="line"><span>        type: &quot;asset&quot;,</span></span>
+<span class="line"><span>        parser: {</span></span>
+<span class="line"><span>          dataUrlCondition: {</span></span>
+<span class="line"><span>            maxSize: 10 * 1024, // 小于10kb的图片会被base64处理</span></span>
+<span class="line"><span>          },</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>        generator: {</span></span>
+<span class="line"><span>          // 将图片文件输出到 static/imgs 目录中</span></span>
+<span class="line"><span>          // 将图片文件命名 [hash:8][ext][query]</span></span>
+<span class="line"><span>          // [hash:8]: hash值取8位</span></span>
+<span class="line"><span>          // [ext]: 使用之前的文件扩展名</span></span>
+<span class="line"><span>          // [query]: 添加之前的query参数</span></span>
+<span class="line"><span>          filename: &quot;static/imgs/[hash:8][ext][query]&quot;,</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.(ttf|woff2?)$/,</span></span>
+<span class="line"><span>        type: &quot;asset/resource&quot;,</span></span>
+<span class="line"><span>        generator: {</span></span>
+<span class="line"><span>          filename: &quot;static/media/[hash:8][ext][query]&quot;,</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      {</span></span>
+<span class="line"><span>        test: /\\.js$/,</span></span>
+<span class="line"><span>        exclude: /node_modules/, // 排除node_modules代码不编译</span></span>
+<span class="line"><span>        loader: &quot;babel-loader&quot;,</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>    ],</span></span>
+<span class="line"><span>  },</span></span>
+<span class="line"><span>  plugins: [</span></span>
+<span class="line"><span>    new ESLintWebpackPlugin({</span></span>
+<span class="line"><span>      // 指定检查文件的根目录</span></span>
+<span class="line"><span>      context: path.resolve(__dirname, &quot;src&quot;),</span></span>
+<span class="line"><span>    }),</span></span>
+<span class="line"><span>  ],</span></span>
+<span class="line"><span>  mode: &quot;development&quot;,</span></span>
+<span class="line"><span>};</span></span></code></pre></div><ol start="5"><li>运行指令</li></ol><div class="language-plain"><button title="Copy code" data-copied="Copied" class="copy"></button><span class="lang">plain</span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>npx webpack</span></span></code></pre></div><p>打开打包后的 <code>dist/static/js/main.js</code> 文件查看，会发现箭头函数等 ES6 语法已经转换了</p>`,77)]])}var s=r(a,[[`render`,o]]);export{i as __pageData,s as default};
