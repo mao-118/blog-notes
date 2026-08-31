@@ -1,0 +1,838 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/multiprocessing/page-1.png",
+  "lines": [
+    {
+      "text": "Zine",
+      "left": 100,
+      "top": 346,
+      "right": 408,
+      "bottom": 447,
+      "height": 101,
+      "confidence": 5.49696,
+      "words": [
+        {
+          "text": "Zine",
+          "left": 100,
+          "top": 346,
+          "width": 308,
+          "height": 101,
+          "confidence": 5.49696
+        }
+      ]
+    },
+    {
+      "text": "、 co",
+      "left": 205,
+      "top": 348,
+      "right": 401,
+      "bottom": 382,
+      "height": 34,
+      "confidence": 50.17908,
+      "words": [
+        {
+          "text": "、",
+          "left": 205,
+          "top": 348,
+          "width": 24,
+          "height": 22,
+          "confidence": 72.580421
+        },
+        {
+          "text": "co",
+          "left": 355,
+          "top": 350,
+          "width": 46,
+          "height": 32,
+          "confidence": 27.777739
+        }
+      ]
+    },
+    {
+      "text": "这个更好理解. 通过主程序去创建多个进程来完成并行的效果",
+      "left": 92,
+      "top": 532,
+      "right": 1256,
+      "bottom": 591,
+      "height": 59,
+      "confidence": 95.39774165000001,
+      "words": [
+        {
+          "text": "这",
+          "left": 92,
+          "top": 536,
+          "width": 39,
+          "height": 40,
+          "confidence": 96.120857
+        },
+        {
+          "text": "个",
+          "left": 147,
+          "top": 536,
+          "width": 28,
+          "height": 40,
+          "confidence": 96.187759
+        },
+        {
+          "text": "更",
+          "left": 198,
+          "top": 536,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.366234
+        },
+        {
+          "text": "好",
+          "left": 241,
+          "top": 538,
+          "width": 39,
+          "height": 38,
+          "confidence": 96.828072
+        },
+        {
+          "text": "理解",
+          "left": 281,
+          "top": 536,
+          "width": 81,
+          "height": 41,
+          "confidence": 93.150299
+        },
+        {
+          "text": ".",
+          "left": 360,
+          "top": 532,
+          "width": 16,
+          "height": 59,
+          "confidence": 90.133125
+        },
+        {
+          "text": "通过",
+          "left": 401,
+          "top": 536,
+          "width": 62,
+          "height": 40,
+          "confidence": 93.155807
+        },
+        {
+          "text": "主",
+          "left": 478,
+          "top": 536,
+          "width": 49,
+          "height": 40,
+          "confidence": 93.056335
+        },
+        {
+          "text": "程序",
+          "left": 530,
+          "top": 532,
+          "width": 90,
+          "height": 59,
+          "confidence": 96.792732
+        },
+        {
+          "text": "去",
+          "left": 619,
+          "top": 536,
+          "width": 45,
+          "height": 41,
+          "confidence": 96.663567
+        },
+        {
+          "text": "创建",
+          "left": 671,
+          "top": 532,
+          "width": 81,
+          "height": 59,
+          "confidence": 96.747055
+        },
+        {
+          "text": "多",
+          "left": 751,
+          "top": 536,
+          "width": 20,
+          "height": 40,
+          "confidence": 96.989006
+        },
+        {
+          "text": "个",
+          "left": 792,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.719536
+        },
+        {
+          "text": "进程",
+          "left": 836,
+          "top": 536,
+          "width": 93,
+          "height": 40,
+          "confidence": 95.676041
+        },
+        {
+          "text": "来",
+          "left": 953,
+          "top": 536,
+          "width": 21,
+          "height": 41,
+          "confidence": 96.898041
+        },
+        {
+          "text": "完成",
+          "left": 996,
+          "top": 532,
+          "width": 62,
+          "height": 59,
+          "confidence": 96.617676
+        },
+        {
+          "text": "并",
+          "left": 1057,
+          "top": 536,
+          "width": 41,
+          "height": 40,
+          "confidence": 93.094261
+        },
+        {
+          "text": "行",
+          "left": 1099,
+          "top": 536,
+          "width": 45,
+          "height": 40,
+          "confidence": 92.890953
+        },
+        {
+          "text": "的",
+          "left": 1150,
+          "top": 536,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.969116
+        },
+        {
+          "text": "效果",
+          "left": 1190,
+          "top": 536,
+          "width": 66,
+          "height": 40,
+          "confidence": 96.898361
+        }
+      ]
+    },
+    {
+      "text": "1 from multiprocessing import Process",
+      "left": 131,
+      "top": 697,
+      "right": 1021,
+      "bottom": 738,
+      "height": 41,
+      "confidence": 96.00600119999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 699,
+          "width": 18,
+          "height": 30,
+          "confidence": 94.743118
+        },
+        {
+          "text": "from",
+          "left": 186,
+          "top": 697,
+          "width": 92,
+          "height": 33,
+          "confidence": 96.585701
+        },
+        {
+          "text": "multiprocessing",
+          "left": 304,
+          "top": 697,
+          "width": 356,
+          "height": 41,
+          "confidence": 95.708336
+        },
+        {
+          "text": "import",
+          "left": 690,
+          "top": 697,
+          "width": 138,
+          "height": 41,
+          "confidence": 96.384689
+        },
+        {
+          "text": "Process",
+          "left": 858,
+          "top": 699,
+          "width": 163,
+          "height": 31,
+          "confidence": 96.608162
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "left": 130,
+      "top": 768,
+      "right": 148,
+      "bottom": 799,
+      "height": 31,
+      "confidence": 96.69812,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 768,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.69812
+        }
+      ]
+    },
+    {
+      "text": "3",
+      "left": 130,
+      "top": 838,
+      "right": 148,
+      "bottom": 870,
+      "height": 32,
+      "confidence": 96.797783,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 838,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.797783
+        }
+      ]
+    },
+    {
+      "text": "4 def func():",
+      "left": 128,
+      "top": 907,
+      "right": 438,
+      "bottom": 946,
+      "height": 39,
+      "confidence": 79.92729433333334,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 909,
+          "width": 22,
+          "height": 30,
+          "confidence": 95.971733
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 907,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.302986
+        },
+        {
+          "text": "func():",
+          "left": 282,
+          "top": 907,
+          "width": 156,
+          "height": 39,
+          "confidence": 50.507164
+        }
+      ]
+    },
+    {
+      "text": "5 for i in range(1000):",
+      "left": 130,
+      "top": 977,
+      "right": 774,
+      "bottom": 1018,
+      "height": 41,
+      "confidence": 78.9862078,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 979,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.05806
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 977,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 977,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 977,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 977,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "6 printC\"func\", i)",
+      "left": 129,
+      "top": 1047,
+      "right": 755,
+      "bottom": 1088,
+      "height": 41,
+      "confidence": 76.574585,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 1048,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.855713
+        },
+        {
+          "text": "printC\"func\",",
+          "left": 378,
+          "top": 1047,
+          "width": 301,
+          "height": 41,
+          "confidence": 38.353745
+        },
+        {
+          "text": "i)",
+          "left": 714,
+          "top": 1047,
+          "width": 41,
+          "height": 39,
+          "confidence": 94.514297
+        }
+      ]
+    },
+    {
+      "text": "7",
+      "left": 130,
+      "top": 1119,
+      "right": 149,
+      "bottom": 1149,
+      "height": 30,
+      "confidence": 94.928879,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 1119,
+          "width": 19,
+          "height": 30,
+          "confidence": 94.928879
+        }
+      ]
+    },
+    {
+      "text": "8",
+      "left": 130,
+      "top": 1188,
+      "right": 149,
+      "bottom": 1220,
+      "height": 32,
+      "confidence": 96.566376,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 1188,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.566376
+        }
+      ]
+    },
+    {
+      "text": "9 if __name__ == '__main__':",
+      "left": 129,
+      "top": 1257,
+      "right": 798,
+      "bottom": 1292,
+      "height": 35,
+      "confidence": 89.556726,
+      "words": [
+        {
+          "text": "9",
+          "left": 129,
+          "top": 1258,
+          "width": 20,
+          "height": 32,
+          "confidence": 95.624321
+        },
+        {
+          "text": "if",
+          "left": 186,
+          "top": 1257,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.159561
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 1267,
+          "width": 190,
+          "height": 25,
+          "confidence": 83.164558
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 1274,
+          "width": 46,
+          "height": 9,
+          "confidence": 92.910591
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 1257,
+          "width": 246,
+          "height": 35,
+          "confidence": 83.924599
+        }
+      ]
+    },
+    {
+      "text": "10 p = Process(target=func)",
+      "left": 107,
+      "top": 1327,
+      "right": 851,
+      "bottom": 1368,
+      "height": 41,
+      "confidence": 91.719166,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 1328,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.673325
+        },
+        {
+          "text": "p",
+          "left": 282,
+          "top": 1337,
+          "width": 19,
+          "height": 31,
+          "confidence": 91.748169
+        },
+        {
+          "text": "=",
+          "left": 328,
+          "top": 1344,
+          "width": 22,
+          "height": 9,
+          "confidence": 93.142975
+        },
+        {
+          "text": "Process(target=func)",
+          "left": 378,
+          "top": 1327,
+          "width": 473,
+          "height": 41,
+          "confidence": 85.312195
+        }
+      ]
+    },
+    {
+      "text": "11 p.start()",
+      "left": 107,
+      "top": 1397,
+      "right": 491,
+      "bottom": 1438,
+      "height": 41,
+      "confidence": 51.277646,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 1399,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.520012
+        },
+        {
+          "text": "p.start()",
+          "left": 282,
+          "top": 1397,
+          "width": 209,
+          "height": 41,
+          "confidence": 6.03528
+        }
+      ]
+    },
+    {
+      "text": "12",
+      "left": 107,
+      "top": 1468,
+      "right": 148,
+      "bottom": 1499,
+      "height": 31,
+      "confidence": 96.67881,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 1468,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.67881
+        }
+      ]
+    },
+    {
+      "text": "13 for i in range(1000):",
+      "left": 107,
+      "top": 1538,
+      "right": 774,
+      "bottom": 1579,
+      "height": 41,
+      "confidence": 79.15122840000001,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 1539,
+          "width": 41,
+          "height": 32,
+          "confidence": 96.883163
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 1538,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 1538,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 1538,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 1538,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "14 printC\"main\", i)",
+      "left": 107,
+      "top": 1608,
+      "right": 755,
+      "bottom": 1649,
+      "height": 41,
+      "confidence": 78.40003200000001,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 1610,
+          "width": 43,
+          "height": 30,
+          "confidence": 96.824944
+        },
+        {
+          "text": "printC\"main\",",
+          "left": 378,
+          "top": 1608,
+          "width": 301,
+          "height": 41,
+          "confidence": 45.432571
+        },
+        {
+          "text": "i)",
+          "left": 714,
+          "top": 1608,
+          "width": 41,
+          "height": 39,
+          "confidence": 92.942581
+        }
+      ]
+    },
+    {
+      "text": "15",
+      "left": 107,
+      "top": 1680,
+      "right": 148,
+      "bottom": 1711,
+      "height": 31,
+      "confidence": 96.774727,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 1680,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.774727
+        }
+      ]
+    },
+    {
+      "text": "发现没有, 写法和多线程几乎一模一样",
+      "left": 91,
+      "top": 1800,
+      "right": 820,
+      "bottom": 1858,
+      "height": 58,
+      "confidence": 93.7723747142857,
+      "words": [
+        {
+          "text": "发",
+          "left": 91,
+          "top": 1804,
+          "width": 59,
+          "height": 40,
+          "confidence": 93.152664
+        },
+        {
+          "text": "现",
+          "left": 159,
+          "top": 1805,
+          "width": 48,
+          "height": 40,
+          "confidence": 92.750938
+        },
+        {
+          "text": "没",
+          "left": 223,
+          "top": 1804,
+          "width": 24,
+          "height": 40,
+          "confidence": 91.625854
+        },
+        {
+          "text": "有",
+          "left": 246,
+          "top": 1800,
+          "width": 19,
+          "height": 58,
+          "confidence": 93.266464
+        },
+        {
+          "text": ",",
+          "left": 269,
+          "top": 1835,
+          "width": 5,
+          "height": 11,
+          "confidence": 91.93029
+        },
+        {
+          "text": "写法",
+          "left": 292,
+          "top": 1804,
+          "width": 125,
+          "height": 40,
+          "confidence": 93.084129
+        },
+        {
+          "text": "和",
+          "left": 395,
+          "top": 1800,
+          "width": 37,
+          "height": 58,
+          "confidence": 96.814041
+        },
+        {
+          "text": "多",
+          "left": 431,
+          "top": 1804,
+          "width": 48,
+          "height": 40,
+          "confidence": 96.72052
+        },
+        {
+          "text": "线程",
+          "left": 482,
+          "top": 1804,
+          "width": 334,
+          "height": 41,
+          "confidence": 96.608818
+        },
+        {
+          "text": "几乎",
+          "left": 576,
+          "top": 1800,
+          "width": 88,
+          "height": 58,
+          "confidence": 95.390648
+        },
+        {
+          "text": "一",
+          "left": 663,
+          "top": 1800,
+          "width": 44,
+          "height": 58,
+          "confidence": 92.884445
+        },
+        {
+          "text": "模",
+          "left": 706,
+          "top": 1800,
+          "width": 41,
+          "height": 58,
+          "confidence": 92.716019
+        },
+        {
+          "text": "一",
+          "left": 746,
+          "top": 1800,
+          "width": 45,
+          "height": 58,
+          "confidence": 92.866585
+        },
+        {
+          "text": "样",
+          "left": 790,
+          "top": 1800,
+          "width": 30,
+          "height": 58,
+          "confidence": 93.001831
+        }
+      ]
+    }
+  ]
+}

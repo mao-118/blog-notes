@@ -1,0 +1,1318 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/requests-basics/page-1.png",
+  "lines": [
+    {
+      "text": "requests 模块入 |",
+      "left": 99,
+      "top": 342,
+      "right": 944,
+      "bottom": 461,
+      "height": 119,
+      "confidence": 81.8440292,
+      "words": [
+        {
+          "text": "requests",
+          "left": 99,
+          "top": 346,
+          "width": 765,
+          "height": 111,
+          "confidence": 79.912735
+        },
+        {
+          "text": "模",
+          "left": 563,
+          "top": 342,
+          "width": 127,
+          "height": 119,
+          "confidence": 68.428337
+        },
+        {
+          "text": "块",
+          "left": 690,
+          "top": 342,
+          "width": 112,
+          "height": 119,
+          "confidence": 89.677002
+        },
+        {
+          "text": "入",
+          "left": 801,
+          "top": 342,
+          "width": 46,
+          "height": 119,
+          "confidence": 96.782822
+        },
+        {
+          "text": "|",
+          "left": 894,
+          "top": 352,
+          "width": 50,
+          "height": 94,
+          "confidence": 74.41925
+        }
+      ]
+    },
+    {
+      "text": "二上 \\",
+      "left": 561,
+      "top": 345,
+      "right": 885,
+      "bottom": 371,
+      "height": 26,
+      "confidence": 62.79265966666667,
+      "words": [
+        {
+          "text": "二",
+          "left": 561,
+          "top": 346,
+          "width": 38,
+          "height": 25,
+          "confidence": 90.255768
+        },
+        {
+          "text": "上",
+          "left": 610,
+          "top": 355,
+          "width": 17,
+          "height": 7,
+          "confidence": 63.817062
+        },
+        {
+          "text": "\\",
+          "left": 865,
+          "top": 345,
+          "width": 20,
+          "height": 24,
+          "confidence": 34.305149
+        }
+      ]
+    },
+    {
+      "text": "在前面小节中, 我们使用 urllib 来抓取页面源代码. 这个是 python 内置",
+      "left": 91,
+      "top": 531,
+      "right": 1381,
+      "bottom": 591,
+      "height": 60,
+      "confidence": 91.82736188461536,
+      "words": [
+        {
+          "text": "在",
+          "left": 91,
+          "top": 536,
+          "width": 40,
+          "height": 41,
+          "confidence": 96.61924
+        },
+        {
+          "text": "前",
+          "left": 147,
+          "top": 536,
+          "width": 28,
+          "height": 41,
+          "confidence": 92.536743
+        },
+        {
+          "text": "面",
+          "left": 195,
+          "top": 537,
+          "width": 50,
+          "height": 40,
+          "confidence": 90.634323
+        },
+        {
+          "text": "小",
+          "left": 253,
+          "top": 546,
+          "width": 10,
+          "height": 22,
+          "confidence": 93.010658
+        },
+        {
+          "text": "节",
+          "left": 282,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 80.66507
+        },
+        {
+          "text": "中",
+          "left": 323,
+          "top": 536,
+          "width": 25,
+          "height": 41,
+          "confidence": 93.277267
+        },
+        {
+          "text": ",",
+          "left": 357,
+          "top": 567,
+          "width": 5,
+          "height": 11,
+          "confidence": 88.619164
+        },
+        {
+          "text": "我",
+          "left": 402,
+          "top": 536,
+          "width": 42,
+          "height": 41,
+          "confidence": 93.104927
+        },
+        {
+          "text": "们",
+          "left": 448,
+          "top": 536,
+          "width": 31,
+          "height": 41,
+          "confidence": 93.28196
+        },
+        {
+          "text": "使",
+          "left": 488,
+          "top": 536,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.369164
+        },
+        {
+          "text": "用",
+          "left": 533,
+          "top": 531,
+          "width": 27,
+          "height": 60,
+          "confidence": 96.694466
+        },
+        {
+          "text": "urllib",
+          "left": 559,
+          "top": 541,
+          "width": 88,
+          "height": 31,
+          "confidence": 69.949356
+        },
+        {
+          "text": "来",
+          "left": 668,
+          "top": 536,
+          "width": 53,
+          "height": 40,
+          "confidence": 91.133263
+        },
+        {
+          "text": "抓",
+          "left": 720,
+          "top": 531,
+          "width": 35,
+          "height": 60,
+          "confidence": 92.909607
+        },
+        {
+          "text": "取",
+          "left": 754,
+          "top": 538,
+          "width": 24,
+          "height": 38,
+          "confidence": 93.288071
+        },
+        {
+          "text": "页",
+          "left": 795,
+          "top": 538,
+          "width": 26,
+          "height": 38,
+          "confidence": 93.243477
+        },
+        {
+          "text": "面",
+          "left": 844,
+          "top": 537,
+          "width": 37,
+          "height": 40,
+          "confidence": 91.903481
+        },
+        {
+          "text": "源",
+          "left": 889,
+          "top": 536,
+          "width": 38,
+          "height": 41,
+          "confidence": 93.093399
+        },
+        {
+          "text": "代码",
+          "left": 930,
+          "top": 536,
+          "width": 67,
+          "height": 40,
+          "confidence": 93.302238
+        },
+        {
+          "text": ".",
+          "left": 1004,
+          "top": 567,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.944519
+        },
+        {
+          "text": "这",
+          "left": 1043,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.743996
+        },
+        {
+          "text": "个",
+          "left": 1088,
+          "top": 536,
+          "width": 49,
+          "height": 40,
+          "confidence": 95.355049
+        },
+        {
+          "text": "是",
+          "left": 1137,
+          "top": 531,
+          "width": 34,
+          "height": 60,
+          "confidence": 96.024651
+        },
+        {
+          "text": "python",
+          "left": 1160,
+          "top": 536,
+          "width": 219,
+          "height": 45,
+          "confidence": 91.166054
+        },
+        {
+          "text": "内",
+          "left": 1298,
+          "top": 531,
+          "width": 49,
+          "height": 60,
+          "confidence": 91.684258
+        },
+        {
+          "text": "置",
+          "left": 1347,
+          "top": 531,
+          "width": 34,
+          "height": 60,
+          "confidence": 90.957008
+        }
+      ]
+    },
+    {
+      "text": "的一个模块. 但是, 它并不是我们党用的讨虫工具. 常用的抓取页面的",
+      "left": 93,
+      "top": 603,
+      "right": 1392,
+      "bottom": 662,
+      "height": 59,
+      "confidence": 86.5692795357143,
+      "words": [
+        {
+          "text": "的",
+          "left": 93,
+          "top": 607,
+          "width": 37,
+          "height": 40,
+          "confidence": 96.680244
+        },
+        {
+          "text": "一",
+          "left": 148,
+          "top": 625,
+          "width": 27,
+          "height": 3,
+          "confidence": 96.59832
+        },
+        {
+          "text": "个",
+          "left": 192,
+          "top": 607,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.646477
+        },
+        {
+          "text": "模块",
+          "left": 235,
+          "top": 607,
+          "width": 83,
+          "height": 40,
+          "confidence": 93.065346
+        },
+        {
+          "text": ".",
+          "left": 317,
+          "top": 603,
+          "width": 12,
+          "height": 59,
+          "confidence": 91.880028
+        },
+        {
+          "text": "但",
+          "left": 358,
+          "top": 607,
+          "width": 17,
+          "height": 41,
+          "confidence": 96.772957
+        },
+        {
+          "text": "是",
+          "left": 398,
+          "top": 608,
+          "width": 21,
+          "height": 39,
+          "confidence": 93.264709
+        },
+        {
+          "text": ",",
+          "left": 425,
+          "top": 638,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.251846
+        },
+        {
+          "text": "它",
+          "left": 468,
+          "top": 607,
+          "width": 19,
+          "height": 39,
+          "confidence": 91.434601
+        },
+        {
+          "text": "并",
+          "left": 505,
+          "top": 607,
+          "width": 27,
+          "height": 40,
+          "confidence": 93.263443
+        },
+        {
+          "text": "不",
+          "left": 549,
+          "top": 609,
+          "width": 27,
+          "height": 39,
+          "confidence": 96.347916
+        },
+        {
+          "text": "是",
+          "left": 594,
+          "top": 607,
+          "width": 52,
+          "height": 40,
+          "confidence": 96.885796
+        },
+        {
+          "text": "我",
+          "left": 668,
+          "top": 607,
+          "width": 19,
+          "height": 41,
+          "confidence": 93.156174
+        },
+        {
+          "text": "们",
+          "left": 693,
+          "top": 610,
+          "width": 13,
+          "height": 37,
+          "confidence": 92.635765
+        },
+        {
+          "text": "党",
+          "left": 726,
+          "top": 607,
+          "width": 24,
+          "height": 41,
+          "confidence": 94.041008
+        },
+        {
+          "text": "用",
+          "left": 767,
+          "top": 607,
+          "width": 49,
+          "height": 40,
+          "confidence": 77.510223
+        },
+        {
+          "text": "的",
+          "left": 817,
+          "top": 607,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.270126
+        },
+        {
+          "text": "讨",
+          "left": 863,
+          "top": 607,
+          "width": 49,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "虫",
+          "left": 932,
+          "top": 610,
+          "width": 28,
+          "height": 34,
+          "confidence": 0.0
+        },
+        {
+          "text": "工具",
+          "left": 959,
+          "top": 603,
+          "width": 57,
+          "height": 59,
+          "confidence": 93.274559
+        },
+        {
+          "text": ".",
+          "left": 1022,
+          "top": 638,
+          "width": 5,
+          "height": 5,
+          "confidence": 93.125504
+        },
+        {
+          "text": "常用",
+          "left": 1066,
+          "top": 607,
+          "width": 82,
+          "height": 41,
+          "confidence": 93.798767
+        },
+        {
+          "text": "的",
+          "left": 1150,
+          "top": 607,
+          "width": 42,
+          "height": 40,
+          "confidence": 93.282776
+        },
+        {
+          "text": "抓",
+          "left": 1198,
+          "top": 607,
+          "width": 19,
+          "height": 40,
+          "confidence": 92.452988
+        },
+        {
+          "text": "取",
+          "left": 1235,
+          "top": 609,
+          "width": 26,
+          "height": 38,
+          "confidence": 93.289001
+        },
+        {
+          "text": "页",
+          "left": 1276,
+          "top": 609,
+          "width": 28,
+          "height": 38,
+          "confidence": 93.191757
+        },
+        {
+          "text": "面",
+          "left": 1324,
+          "top": 607,
+          "width": 41,
+          "height": 41,
+          "confidence": 92.656998
+        },
+        {
+          "text": "的",
+          "left": 1370,
+          "top": 607,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.162498
+        }
+      ]
+    },
+    {
+      "text": "模块通常使用一个第三方模块 requests. 这个模块的优势就是比 urllib",
+      "left": 91,
+      "top": 671,
+      "right": 1389,
+      "bottom": 729,
+      "height": 58,
+      "confidence": 94.6856877,
+      "words": [
+        {
+          "text": "模块",
+          "left": 91,
+          "top": 677,
+          "width": 109,
+          "height": 40,
+          "confidence": 96.934547
+        },
+        {
+          "text": "通常",
+          "left": 199,
+          "top": 671,
+          "width": 95,
+          "height": 58,
+          "confidence": 96.88028
+        },
+        {
+          "text": "使",
+          "left": 311,
+          "top": 679,
+          "width": 19,
+          "height": 38,
+          "confidence": 96.953636
+        },
+        {
+          "text": "用",
+          "left": 329,
+          "top": 671,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.977623
+        },
+        {
+          "text": "一",
+          "left": 369,
+          "top": 695,
+          "width": 26,
+          "height": 3,
+          "confidence": 96.079933
+        },
+        {
+          "text": "个",
+          "left": 413,
+          "top": 677,
+          "width": 26,
+          "height": 40,
+          "confidence": 96.967926
+        },
+        {
+          "text": "第",
+          "left": 456,
+          "top": 677,
+          "width": 27,
+          "height": 40,
+          "confidence": 96.916191
+        },
+        {
+          "text": "三",
+          "left": 500,
+          "top": 680,
+          "width": 27,
+          "height": 35,
+          "confidence": 93.204842
+        },
+        {
+          "text": "方",
+          "left": 547,
+          "top": 677,
+          "width": 43,
+          "height": 40,
+          "confidence": 91.588959
+        },
+        {
+          "text": "模块",
+          "left": 594,
+          "top": 677,
+          "width": 82,
+          "height": 40,
+          "confidence": 92.528534
+        },
+        {
+          "text": "requests.",
+          "left": 677,
+          "top": 671,
+          "width": 163,
+          "height": 58,
+          "confidence": 89.640778
+        },
+        {
+          "text": "这",
+          "left": 870,
+          "top": 677,
+          "width": 27,
+          "height": 40,
+          "confidence": 96.86364
+        },
+        {
+          "text": "个",
+          "left": 913,
+          "top": 677,
+          "width": 47,
+          "height": 40,
+          "confidence": 96.711792
+        },
+        {
+          "text": "模块",
+          "left": 960,
+          "top": 677,
+          "width": 90,
+          "height": 40,
+          "confidence": 96.777229
+        },
+        {
+          "text": "的",
+          "left": 1058,
+          "top": 677,
+          "width": 33,
+          "height": 40,
+          "confidence": 96.9375
+        },
+        {
+          "text": "优势",
+          "left": 1098,
+          "top": 677,
+          "width": 89,
+          "height": 40,
+          "confidence": 96.917076
+        },
+        {
+          "text": "就",
+          "left": 1189,
+          "top": 677,
+          "width": 48,
+          "height": 40,
+          "confidence": 95.702812
+        },
+        {
+          "text": "是",
+          "left": 1257,
+          "top": 678,
+          "width": 16,
+          "height": 39,
+          "confidence": 93.249985
+        },
+        {
+          "text": "比",
+          "left": 1276,
+          "top": 678,
+          "width": 33,
+          "height": 38,
+          "confidence": 93.044228
+        },
+        {
+          "text": "urllib",
+          "left": 1308,
+          "top": 671,
+          "width": 81,
+          "height": 58,
+          "confidence": 82.836243
+        }
+      ]
+    },
+    {
+      "text": "还要简单, 并且处理各种请求都比较方便.",
+      "left": 92,
+      "top": 743,
+      "right": 871,
+      "bottom": 801,
+      "height": 58,
+      "confidence": 93.99624062500001,
+      "words": [
+        {
+          "text": "还",
+          "left": 92,
+          "top": 747,
+          "width": 182,
+          "height": 42,
+          "confidence": 96.747971
+        },
+        {
+          "text": "要",
+          "left": 149,
+          "top": 743,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.570862
+        },
+        {
+          "text": "简单",
+          "left": 189,
+          "top": 747,
+          "width": 84,
+          "height": 42,
+          "confidence": 93.147552
+        },
+        {
+          "text": ",",
+          "left": 272,
+          "top": 743,
+          "width": 16,
+          "height": 58,
+          "confidence": 90.423622
+        },
+        {
+          "text": "并",
+          "left": 309,
+          "top": 747,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.218513
+        },
+        {
+          "text": "且",
+          "left": 345,
+          "top": 749,
+          "width": 30,
+          "height": 37,
+          "confidence": 91.710266
+        },
+        {
+          "text": "处",
+          "left": 396,
+          "top": 747,
+          "width": 41,
+          "height": 40,
+          "confidence": 93.25808
+        },
+        {
+          "text": "理",
+          "left": 439,
+          "top": 749,
+          "width": 24,
+          "height": 37,
+          "confidence": 92.577103
+        },
+        {
+          "text": "各",
+          "left": 483,
+          "top": 747,
+          "width": 40,
+          "height": 41,
+          "confidence": 93.637093
+        },
+        {
+          "text": "种",
+          "left": 529,
+          "top": 747,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.823563
+        },
+        {
+          "text": "请",
+          "left": 573,
+          "top": 747,
+          "width": 23,
+          "height": 40,
+          "confidence": 93.190269
+        },
+        {
+          "text": "求",
+          "left": 617,
+          "top": 747,
+          "width": 48,
+          "height": 40,
+          "confidence": 93.138977
+        },
+        {
+          "text": "都",
+          "left": 669,
+          "top": 748,
+          "width": 38,
+          "height": 39,
+          "confidence": 96.891052
+        },
+        {
+          "text": "比较",
+          "left": 709,
+          "top": 747,
+          "width": 63,
+          "height": 40,
+          "confidence": 96.755386
+        },
+        {
+          "text": "方便",
+          "left": 791,
+          "top": 747,
+          "width": 66,
+          "height": 40,
+          "confidence": 93.278603
+        },
+        {
+          "text": ".",
+          "left": 866,
+          "top": 778,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.570938
+        }
+      ]
+    },
+    {
+      "text": "既然是第三方模块, 那就需要我们对该模块进行安装, 安装方法:",
+      "left": 92,
+      "top": 879,
+      "right": 1292,
+      "bottom": 938,
+      "height": 59,
+      "confidence": 93.87517842857143,
+      "words": [
+        {
+          "text": "既然",
+          "left": 92,
+          "top": 883,
+          "width": 358,
+          "height": 42,
+          "confidence": 94.416199
+        },
+        {
+          "text": "是",
+          "left": 198,
+          "top": 879,
+          "width": 42,
+          "height": 59,
+          "confidence": 96.964539
+        },
+        {
+          "text": "第",
+          "left": 239,
+          "top": 879,
+          "width": 45,
+          "height": 59,
+          "confidence": 96.997368
+        },
+        {
+          "text": "三",
+          "left": 283,
+          "top": 879,
+          "width": 45,
+          "height": 59,
+          "confidence": 93.216454
+        },
+        {
+          "text": "方",
+          "left": 327,
+          "top": 879,
+          "width": 45,
+          "height": 59,
+          "confidence": 92.922028
+        },
+        {
+          "text": "模块",
+          "left": 371,
+          "top": 879,
+          "width": 79,
+          "height": 59,
+          "confidence": 93.056717
+        },
+        {
+          "text": ",",
+          "left": 449,
+          "top": 879,
+          "width": 12,
+          "height": 59,
+          "confidence": 87.251854
+        },
+        {
+          "text": "那",
+          "left": 489,
+          "top": 883,
+          "width": 43,
+          "height": 40,
+          "confidence": 87.251854
+        },
+        {
+          "text": "就",
+          "left": 534,
+          "top": 883,
+          "width": 17,
+          "height": 40,
+          "confidence": 93.10717
+        },
+        {
+          "text": "需要",
+          "left": 574,
+          "top": 884,
+          "width": 66,
+          "height": 40,
+          "confidence": 96.749023
+        },
+        {
+          "text": "我",
+          "left": 663,
+          "top": 883,
+          "width": 48,
+          "height": 41,
+          "confidence": 93.040131
+        },
+        {
+          "text": "们",
+          "left": 713,
+          "top": 886,
+          "width": 36,
+          "height": 37,
+          "confidence": 92.240982
+        },
+        {
+          "text": "对",
+          "left": 751,
+          "top": 883,
+          "width": 40,
+          "height": 40,
+          "confidence": 97.014748
+        },
+        {
+          "text": "该",
+          "left": 792,
+          "top": 883,
+          "width": 43,
+          "height": 40,
+          "confidence": 96.371979
+        },
+        {
+          "text": "模块",
+          "left": 840,
+          "top": 883,
+          "width": 89,
+          "height": 40,
+          "confidence": 96.488243
+        },
+        {
+          "text": "进行",
+          "left": 952,
+          "top": 883,
+          "width": 69,
+          "height": 40,
+          "confidence": 96.648338
+        },
+        {
+          "text": "安装",
+          "left": 1040,
+          "top": 879,
+          "width": 44,
+          "height": 59,
+          "confidence": 93.122009
+        },
+        {
+          "text": ",",
+          "left": 1086,
+          "top": 914,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.545265
+        },
+        {
+          "text": "安装",
+          "left": 1127,
+          "top": 883,
+          "width": 66,
+          "height": 40,
+          "confidence": 96.505089
+        },
+        {
+          "text": "方法",
+          "left": 1212,
+          "top": 883,
+          "width": 68,
+          "height": 40,
+          "confidence": 93.262451
+        },
+        {
+          "text": ":",
+          "left": 1287,
+          "top": 896,
+          "width": 5,
+          "height": 23,
+          "confidence": 92.206306
+        }
+      ]
+    },
+    {
+      "text": "1 pip install requests",
+      "left": 107,
+      "top": 1043,
+      "right": 636,
+      "bottom": 1084,
+      "height": 41,
+      "confidence": 95.23464775000001,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 1045,
+          "width": 18,
+          "height": 30,
+          "confidence": 93.823082
+        },
+        {
+          "text": "pip",
+          "left": 162,
+          "top": 1043,
+          "width": 67,
+          "height": 41,
+          "confidence": 93.823082
+        },
+        {
+          "text": "install",
+          "left": 258,
+          "top": 1043,
+          "width": 160,
+          "height": 33,
+          "confidence": 96.588608
+        },
+        {
+          "text": "requests",
+          "left": 452,
+          "top": 1046,
+          "width": 184,
+          "height": 38,
+          "confidence": 96.703819
+        }
+      ]
+    },
+    {
+      "text": "如果安装速度慢的话可以改用国内的源进行下载安装.",
+      "left": 91,
+      "top": 1165,
+      "right": 1111,
+      "bottom": 1223,
+      "height": 58,
+      "confidence": 92.6405663,
+      "words": [
+        {
+          "text": "如",
+          "left": 91,
+          "top": 1169,
+          "width": 38,
+          "height": 40,
+          "confidence": 93.296028
+        },
+        {
+          "text": "果",
+          "left": 145,
+          "top": 1171,
+          "width": 30,
+          "height": 38,
+          "confidence": 93.03315
+        },
+        {
+          "text": "安",
+          "left": 192,
+          "top": 1169,
+          "width": 27,
+          "height": 40,
+          "confidence": 91.336342
+        },
+        {
+          "text": "装",
+          "left": 239,
+          "top": 1169,
+          "width": 51,
+          "height": 40,
+          "confidence": 92.890648
+        },
+        {
+          "text": "速度",
+          "left": 290,
+          "top": 1165,
+          "width": 79,
+          "height": 58,
+          "confidence": 93.270096
+        },
+        {
+          "text": "慢",
+          "left": 369,
+          "top": 1169,
+          "width": 46,
+          "height": 40,
+          "confidence": 93.095139
+        },
+        {
+          "text": "的",
+          "left": 416,
+          "top": 1169,
+          "width": 42,
+          "height": 40,
+          "confidence": 92.296242
+        },
+        {
+          "text": "话",
+          "left": 464,
+          "top": 1170,
+          "width": 44,
+          "height": 39,
+          "confidence": 92.422386
+        },
+        {
+          "text": "可",
+          "left": 507,
+          "top": 1165,
+          "width": 41,
+          "height": 58,
+          "confidence": 94.601318
+        },
+        {
+          "text": "以",
+          "left": 547,
+          "top": 1169,
+          "width": 46,
+          "height": 40,
+          "confidence": 93.166
+        },
+        {
+          "text": "改",
+          "left": 594,
+          "top": 1169,
+          "width": 44,
+          "height": 40,
+          "confidence": 84.308266
+        },
+        {
+          "text": "用",
+          "left": 638,
+          "top": 1165,
+          "width": 40,
+          "height": 58,
+          "confidence": 93.907089
+        },
+        {
+          "text": "国内",
+          "left": 665,
+          "top": 1169,
+          "width": 79,
+          "height": 40,
+          "confidence": 95.36496
+        },
+        {
+          "text": "的",
+          "left": 764,
+          "top": 1169,
+          "width": 42,
+          "height": 40,
+          "confidence": 93.292221
+        },
+        {
+          "text": "源",
+          "left": 812,
+          "top": 1169,
+          "width": 48,
+          "height": 40,
+          "confidence": 89.963272
+        },
+        {
+          "text": "进行",
+          "left": 883,
+          "top": 1170,
+          "width": 40,
+          "height": 39,
+          "confidence": 96.507675
+        },
+        {
+          "text": "下",
+          "left": 946,
+          "top": 1171,
+          "width": 21,
+          "height": 39,
+          "confidence": 93.241051
+        },
+        {
+          "text": "载",
+          "left": 989,
+          "top": 1169,
+          "width": 48,
+          "height": 40,
+          "confidence": 92.647415
+        },
+        {
+          "text": "安装",
+          "left": 1036,
+          "top": 1165,
+          "width": 63,
+          "height": 58,
+          "confidence": 92.150093
+        },
+        {
+          "text": ".",
+          "left": 1106,
+          "top": 1200,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.021935
+        }
+      ]
+    },
+    {
+      "text": "1 pip install -i",
+      "left": 107,
+      "top": 1329,
+      "right": 490,
+      "bottom": 1370,
+      "height": 41,
+      "confidence": 92.85439675,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 1331,
+          "width": 18,
+          "height": 30,
+          "confidence": 94.105667
+        },
+        {
+          "text": "pip",
+          "left": 162,
+          "top": 1329,
+          "width": 67,
+          "height": 41,
+          "confidence": 94.105667
+        },
+        {
+          "text": "install",
+          "left": 258,
+          "top": 1329,
+          "width": 160,
+          "height": 33,
+          "confidence": 92.940521
+        },
+        {
+          "text": "-i",
+          "left": 451,
+          "top": 1329,
+          "width": 39,
+          "height": 32,
+          "confidence": 90.265732
+        }
+      ]
+    },
+    {
+      "text": "https://pypi.tuna.tsinghua.edu.cn/simple requests",
+      "left": 162,
+      "top": 1399,
+      "right": 1333,
+      "bottom": 1440,
+      "height": 41,
+      "confidence": 88.172863,
+      "words": [
+        {
+          "text": "https://pypi.tuna.tsinghua.edu.cn/simple",
+          "left": 162,
+          "top": 1399,
+          "width": 955,
+          "height": 41,
+          "confidence": 79.680969
+        },
+        {
+          "text": "requests",
+          "left": 1149,
+          "top": 1402,
+          "width": 184,
+          "height": 38,
+          "confidence": 96.664757
+        }
+      ]
+    }
+  ]
+}

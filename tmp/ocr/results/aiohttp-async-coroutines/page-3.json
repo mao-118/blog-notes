@@ -1,0 +1,551 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/aiohttp-async-coroutines/page-3.png",
+  "lines": [
+    {
+      "text": "29 name = url.splitC\"/\")[-1]",
+      "left": 106,
+      "top": 130,
+      "right": 872,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 88.3626135,
+      "words": [
+        {
+          "text": "29",
+          "left": 106,
+          "top": 131,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.451965
+        },
+        {
+          "text": "name",
+          "left": 282,
+          "top": 139,
+          "width": 91,
+          "height": 24,
+          "confidence": 96.15831
+        },
+        {
+          "text": "=",
+          "left": 400,
+          "top": 146,
+          "width": 22,
+          "height": 11,
+          "confidence": 92.431358
+        },
+        {
+          "text": "url.splitC\"/\")[-1]",
+          "left": 450,
+          "top": 130,
+          "width": 422,
+          "height": 41,
+          "confidence": 72.408821
+        }
+      ]
+    },
+    {
+      "text": "30 resp = requests.getCurlL)",
+      "left": 106,
+      "top": 200,
+      "right": 852,
+      "bottom": 241,
+      "height": 41,
+      "confidence": 71.43500499999999,
+      "words": [
+        {
+          "text": "30",
+          "left": 106,
+          "top": 201,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.633789
+        },
+        {
+          "text": "resp",
+          "left": 284,
+          "top": 209,
+          "width": 89,
+          "height": 32,
+          "confidence": 95.808601
+        },
+        {
+          "text": "=",
+          "left": 400,
+          "top": 216,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.29763
+        },
+        {
+          "text": "requests.getCurlL)",
+          "left": 452,
+          "top": 200,
+          "width": 400,
+          "height": 41,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "31 content = resp.content",
+      "left": 106,
+      "top": 271,
+      "right": 805,
+      "bottom": 311,
+      "height": 40,
+      "confidence": 94.92557725,
+      "words": [
+        {
+          "text": "31",
+          "left": 106,
+          "top": 271,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.707062
+        },
+        {
+          "text": "content",
+          "left": 282,
+          "top": 273,
+          "width": 163,
+          "height": 30,
+          "confidence": 96.863976
+        },
+        {
+          "text": "=",
+          "left": 472,
+          "top": 286,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.301643
+        },
+        {
+          "text": "resp.content",
+          "left": 524,
+          "top": 273,
+          "width": 281,
+          "height": 38,
+          "confidence": 92.829628
+        }
+      ]
+    },
+    {
+      "text": "32 with openCname, mode=\"wb\") as f:",
+      "left": 106,
+      "top": 340,
+      "right": 1039,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 89.98052466666667,
+      "words": [
+        {
+          "text": "32",
+          "left": 106,
+          "top": 341,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.902634
+        },
+        {
+          "text": "with",
+          "left": 279,
+          "top": 340,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.277084
+        },
+        {
+          "text": "openCname,",
+          "left": 400,
+          "top": 340,
+          "width": 231,
+          "height": 41,
+          "confidence": 80.25267
+        },
+        {
+          "text": "mode=\"wb\")",
+          "left": 664,
+          "top": 340,
+          "width": 237,
+          "height": 39,
+          "confidence": 83.507858
+        },
+        {
+          "text": "as",
+          "left": 930,
+          "top": 349,
+          "width": 43,
+          "height": 24,
+          "confidence": 93.2015
+        },
+        {
+          "text": "f:",
+          "left": 1003,
+          "top": 340,
+          "width": 36,
+          "height": 33,
+          "confidence": 92.741402
+        }
+      ]
+    },
+    {
+      "text": "33) f.writeCcontent)",
+      "left": 106,
+      "top": 406,
+      "right": 756,
+      "bottom": 453,
+      "height": 47,
+      "confidence": 76.74236433333333,
+      "words": [
+        {
+          "text": "33)",
+          "left": 106,
+          "top": 406,
+          "width": 47,
+          "height": 47,
+          "confidence": 58.036839
+        },
+        {
+          "text": "f",
+          "left": 378,
+          "top": 410,
+          "width": 20,
+          "height": 32,
+          "confidence": 90.286682
+        },
+        {
+          "text": ".writeCcontent)",
+          "left": 408,
+          "top": 410,
+          "width": 348,
+          "height": 39,
+          "confidence": 81.903572
+        }
+      ]
+    },
+    {
+      "text": "34",
+      "left": 106,
+      "top": 481,
+      "right": 150,
+      "bottom": 513,
+      "height": 32,
+      "confidence": 96.53157,
+      "words": [
+        {
+          "text": "34",
+          "left": 106,
+          "top": 481,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.53157
+        }
+      ]
+    },
+    {
+      "text": "35 # 我故意型了一堆 ur1L 做测试",
+      "left": 106,
+      "top": 546,
+      "right": 702,
+      "bottom": 600,
+      "height": 54,
+      "confidence": 83.99026454545454,
+      "words": [
+        {
+          "text": "35",
+          "left": 106,
+          "top": 552,
+          "width": 43,
+          "height": 32,
+          "confidence": 86.748039
+        },
+        {
+          "text": "#",
+          "left": 184,
+          "top": 553,
+          "width": 22,
+          "height": 30,
+          "confidence": 86.748039
+        },
+        {
+          "text": "我",
+          "left": 247,
+          "top": 550,
+          "width": 22,
+          "height": 37,
+          "confidence": 96.794327
+        },
+        {
+          "text": "故意",
+          "left": 273,
+          "top": 550,
+          "width": 259,
+          "height": 37,
+          "confidence": 95.794739
+        },
+        {
+          "text": "型",
+          "left": 382,
+          "top": 546,
+          "width": 28,
+          "height": 54,
+          "confidence": 35.768013
+        },
+        {
+          "text": "了",
+          "left": 409,
+          "top": 546,
+          "width": 34,
+          "height": 54,
+          "confidence": 96.810936
+        },
+        {
+          "text": "一",
+          "left": 442,
+          "top": 546,
+          "width": 49,
+          "height": 54,
+          "confidence": 93.149002
+        },
+        {
+          "text": "堆",
+          "left": 490,
+          "top": 546,
+          "width": 34,
+          "height": 54,
+          "confidence": 92.442856
+        },
+        {
+          "text": "ur1L",
+          "left": 523,
+          "top": 546,
+          "width": 72,
+          "height": 54,
+          "confidence": 51.298466
+        },
+        {
+          "text": "做",
+          "left": 594,
+          "top": 551,
+          "width": 39,
+          "height": 36,
+          "confidence": 91.620773
+        },
+        {
+          "text": "测试",
+          "left": 638,
+          "top": 550,
+          "width": 64,
+          "height": 37,
+          "confidence": 96.71772
+        }
+      ]
+    },
+    {
+      "text": "36 urls = [",
+      "left": 106,
+      "top": 621,
+      "right": 374,
+      "bottom": 661,
+      "height": 40,
+      "confidence": 93.7113035,
+      "words": [
+        {
+          "text": "36",
+          "left": 106,
+          "top": 622,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.183212
+        },
+        {
+          "text": "urls",
+          "left": 186,
+          "top": 621,
+          "width": 90,
+          "height": 33,
+          "confidence": 95.183212
+        },
+        {
+          "text": "=",
+          "left": 304,
+          "top": 637,
+          "width": 22,
+          "height": 11,
+          "confidence": 92.239395
+        },
+        {
+          "text": "[",
+          "left": 358,
+          "top": 621,
+          "width": 16,
+          "height": 40,
+          "confidence": 92.239395
+        }
+      ]
+    },
+    {
+      "text": "37 http://kr.\n5\t1\t1\t9\t1\t3\t550\t687\t172\t50\t12.943907\tshanghai\n5\t1\t1\t9\t1\t4\t738\t691\t17\t32\t86.126495\t-\n4\t1\t1\t9\t2\t0\t186\t761\t1171\t41\t-1\t\n5\t1\t1\t9\t2\t1\t186\t761\t156\t41\t77.269890\tjiuxin.\n5\t1\t1\t9\t2\t2\t354\t761\t1003\t41\t11.440067\tcom/file/2020/1031/26b7e178e987beb6d914bf\n5\t1\t1\t9\t2\t3\t1316\t756\t44\t51\t93.318390\t8d\n4\t1\t1\t9\t3\t0\t187\t831\t348\t41\t-1\t\n5\t1\t1\t9\t3\t1\t187\t831\t226\t33\t76.165565\t1af120890.\n5\t1\t1\t9\t3\t2\t429\t831\t106\t41\t95.148102\tjpg,",
+      "left": 106,
+      "top": 691,
+      "right": 534,
+      "bottom": 732,
+      "height": 41,
+      "confidence": 54.188556,
+      "words": [
+        {
+          "text": "37",
+          "left": 106,
+          "top": 692,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.433205
+        },
+        {
+          "text": "http://kr.\n5\t1\t1\t9\t1\t3\t550\t687\t172\t50\t12.943907\tshanghai\n5\t1\t1\t9\t1\t4\t738\t691\t17\t32\t86.126495\t-\n4\t1\t1\t9\t2\t0\t186\t761\t1171\t41\t-1\t\n5\t1\t1\t9\t2\t1\t186\t761\t156\t41\t77.269890\tjiuxin.\n5\t1\t1\t9\t2\t2\t354\t761\t1003\t41\t11.440067\tcom/file/2020/1031/26b7e178e987beb6d914bf\n5\t1\t1\t9\t2\t3\t1316\t756\t44\t51\t93.318390\t8d\n4\t1\t1\t9\t3\t0\t187\t831\t348\t41\t-1\t\n5\t1\t1\t9\t3\t1\t187\t831\t226\t33\t76.165565\t1af120890.\n5\t1\t1\t9\t3\t2\t429\t831\t106\t41\t95.148102\tjpg,",
+          "left": 284,
+          "top": 691,
+          "width": 250,
+          "height": 41,
+          "confidence": 12.943907
+        }
+      ]
+    },
+    {
+      "text": "38 http://kr.\n5\t1\t1\t10\t1\t3\t550\t897\t172\t50\t12.943907\tshanghai\n5\t1\t1\t10\t1\t4\t738\t901\t17\t32\t86.126495\t-\n4\t1\t1\t10\t2\t0\t186\t971\t1171\t41\t-1\t\n5\t1\t1\t10\t2\t1\t186\t971\t156\t41\t73.060707\tjiuxin.\n5\t1\t1\t10\t2\t2\t354\t971\t1003\t33\t29.549332\tcom/file/2020/1031/191468637cab2f0206F7d1d\n4\t1\t1\t10\t3\t0\t184\t1041\t351\t41\t-1\t\n5\t1\t1\t10\t3\t1\t184\t1041\t229\t33\t90.455551\t9b175ac81.\n5\t1\t1\t10\t3\t2\t429\t1041\t106\t41\t93.862038\tjpg,",
+      "left": 106,
+      "top": 901,
+      "right": 534,
+      "bottom": 942,
+      "height": 41,
+      "confidence": 53.595850999999996,
+      "words": [
+        {
+          "text": "38",
+          "left": 106,
+          "top": 902,
+          "width": 43,
+          "height": 32,
+          "confidence": 94.247795
+        },
+        {
+          "text": "http://kr.\n5\t1\t1\t10\t1\t3\t550\t897\t172\t50\t12.943907\tshanghai\n5\t1\t1\t10\t1\t4\t738\t901\t17\t32\t86.126495\t-\n4\t1\t1\t10\t2\t0\t186\t971\t1171\t41\t-1\t\n5\t1\t1\t10\t2\t1\t186\t971\t156\t41\t73.060707\tjiuxin.\n5\t1\t1\t10\t2\t2\t354\t971\t1003\t33\t29.549332\tcom/file/2020/1031/191468637cab2f0206F7d1d\n4\t1\t1\t10\t3\t0\t184\t1041\t351\t41\t-1\t\n5\t1\t1\t10\t3\t1\t184\t1041\t229\t33\t90.455551\t9b175ac81.\n5\t1\t1\t10\t3\t2\t429\t1041\t106\t41\t93.862038\tjpg,",
+          "left": 284,
+          "top": 901,
+          "width": 250,
+          "height": 41,
+          "confidence": 12.943907
+        }
+      ]
+    },
+    {
+      "text": "39 http://kr.\n5\t1\t1\t11\t1\t3\t550\t1107\t172\t50\t12.943907\tshanghai\n5\t1\t1\t11\t1\t4\t738\t1111\t17\t32\t86.126495\t-\n4\t1\t1\t11\t2\t0\t186\t1181\t1171\t41\t-1\t\n5\t1\t1\t11\t2\t1\t186\t1181\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t11\t2\t2\t354\t1181\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t11\t3\t0\t184\t1251\t351\t41\t-1\t\n5\t1\t1\t11\t3\t1\t184\t1251\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t11\t3\t2\t429\t1251\t106\t41\t91.401024\tjpg,",
+      "left": 106,
+      "top": 1111,
+      "right": 534,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 54.771097999999995,
+      "words": [
+        {
+          "text": "39",
+          "left": 106,
+          "top": 1112,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.598289
+        },
+        {
+          "text": "http://kr.\n5\t1\t1\t11\t1\t3\t550\t1107\t172\t50\t12.943907\tshanghai\n5\t1\t1\t11\t1\t4\t738\t1111\t17\t32\t86.126495\t-\n4\t1\t1\t11\t2\t0\t186\t1181\t1171\t41\t-1\t\n5\t1\t1\t11\t2\t1\t186\t1181\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t11\t2\t2\t354\t1181\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t11\t3\t0\t184\t1251\t351\t41\t-1\t\n5\t1\t1\t11\t3\t1\t184\t1251\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t11\t3\t2\t429\t1251\t106\t41\t91.401024\tjpg,",
+          "left": 284,
+          "top": 1111,
+          "width": 250,
+          "height": 41,
+          "confidence": 12.943907
+        }
+      ]
+    },
+    {
+      "text": "40 http://kr.\n5\t1\t1\t12\t1\t3\t550\t1317\t172\t50\t12.943907\tshanghai\n5\t1\t1\t12\t1\t4\t738\t1321\t17\t32\t86.126495\t-\n4\t1\t1\t12\t2\t0\t186\t1391\t1171\t41\t-1\t\n5\t1\t1\t12\t2\t1\t186\t1391\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t12\t2\t2\t354\t1391\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t12\t3\t0\t184\t1461\t351\t41\t-1\t\n5\t1\t1\t12\t3\t1\t184\t1461\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t12\t3\t2\t429\t1461\t106\t41\t91.401024\tjpg,",
+      "left": 104,
+      "top": 1321,
+      "right": 534,
+      "bottom": 1362,
+      "height": 41,
+      "confidence": 53.744620499999996,
+      "words": [
+        {
+          "text": "40",
+          "left": 104,
+          "top": 1322,
+          "width": 46,
+          "height": 32,
+          "confidence": 94.545334
+        },
+        {
+          "text": "http://kr.\n5\t1\t1\t12\t1\t3\t550\t1317\t172\t50\t12.943907\tshanghai\n5\t1\t1\t12\t1\t4\t738\t1321\t17\t32\t86.126495\t-\n4\t1\t1\t12\t2\t0\t186\t1391\t1171\t41\t-1\t\n5\t1\t1\t12\t2\t1\t186\t1391\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t12\t2\t2\t354\t1391\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t12\t3\t0\t184\t1461\t351\t41\t-1\t\n5\t1\t1\t12\t3\t1\t184\t1461\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t12\t3\t2\t429\t1461\t106\t41\t91.401024\tjpg,",
+          "left": 284,
+          "top": 1321,
+          "width": 250,
+          "height": 41,
+          "confidence": 12.943907
+        }
+      ]
+    },
+    {
+      "text": "41 http:\n5\t1\t1\t13\t1\t3\t427\t1528\t111\t49\t0.000000\t//kr.\n5\t1\t1\t13\t1\t4\t549\t1532\t177\t41\t47.113228\tshanghai\n5\t1\t1\t13\t1\t5\t733\t1528\t25\t49\t47.113228\t-\n4\t1\t1\t13\t2\t0\t186\t1602\t1171\t41\t-1\t\n5\t1\t1\t13\t2\t1\t186\t1602\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t13\t2\t2\t354\t1602\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t13\t3\t0\t184\t1672\t351\t41\t-1\t\n5\t1\t1\t13\t3\t1\t184\t1672\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t13\t3\t2\t429\t1672\t106\t41\t91.401024\tjpg,",
+      "left": 104,
+      "top": 1532,
+      "right": 755,
+      "bottom": 1573,
+      "height": 41,
+      "confidence": 47.851341,
+      "words": [
+        {
+          "text": "41",
+          "left": 104,
+          "top": 1534,
+          "width": 45,
+          "height": 30,
+          "confidence": 95.702682
+        },
+        {
+          "text": "http:\n5\t1\t1\t13\t1\t3\t427\t1528\t111\t49\t0.000000\t//kr.\n5\t1\t1\t13\t1\t4\t549\t1532\t177\t41\t47.113228\tshanghai\n5\t1\t1\t13\t1\t5\t733\t1528\t25\t49\t47.113228\t-\n4\t1\t1\t13\t2\t0\t186\t1602\t1171\t41\t-1\t\n5\t1\t1\t13\t2\t1\t186\t1602\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t13\t2\t2\t354\t1602\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t13\t3\t0\t184\t1672\t351\t41\t-1\t\n5\t1\t1\t13\t3\t1\t184\t1672\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t13\t3\t2\t429\t1672\t106\t41\t91.401024\tjpg,",
+          "left": 284,
+          "top": 1532,
+          "width": 471,
+          "height": 41,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "42 http:\n5\t1\t1\t14\t1\t3\t427\t1738\t111\t49\t0.000000\t//kr.\n5\t1\t1\t14\t1\t4\t549\t1742\t177\t41\t47.113228\tshanghai\n5\t1\t1\t14\t1\t5\t733\t1738\t25\t49\t47.113228\t-\n4\t1\t1\t14\t2\t0\t186\t1812\t1171\t41\t-1\t\n5\t1\t1\t14\t2\t1\t186\t1812\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t14\t2\t2\t354\t1812\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t14\t3\t0\t184\t1882\t351\t41\t-1\t\n5\t1\t1\t14\t3\t1\t184\t1882\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t14\t3\t2\t429\t1882\t106\t41\t91.401024\tjpg,",
+      "left": 104,
+      "top": 1742,
+      "right": 755,
+      "bottom": 1783,
+      "height": 41,
+      "confidence": 48.1240885,
+      "words": [
+        {
+          "text": "42",
+          "left": 104,
+          "top": 1743,
+          "width": 44,
+          "height": 31,
+          "confidence": 96.248177
+        },
+        {
+          "text": "http:\n5\t1\t1\t14\t1\t3\t427\t1738\t111\t49\t0.000000\t//kr.\n5\t1\t1\t14\t1\t4\t549\t1742\t177\t41\t47.113228\tshanghai\n5\t1\t1\t14\t1\t5\t733\t1738\t25\t49\t47.113228\t-\n4\t1\t1\t14\t2\t0\t186\t1812\t1171\t41\t-1\t\n5\t1\t1\t14\t2\t1\t186\t1812\t156\t41\t73.879532\tjiuxin.\n5\t1\t1\t14\t2\t2\t354\t1812\t1003\t33\t72.457054\tcom/file/2020/1031/563337d07af599a9ea64e62\n4\t1\t1\t14\t3\t0\t184\t1882\t351\t41\t-1\t\n5\t1\t1\t14\t3\t1\t184\t1882\t229\t33\t69.487045\t0729f367e.\n5\t1\t1\t14\t3\t2\t429\t1882\t106\t41\t91.401024\tjpg,",
+          "left": 284,
+          "top": 1742,
+          "width": 471,
+          "height": 41,
+          "confidence": 0.0
+        }
+      ]
+    }
+  ]
+}

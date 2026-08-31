@@ -1,0 +1,890 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/proxy/page-1.png",
+  "lines": [
+    {
+      "text": "代理",
+      "left": 93,
+      "top": 346,
+      "right": 302,
+      "bottom": 447,
+      "height": 101,
+      "confidence": 96.234131,
+      "words": [
+        {
+          "text": "代理",
+          "left": 93,
+          "top": 346,
+          "width": 209,
+          "height": 101,
+          "confidence": 96.234131
+        }
+      ]
+    },
+    {
+      "text": "当我们反复抓取一个网站时, 由于请求过于频繁, 服务器很可能会将",
+      "left": 94,
+      "top": 510,
+      "right": 1371,
+      "bottom": 604,
+      "height": 94,
+      "confidence": 94.22348366666667,
+      "words": [
+        {
+          "text": "当",
+          "left": 94,
+          "top": 536,
+          "width": 34,
+          "height": 40,
+          "confidence": 93.218536
+        },
+        {
+          "text": "我",
+          "left": 154,
+          "top": 536,
+          "width": 38,
+          "height": 41,
+          "confidence": 93.217209
+        },
+        {
+          "text": "们",
+          "left": 195,
+          "top": 536,
+          "width": 22,
+          "height": 40,
+          "confidence": 83.418098
+        },
+        {
+          "text": "反复",
+          "left": 236,
+          "top": 536,
+          "width": 90,
+          "height": 40,
+          "confidence": 93.047234
+        },
+        {
+          "text": "抓",
+          "left": 330,
+          "top": 536,
+          "width": 21,
+          "height": 40,
+          "confidence": 93.1063
+        },
+        {
+          "text": "取",
+          "left": 372,
+          "top": 538,
+          "width": 23,
+          "height": 38,
+          "confidence": 93.070877
+        },
+        {
+          "text": "一",
+          "left": 419,
+          "top": 554,
+          "width": 20,
+          "height": 3,
+          "confidence": 96.128952
+        },
+        {
+          "text": "个",
+          "left": 460,
+          "top": 536,
+          "width": 48,
+          "height": 40,
+          "confidence": 93.730812
+        },
+        {
+          "text": "网",
+          "left": 531,
+          "top": 536,
+          "width": 18,
+          "height": 37,
+          "confidence": 96.876686
+        },
+        {
+          "text": "站",
+          "left": 550,
+          "top": 536,
+          "width": 39,
+          "height": 40,
+          "confidence": 96.829178
+        },
+        {
+          "text": "时",
+          "left": 591,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 93.244881
+        },
+        {
+          "text": ",",
+          "left": 621,
+          "top": 567,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.539635
+        },
+        {
+          "text": "由",
+          "left": 659,
+          "top": 536,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.996269
+        },
+        {
+          "text": "于",
+          "left": 701,
+          "top": 537,
+          "width": 45,
+          "height": 39,
+          "confidence": 96.945465
+        },
+        {
+          "text": "请",
+          "left": 748,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 93.041939
+        },
+        {
+          "text": "求",
+          "left": 795,
+          "top": 536,
+          "width": 21,
+          "height": 40,
+          "confidence": 93.174446
+        },
+        {
+          "text": "过",
+          "left": 836,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.99926
+        },
+        {
+          "text": "于",
+          "left": 877,
+          "top": 536,
+          "width": 42,
+          "height": 40,
+          "confidence": 95.695511
+        },
+        {
+          "text": "频繁",
+          "left": 926,
+          "top": 536,
+          "width": 77,
+          "height": 42,
+          "confidence": 93.32515
+        },
+        {
+          "text": ",",
+          "left": 1006,
+          "top": 510,
+          "width": 13,
+          "height": 94,
+          "confidence": 83.420479
+        },
+        {
+          "text": "服务",
+          "left": 1021,
+          "top": 536,
+          "width": 348,
+          "height": 41,
+          "confidence": 96.900101
+        },
+        {
+          "text": "器",
+          "left": 1129,
+          "top": 510,
+          "width": 48,
+          "height": 94,
+          "confidence": 96.869263
+        },
+        {
+          "text": "很",
+          "left": 1176,
+          "top": 510,
+          "width": 37,
+          "height": 94,
+          "confidence": 95.279526
+        },
+        {
+          "text": "可",
+          "left": 1212,
+          "top": 510,
+          "width": 42,
+          "height": 94,
+          "confidence": 96.636131
+        },
+        {
+          "text": "能",
+          "left": 1253,
+          "top": 510,
+          "width": 48,
+          "height": 94,
+          "confidence": 96.847069
+        },
+        {
+          "text": "会",
+          "left": 1300,
+          "top": 510,
+          "width": 42,
+          "height": 94,
+          "confidence": 96.671135
+        },
+        {
+          "text": "将",
+          "left": 1341,
+          "top": 510,
+          "width": 30,
+          "height": 94,
+          "confidence": 96.803917
+        }
+      ]
+    },
+    {
+      "text": "你的 |P 进行封锁来反息, 应对方案就是通过网络代理的形式进行伪",
+      "left": 91,
+      "top": 582,
+      "right": 1338,
+      "bottom": 675,
+      "height": 93,
+      "confidence": 86.44250721739131,
+      "words": [
+        {
+          "text": "你",
+          "left": 91,
+          "top": 607,
+          "width": 60,
+          "height": 40,
+          "confidence": 96.916489
+        },
+        {
+          "text": "的",
+          "left": 152,
+          "top": 607,
+          "width": 33,
+          "height": 40,
+          "confidence": 96.94059
+        },
+        {
+          "text": "|P",
+          "left": 185,
+          "top": 582,
+          "width": 30,
+          "height": 93,
+          "confidence": 91.188271
+        },
+        {
+          "text": "进",
+          "left": 232,
+          "top": 607,
+          "width": 45,
+          "height": 40,
+          "confidence": 87.994011
+        },
+        {
+          "text": "行",
+          "left": 284,
+          "top": 608,
+          "width": 44,
+          "height": 39,
+          "confidence": 92.758522
+        },
+        {
+          "text": "封锁",
+          "left": 331,
+          "top": 607,
+          "width": 88,
+          "height": 40,
+          "confidence": 95.907066
+        },
+        {
+          "text": "来",
+          "left": 418,
+          "top": 582,
+          "width": 36,
+          "height": 93,
+          "confidence": 96.781662
+        },
+        {
+          "text": "反",
+          "left": 453,
+          "top": 608,
+          "width": 26,
+          "height": 39,
+          "confidence": 93.273247
+        },
+        {
+          "text": "息",
+          "left": 499,
+          "top": 607,
+          "width": 24,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": ",",
+          "left": 529,
+          "top": 638,
+          "width": 5,
+          "height": 5,
+          "confidence": 0.0
+        },
+        {
+          "text": "应",
+          "left": 575,
+          "top": 607,
+          "width": 36,
+          "height": 40,
+          "confidence": 96.988579
+        },
+        {
+          "text": "对",
+          "left": 614,
+          "top": 607,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.959885
+        },
+        {
+          "text": "方案",
+          "left": 656,
+          "top": 607,
+          "width": 93,
+          "height": 40,
+          "confidence": 96.757362
+        },
+        {
+          "text": "就",
+          "left": 749,
+          "top": 607,
+          "width": 19,
+          "height": 40,
+          "confidence": 96.731659
+        },
+        {
+          "text": "是",
+          "left": 790,
+          "top": 608,
+          "width": 47,
+          "height": 39,
+          "confidence": 94.502762
+        },
+        {
+          "text": "通过",
+          "left": 836,
+          "top": 582,
+          "width": 64,
+          "height": 93,
+          "confidence": 95.913086
+        },
+        {
+          "text": "网",
+          "left": 924,
+          "top": 607,
+          "width": 47,
+          "height": 40,
+          "confidence": 93.29351
+        },
+        {
+          "text": "络",
+          "left": 992,
+          "top": 607,
+          "width": 13,
+          "height": 41,
+          "confidence": 93.235466
+        },
+        {
+          "text": "代理",
+          "left": 1011,
+          "top": 607,
+          "width": 82,
+          "height": 40,
+          "confidence": 94.425491
+        },
+        {
+          "text": "的",
+          "left": 1097,
+          "top": 607,
+          "width": 43,
+          "height": 40,
+          "confidence": 96.826782
+        },
+        {
+          "text": "形式",
+          "left": 1147,
+          "top": 607,
+          "width": 61,
+          "height": 40,
+          "confidence": 96.90049
+        },
+        {
+          "text": "进行",
+          "left": 1226,
+          "top": 607,
+          "width": 86,
+          "height": 41,
+          "confidence": 96.431808
+        },
+        {
+          "text": "伪",
+          "left": 1313,
+          "top": 607,
+          "width": 25,
+          "height": 40,
+          "confidence": 87.450928
+        }
+      ]
+    },
+    {
+      "text": "代理的原理:",
+      "left": 91,
+      "top": 809,
+      "right": 320,
+      "bottom": 871,
+      "height": 62,
+      "confidence": 94.18652699999998,
+      "words": [
+        {
+          "text": "代理",
+          "left": 91,
+          "top": 813,
+          "width": 227,
+          "height": 41,
+          "confidence": 95.422981
+        },
+        {
+          "text": "的",
+          "left": 191,
+          "top": 809,
+          "width": 48,
+          "height": 62,
+          "confidence": 96.688751
+        },
+        {
+          "text": "原理",
+          "left": 238,
+          "top": 813,
+          "width": 66,
+          "height": 41,
+          "confidence": 93.28688
+        },
+        {
+          "text": ":",
+          "left": 304,
+          "top": 809,
+          "width": 16,
+          "height": 62,
+          "confidence": 91.347496
+        }
+      ]
+    },
+    {
+      "text": "从图上可以得知. 对于目标网站来说. 是通过代理服务器发送的请求.",
+      "left": 91,
+      "top": 1467,
+      "right": 1380,
+      "bottom": 1560,
+      "height": 93,
+      "confidence": 88.35996285185183,
+      "words": [
+        {
+          "text": "从",
+          "left": 91,
+          "top": 1493,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.954147
+        },
+        {
+          "text": "图",
+          "left": 150,
+          "top": 1495,
+          "width": 23,
+          "height": 38,
+          "confidence": 95.358078
+        },
+        {
+          "text": "上",
+          "left": 191,
+          "top": 1493,
+          "width": 28,
+          "height": 39,
+          "confidence": 96.886742
+        },
+        {
+          "text": "可",
+          "left": 226,
+          "top": 1496,
+          "width": 37,
+          "height": 37,
+          "confidence": 96.485634
+        },
+        {
+          "text": "以",
+          "left": 278,
+          "top": 1493,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.917419
+        },
+        {
+          "text": "得",
+          "left": 325,
+          "top": 1493,
+          "width": 47,
+          "height": 40,
+          "confidence": 93.124252
+        },
+        {
+          "text": "知",
+          "left": 378,
+          "top": 1498,
+          "width": 15,
+          "height": 34,
+          "confidence": 85.554916
+        },
+        {
+          "text": ".",
+          "left": 401,
+          "top": 1524,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.814003
+        },
+        {
+          "text": "对",
+          "left": 441,
+          "top": 1493,
+          "width": 22,
+          "height": 40,
+          "confidence": 95.619751
+        },
+        {
+          "text": "于",
+          "left": 482,
+          "top": 1495,
+          "width": 25,
+          "height": 38,
+          "confidence": 96.149719
+        },
+        {
+          "text": "目标",
+          "left": 528,
+          "top": 1493,
+          "width": 68,
+          "height": 40,
+          "confidence": 96.534859
+        },
+        {
+          "text": "网",
+          "left": 615,
+          "top": 1493,
+          "width": 42,
+          "height": 40,
+          "confidence": 94.42292
+        },
+        {
+          "text": "站",
+          "left": 663,
+          "top": 1493,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.928947
+        },
+        {
+          "text": "来",
+          "left": 703,
+          "top": 1493,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.241882
+        },
+        {
+          "text": "说",
+          "left": 749,
+          "top": 1493,
+          "width": 34,
+          "height": 40,
+          "confidence": 93.266548
+        },
+        {
+          "text": ".",
+          "left": 784,
+          "top": 1467,
+          "width": 13,
+          "height": 93,
+          "confidence": 91.589577
+        },
+        {
+          "text": "是",
+          "left": 819,
+          "top": 1494,
+          "width": 21,
+          "height": 39,
+          "confidence": 96.582169
+        },
+        {
+          "text": "通过",
+          "left": 860,
+          "top": 1493,
+          "width": 82,
+          "height": 41,
+          "confidence": 94.77404
+        },
+        {
+          "text": "代理",
+          "left": 943,
+          "top": 1493,
+          "width": 92,
+          "height": 40,
+          "confidence": 96.391609
+        },
+        {
+          "text": "服务",
+          "left": 1040,
+          "top": 1493,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.887871
+        },
+        {
+          "text": "器",
+          "left": 1127,
+          "top": 1493,
+          "width": 47,
+          "height": 40,
+          "confidence": 96.932716
+        },
+        {
+          "text": "发",
+          "left": 1173,
+          "top": 1467,
+          "width": 42,
+          "height": 93,
+          "confidence": 93.206596
+        },
+        {
+          "text": "送",
+          "left": 1214,
+          "top": 1493,
+          "width": 43,
+          "height": 40,
+          "confidence": 93.250031
+        },
+        {
+          "text": "的",
+          "left": 1261,
+          "top": 1493,
+          "width": 38,
+          "height": 40,
+          "confidence": 96.587067
+        },
+        {
+          "text": "请",
+          "left": 1301,
+          "top": 1493,
+          "width": 24,
+          "height": 40,
+          "confidence": 92.232422
+        },
+        {
+          "text": "求",
+          "left": 1342,
+          "top": 1493,
+          "width": 27,
+          "height": 40,
+          "confidence": 0.296078
+        },
+        {
+          "text": ".",
+          "left": 1375,
+          "top": 1524,
+          "width": 5,
+          "height": 5,
+          "confidence": 14.729004
+        }
+      ]
+    },
+    {
+      "text": "也就可以避免你的 IP 被封锁了.",
+      "left": 91,
+      "top": 1539,
+      "right": 666,
+      "bottom": 1632,
+      "height": 93,
+      "confidence": 88.61998866666669,
+      "words": [
+        {
+          "text": "也",
+          "left": 91,
+          "top": 1564,
+          "width": 40,
+          "height": 39,
+          "confidence": 96.818001
+        },
+        {
+          "text": "就",
+          "left": 150,
+          "top": 1564,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.265442
+        },
+        {
+          "text": "可",
+          "left": 191,
+          "top": 1567,
+          "width": 28,
+          "height": 37,
+          "confidence": 96.999062
+        },
+        {
+          "text": "以",
+          "left": 238,
+          "top": 1564,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.863602
+        },
+        {
+          "text": "避免",
+          "left": 278,
+          "top": 1564,
+          "width": 100,
+          "height": 40,
+          "confidence": 55.514256
+        },
+        {
+          "text": "你",
+          "left": 377,
+          "top": 1539,
+          "width": 42,
+          "height": 93,
+          "confidence": 96.217484
+        },
+        {
+          "text": "的",
+          "left": 418,
+          "top": 1564,
+          "width": 20,
+          "height": 40,
+          "confidence": 93.043411
+        },
+        {
+          "text": "IP",
+          "left": 447,
+          "top": 1539,
+          "width": 59,
+          "height": 93,
+          "confidence": 62.6819
+        },
+        {
+          "text": "被",
+          "left": 527,
+          "top": 1564,
+          "width": 25,
+          "height": 40,
+          "confidence": 92.248093
+        },
+        {
+          "text": "封锁",
+          "left": 571,
+          "top": 1539,
+          "width": 57,
+          "height": 93,
+          "confidence": 95.211571
+        },
+        {
+          "text": "了",
+          "left": 627,
+          "top": 1567,
+          "width": 18,
+          "height": 37,
+          "confidence": 93.305283
+        },
+        {
+          "text": ".",
+          "left": 661,
+          "top": 1595,
+          "width": 5,
+          "height": 5,
+          "confidence": 88.271759
+        }
+      ]
+    },
+    {
+      "text": "看虫如何使用代理",
+      "left": 91,
+      "top": 1675,
+      "right": 439,
+      "bottom": 1769,
+      "height": 94,
+      "confidence": 70.30168514285715,
+      "words": [
+        {
+          "text": "看",
+          "left": 91,
+          "top": 1700,
+          "width": 67,
+          "height": 40,
+          "confidence": 21.616488
+        },
+        {
+          "text": "虫",
+          "left": 179,
+          "top": 1700,
+          "width": 20,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "如",
+          "left": 198,
+          "top": 1675,
+          "width": 42,
+          "height": 94,
+          "confidence": 90.8536
+        },
+        {
+          "text": "何",
+          "left": 239,
+          "top": 1700,
+          "width": 54,
+          "height": 41,
+          "confidence": 91.291725
+        },
+        {
+          "text": "使",
+          "left": 311,
+          "top": 1702,
+          "width": 23,
+          "height": 38,
+          "confidence": 96.844307
+        },
+        {
+          "text": "用",
+          "left": 333,
+          "top": 1675,
+          "width": 31,
+          "height": 94,
+          "confidence": 96.96859
+        },
+        {
+          "text": "代理",
+          "left": 363,
+          "top": 1700,
+          "width": 76,
+          "height": 41,
+          "confidence": 94.537086
+        }
+      ]
+    }
+  ]
+}

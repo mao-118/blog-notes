@@ -1,0 +1,1547 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/aiohttp-async-coroutines/page-2.png",
+  "lines": [
+    {
+      "text": "9 # 发送请求， 这里和 requests.get() 几乎没区别， 除了代",
+      "left": 128,
+      "top": 122,
+      "right": 1363,
+      "bottom": 175,
+      "height": 53,
+      "confidence": 80.3574510952381,
+      "words": [
+        {
+          "text": "9",
+          "left": 128,
+          "top": 131,
+          "width": 21,
+          "height": 32,
+          "confidence": 96.407227
+        },
+        {
+          "text": "#",
+          "left": 280,
+          "top": 132,
+          "width": 22,
+          "height": 30,
+          "confidence": 90.906105
+        },
+        {
+          "text": "发",
+          "left": 329,
+          "top": 129,
+          "width": 174,
+          "height": 41,
+          "confidence": 93.273682
+        },
+        {
+          "text": "送",
+          "left": 388,
+          "top": 122,
+          "width": 41,
+          "height": 53,
+          "confidence": 93.161072
+        },
+        {
+          "text": "请",
+          "left": 428,
+          "top": 129,
+          "width": 51,
+          "height": 41,
+          "confidence": 79.176651
+        },
+        {
+          "text": "求",
+          "left": 478,
+          "top": 122,
+          "width": 40,
+          "height": 53,
+          "confidence": 0.0
+        },
+        {
+          "text": "，",
+          "left": 517,
+          "top": 122,
+          "width": 31,
+          "height": 53,
+          "confidence": 91.303604
+        },
+        {
+          "text": "这",
+          "left": 547,
+          "top": 129,
+          "width": 27,
+          "height": 37,
+          "confidence": 90.540077
+        },
+        {
+          "text": "里",
+          "left": 594,
+          "top": 130,
+          "width": 37,
+          "height": 36,
+          "confidence": 95.350479
+        },
+        {
+          "text": "和",
+          "left": 637,
+          "top": 132,
+          "width": 15,
+          "height": 33,
+          "confidence": 96.527428
+        },
+        {
+          "text": "requests",
+          "left": 660,
+          "top": 129,
+          "width": 548,
+          "height": 42,
+          "confidence": 32.806816
+        },
+        {
+          "text": ".get()",
+          "left": 859,
+          "top": 122,
+          "width": 143,
+          "height": 53,
+          "confidence": 24.088535
+        },
+        {
+          "text": "几",
+          "left": 1001,
+          "top": 122,
+          "width": 47,
+          "height": 53,
+          "confidence": 90.858162
+        },
+        {
+          "text": "乎",
+          "left": 1047,
+          "top": 122,
+          "width": 48,
+          "height": 53,
+          "confidence": 79.530487
+        },
+        {
+          "text": "没",
+          "left": 1094,
+          "top": 122,
+          "width": 40,
+          "height": 53,
+          "confidence": 92.343948
+        },
+        {
+          "text": "区",
+          "left": 1133,
+          "top": 122,
+          "width": 44,
+          "height": 53,
+          "confidence": 78.265541
+        },
+        {
+          "text": "别",
+          "left": 1177,
+          "top": 122,
+          "width": 37,
+          "height": 53,
+          "confidence": 92.857933
+        },
+        {
+          "text": "，",
+          "left": 1243,
+          "top": 131,
+          "width": 12,
+          "height": 35,
+          "confidence": 92.38401
+        },
+        {
+          "text": "除",
+          "left": 1254,
+          "top": 129,
+          "width": 104,
+          "height": 37,
+          "confidence": 91.855064
+        },
+        {
+          "text": "了",
+          "left": 1299,
+          "top": 122,
+          "width": 28,
+          "height": 53,
+          "confidence": 93.243378
+        },
+        {
+          "text": "代",
+          "left": 1326,
+          "top": 122,
+          "width": 37,
+          "height": 53,
+          "confidence": 92.626274
+        }
+      ]
+    },
+    {
+      "text": "理换成了 proxy",
+      "left": 185,
+      "top": 195,
+      "right": 462,
+      "bottom": 248,
+      "height": 53,
+      "confidence": 94.0254472,
+      "words": [
+        {
+          "text": "理",
+          "left": 185,
+          "top": 201,
+          "width": 36,
+          "height": 34,
+          "confidence": 92.660095
+        },
+        {
+          "text": "换",
+          "left": 240,
+          "top": 199,
+          "width": 51,
+          "height": 37,
+          "confidence": 93.16626
+        },
+        {
+          "text": "成",
+          "left": 308,
+          "top": 202,
+          "width": 23,
+          "height": 34,
+          "confidence": 96.511475
+        },
+        {
+          "text": "了",
+          "left": 330,
+          "top": 195,
+          "width": 20,
+          "height": 53,
+          "confidence": 96.934311
+        },
+        {
+          "text": "proxy",
+          "left": 346,
+          "top": 209,
+          "width": 116,
+          "height": 32,
+          "confidence": 90.855095
+        }
+      ]
+    },
+    {
+      "text": "10 async with session.getCurLl) as resp:",
+      "left": 107,
+      "top": 270,
+      "right": 1135,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 87.83351266666665,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 271,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.373268
+        },
+        {
+          "text": "async",
+          "left": 281,
+          "top": 280,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.1409
+        },
+        {
+          "text": "with",
+          "left": 423,
+          "top": 270,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.298233
+        },
+        {
+          "text": "session.getCurLl)",
+          "left": 546,
+          "top": 270,
+          "width": 378,
+          "height": 41,
+          "confidence": 52.640831
+        },
+        {
+          "text": "as",
+          "left": 954,
+          "top": 280,
+          "width": 43,
+          "height": 23,
+          "confidence": 95.896957
+        },
+        {
+          "text": "resp:",
+          "left": 1029,
+          "top": 279,
+          "width": 106,
+          "height": 32,
+          "confidence": 96.650887
+        }
+      ]
+    },
+    {
+      "text": "11 # 读取数据， 如果想要读取源代码， 直接",
+      "left": 107,
+      "top": 335,
+      "right": 1118,
+      "bottom": 388,
+      "height": 53,
+      "confidence": 85.41585911111112,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 342,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.239189
+        },
+        {
+          "text": "#",
+          "left": 376,
+          "top": 342,
+          "width": 22,
+          "height": 30,
+          "confidence": 84.066437
+        },
+        {
+          "text": "读",
+          "left": 425,
+          "top": 339,
+          "width": 173,
+          "height": 37,
+          "confidence": 81.46479
+        },
+        {
+          "text": "取",
+          "left": 478,
+          "top": 335,
+          "width": 37,
+          "height": 53,
+          "confidence": 93.188019
+        },
+        {
+          "text": "数",
+          "left": 514,
+          "top": 339,
+          "width": 51,
+          "height": 37,
+          "confidence": 93.00882
+        },
+        {
+          "text": "据",
+          "left": 564,
+          "top": 335,
+          "width": 37,
+          "height": 53,
+          "confidence": 91.411354
+        },
+        {
+          "text": "，",
+          "left": 600,
+          "top": 335,
+          "width": 37,
+          "height": 53,
+          "confidence": 64.618614
+        },
+        {
+          "text": "如",
+          "left": 637,
+          "top": 339,
+          "width": 31,
+          "height": 37,
+          "confidence": 70.949646
+        },
+        {
+          "text": "果",
+          "left": 683,
+          "top": 340,
+          "width": 41,
+          "height": 36,
+          "confidence": 92.87719
+        },
+        {
+          "text": "想",
+          "left": 723,
+          "top": 341,
+          "width": 27,
+          "height": 34,
+          "confidence": 73.366745
+        },
+        {
+          "text": "要",
+          "left": 766,
+          "top": 340,
+          "width": 40,
+          "height": 36,
+          "confidence": 92.920197
+        },
+        {
+          "text": "读",
+          "left": 806,
+          "top": 339,
+          "width": 24,
+          "height": 37,
+          "confidence": 92.209473
+        },
+        {
+          "text": "取",
+          "left": 845,
+          "top": 340,
+          "width": 38,
+          "height": 36,
+          "confidence": 92.286789
+        },
+        {
+          "text": "源",
+          "left": 885,
+          "top": 339,
+          "width": 40,
+          "height": 37,
+          "confidence": 91.340279
+        },
+        {
+          "text": "代",
+          "left": 928,
+          "top": 339,
+          "width": 40,
+          "height": 37,
+          "confidence": 92.573166
+        },
+        {
+          "text": "码",
+          "left": 971,
+          "top": 341,
+          "width": 36,
+          "height": 35,
+          "confidence": 90.366417
+        },
+        {
+          "text": "，",
+          "left": 1011,
+          "top": 335,
+          "width": 21,
+          "height": 53,
+          "confidence": 49.431919
+        },
+        {
+          "text": "直接",
+          "left": 1042,
+          "top": 339,
+          "width": 76,
+          "height": 37,
+          "confidence": 95.16642
+        }
+      ]
+    },
+    {
+      "text": "resp.textQO Bla. 比原来多了个 ()",
+      "left": 188,
+      "top": 403,
+      "right": 859,
+      "bottom": 458,
+      "height": 55,
+      "confidence": 78.96746055555555,
+      "words": [
+        {
+          "text": "resp.textQO",
+          "left": 188,
+          "top": 403,
+          "width": 244,
+          "height": 55,
+          "confidence": 46.918125
+        },
+        {
+          "text": "Bla.",
+          "left": 449,
+          "top": 410,
+          "width": 93,
+          "height": 39,
+          "confidence": 55.092545
+        },
+        {
+          "text": "比",
+          "left": 586,
+          "top": 410,
+          "width": 27,
+          "height": 35,
+          "confidence": 79.431847
+        },
+        {
+          "text": "原",
+          "left": 630,
+          "top": 409,
+          "width": 49,
+          "height": 37,
+          "confidence": 93.104362
+        },
+        {
+          "text": "来",
+          "left": 700,
+          "top": 409,
+          "width": 24,
+          "height": 36,
+          "confidence": 96.863609
+        },
+        {
+          "text": "多",
+          "left": 723,
+          "top": 403,
+          "width": 29,
+          "height": 55,
+          "confidence": 96.850891
+        },
+        {
+          "text": "了",
+          "left": 751,
+          "top": 412,
+          "width": 20,
+          "height": 34,
+          "confidence": 95.949203
+        },
+        {
+          "text": "个",
+          "left": 785,
+          "top": 409,
+          "width": 29,
+          "height": 37,
+          "confidence": 92.962532
+        },
+        {
+          "text": "()",
+          "left": 819,
+          "top": 410,
+          "width": 40,
+          "height": 39,
+          "confidence": 53.534031
+        }
+      ]
+    },
+    {
+      "text": "12 content = await resp.content.read()",
+      "left": 107,
+      "top": 480,
+      "right": 1212,
+      "bottom": 521,
+      "height": 41,
+      "confidence": 81.574712,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 481,
+          "width": 41,
+          "height": 31,
+          "confidence": 92.746529
+        },
+        {
+          "text": "content",
+          "left": 378,
+          "top": 483,
+          "width": 162,
+          "height": 30,
+          "confidence": 96.569374
+        },
+        {
+          "text": "=",
+          "left": 568,
+          "top": 496,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.847801
+        },
+        {
+          "text": "await",
+          "left": 617,
+          "top": 480,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.161491
+        },
+        {
+          "text": "resp.content.read()",
+          "left": 764,
+          "top": 480,
+          "width": 448,
+          "height": 41,
+          "confidence": 28.548365
+        }
+      ]
+    },
+    {
+      "text": "13 # 写入文件， 有兴趣可以参考 aiofiles， 我这里根本",
+      "left": 107,
+      "top": 543,
+      "right": 1351,
+      "bottom": 595,
+      "height": 52,
+      "confidence": 91.9447998125,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 552,
+          "width": 41,
+          "height": 32,
+          "confidence": 96.091316
+        },
+        {
+          "text": "#",
+          "left": 376,
+          "top": 553,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.068565
+        },
+        {
+          "text": "写",
+          "left": 440,
+          "top": 552,
+          "width": 19,
+          "height": 35,
+          "confidence": 85.798637
+        },
+        {
+          "text": "入",
+          "left": 479,
+          "top": 550,
+          "width": 46,
+          "height": 37,
+          "confidence": 92.375374
+        },
+        {
+          "text": "文件",
+          "left": 545,
+          "top": 550,
+          "width": 54,
+          "height": 41,
+          "confidence": 93.25943
+        },
+        {
+          "text": "，",
+          "left": 612,
+          "top": 543,
+          "width": 27,
+          "height": 52,
+          "confidence": 91.891968
+        },
+        {
+          "text": "有",
+          "left": 638,
+          "top": 550,
+          "width": 31,
+          "height": 37,
+          "confidence": 93.10083
+        },
+        {
+          "text": "兴趣",
+          "left": 674,
+          "top": 550,
+          "width": 76,
+          "height": 37,
+          "confidence": 95.989868
+        },
+        {
+          "text": "可",
+          "left": 765,
+          "top": 553,
+          "width": 25,
+          "height": 34,
+          "confidence": 96.993057
+        },
+        {
+          "text": "以",
+          "left": 804,
+          "top": 550,
+          "width": 26,
+          "height": 36,
+          "confidence": 96.923225
+        },
+        {
+          "text": "参考",
+          "left": 849,
+          "top": 550,
+          "width": 79,
+          "height": 37,
+          "confidence": 96.499306
+        },
+        {
+          "text": "aiofiles，",
+          "left": 927,
+          "top": 550,
+          "width": 193,
+          "height": 41,
+          "confidence": 63.248024
+        },
+        {
+          "text": "我",
+          "left": 1154,
+          "top": 550,
+          "width": 197,
+          "height": 37,
+          "confidence": 86.923996
+        },
+        {
+          "text": "这",
+          "left": 1210,
+          "top": 543,
+          "width": 40,
+          "height": 52,
+          "confidence": 96.688797
+        },
+        {
+          "text": "里",
+          "left": 1249,
+          "top": 543,
+          "width": 40,
+          "height": 52,
+          "confidence": 96.543571
+        },
+        {
+          "text": "根本",
+          "left": 1288,
+          "top": 550,
+          "width": 63,
+          "height": 37,
+          "confidence": 96.720833
+        }
+      ]
+    },
+    {
+      "text": "个需要.",
+      "left": 185,
+      "top": 622,
+      "right": 318,
+      "bottom": 657,
+      "height": 35,
+      "confidence": 81.34094733333335,
+      "words": [
+        {
+          "text": "个",
+          "left": 185,
+          "top": 622,
+          "width": 55,
+          "height": 35,
+          "confidence": 60.134155
+        },
+        {
+          "text": "需要",
+          "left": 241,
+          "top": 622,
+          "width": 60,
+          "height": 35,
+          "confidence": 92.242821
+        },
+        {
+          "text": ".",
+          "left": 312,
+          "top": 648,
+          "width": 6,
+          "height": 6,
+          "confidence": 91.645866
+        }
+      ]
+    },
+    {
+      "text": "14 with openCname, mode=\"wb\") as f:",
+      "left": 107,
+      "top": 691,
+      "right": 1135,
+      "bottom": 732,
+      "height": 41,
+      "confidence": 89.28341416666665,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 693,
+          "width": 43,
+          "height": 30,
+          "confidence": 92.223503
+        },
+        {
+          "text": "with",
+          "left": 375,
+          "top": 691,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.279205
+        },
+        {
+          "text": "openCname,",
+          "left": 497,
+          "top": 691,
+          "width": 230,
+          "height": 41,
+          "confidence": 76.58223
+        },
+        {
+          "text": "mode=\"wb\")",
+          "left": 760,
+          "top": 691,
+          "width": 236,
+          "height": 39,
+          "confidence": 87.435936
+        },
+        {
+          "text": "as",
+          "left": 1026,
+          "top": 701,
+          "width": 43,
+          "height": 23,
+          "confidence": 93.123436
+        },
+        {
+          "text": "f:",
+          "left": 1099,
+          "top": 691,
+          "width": 36,
+          "height": 33,
+          "confidence": 93.056175
+        }
+      ]
+    },
+    {
+      "text": "15 f.writeCcontent)",
+      "left": 107,
+      "top": 761,
+      "right": 851,
+      "bottom": 800,
+      "height": 39,
+      "confidence": 91.49003866666668,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 763,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.947357
+        },
+        {
+          "text": "f",
+          "left": 474,
+          "top": 761,
+          "width": 20,
+          "height": 32,
+          "confidence": 91.58136
+        },
+        {
+          "text": ".writeCcontent)",
+          "left": 504,
+          "top": 761,
+          "width": 347,
+          "height": 39,
+          "confidence": 85.941399
+        }
+      ]
+    },
+    {
+      "text": "16",
+      "left": 107,
+      "top": 832,
+      "right": 150,
+      "bottom": 864,
+      "height": 32,
+      "confidence": 96.920151,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 832,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.920151
+        }
+      ]
+    },
+    {
+      "text": "17",
+      "left": 107,
+      "top": 903,
+      "right": 149,
+      "bottom": 933,
+      "height": 30,
+      "confidence": 96.696381,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 903,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.696381
+        }
+      ]
+    },
+    {
+      "text": "18 async def main():",
+      "left": 107,
+      "top": 971,
+      "right": 582,
+      "bottom": 1012,
+      "height": 41,
+      "confidence": 90.173851,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 972,
+          "width": 42,
+          "height": 32,
+          "confidence": 94.064728
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 981,
+          "width": 115,
+          "height": 31,
+          "confidence": 94.064728
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 971,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.238571
+        },
+        {
+          "text": "main():",
+          "left": 424,
+          "top": 971,
+          "width": 158,
+          "height": 39,
+          "confidence": 79.327377
+        }
+      ]
+    },
+    {
+      "text": "19 # 创建 session 对象 -> 相当于 requsts 对象",
+      "left": 107,
+      "top": 1034,
+      "right": 1121,
+      "bottom": 1087,
+      "height": 53,
+      "confidence": 93.29884416666665,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 1042,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.040108
+        },
+        {
+          "text": "#",
+          "left": 280,
+          "top": 1043,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.161484
+        },
+        {
+          "text": "创建",
+          "left": 342,
+          "top": 1040,
+          "width": 84,
+          "height": 37,
+          "confidence": 96.581299
+        },
+        {
+          "text": "session",
+          "left": 433,
+          "top": 1034,
+          "width": 155,
+          "height": 53,
+          "confidence": 91.002762
+        },
+        {
+          "text": "对",
+          "left": 595,
+          "top": 1040,
+          "width": 43,
+          "height": 37,
+          "confidence": 92.289459
+        },
+        {
+          "text": "象",
+          "left": 637,
+          "top": 1034,
+          "width": 37,
+          "height": 53,
+          "confidence": 92.54319
+        },
+        {
+          "text": "->",
+          "left": 683,
+          "top": 1052,
+          "width": 42,
+          "height": 21,
+          "confidence": 93.777451
+        },
+        {
+          "text": "相当",
+          "left": 759,
+          "top": 1040,
+          "width": 68,
+          "height": 37,
+          "confidence": 96.3517
+        },
+        {
+          "text": "于",
+          "left": 849,
+          "top": 1042,
+          "width": 21,
+          "height": 35,
+          "confidence": 96.544579
+        },
+        {
+          "text": "requsts",
+          "left": 876,
+          "top": 1040,
+          "width": 242,
+          "height": 42,
+          "confidence": 91.797798
+        },
+        {
+          "text": "对",
+          "left": 1051,
+          "top": 1034,
+          "width": 44,
+          "height": 53,
+          "confidence": 92.758919
+        },
+        {
+          "text": "象",
+          "left": 1094,
+          "top": 1034,
+          "width": 27,
+          "height": 53,
+          "confidence": 88.737381
+        }
+      ]
+    },
+    {
+      "text": "20 async with aiohttp.ClientSession() as",
+      "left": 106,
+      "top": 1111,
+      "right": 1165,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 90.2173186,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 1112,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.3256
+        },
+        {
+          "text": "async",
+          "left": 281,
+          "top": 1121,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.647949
+        },
+        {
+          "text": "with",
+          "left": 423,
+          "top": 1111,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.274467
+        },
+        {
+          "text": "aiohttp.ClientSession()",
+          "left": 545,
+          "top": 1111,
+          "width": 547,
+          "height": 41,
+          "confidence": 72.070915
+        },
+        {
+          "text": "as",
+          "left": 1122,
+          "top": 1121,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.767662
+        }
+      ]
+    },
+    {
+      "text": "session:",
+      "left": 186,
+      "top": 1181,
+      "right": 366,
+      "bottom": 1214,
+      "height": 33,
+      "confidence": 95.509605,
+      "words": [
+        {
+          "text": "session:",
+          "left": 186,
+          "top": 1181,
+          "width": 180,
+          "height": 33,
+          "confidence": 95.509605
+        }
+      ]
+    },
+    {
+      "text": "21 # 添加下载任务",
+      "left": 106,
+      "top": 1245,
+      "right": 666,
+      "bottom": 1301,
+      "height": 56,
+      "confidence": 92.34022016666665,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 1252,
+          "width": 43,
+          "height": 31,
+          "confidence": 95.044136
+        },
+        {
+          "text": "#",
+          "left": 376,
+          "top": 1253,
+          "width": 22,
+          "height": 30,
+          "confidence": 91.994209
+        },
+        {
+          "text": "添加",
+          "left": 425,
+          "top": 1250,
+          "width": 237,
+          "height": 37,
+          "confidence": 95.947739
+        },
+        {
+          "text": "下",
+          "left": 515,
+          "top": 1245,
+          "width": 43,
+          "height": 56,
+          "confidence": 92.724838
+        },
+        {
+          "text": "载",
+          "left": 557,
+          "top": 1245,
+          "width": 46,
+          "height": 56,
+          "confidence": 90.62957
+        },
+        {
+          "text": "任务",
+          "left": 603,
+          "top": 1245,
+          "width": 63,
+          "height": 56,
+          "confidence": 87.700829
+        }
+      ]
+    },
+    {
+      "text": "22 tasks =",
+      "left": 106,
+      "top": 1321,
+      "right": 542,
+      "bottom": 1354,
+      "height": 33,
+      "confidence": 95.03898599999998,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 1322,
+          "width": 42,
+          "height": 31,
+          "confidence": 91.729225
+        },
+        {
+          "text": "tasks",
+          "left": 377,
+          "top": 1321,
+          "width": 115,
+          "height": 33,
+          "confidence": 96.603996
+        },
+        {
+          "text": "=",
+          "left": 520,
+          "top": 1337,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.783737
+        }
+      ]
+    },
+    {
+      "text": "Lasyncio.create_taskCaiodownloadCurl, session))",
+      "left": 190,
+      "top": 1391,
+      "right": 1308,
+      "bottom": 1432,
+      "height": 41,
+      "confidence": 72.32886500000001,
+      "words": [
+        {
+          "text": "Lasyncio.create_taskCaiodownloadCurl,",
+          "left": 190,
+          "top": 1391,
+          "width": 874,
+          "height": 41,
+          "confidence": 52.261276
+        },
+        {
+          "text": "session))",
+          "left": 1099,
+          "top": 1391,
+          "width": 209,
+          "height": 39,
+          "confidence": 92.396454
+        }
+      ]
+    },
+    {
+      "text": "for url in urls]",
+      "left": 186,
+      "top": 1461,
+      "right": 560,
+      "bottom": 1500,
+      "height": 39,
+      "confidence": 95.472237,
+      "words": [
+        {
+          "text": "for",
+          "left": 186,
+          "top": 1461,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.436089
+        },
+        {
+          "text": "url",
+          "left": 282,
+          "top": 1461,
+          "width": 64,
+          "height": 33,
+          "confidence": 94.476952
+        },
+        {
+          "text": "in",
+          "left": 378,
+          "top": 1461,
+          "width": 42,
+          "height": 32,
+          "confidence": 94.476952
+        },
+        {
+          "text": "urls]",
+          "left": 450,
+          "top": 1461,
+          "width": 110,
+          "height": 39,
+          "confidence": 96.498955
+        }
+      ]
+    },
+    {
+      "text": "23 # 等待所有任务下载完成",
+      "left": 106,
+      "top": 1531,
+      "right": 822,
+      "bottom": 1568,
+      "height": 37,
+      "confidence": 94.0628313,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 1533,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.679543
+        },
+        {
+          "text": "#",
+          "left": 376,
+          "top": 1534,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.504356
+        },
+        {
+          "text": "等",
+          "left": 439,
+          "top": 1531,
+          "width": 52,
+          "height": 37,
+          "confidence": 93.260971
+        },
+        {
+          "text": "待",
+          "left": 505,
+          "top": 1532,
+          "width": 16,
+          "height": 36,
+          "confidence": 91.883667
+        },
+        {
+          "text": "所",
+          "left": 530,
+          "top": 1532,
+          "width": 12,
+          "height": 36,
+          "confidence": 93.064934
+        },
+        {
+          "text": "有",
+          "left": 557,
+          "top": 1531,
+          "width": 38,
+          "height": 37,
+          "confidence": 96.340073
+        },
+        {
+          "text": "任务",
+          "left": 595,
+          "top": 1531,
+          "width": 67,
+          "height": 37,
+          "confidence": 94.695198
+        },
+        {
+          "text": "下",
+          "left": 682,
+          "top": 1533,
+          "width": 19,
+          "height": 35,
+          "confidence": 92.798119
+        },
+        {
+          "text": "载",
+          "left": 719,
+          "top": 1531,
+          "width": 23,
+          "height": 37,
+          "confidence": 92.623116
+        },
+        {
+          "text": "完成",
+          "left": 760,
+          "top": 1531,
+          "width": 62,
+          "height": 37,
+          "confidence": 96.778336
+        }
+      ]
+    },
+    {
+      "text": "24 await asyncio.waitCtasks)",
+      "left": 106,
+      "top": 1602,
+      "right": 972,
+      "bottom": 1643,
+      "height": 41,
+      "confidence": 84.29080466666666,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 1603,
+          "width": 44,
+          "height": 31,
+          "confidence": 91.82888
+        },
+        {
+          "text": "await",
+          "left": 377,
+          "top": 1602,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.29641
+        },
+        {
+          "text": "asyncio.waitCtasks)",
+          "left": 521,
+          "top": 1602,
+          "width": 451,
+          "height": 41,
+          "confidence": 67.747124
+        }
+      ]
+    },
+    {
+      "text": "25",
+      "left": 106,
+      "top": 1673,
+      "right": 149,
+      "bottom": 1705,
+      "height": 32,
+      "confidence": 90.628685,
+      "words": [
+        {
+          "text": "25",
+          "left": 106,
+          "top": 1673,
+          "width": 43,
+          "height": 32,
+          "confidence": 90.628685
+        }
+      ]
+    },
+    {
+      "text": "26",
+      "left": 106,
+      "top": 1743,
+      "right": 150,
+      "bottom": 1775,
+      "height": 32,
+      "confidence": 93.084068,
+      "words": [
+        {
+          "text": "26",
+          "left": 106,
+          "top": 1743,
+          "width": 44,
+          "height": 32,
+          "confidence": 93.084068
+        }
+      ]
+    },
+    {
+      "text": "27 # 同步方式下载图片",
+      "left": 106,
+      "top": 1807,
+      "right": 553,
+      "bottom": 1860,
+      "height": 53,
+      "confidence": 91.41905325000002,
+      "words": [
+        {
+          "text": "27",
+          "left": 106,
+          "top": 1813,
+          "width": 43,
+          "height": 31,
+          "confidence": 92.381409
+        },
+        {
+          "text": "#",
+          "left": 184,
+          "top": 1814,
+          "width": 22,
+          "height": 30,
+          "confidence": 74.447166
+        },
+        {
+          "text": "同步",
+          "left": 235,
+          "top": 1811,
+          "width": 313,
+          "height": 37,
+          "confidence": 96.555481
+        },
+        {
+          "text": "方式",
+          "left": 333,
+          "top": 1807,
+          "width": 78,
+          "height": 53,
+          "confidence": 96.014893
+        },
+        {
+          "text": "下",
+          "left": 410,
+          "top": 1807,
+          "width": 37,
+          "height": 53,
+          "confidence": 93.207794
+        },
+        {
+          "text": "载",
+          "left": 446,
+          "top": 1807,
+          "width": 47,
+          "height": 53,
+          "confidence": 92.931557
+        },
+        {
+          "text": "图",
+          "left": 492,
+          "top": 1807,
+          "width": 34,
+          "height": 53,
+          "confidence": 93.158524
+        },
+        {
+          "text": "片",
+          "left": 526,
+          "top": 1807,
+          "width": 27,
+          "height": 53,
+          "confidence": 92.655602
+        }
+      ]
+    },
+    {
+      "text": "28 def download(url):",
+      "left": 106,
+      "top": 1882,
+      "right": 606,
+      "bottom": 1921,
+      "height": 39,
+      "confidence": 73.76133866666666,
+      "words": [
+        {
+          "text": "28",
+          "left": 106,
+          "top": 1883,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.181107
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 1882,
+          "width": 69,
+          "height": 33,
+          "confidence": 92.836349
+        },
+        {
+          "text": "download(url):",
+          "left": 281,
+          "top": 1882,
+          "width": 325,
+          "height": 39,
+          "confidence": 33.26656
+        }
+      ]
+    }
+  ]
+}

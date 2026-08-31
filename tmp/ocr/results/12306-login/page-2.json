@@ -1,0 +1,731 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/12306-login/page-2.png",
+  "lines": [
+    {
+      "text": "在验证码区域模拟用户点击",
+      "left": 91,
+      "top": 126,
+      "right": 615,
+      "bottom": 167,
+      "height": 41,
+      "confidence": 89.55681469999999,
+      "words": [
+        {
+          "text": "在",
+          "left": 91,
+          "top": 126,
+          "width": 59,
+          "height": 41,
+          "confidence": 96.818604
+        },
+        {
+          "text": "验证",
+          "left": 152,
+          "top": 126,
+          "width": 87,
+          "height": 39,
+          "confidence": 93.201866
+        },
+        {
+          "text": "码",
+          "left": 240,
+          "top": 128,
+          "width": 22,
+          "height": 38,
+          "confidence": 92.95948
+        },
+        {
+          "text": "区",
+          "left": 282,
+          "top": 126,
+          "width": 41,
+          "height": 39,
+          "confidence": 92.538391
+        },
+        {
+          "text": "域",
+          "left": 326,
+          "top": 126,
+          "width": 44,
+          "height": 40,
+          "confidence": 90.759003
+        },
+        {
+          "text": "模拟",
+          "left": 373,
+          "top": 126,
+          "width": 66,
+          "height": 40,
+          "confidence": 94.38028
+        },
+        {
+          "text": "用",
+          "left": 456,
+          "top": 128,
+          "width": 24,
+          "height": 38,
+          "confidence": 91.904274
+        },
+        {
+          "text": "户",
+          "left": 496,
+          "top": 126,
+          "width": 43,
+          "height": 40,
+          "confidence": 92.634613
+        },
+        {
+          "text": "点",
+          "left": 543,
+          "top": 126,
+          "width": 28,
+          "height": 40,
+          "confidence": 57.848801
+        },
+        {
+          "text": "击",
+          "left": 587,
+          "top": 126,
+          "width": 28,
+          "height": 41,
+          "confidence": 92.522835
+        }
+      ]
+    },
+    {
+      "text": "1 points_str_lst = result['pic_str'].splitcC\"!\")",
+      "left": 107,
+      "top": 286,
+      "right": 1236,
+      "bottom": 327,
+      "height": 41,
+      "confidence": 70.794177,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 288,
+          "width": 18,
+          "height": 30,
+          "confidence": 93.040466
+        },
+        {
+          "text": "points_str_lst",
+          "left": 162,
+          "top": 286,
+          "width": 330,
+          "height": 41,
+          "confidence": 62.772449
+        },
+        {
+          "text": "=",
+          "left": 520,
+          "top": 302,
+          "width": 22,
+          "height": 10,
+          "confidence": 95.782715
+        },
+        {
+          "text": "result['pic_str'].splitcC\"!\")",
+          "left": 572,
+          "top": 286,
+          "width": 664,
+          "height": 41,
+          "confidence": 31.581078
+        }
+      ]
+    },
+    {
+      "text": "2 for p in points_str_lst:",
+      "left": 106,
+      "top": 356,
+      "right": 726,
+      "bottom": 397,
+      "height": 41,
+      "confidence": 85.3652406,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 357,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.715179
+        },
+        {
+          "text": "for",
+          "left": 162,
+          "top": 356,
+          "width": 66,
+          "height": 33,
+          "confidence": 92.014275
+        },
+        {
+          "text": "p",
+          "left": 258,
+          "top": 366,
+          "width": 19,
+          "height": 31,
+          "confidence": 92.014275
+        },
+        {
+          "text": "in",
+          "left": 306,
+          "top": 356,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.942223
+        },
+        {
+          "text": "points_str_lst:",
+          "left": 378,
+          "top": 356,
+          "width": 348,
+          "height": 41,
+          "confidence": 54.140251
+        }
+      ]
+    },
+    {
+      "text": "3 p_temp = p.spLlit(\",\")",
+      "left": 106,
+      "top": 426,
+      "right": 755,
+      "bottom": 467,
+      "height": 41,
+      "confidence": 81.28027925,
+      "words": [
+        {
+          "text": "3",
+          "left": 106,
+          "top": 427,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.778458
+        },
+        {
+          "text": "p_temp",
+          "left": 258,
+          "top": 429,
+          "width": 139,
+          "height": 38,
+          "confidence": 92.135811
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 442,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.694206
+        },
+        {
+          "text": "p.spLlit(\",\")",
+          "left": 474,
+          "top": 426,
+          "width": 281,
+          "height": 41,
+          "confidence": 43.512642
+        }
+      ]
+    },
+    {
+      "text": "4 p_x = int(p_temp[Q])",
+      "left": 104,
+      "top": 496,
+      "right": 731,
+      "bottom": 537,
+      "height": 41,
+      "confidence": 86.90855775,
+      "words": [
+        {
+          "text": "4",
+          "left": 104,
+          "top": 498,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.532295
+        },
+        {
+          "text": "p_x",
+          "left": 258,
+          "top": 506,
+          "width": 68,
+          "height": 31,
+          "confidence": 89.300293
+        },
+        {
+          "text": "=",
+          "left": 352,
+          "top": 512,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.029861
+        },
+        {
+          "text": "int(p_temp[Q])",
+          "left": 402,
+          "top": 496,
+          "width": 329,
+          "height": 41,
+          "confidence": 68.771782
+        }
+      ]
+    },
+    {
+      "text": "5 p_y = int(p_temp[1])",
+      "left": 106,
+      "top": 567,
+      "right": 731,
+      "bottom": 608,
+      "height": 41,
+      "confidence": 87.68070424999999,
+      "words": [
+        {
+          "text": "5",
+          "left": 106,
+          "top": 569,
+          "width": 18,
+          "height": 31,
+          "confidence": 82.182648
+        },
+        {
+          "text": "p_y",
+          "left": 258,
+          "top": 577,
+          "width": 68,
+          "height": 31,
+          "confidence": 92.588463
+        },
+        {
+          "text": "=",
+          "left": 352,
+          "top": 583,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.264374
+        },
+        {
+          "text": "int(p_temp[1])",
+          "left": 402,
+          "top": 567,
+          "width": 329,
+          "height": 41,
+          "confidence": 82.687332
+        }
+      ]
+    },
+    {
+      "text": "6",
+      "left": 105,
+      "top": 638,
+      "right": 125,
+      "bottom": 670,
+      "height": 32,
+      "confidence": 96.855713,
+      "words": [
+        {
+          "text": "6",
+          "left": 105,
+          "top": 638,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.855713
+        }
+      ]
+    },
+    {
+      "text": "ActionChains(web).move_to_eLement_with_offset(ver",
+      "left": 184,
+      "top": 707,
+      "right": 1357,
+      "bottom": 746,
+      "height": 39,
+      "confidence": 39.62674,
+      "words": [
+        {
+          "text": "ActionChains(web).move_to_eLement_with_offset(ver",
+          "left": 184,
+          "top": 707,
+          "width": 1173,
+          "height": 39,
+          "confidence": 39.62674
+        }
+      ]
+    },
+    {
+      "text": "ify_img, p_x, p_y).click().perform()",
+      "left": 162,
+      "top": 777,
+      "right": 1020,
+      "bottom": 818,
+      "height": 41,
+      "confidence": 62.03968033333333,
+      "words": [
+        {
+          "text": "ify_img,",
+          "left": 162,
+          "top": 777,
+          "width": 181,
+          "height": 41,
+          "confidence": 91.076019
+        },
+        {
+          "text": "p_x,",
+          "left": 378,
+          "top": 787,
+          "width": 85,
+          "height": 31,
+          "confidence": 92.424728
+        },
+        {
+          "text": "p_y).click().perform()",
+          "left": 498,
+          "top": 777,
+          "width": 522,
+          "height": 41,
+          "confidence": 2.618294
+        }
+      ]
+    },
+    {
+      "text": "然后输入用户名和密码, 并点击登录按钮",
+      "left": 91,
+      "top": 899,
+      "right": 862,
+      "bottom": 958,
+      "height": 59,
+      "confidence": 89.55947100000002,
+      "words": [
+        {
+          "text": "然后",
+          "left": 91,
+          "top": 903,
+          "width": 103,
+          "height": 41,
+          "confidence": 94.168732
+        },
+        {
+          "text": "输入",
+          "left": 197,
+          "top": 903,
+          "width": 66,
+          "height": 40,
+          "confidence": 96.31562
+        },
+        {
+          "text": "用",
+          "left": 278,
+          "top": 905,
+          "width": 26,
+          "height": 38,
+          "confidence": 92.739319
+        },
+        {
+          "text": "户",
+          "left": 326,
+          "top": 903,
+          "width": 49,
+          "height": 40,
+          "confidence": 88.945107
+        },
+        {
+          "text": "名",
+          "left": 399,
+          "top": 904,
+          "width": 13,
+          "height": 39,
+          "confidence": 93.192101
+        },
+        {
+          "text": "和",
+          "left": 420,
+          "top": 906,
+          "width": 17,
+          "height": 36,
+          "confidence": 96.601105
+        },
+        {
+          "text": "密码",
+          "left": 448,
+          "top": 903,
+          "width": 78,
+          "height": 41,
+          "confidence": 91.618538
+        },
+        {
+          "text": ",",
+          "left": 533,
+          "top": 934,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.864502
+        },
+        {
+          "text": "并",
+          "left": 570,
+          "top": 903,
+          "width": 38,
+          "height": 40,
+          "confidence": 96.752632
+        },
+        {
+          "text": "点",
+          "left": 614,
+          "top": 903,
+          "width": 26,
+          "height": 40,
+          "confidence": 91.469872
+        },
+        {
+          "text": "击",
+          "left": 658,
+          "top": 903,
+          "width": 53,
+          "height": 41,
+          "confidence": 85.557053
+        },
+        {
+          "text": "登录",
+          "left": 710,
+          "top": 903,
+          "width": 150,
+          "height": 41,
+          "confidence": 96.757889
+        },
+        {
+          "text": "按钮",
+          "left": 787,
+          "top": 899,
+          "width": 75,
+          "height": 59,
+          "confidence": 47.290653
+        }
+      ]
+    },
+    {
+      "text": "1 time.sleep(1)",
+      "left": 107,
+      "top": 1063,
+      "right": 467,
+      "bottom": 1104,
+      "height": 41,
+      "confidence": 68.520355,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 1065,
+          "width": 18,
+          "height": 30,
+          "confidence": 93.367805
+        },
+        {
+          "text": "time.sleep(1)",
+          "left": 161,
+          "top": 1063,
+          "width": 306,
+          "height": 41,
+          "confidence": 43.672905
+        }
+      ]
+    },
+    {
+      "text": "2 web.find_element_by_xpath('//*[@id=\"J-",
+      "left": 106,
+      "top": 1133,
+      "right": 1068,
+      "bottom": 1174,
+      "height": 41,
+      "confidence": 73.9827765,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 1134,
+          "width": 18,
+          "height": 31,
+          "confidence": 93.157562
+        },
+        {
+          "text": "web.find_element_by_xpath('//*[@id=\"J-",
+          "left": 160,
+          "top": 1133,
+          "width": 908,
+          "height": 41,
+          "confidence": 54.807991
+        }
+      ]
+    },
+    {
+      "text": "userName\"]').send_keysC\"homexue@126.com\")",
+      "left": 162,
+      "top": 1203,
+      "right": 1140,
+      "bottom": 1244,
+      "height": 41,
+      "confidence": 66.359062,
+      "words": [
+        {
+          "text": "userName\"",
+          "left": 162,
+          "top": 1203,
+          "width": 208,
+          "height": 33,
+          "confidence": 66.359062
+        },
+        {
+          "text": "]').send_keysC\"homexue@126.com\")",
+          "left": 376,
+          "top": 1203,
+          "width": 764,
+          "height": 41,
+          "confidence": 66.359062
+        }
+      ]
+    },
+    {
+      "text": "3 web. find_element_by_xpath('//*[@id=\"J-",
+      "left": 106,
+      "top": 1273,
+      "right": 1068,
+      "bottom": 1314,
+      "height": 41,
+      "confidence": 30.389686666666666,
+      "words": [
+        {
+          "text": "3",
+          "left": 106,
+          "top": 1274,
+          "width": 18,
+          "height": 32,
+          "confidence": 91.16906
+        },
+        {
+          "text": "web.",
+          "left": 160,
+          "top": 1273,
+          "width": 86,
+          "height": 33,
+          "confidence": 0.0
+        },
+        {
+          "text": "find_element_by_xpath('//*[@id=\"J-",
+          "left": 258,
+          "top": 1273,
+          "width": 810,
+          "height": 41,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "password\" |').send_keys('q6035945\")",
+      "left": 162,
+      "top": 1343,
+      "right": 972,
+      "bottom": 1384,
+      "height": 41,
+      "confidence": 63.134472,
+      "words": [
+        {
+          "text": "password\"",
+          "left": 162,
+          "top": 1343,
+          "width": 205,
+          "height": 41,
+          "confidence": 77.412567
+        },
+        {
+          "text": "|').send_keys('q6035945\")",
+          "left": 382,
+          "top": 1343,
+          "width": 590,
+          "height": 41,
+          "confidence": 48.856377
+        }
+      ]
+    },
+    {
+      "text": "4 time.sleep(1)",
+      "left": 104,
+      "top": 1413,
+      "right": 467,
+      "bottom": 1454,
+      "height": 41,
+      "confidence": 79.12792200000001,
+      "words": [
+        {
+          "text": "4",
+          "left": 104,
+          "top": 1415,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.050323
+        },
+        {
+          "text": "time.sleep(1)",
+          "left": 161,
+          "top": 1413,
+          "width": 306,
+          "height": 41,
+          "confidence": 65.205521
+        }
+      ]
+    },
+    {
+      "text": "5 web.find_element_by_xpath('//*[@id=\"J-",
+      "left": 106,
+      "top": 1483,
+      "right": 1068,
+      "bottom": 1524,
+      "height": 41,
+      "confidence": 72.8227195,
+      "words": [
+        {
+          "text": "5",
+          "left": 106,
+          "top": 1485,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.067032
+        },
+        {
+          "text": "web.find_element_by_xpath('//*[@id=\"J-",
+          "left": 160,
+          "top": 1483,
+          "width": 908,
+          "height": 41,
+          "confidence": 53.578407
+        }
+      ]
+    },
+    {
+      "text": "Login\"]').clickQ@",
+      "left": 161,
+      "top": 1554,
+      "right": 563,
+      "bottom": 1595,
+      "height": 41,
+      "confidence": 26.42494,
+      "words": [
+        {
+          "text": "Login\"",
+          "left": 161,
+          "top": 1554,
+          "width": 137,
+          "height": 41,
+          "confidence": 26.911678
+        },
+        {
+          "text": "]').clickQ@",
+          "left": 311,
+          "top": 1554,
+          "width": 252,
+          "height": 39,
+          "confidence": 25.938202
+        }
+      ]
+    }
+  ]
+}

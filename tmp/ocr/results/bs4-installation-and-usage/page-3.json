@@ -1,0 +1,2283 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/bs4-installation-and-usage/page-3.png",
+  "lines": [
+    {
+      "text": "= find_all()",
+      "left": 212,
+      "top": 130,
+      "right": 413,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 86.669762,
+      "words": [
+        {
+          "text": "=",
+          "left": 212,
+          "top": 141,
+          "width": 14,
+          "height": 14,
+          "confidence": 86.669762
+        },
+        {
+          "text": "find_all()",
+          "left": 254,
+          "top": 130,
+          "width": 159,
+          "height": 41,
+          "confidence": 86.669762
+        }
+      ]
+    },
+    {
+      "text": "®find_all(self, name, attrs, recursive, text, limit, kwargs) Tag",
+      "left": 189,
+      "top": 247,
+      "right": 1357,
+      "bottom": 277,
+      "height": 30,
+      "confidence": 91.19396675,
+      "words": [
+        {
+          "text": "®find_all(self,",
+          "left": 189,
+          "top": 247,
+          "width": 261,
+          "height": 29,
+          "confidence": 73.555351
+        },
+        {
+          "text": "name,",
+          "left": 477,
+          "top": 254,
+          "width": 77,
+          "height": 21,
+          "confidence": 91.546722
+        },
+        {
+          "text": "attrs,",
+          "left": 580,
+          "top": 250,
+          "width": 95,
+          "height": 25,
+          "confidence": 91.546722
+        },
+        {
+          "text": "recursive,",
+          "left": 705,
+          "top": 248,
+          "width": 161,
+          "height": 27,
+          "confidence": 96.153053
+        },
+        {
+          "text": "text,",
+          "left": 892,
+          "top": 250,
+          "width": 78,
+          "height": 25,
+          "confidence": 96.082237
+        },
+        {
+          "text": "limit,",
+          "left": 997,
+          "top": 248,
+          "width": 94,
+          "height": 27,
+          "confidence": 93.294121
+        },
+        {
+          "text": "kwargs)",
+          "left": 1119,
+          "top": 247,
+          "width": 112,
+          "height": 26,
+          "confidence": 91.762131
+        },
+        {
+          "text": "Tag",
+          "left": 1308,
+          "top": 249,
+          "width": 49,
+          "height": 28,
+          "confidence": 95.611397
+        }
+      ]
+    },
+    {
+      "text": "@ find_next(self, name, attrs, text, kwargs) PageElement",
+      "left": 185,
+      "top": 284,
+      "right": 1357,
+      "bottom": 314,
+      "height": 30,
+      "confidence": 87.40504471428571,
+      "words": [
+        {
+          "text": "@",
+          "left": 185,
+          "top": 288,
+          "width": 19,
+          "height": 20,
+          "confidence": 82.842026
+        },
+        {
+          "text": "find_next(self,",
+          "left": 215,
+          "top": 284,
+          "width": 253,
+          "height": 29,
+          "confidence": 90.946274
+        },
+        {
+          "text": "name,",
+          "left": 495,
+          "top": 291,
+          "width": 77,
+          "height": 21,
+          "confidence": 93.213425
+        },
+        {
+          "text": "attrs,",
+          "left": 598,
+          "top": 287,
+          "width": 95,
+          "height": 25,
+          "confidence": 92.335808
+        },
+        {
+          "text": "text,",
+          "left": 719,
+          "top": 287,
+          "width": 79,
+          "height": 25,
+          "confidence": 93.300621
+        },
+        {
+          "text": "kwargs)",
+          "left": 824,
+          "top": 284,
+          "width": 113,
+          "height": 30,
+          "confidence": 92.159592
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 285,
+          "width": 186,
+          "height": 29,
+          "confidence": 67.037567
+        }
+      ]
+    },
+    {
+      "text": "@ findALl Tag",
+      "left": 185,
+      "top": 322,
+      "right": 1357,
+      "bottom": 351,
+      "height": 29,
+      "confidence": 74.36532733333333,
+      "words": [
+        {
+          "text": "@",
+          "left": 185,
+          "top": 325,
+          "width": 16,
+          "height": 21,
+          "confidence": 74.85759
+        },
+        {
+          "text": "findALl",
+          "left": 216,
+          "top": 322,
+          "width": 117,
+          "height": 24,
+          "confidence": 52.154041
+        },
+        {
+          "text": "Tag",
+          "left": 1308,
+          "top": 323,
+          "width": 49,
+          "height": 28,
+          "confidence": 96.084351
+        }
+      ]
+    },
+    {
+      "text": "@ findChild Tag",
+      "left": 185,
+      "top": 359,
+      "right": 1357,
+      "bottom": 388,
+      "height": 29,
+      "confidence": 85.86081933333332,
+      "words": [
+        {
+          "text": "@",
+          "left": 185,
+          "top": 362,
+          "width": 20,
+          "height": 21,
+          "confidence": 72.880623
+        },
+        {
+          "text": "findChild",
+          "left": 215,
+          "top": 359,
+          "width": 152,
+          "height": 24,
+          "confidence": 87.736839
+        },
+        {
+          "text": "Tag",
+          "left": 1308,
+          "top": 361,
+          "width": 49,
+          "height": 27,
+          "confidence": 96.964996
+        }
+      ]
+    },
+    {
+      "text": "@ find_all_next(self, name, attrs, text, limit, kwargs) PageElement",
+      "left": 184,
+      "top": 396,
+      "right": 1357,
+      "bottom": 425,
+      "height": 29,
+      "confidence": 91.64682,
+      "words": [
+        {
+          "text": "@",
+          "left": 184,
+          "top": 399,
+          "width": 18,
+          "height": 21,
+          "confidence": 84.410339
+        },
+        {
+          "text": "find_all_next(self,",
+          "left": 215,
+          "top": 396,
+          "width": 321,
+          "height": 28,
+          "confidence": 89.96579
+        },
+        {
+          "text": "name,",
+          "left": 563,
+          "top": 403,
+          "width": 78,
+          "height": 21,
+          "confidence": 93.240196
+        },
+        {
+          "text": "attrs,",
+          "left": 666,
+          "top": 399,
+          "width": 96,
+          "height": 25,
+          "confidence": 91.987099
+        },
+        {
+          "text": "text,",
+          "left": 787,
+          "top": 399,
+          "width": 79,
+          "height": 25,
+          "confidence": 96.447807
+        },
+        {
+          "text": "limit,",
+          "left": 893,
+          "top": 397,
+          "width": 94,
+          "height": 27,
+          "confidence": 93.304451
+        },
+        {
+          "text": "kwargs)",
+          "left": 1014,
+          "top": 396,
+          "width": 112,
+          "height": 29,
+          "confidence": 92.279297
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 397,
+          "width": 186,
+          "height": 28,
+          "confidence": 91.539581
+        }
+      ]
+    },
+    {
+      "text": "@ find_all_previous(self, name, attrs, text, limit, kw.. PageElement",
+      "left": 184,
+      "top": 433,
+      "right": 1357,
+      "bottom": 463,
+      "height": 30,
+      "confidence": 91.20464712500001,
+      "words": [
+        {
+          "text": "@",
+          "left": 184,
+          "top": 436,
+          "width": 19,
+          "height": 21,
+          "confidence": 87.597504
+        },
+        {
+          "text": "find_all_previous(self,",
+          "left": 215,
+          "top": 433,
+          "width": 391,
+          "height": 30,
+          "confidence": 87.597504
+        },
+        {
+          "text": "name,",
+          "left": 633,
+          "top": 440,
+          "width": 77,
+          "height": 21,
+          "confidence": 93.173111
+        },
+        {
+          "text": "attrs,",
+          "left": 736,
+          "top": 436,
+          "width": 95,
+          "height": 25,
+          "confidence": 92.54953
+        },
+        {
+          "text": "text,",
+          "left": 857,
+          "top": 436,
+          "width": 78,
+          "height": 25,
+          "confidence": 96.180222
+        },
+        {
+          "text": "limit,",
+          "left": 962,
+          "top": 434,
+          "width": 94,
+          "height": 27,
+          "confidence": 92.557884
+        },
+        {
+          "text": "kw..",
+          "left": 1084,
+          "top": 434,
+          "width": 47,
+          "height": 22,
+          "confidence": 89.611061
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 434,
+          "width": 186,
+          "height": 29,
+          "confidence": 90.370361
+        }
+      ]
+    },
+    {
+      "text": "_© find_next_sibling(self, name, attrs, text, kwargs) PageElement",
+      "left": 172,
+      "top": 470,
+      "right": 1357,
+      "bottom": 501,
+      "height": 31,
+      "confidence": 85.61925185714286,
+      "words": [
+        {
+          "text": "_©",
+          "left": 172,
+          "top": 474,
+          "width": 32,
+          "height": 27,
+          "confidence": 47.610573
+        },
+        {
+          "text": "find_next_sibling(self,",
+          "left": 215,
+          "top": 470,
+          "width": 391,
+          "height": 30,
+          "confidence": 90.119789
+        },
+        {
+          "text": "name,",
+          "left": 633,
+          "top": 477,
+          "width": 77,
+          "height": 21,
+          "confidence": 93.137367
+        },
+        {
+          "text": "attrs,",
+          "left": 736,
+          "top": 473,
+          "width": 95,
+          "height": 25,
+          "confidence": 92.534172
+        },
+        {
+          "text": "text,",
+          "left": 857,
+          "top": 473,
+          "width": 78,
+          "height": 25,
+          "confidence": 92.604111
+        },
+        {
+          "text": "kwargs)",
+          "left": 962,
+          "top": 470,
+          "width": 113,
+          "height": 30,
+          "confidence": 92.604111
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 471,
+          "width": 186,
+          "height": 29,
+          "confidence": 90.72464
+        }
+      ]
+    },
+    {
+      "text": ",® find_next_siblings(self, name, attrs, text, limit, k.. PageElement",
+      "left": 172,
+      "top": 507,
+      "right": 1357,
+      "bottom": 537,
+      "height": 30,
+      "confidence": 83.712019875,
+      "words": [
+        {
+          "text": ",®",
+          "left": 172,
+          "top": 511,
+          "width": 31,
+          "height": 21,
+          "confidence": 23.8312
+        },
+        {
+          "text": "find_next_siblings(self,",
+          "left": 215,
+          "top": 507,
+          "width": 409,
+          "height": 30,
+          "confidence": 89.299263
+        },
+        {
+          "text": "name,",
+          "left": 651,
+          "top": 514,
+          "width": 77,
+          "height": 22,
+          "confidence": 93.29203
+        },
+        {
+          "text": "attrs,",
+          "left": 754,
+          "top": 510,
+          "width": 95,
+          "height": 26,
+          "confidence": 91.40844
+        },
+        {
+          "text": "text,",
+          "left": 875,
+          "top": 510,
+          "width": 78,
+          "height": 26,
+          "confidence": 96.381088
+        },
+        {
+          "text": "limit,",
+          "left": 980,
+          "top": 509,
+          "width": 94,
+          "height": 27,
+          "confidence": 93.23571
+        },
+        {
+          "text": "k..",
+          "left": 1102,
+          "top": 509,
+          "width": 30,
+          "height": 22,
+          "confidence": 91.60952
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 509,
+          "width": 186,
+          "height": 28,
+          "confidence": 90.638908
+        }
+      ]
+    },
+    {
+      "text": "_@ find_parent(self, name, attrs, kwargs) PageElement",
+      "left": 172,
+      "top": 545,
+      "right": 1357,
+      "bottom": 574,
+      "height": 29,
+      "confidence": 72.41167316666666,
+      "words": [
+        {
+          "text": "_@",
+          "left": 172,
+          "top": 548,
+          "width": 30,
+          "height": 26,
+          "confidence": 40.969131
+        },
+        {
+          "text": "find_parent(self,",
+          "left": 215,
+          "top": 545,
+          "width": 287,
+          "height": 29,
+          "confidence": 40.969131
+        },
+        {
+          "text": "name,",
+          "left": 528,
+          "top": 552,
+          "width": 78,
+          "height": 21,
+          "confidence": 90.258301
+        },
+        {
+          "text": "attrs,",
+          "left": 632,
+          "top": 548,
+          "width": 95,
+          "height": 25,
+          "confidence": 90.258301
+        },
+        {
+          "text": "kwargs)",
+          "left": 754,
+          "top": 545,
+          "width": 112,
+          "height": 29,
+          "confidence": 92.635948
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 546,
+          "width": 186,
+          "height": 28,
+          "confidence": 79.379227
+        }
+      ]
+    },
+    {
+      "text": "_@ find_parents (self, name, attrs, limit, kwargs) PageElement",
+      "left": 172,
+      "top": 578,
+      "right": 1357,
+      "bottom": 620,
+      "height": 42,
+      "confidence": 87.883054625,
+      "words": [
+        {
+          "text": "_@",
+          "left": 172,
+          "top": 585,
+          "width": 31,
+          "height": 31,
+          "confidence": 69.165985
+        },
+        {
+          "text": "find_parents",
+          "left": 217,
+          "top": 578,
+          "width": 193,
+          "height": 42,
+          "confidence": 91.490219
+        },
+        {
+          "text": "(self,",
+          "left": 423,
+          "top": 578,
+          "width": 97,
+          "height": 42,
+          "confidence": 95.91993
+        },
+        {
+          "text": "name,",
+          "left": 546,
+          "top": 589,
+          "width": 78,
+          "height": 21,
+          "confidence": 93.284912
+        },
+        {
+          "text": "attrs,",
+          "left": 650,
+          "top": 585,
+          "width": 95,
+          "height": 25,
+          "confidence": 89.690742
+        },
+        {
+          "text": "limit,",
+          "left": 772,
+          "top": 583,
+          "width": 94,
+          "height": 27,
+          "confidence": 90.232246
+        },
+        {
+          "text": "kwargs)",
+          "left": 893,
+          "top": 582,
+          "width": 113,
+          "height": 30,
+          "confidence": 92.385536
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 583,
+          "width": 186,
+          "height": 29,
+          "confidence": 80.894867
+        }
+      ]
+    },
+    {
+      "text": "@ find_previous(self, name, attrs, text, kwargs) PageElement",
+      "left": 185,
+      "top": 619,
+      "right": 1357,
+      "bottom": 649,
+      "height": 30,
+      "confidence": 85.13495742857143,
+      "words": [
+        {
+          "text": "@",
+          "left": 185,
+          "top": 623,
+          "width": 15,
+          "height": 20,
+          "confidence": 71.141876
+        },
+        {
+          "text": "find_previous(self,",
+          "left": 215,
+          "top": 619,
+          "width": 321,
+          "height": 30,
+          "confidence": 89.967453
+        },
+        {
+          "text": "name,",
+          "left": 563,
+          "top": 626,
+          "width": 78,
+          "height": 21,
+          "confidence": 90.835152
+        },
+        {
+          "text": "attrs,",
+          "left": 666,
+          "top": 622,
+          "width": 96,
+          "height": 25,
+          "confidence": 90.835152
+        },
+        {
+          "text": "text,",
+          "left": 787,
+          "top": 622,
+          "width": 79,
+          "height": 25,
+          "confidence": 93.291328
+        },
+        {
+          "text": "kwargs)",
+          "left": 893,
+          "top": 619,
+          "width": 112,
+          "height": 30,
+          "confidence": 92.836174
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 620,
+          "width": 186,
+          "height": 29,
+          "confidence": 67.037567
+        }
+      ]
+    },
+    {
+      "text": "‘@ find_previous_sibling(self, name, attrs, text, kwarg.. PageElement",
+      "left": 172,
+      "top": 656,
+      "right": 1357,
+      "bottom": 686,
+      "height": 30,
+      "confidence": 80.81163928571428,
+      "words": [
+        {
+          "text": "‘@",
+          "left": 172,
+          "top": 660,
+          "width": 32,
+          "height": 21,
+          "confidence": 18.616657
+        },
+        {
+          "text": "find_previous_sibling(self,",
+          "left": 215,
+          "top": 656,
+          "width": 460,
+          "height": 30,
+          "confidence": 89.441978
+        },
+        {
+          "text": "name,",
+          "left": 702,
+          "top": 663,
+          "width": 78,
+          "height": 21,
+          "confidence": 93.301071
+        },
+        {
+          "text": "attrs,",
+          "left": 806,
+          "top": 659,
+          "width": 95,
+          "height": 25,
+          "confidence": 92.233795
+        },
+        {
+          "text": "text,",
+          "left": 926,
+          "top": 659,
+          "width": 79,
+          "height": 25,
+          "confidence": 93.24501
+        },
+        {
+          "text": "kwarg..",
+          "left": 1032,
+          "top": 658,
+          "width": 100,
+          "height": 28,
+          "confidence": 90.624634
+        },
+        {
+          "text": "PageElement",
+          "left": 1171,
+          "top": 657,
+          "width": 186,
+          "height": 29,
+          "confidence": 88.21833
+        }
+      ]
+    },
+    {
+      "text": "; press ^ to choose the selected (or first) suggestion crdlineamadhnettaents Next Tip —::",
+      "left": 172,
+      "top": 689,
+      "right": 1381,
+      "bottom": 726,
+      "height": 37,
+      "confidence": 71.50733575,
+      "words": [
+        {
+          "text": ";",
+          "left": 172,
+          "top": 702,
+          "width": 1,
+          "height": 14,
+          "confidence": 27.772055
+        },
+        {
+          "text": "press",
+          "left": 182,
+          "top": 707,
+          "width": 37,
+          "height": 11,
+          "confidence": 91.975761
+        },
+        {
+          "text": "^",
+          "left": 229,
+          "top": 695,
+          "width": 7,
+          "height": 17,
+          "confidence": 71.808929
+        },
+        {
+          "text": "to",
+          "left": 244,
+          "top": 695,
+          "width": 18,
+          "height": 23,
+          "confidence": 90.148468
+        },
+        {
+          "text": "choose",
+          "left": 270,
+          "top": 695,
+          "width": 50,
+          "height": 23,
+          "confidence": 92.926666
+        },
+        {
+          "text": "the",
+          "left": 327,
+          "top": 706,
+          "width": 22,
+          "height": 12,
+          "confidence": 93.253998
+        },
+        {
+          "text": "selected",
+          "left": 356,
+          "top": 695,
+          "width": 59,
+          "height": 23,
+          "confidence": 92.241302
+        },
+        {
+          "text": "(or",
+          "left": 423,
+          "top": 690,
+          "width": 17,
+          "height": 36,
+          "confidence": 93.590347
+        },
+        {
+          "text": "first)",
+          "left": 446,
+          "top": 695,
+          "width": 38,
+          "height": 25,
+          "confidence": 95.401573
+        },
+        {
+          "text": "suggestion",
+          "left": 494,
+          "top": 694,
+          "width": 76,
+          "height": 27,
+          "confidence": 82.877892
+        },
+        {
+          "text": "crdlineamadhnettaents",
+          "left": 578,
+          "top": 689,
+          "width": 202,
+          "height": 37,
+          "confidence": 0.0
+        },
+        {
+          "text": "Next",
+          "left": 792,
+          "top": 707,
+          "width": 33,
+          "height": 12,
+          "confidence": 96.971474
+        },
+        {
+          "text": "Tip",
+          "left": 831,
+          "top": 700,
+          "width": 24,
+          "height": 26,
+          "confidence": 96.899529
+        },
+        {
+          "text": "—",
+          "left": 1048,
+          "top": 695,
+          "width": 26,
+          "height": 1,
+          "confidence": 40.108753
+        },
+        {
+          "text": ":",
+          "left": 1258,
+          "top": 695,
+          "width": 7,
+          "height": 1,
+          "confidence": 0.0
+        },
+        {
+          "text": ":",
+          "left": 1377,
+          "top": 703,
+          "width": 4,
+          "height": 18,
+          "confidence": 78.140625
+        }
+      ]
+    },
+    {
+      "text": "基本上有这两个方法就够用了. 其他的可以自行进行英文翻译就",
+      "left": 174,
+      "top": 760,
+      "right": 1383,
+      "bottom": 818,
+      "height": 58,
+      "confidence": 93.89182790909094,
+      "words": [
+        {
+          "text": "基本",
+          "left": 174,
+          "top": 765,
+          "width": 171,
+          "height": 41,
+          "confidence": 96.614082
+        },
+        {
+          "text": "上",
+          "left": 271,
+          "top": 760,
+          "width": 37,
+          "height": 58,
+          "confidence": 96.921455
+        },
+        {
+          "text": "有",
+          "left": 307,
+          "top": 760,
+          "width": 45,
+          "height": 58,
+          "confidence": 95.405075
+        },
+        {
+          "text": "这",
+          "left": 351,
+          "top": 765,
+          "width": 38,
+          "height": 40,
+          "confidence": 94.306709
+        },
+        {
+          "text": "两",
+          "left": 405,
+          "top": 767,
+          "width": 28,
+          "height": 38,
+          "confidence": 89.401657
+        },
+        {
+          "text": "个",
+          "left": 452,
+          "top": 765,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.546547
+        },
+        {
+          "text": "方法",
+          "left": 482,
+          "top": 765,
+          "width": 213,
+          "height": 40,
+          "confidence": 96.809608
+        },
+        {
+          "text": "就",
+          "left": 594,
+          "top": 760,
+          "width": 48,
+          "height": 58,
+          "confidence": 91.806908
+        },
+        {
+          "text": "够",
+          "left": 641,
+          "top": 760,
+          "width": 44,
+          "height": 58,
+          "confidence": 61.869896
+        },
+        {
+          "text": "用",
+          "left": 684,
+          "top": 760,
+          "width": 34,
+          "height": 58,
+          "confidence": 96.194298
+        },
+        {
+          "text": "了",
+          "left": 717,
+          "top": 768,
+          "width": 21,
+          "height": 37,
+          "confidence": 93.294334
+        },
+        {
+          "text": ".",
+          "left": 748,
+          "top": 796,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.294678
+        },
+        {
+          "text": "其",
+          "left": 789,
+          "top": 765,
+          "width": 37,
+          "height": 41,
+          "confidence": 96.254997
+        },
+        {
+          "text": "他",
+          "left": 829,
+          "top": 765,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.953285
+        },
+        {
+          "text": "的",
+          "left": 875,
+          "top": 765,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.558037
+        },
+        {
+          "text": "可",
+          "left": 916,
+          "top": 768,
+          "width": 26,
+          "height": 37,
+          "confidence": 96.667404
+        },
+        {
+          "text": "以",
+          "left": 960,
+          "top": 765,
+          "width": 26,
+          "height": 40,
+          "confidence": 96.50145
+        },
+        {
+          "text": "自行",
+          "left": 1007,
+          "top": 765,
+          "width": 68,
+          "height": 41,
+          "confidence": 95.611137
+        },
+        {
+          "text": "进行",
+          "left": 1098,
+          "top": 765,
+          "width": 91,
+          "height": 41,
+          "confidence": 96.876045
+        },
+        {
+          "text": "英文",
+          "left": 1188,
+          "top": 760,
+          "width": 87,
+          "height": 58,
+          "confidence": 95.897766
+        },
+        {
+          "text": "翻译",
+          "left": 1275,
+          "top": 765,
+          "width": 84,
+          "height": 41,
+          "confidence": 96.40036
+        },
+        {
+          "text": "就",
+          "left": 1359,
+          "top": 765,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.434486
+        }
+      ]
+    },
+    {
+      "text": "知道啥意思了.",
+      "left": 173,
+      "top": 831,
+      "right": 449,
+      "bottom": 889,
+      "height": 58,
+      "confidence": 74.76311940000001,
+      "words": [
+        {
+          "text": "知道",
+          "left": 173,
+          "top": 835,
+          "width": 271,
+          "height": 41,
+          "confidence": 93.270317
+        },
+        {
+          "text": "啥",
+          "left": 285,
+          "top": 831,
+          "width": 40,
+          "height": 58,
+          "confidence": 0.0
+        },
+        {
+          "text": "意思",
+          "left": 324,
+          "top": 835,
+          "width": 81,
+          "height": 41,
+          "confidence": 96.29483
+        },
+        {
+          "text": "了",
+          "left": 404,
+          "top": 831,
+          "width": 23,
+          "height": 58,
+          "confidence": 93.282738
+        },
+        {
+          "text": ".",
+          "left": 426,
+          "top": 831,
+          "width": 23,
+          "height": 58,
+          "confidence": 90.967712
+        }
+      ]
+    },
+    {
+      "text": "不论是 find 还是 find_all 参数几乎是一致的.",
+      "left": 173,
+      "top": 1013,
+      "right": 981,
+      "bottom": 1069,
+      "height": 56,
+      "confidence": 93.75941207142856,
+      "words": [
+        {
+          "text": "不",
+          "left": 173,
+          "top": 1020,
+          "width": 59,
+          "height": 40,
+          "confidence": 92.983345
+        },
+        {
+          "text": "论",
+          "left": 232,
+          "top": 1019,
+          "width": 26,
+          "height": 40,
+          "confidence": 93.087212
+        },
+        {
+          "text": "是",
+          "left": 277,
+          "top": 1020,
+          "width": 24,
+          "height": 39,
+          "confidence": 95.959801
+        },
+        {
+          "text": "find",
+          "left": 305,
+          "top": 1013,
+          "width": 69,
+          "height": 56,
+          "confidence": 92.943192
+        },
+        {
+          "text": "还",
+          "left": 393,
+          "top": 1020,
+          "width": 26,
+          "height": 39,
+          "confidence": 92.878952
+        },
+        {
+          "text": "是",
+          "left": 438,
+          "top": 1020,
+          "width": 25,
+          "height": 39,
+          "confidence": 96.130852
+        },
+        {
+          "text": "find_all",
+          "left": 465,
+          "top": 1019,
+          "width": 136,
+          "height": 42,
+          "confidence": 86.860901
+        },
+        {
+          "text": "参数",
+          "left": 634,
+          "top": 1013,
+          "width": 88,
+          "height": 56,
+          "confidence": 96.489594
+        },
+        {
+          "text": "几乎",
+          "left": 707,
+          "top": 1019,
+          "width": 270,
+          "height": 40,
+          "confidence": 96.539238
+        },
+        {
+          "text": "是",
+          "left": 813,
+          "top": 1013,
+          "width": 46,
+          "height": 56,
+          "confidence": 96.862335
+        },
+        {
+          "text": "一",
+          "left": 858,
+          "top": 1013,
+          "width": 46,
+          "height": 56,
+          "confidence": 93.294617
+        },
+        {
+          "text": "致",
+          "left": 904,
+          "top": 1013,
+          "width": 42,
+          "height": 56,
+          "confidence": 92.322845
+        },
+        {
+          "text": "的",
+          "left": 946,
+          "top": 1013,
+          "width": 21,
+          "height": 56,
+          "confidence": 93.28241
+        },
+        {
+          "text": ".",
+          "left": 967,
+          "top": 1013,
+          "width": 14,
+          "height": 56,
+          "confidence": 92.996475
+        }
+      ]
+    },
+    {
+      "text": "ia:",
+      "left": 173,
+      "top": 1111,
+      "right": 268,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 42.504913,
+      "words": [
+        {
+          "text": "ia:",
+          "left": 173,
+          "top": 1111,
+          "width": 95,
+          "height": 41,
+          "confidence": 42.504913
+        }
+      ]
+    },
+    {
+      "text": "find(标签, 属性 = 值)",
+      "left": 171,
+      "top": 1199,
+      "right": 540,
+      "bottom": 1258,
+      "height": 59,
+      "confidence": 92.79314225000002,
+      "words": [
+        {
+          "text": "find(",
+          "left": 171,
+          "top": 1203,
+          "width": 103,
+          "height": 45,
+          "confidence": 92.319664
+        },
+        {
+          "text": "标",
+          "left": 273,
+          "top": 1206,
+          "width": 25,
+          "height": 37,
+          "confidence": 93.238808
+        },
+        {
+          "text": "签",
+          "left": 321,
+          "top": 1203,
+          "width": 32,
+          "height": 42,
+          "confidence": 90.546051
+        },
+        {
+          "text": ",",
+          "left": 355,
+          "top": 1199,
+          "width": 12,
+          "height": 59,
+          "confidence": 92.403091
+        },
+        {
+          "text": "属性",
+          "left": 371,
+          "top": 1203,
+          "width": 165,
+          "height": 45,
+          "confidence": 96.612457
+        },
+        {
+          "text": "=",
+          "left": 465,
+          "top": 1199,
+          "width": 34,
+          "height": 59,
+          "confidence": 93.305214
+        },
+        {
+          "text": "值",
+          "left": 498,
+          "top": 1199,
+          "width": 35,
+          "height": 59,
+          "confidence": 91.890648
+        },
+        {
+          "text": ")",
+          "left": 532,
+          "top": 1199,
+          "width": 8,
+          "height": 59,
+          "confidence": 92.029205
+        }
+      ]
+    },
+    {
+      "text": "意思是在页面中查找 xxx 标签, 并且标签的 xxx 属性必须是 xxx 值",
+      "left": 173,
+      "top": 1291,
+      "right": 1380,
+      "bottom": 1348,
+      "height": 57,
+      "confidence": 89.47706834782612,
+      "words": [
+        {
+          "text": "意思",
+          "left": 173,
+          "top": 1295,
+          "width": 393,
+          "height": 41,
+          "confidence": 96.393456
+        },
+        {
+          "text": "是",
+          "left": 275,
+          "top": 1291,
+          "width": 48,
+          "height": 57,
+          "confidence": 96.165855
+        },
+        {
+          "text": "在",
+          "left": 322,
+          "top": 1291,
+          "width": 43,
+          "height": 57,
+          "confidence": 96.693062
+        },
+        {
+          "text": "页",
+          "left": 364,
+          "top": 1291,
+          "width": 51,
+          "height": 57,
+          "confidence": 93.203674
+        },
+        {
+          "text": "面",
+          "left": 414,
+          "top": 1291,
+          "width": 44,
+          "height": 57,
+          "confidence": 92.780746
+        },
+        {
+          "text": "中",
+          "left": 457,
+          "top": 1291,
+          "width": 40,
+          "height": 57,
+          "confidence": 92.09832
+        },
+        {
+          "text": "查找",
+          "left": 496,
+          "top": 1291,
+          "width": 80,
+          "height": 57,
+          "confidence": 71.726448
+        },
+        {
+          "text": "xxx",
+          "left": 592,
+          "top": 1295,
+          "width": 69,
+          "height": 40,
+          "confidence": 74.894951
+        },
+        {
+          "text": "标",
+          "left": 664,
+          "top": 1295,
+          "width": 51,
+          "height": 40,
+          "confidence": 92.329483
+        },
+        {
+          "text": "签",
+          "left": 740,
+          "top": 1326,
+          "width": 5,
+          "height": 11,
+          "confidence": 91.785103
+        },
+        {
+          "text": ",",
+          "left": 746,
+          "top": 1291,
+          "width": 15,
+          "height": 57,
+          "confidence": 92.854446
+        },
+        {
+          "text": "并",
+          "left": 781,
+          "top": 1295,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.012459
+        },
+        {
+          "text": "且",
+          "left": 817,
+          "top": 1295,
+          "width": 47,
+          "height": 40,
+          "confidence": 93.105659
+        },
+        {
+          "text": "标",
+          "left": 865,
+          "top": 1295,
+          "width": 53,
+          "height": 40,
+          "confidence": 91.316422
+        },
+        {
+          "text": "签",
+          "left": 941,
+          "top": 1295,
+          "width": 14,
+          "height": 39,
+          "confidence": 91.78949
+        },
+        {
+          "text": "的",
+          "left": 967,
+          "top": 1295,
+          "width": 29,
+          "height": 40,
+          "confidence": 92.133202
+        },
+        {
+          "text": "xxx",
+          "left": 995,
+          "top": 1291,
+          "width": 54,
+          "height": 57,
+          "confidence": 67.099129
+        },
+        {
+          "text": "属",
+          "left": 1063,
+          "top": 1295,
+          "width": 42,
+          "height": 41,
+          "confidence": 92.214821
+        },
+        {
+          "text": "性",
+          "left": 1113,
+          "top": 1295,
+          "width": 23,
+          "height": 39,
+          "confidence": 96.991348
+        },
+        {
+          "text": "必须",
+          "left": 1152,
+          "top": 1296,
+          "width": 97,
+          "height": 39,
+          "confidence": 95.482635
+        },
+        {
+          "text": "是",
+          "left": 1248,
+          "top": 1291,
+          "width": 33,
+          "height": 57,
+          "confidence": 96.099762
+        },
+        {
+          "text": "xxx",
+          "left": 1280,
+          "top": 1295,
+          "width": 72,
+          "height": 41,
+          "confidence": 66.515312
+        },
+        {
+          "text": "值",
+          "left": 1351,
+          "top": 1295,
+          "width": 29,
+          "height": 39,
+          "confidence": 91.286789
+        }
+      ]
+    },
+    {
+      "text": "例:",
+      "left": 173,
+      "top": 1475,
+      "right": 226,
+      "bottom": 1532,
+      "height": 57,
+      "confidence": 91.33452199999999,
+      "words": [
+        {
+          "text": "例",
+          "left": 173,
+          "top": 1479,
+          "width": 51,
+          "height": 41,
+          "confidence": 92.21376
+        },
+        {
+          "text": ":",
+          "left": 211,
+          "top": 1475,
+          "width": 15,
+          "height": 57,
+          "confidence": 90.455284
+        }
+      ]
+    },
+    {
+      "text": "find(‘div', age=18) 含义: 在页面中查找 div 标签, 并且属性 age 必",
+      "left": 171,
+      "top": 1568,
+      "right": 1373,
+      "bottom": 1625,
+      "height": 57,
+      "confidence": 90.97923926315788,
+      "words": [
+        {
+          "text": "find(‘div',",
+          "left": 171,
+          "top": 1576,
+          "width": 176,
+          "height": 41,
+          "confidence": 63.758179
+        },
+        {
+          "text": "age=18)",
+          "left": 365,
+          "top": 1576,
+          "width": 155,
+          "height": 41,
+          "confidence": 92.457085
+        },
+        {
+          "text": "含义",
+          "left": 537,
+          "top": 1572,
+          "width": 95,
+          "height": 41,
+          "confidence": 85.765869
+        },
+        {
+          "text": ":",
+          "left": 623,
+          "top": 1568,
+          "width": 15,
+          "height": 57,
+          "confidence": 92.892563
+        },
+        {
+          "text": "在",
+          "left": 665,
+          "top": 1572,
+          "width": 24,
+          "height": 41,
+          "confidence": 96.800026
+        },
+        {
+          "text": "页",
+          "left": 708,
+          "top": 1574,
+          "width": 51,
+          "height": 39,
+          "confidence": 93.186966
+        },
+        {
+          "text": "面",
+          "left": 784,
+          "top": 1572,
+          "width": 18,
+          "height": 41,
+          "confidence": 91.873955
+        },
+        {
+          "text": "中",
+          "left": 801,
+          "top": 1568,
+          "width": 40,
+          "height": 57,
+          "confidence": 92.139549
+        },
+        {
+          "text": "查找",
+          "left": 840,
+          "top": 1572,
+          "width": 69,
+          "height": 40,
+          "confidence": 93.948769
+        },
+        {
+          "text": "div",
+          "left": 918,
+          "top": 1572,
+          "width": 69,
+          "height": 40,
+          "confidence": 91.951836
+        },
+        {
+          "text": "标",
+          "left": 986,
+          "top": 1572,
+          "width": 51,
+          "height": 40,
+          "confidence": 92.81179
+        },
+        {
+          "text": "签",
+          "left": 1061,
+          "top": 1603,
+          "width": 5,
+          "height": 11,
+          "confidence": 90.583305
+        },
+        {
+          "text": ",",
+          "left": 1068,
+          "top": 1568,
+          "width": 11,
+          "height": 57,
+          "confidence": 92.74733
+        },
+        {
+          "text": "并",
+          "left": 1103,
+          "top": 1572,
+          "width": 21,
+          "height": 40,
+          "confidence": 92.917404
+        },
+        {
+          "text": "且",
+          "left": 1139,
+          "top": 1574,
+          "width": 29,
+          "height": 37,
+          "confidence": 92.980759
+        },
+        {
+          "text": "属",
+          "left": 1185,
+          "top": 1572,
+          "width": 40,
+          "height": 41,
+          "confidence": 92.624298
+        },
+        {
+          "text": "性",
+          "left": 1235,
+          "top": 1572,
+          "width": 37,
+          "height": 39,
+          "confidence": 96.586975
+        },
+        {
+          "text": "age",
+          "left": 1271,
+          "top": 1568,
+          "width": 59,
+          "height": 57,
+          "confidence": 93.110237
+        },
+        {
+          "text": "必",
+          "left": 1335,
+          "top": 1573,
+          "width": 38,
+          "height": 39,
+          "confidence": 89.468651
+        }
+      ]
+    },
+    {
+      "text": "须是 18 的这个标签.",
+      "left": 174,
+      "top": 1638,
+      "right": 541,
+      "bottom": 1694,
+      "height": 56,
+      "confidence": 92.618910875,
+      "words": [
+        {
+          "text": "须",
+          "left": 174,
+          "top": 1643,
+          "width": 101,
+          "height": 39,
+          "confidence": 90.763451
+        },
+        {
+          "text": "是",
+          "left": 236,
+          "top": 1638,
+          "width": 39,
+          "height": 56,
+          "confidence": 92.782509
+        },
+        {
+          "text": "18",
+          "left": 275,
+          "top": 1638,
+          "width": 49,
+          "height": 56,
+          "confidence": 93.106155
+        },
+        {
+          "text": "的",
+          "left": 327,
+          "top": 1642,
+          "width": 22,
+          "height": 40,
+          "confidence": 90.567795
+        },
+        {
+          "text": "这",
+          "left": 366,
+          "top": 1642,
+          "width": 28,
+          "height": 40,
+          "confidence": 96.94136
+        },
+        {
+          "text": "个",
+          "left": 408,
+          "top": 1642,
+          "width": 49,
+          "height": 40,
+          "confidence": 96.125618
+        },
+        {
+          "text": "标签",
+          "left": 456,
+          "top": 1642,
+          "width": 81,
+          "height": 40,
+          "confidence": 92.794907
+        },
+        {
+          "text": ".",
+          "left": 530,
+          "top": 1638,
+          "width": 11,
+          "height": 56,
+          "confidence": 87.869492
+        }
+      ]
+    },
+    {
+      "text": "find_all0 的用法和 find(几乎一致. find(查找 1 个. find_all0 查找页",
+      "left": 171,
+      "top": 1730,
+      "right": 1378,
+      "bottom": 1786,
+      "height": 56,
+      "confidence": 82.6118995238095,
+      "words": [
+        {
+          "text": "find_all0",
+          "left": 171,
+          "top": 1734,
+          "width": 619,
+          "height": 45,
+          "confidence": 65.041092
+        },
+        {
+          "text": "的",
+          "left": 349,
+          "top": 1730,
+          "width": 46,
+          "height": 56,
+          "confidence": 91.815895
+        },
+        {
+          "text": "用",
+          "left": 394,
+          "top": 1730,
+          "width": 50,
+          "height": 56,
+          "confidence": 96.46949
+        },
+        {
+          "text": "法",
+          "left": 443,
+          "top": 1730,
+          "width": 39,
+          "height": 56,
+          "confidence": 96.044434
+        },
+        {
+          "text": "和",
+          "left": 482,
+          "top": 1730,
+          "width": 25,
+          "height": 56,
+          "confidence": 96.950119
+        },
+        {
+          "text": "find(",
+          "left": 506,
+          "top": 1730,
+          "width": 106,
+          "height": 56,
+          "confidence": 43.777252
+        },
+        {
+          "text": "几",
+          "left": 611,
+          "top": 1730,
+          "width": 53,
+          "height": 56,
+          "confidence": 82.397964
+        },
+        {
+          "text": "乎",
+          "left": 664,
+          "top": 1730,
+          "width": 49,
+          "height": 56,
+          "confidence": 88.150108
+        },
+        {
+          "text": "一",
+          "left": 713,
+          "top": 1730,
+          "width": 53,
+          "height": 56,
+          "confidence": 93.128746
+        },
+        {
+          "text": "致",
+          "left": 765,
+          "top": 1730,
+          "width": 32,
+          "height": 56,
+          "confidence": 84.273964
+        },
+        {
+          "text": ".",
+          "left": 797,
+          "top": 1730,
+          "width": 7,
+          "height": 56,
+          "confidence": 68.65519
+        },
+        {
+          "text": "find(",
+          "left": 806,
+          "top": 1734,
+          "width": 200,
+          "height": 45,
+          "confidence": 65.411819
+        },
+        {
+          "text": "查",
+          "left": 916,
+          "top": 1730,
+          "width": 49,
+          "height": 56,
+          "confidence": 67.078293
+        },
+        {
+          "text": "找",
+          "left": 965,
+          "top": 1730,
+          "width": 35,
+          "height": 56,
+          "confidence": 91.969238
+        },
+        {
+          "text": "1",
+          "left": 1000,
+          "top": 1730,
+          "width": 32,
+          "height": 56,
+          "confidence": 93.005699
+        },
+        {
+          "text": "个",
+          "left": 1017,
+          "top": 1734,
+          "width": 51,
+          "height": 40,
+          "confidence": 90.265121
+        },
+        {
+          "text": ".",
+          "left": 1063,
+          "top": 1730,
+          "width": 14,
+          "height": 56,
+          "confidence": 92.1679
+        },
+        {
+          "text": "find_all0",
+          "left": 1083,
+          "top": 1734,
+          "width": 292,
+          "height": 45,
+          "confidence": 75.852745
+        },
+        {
+          "text": "查",
+          "left": 1259,
+          "top": 1730,
+          "width": 46,
+          "height": 56,
+          "confidence": 69.684875
+        },
+        {
+          "text": "找",
+          "left": 1304,
+          "top": 1730,
+          "width": 46,
+          "height": 56,
+          "confidence": 90.976189
+        },
+        {
+          "text": "页",
+          "left": 1350,
+          "top": 1730,
+          "width": 28,
+          "height": 56,
+          "confidence": 91.733757
+        }
+      ]
+    },
+    {
+      "text": "面中所有的.",
+      "left": 173,
+      "top": 1800,
+      "right": 402,
+      "bottom": 1859,
+      "height": 59,
+      "confidence": 92.73913816666668,
+      "words": [
+        {
+          "text": "面",
+          "left": 173,
+          "top": 1804,
+          "width": 67,
+          "height": 41,
+          "confidence": 91.602348
+        },
+        {
+          "text": "中",
+          "left": 261,
+          "top": 1804,
+          "width": 17,
+          "height": 40,
+          "confidence": 92.930092
+        },
+        {
+          "text": "所",
+          "left": 283,
+          "top": 1804,
+          "width": 18,
+          "height": 41,
+          "confidence": 96.960304
+        },
+        {
+          "text": "有",
+          "left": 316,
+          "top": 1804,
+          "width": 29,
+          "height": 40,
+          "confidence": 96.957329
+        },
+        {
+          "text": "的",
+          "left": 351,
+          "top": 1804,
+          "width": 49,
+          "height": 40,
+          "confidence": 93.270805
+        },
+        {
+          "text": ".",
+          "left": 386,
+          "top": 1800,
+          "width": 16,
+          "height": 59,
+          "confidence": 84.713951
+        }
+      ]
+    },
+    {
+      "text": "但是这种与法会有些问题. 比如 html 标签中的 class 属性.",
+      "left": 173,
+      "top": 1892,
+      "right": 1228,
+      "bottom": 1949,
+      "height": 57,
+      "confidence": 93.0374815,
+      "words": [
+        {
+          "text": "但",
+          "left": 173,
+          "top": 1896,
+          "width": 214,
+          "height": 41,
+          "confidence": 96.336922
+        },
+        {
+          "text": "是",
+          "left": 233,
+          "top": 1892,
+          "width": 43,
+          "height": 57,
+          "confidence": 95.689537
+        },
+        {
+          "text": "这",
+          "left": 275,
+          "top": 1892,
+          "width": 41,
+          "height": 57,
+          "confidence": 96.954285
+        },
+        {
+          "text": "种",
+          "left": 315,
+          "top": 1896,
+          "width": 54,
+          "height": 41,
+          "confidence": 96.732826
+        },
+        {
+          "text": "与",
+          "left": 394,
+          "top": 1897,
+          "width": 10,
+          "height": 39,
+          "confidence": 79.990852
+        },
+        {
+          "text": "法",
+          "left": 404,
+          "top": 1896,
+          "width": 117,
+          "height": 40,
+          "confidence": 95.013344
+        },
+        {
+          "text": "会",
+          "left": 468,
+          "top": 1892,
+          "width": 36,
+          "height": 57,
+          "confidence": 96.337502
+        },
+        {
+          "text": "有",
+          "left": 503,
+          "top": 1892,
+          "width": 37,
+          "height": 57,
+          "confidence": 93.267151
+        },
+        {
+          "text": "些",
+          "left": 539,
+          "top": 1896,
+          "width": 45,
+          "height": 41,
+          "confidence": 92.386101
+        },
+        {
+          "text": "问",
+          "left": 585,
+          "top": 1898,
+          "width": 23,
+          "height": 38,
+          "confidence": 93.118965
+        },
+        {
+          "text": "题",
+          "left": 632,
+          "top": 1898,
+          "width": 33,
+          "height": 38,
+          "confidence": 93.005005
+        },
+        {
+          "text": ".",
+          "left": 664,
+          "top": 1892,
+          "width": 15,
+          "height": 57,
+          "confidence": 92.795807
+        },
+        {
+          "text": "比如",
+          "left": 706,
+          "top": 1896,
+          "width": 58,
+          "height": 40,
+          "confidence": 96.661819
+        },
+        {
+          "text": "html",
+          "left": 774,
+          "top": 1896,
+          "width": 97,
+          "height": 40,
+          "confidence": 90.941467
+        },
+        {
+          "text": "标",
+          "left": 870,
+          "top": 1896,
+          "width": 51,
+          "height": 40,
+          "confidence": 93.023178
+        },
+        {
+          "text": "签",
+          "left": 920,
+          "top": 1892,
+          "width": 44,
+          "height": 57,
+          "confidence": 91.189957
+        },
+        {
+          "text": "中",
+          "left": 963,
+          "top": 1896,
+          "width": 40,
+          "height": 41,
+          "confidence": 87.223305
+        },
+        {
+          "text": "的",
+          "left": 1005,
+          "top": 1896,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.077087
+        },
+        {
+          "text": "class",
+          "left": 1038,
+          "top": 1900,
+          "width": 92,
+          "height": 33,
+          "confidence": 92.995079
+        },
+        {
+          "text": "属",
+          "left": 1145,
+          "top": 1896,
+          "width": 41,
+          "height": 41,
+          "confidence": 91.248985
+        },
+        {
+          "text": "性",
+          "left": 1191,
+          "top": 1896,
+          "width": 26,
+          "height": 39,
+          "confidence": 93.148094
+        },
+        {
+          "text": ".",
+          "left": 1223,
+          "top": 1927,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.687325
+        }
+      ]
+    }
+  ]
+}

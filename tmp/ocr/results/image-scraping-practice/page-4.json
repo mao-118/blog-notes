@@ -1,0 +1,1069 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/image-scraping-practice/page-4.png",
+  "lines": [
+    {
+      "text": "12",
+      "left": 107,
+      "top": 131,
+      "right": 148,
+      "bottom": 162,
+      "height": 31,
+      "confidence": 90.371323,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 131,
+          "width": 41,
+          "height": 31,
+          "confidence": 90.371323
+        }
+      ]
+    },
+    {
+      "text": "13 for main_a in main_a_list:",
+      "left": 107,
+      "top": 200,
+      "right": 1183,
+      "bottom": 235,
+      "height": 35,
+      "confidence": 88.5482132,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 201,
+          "width": 41,
+          "height": 32,
+          "confidence": 92.823128
+        },
+        {
+          "text": "for",
+          "left": 570,
+          "top": 200,
+          "width": 66,
+          "height": 33,
+          "confidence": 93.143166
+        },
+        {
+          "text": "main_a",
+          "left": 664,
+          "top": 200,
+          "width": 141,
+          "height": 35,
+          "confidence": 92.137939
+        },
+        {
+          "text": "in",
+          "left": 834,
+          "top": 200,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.888794
+        },
+        {
+          "text": "main_a_list:",
+          "left": 905,
+          "top": 200,
+          "width": 278,
+          "height": 35,
+          "confidence": 71.748039
+        }
+      ]
+    },
+    {
+      "text": "14 href = main_a.getC\"href\") #",
+      "left": 107,
+      "top": 270,
+      "right": 1335,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 92.4206558,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 272,
+          "width": 43,
+          "height": 30,
+          "confidence": 96.849945
+        },
+        {
+          "text": "href",
+          "left": 666,
+          "top": 270,
+          "width": 92,
+          "height": 33,
+          "confidence": 95.701378
+        },
+        {
+          "text": "=",
+          "left": 784,
+          "top": 286,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.548897
+        },
+        {
+          "text": "main_a.getC\"href\")",
+          "left": 832,
+          "top": 270,
+          "width": 428,
+          "height": 41,
+          "confidence": 85.128181
+        },
+        {
+          "text": "#",
+          "left": 1313,
+          "top": 272,
+          "width": 22,
+          "height": 30,
+          "confidence": 91.874878
+        }
+      ]
+    },
+    {
+      "text": "拿到某一个标签中 XXX 属性的值",
+      "left": 185,
+      "top": 335,
+      "right": 734,
+      "bottom": 388,
+      "height": 53,
+      "confidence": 86.5148270909091,
+      "words": [
+        {
+          "text": "拿",
+          "left": 185,
+          "top": 339,
+          "width": 36,
+          "height": 37,
+          "confidence": 87.973305
+        },
+        {
+          "text": "到",
+          "left": 240,
+          "top": 339,
+          "width": 20,
+          "height": 37,
+          "confidence": 92.929405
+        },
+        {
+          "text": "某",
+          "left": 277,
+          "top": 339,
+          "width": 24,
+          "height": 37,
+          "confidence": 87.518768
+        },
+        {
+          "text": "一",
+          "left": 320,
+          "top": 356,
+          "width": 21,
+          "height": 3,
+          "confidence": 96.290497
+        },
+        {
+          "text": "个",
+          "left": 359,
+          "top": 339,
+          "width": 23,
+          "height": 37,
+          "confidence": 96.946007
+        },
+        {
+          "text": "标签",
+          "left": 399,
+          "top": 339,
+          "width": 91,
+          "height": 37,
+          "confidence": 96.581993
+        },
+        {
+          "text": "中",
+          "left": 489,
+          "top": 335,
+          "width": 27,
+          "height": 53,
+          "confidence": 96.737968
+        },
+        {
+          "text": "XXX",
+          "left": 515,
+          "top": 335,
+          "width": 59,
+          "height": 53,
+          "confidence": 55.399937
+        },
+        {
+          "text": "属性",
+          "left": 585,
+          "top": 339,
+          "width": 69,
+          "height": 37,
+          "confidence": 60.817032
+        },
+        {
+          "text": "的",
+          "left": 671,
+          "top": 339,
+          "width": 21,
+          "height": 37,
+          "confidence": 93.119446
+        },
+        {
+          "text": "值",
+          "left": 711,
+          "top": 339,
+          "width": 23,
+          "height": 37,
+          "confidence": 87.34874
+        }
+      ]
+    },
+    {
+      "text": "15 f.writeChref)",
+      "left": 107,
+      "top": 410,
+      "right": 972,
+      "bottom": 449,
+      "height": 39,
+      "confidence": 90.21858733333333,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 412,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.94101
+        },
+        {
+          "text": "f",
+          "left": 666,
+          "top": 410,
+          "width": 20,
+          "height": 32,
+          "confidence": 86.857376
+        },
+        {
+          "text": ".writeChref)",
+          "left": 696,
+          "top": 410,
+          "width": 276,
+          "height": 39,
+          "confidence": 86.857376
+        }
+      ]
+    },
+    {
+      "text": "16 f.writeC\"\\n\")",
+      "left": 107,
+      "top": 480,
+      "right": 972,
+      "bottom": 519,
+      "height": 39,
+      "confidence": 81.69586199999999,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 481,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.891594
+        },
+        {
+          "text": "f",
+          "left": 666,
+          "top": 480,
+          "width": 20,
+          "height": 32,
+          "confidence": 74.731659
+        },
+        {
+          "text": ".writeC\"\\n\")",
+          "left": 696,
+          "top": 480,
+          "width": 276,
+          "height": 39,
+          "confidence": 73.464333
+        }
+      ]
+    },
+    {
+      "text": "17",
+      "left": 107,
+      "top": 553,
+      "right": 149,
+      "bottom": 583,
+      "height": 30,
+      "confidence": 96.696381,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 553,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.696381
+        }
+      ]
+    },
+    {
+      "text": "printCf\"https://ww.umei.cc/bizhitupian/weimeibi",
+      "left": 210,
+      "top": 621,
+      "right": 1355,
+      "bottom": 662,
+      "height": 41,
+      "confidence": 26.621485,
+      "words": [
+        {
+          "text": "printCf\"https://ww.umei.cc/bizhitupian/weimeibi",
+          "left": 210,
+          "top": 621,
+          "width": 1145,
+          "height": 41,
+          "confidence": 26.621485
+        }
+      ]
+    },
+    {
+      "text": "zhi/{i}.htm, pkINy!\")",
+      "left": 186,
+      "top": 690,
+      "right": 683,
+      "bottom": 731,
+      "height": 41,
+      "confidence": 42.605587,
+      "words": [
+        {
+          "text": "zhi/{i}.htm,",
+          "left": 186,
+          "top": 691,
+          "width": 277,
+          "height": 40,
+          "confidence": 85.211174
+        },
+        {
+          "text": "pkINy!\")",
+          "left": 498,
+          "top": 690,
+          "width": 185,
+          "height": 40,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "18 time.sleep(@.5)",
+      "left": 107,
+      "top": 761,
+      "right": 924,
+      "bottom": 802,
+      "height": 41,
+      "confidence": 75.235416,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 762,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.829208
+        },
+        {
+          "text": "time.sleep(@.5)",
+          "left": 569,
+          "top": 761,
+          "width": 355,
+          "height": 41,
+          "confidence": 53.641624
+        }
+      ]
+    },
+    {
+      "text": "19 except:",
+      "left": 107,
+      "top": 832,
+      "right": 630,
+      "bottom": 872,
+      "height": 40,
+      "confidence": 96.62933000000001,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 832,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.619347
+        },
+        {
+          "text": "except:",
+          "left": 474,
+          "top": 834,
+          "width": 156,
+          "height": 38,
+          "confidence": 96.639313
+        }
+      ]
+    },
+    {
+      "text": "20",
+      "left": 106,
+      "top": 902,
+      "right": 149,
+      "bottom": 934,
+      "height": 32,
+      "confidence": 96.572029,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 902,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.572029
+        }
+      ]
+    },
+    {
+      "text": "printCf\"https://ww.umei.cc/bizhitupian/weimeibi",
+      "left": 210,
+      "top": 971,
+      "right": 1355,
+      "bottom": 1012,
+      "height": 41,
+      "confidence": 26.621485,
+      "words": [
+        {
+          "text": "printCf\"https://ww.umei.cc/bizhitupian/weimeibi",
+          "left": 210,
+          "top": 971,
+          "width": 1145,
+          "height": 41,
+          "confidence": 26.621485
+        }
+      ]
+    },
+    {
+      "text": "zhi/{i}.htm, Wes\")",
+      "left": 186,
+      "top": 1040,
+      "right": 659,
+      "bottom": 1081,
+      "height": 41,
+      "confidence": 71.48328000000001,
+      "words": [
+        {
+          "text": "zhi/{i}.htm,",
+          "left": 186,
+          "top": 1041,
+          "width": 277,
+          "height": 40,
+          "confidence": 89.008255
+        },
+        {
+          "text": "Wes\")",
+          "left": 500,
+          "top": 1040,
+          "width": 159,
+          "height": 40,
+          "confidence": 53.958305
+        }
+      ]
+    },
+    {
+      "text": "21 printCresp.text)",
+      "left": 106,
+      "top": 1111,
+      "right": 948,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 92.491928,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 1112,
+          "width": 43,
+          "height": 31,
+          "confidence": 96.627365
+        },
+        {
+          "text": "printCresp.text)",
+          "left": 570,
+          "top": 1111,
+          "width": 378,
+          "height": 41,
+          "confidence": 88.356491
+        }
+      ]
+    },
+    {
+      "text": "22 break # 也可以记录下来， 供以后查错用",
+      "left": 106,
+      "top": 1176,
+      "right": 1348,
+      "bottom": 1230,
+      "height": 54,
+      "confidence": 93.78658449999998,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 1182,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.981728
+        },
+        {
+          "text": "break",
+          "left": 570,
+          "top": 1181,
+          "width": 116,
+          "height": 33,
+          "confidence": 85.699303
+        },
+        {
+          "text": "#",
+          "left": 736,
+          "top": 1183,
+          "width": 22,
+          "height": 30,
+          "confidence": 85.699303
+        },
+        {
+          "text": "也",
+          "left": 795,
+          "top": 1180,
+          "width": 27,
+          "height": 36,
+          "confidence": 96.849091
+        },
+        {
+          "text": "可",
+          "left": 836,
+          "top": 1183,
+          "width": 26,
+          "height": 34,
+          "confidence": 96.367035
+        },
+        {
+          "text": "以",
+          "left": 879,
+          "top": 1180,
+          "width": 38,
+          "height": 36,
+          "confidence": 96.855675
+        },
+        {
+          "text": "记录",
+          "left": 920,
+          "top": 1180,
+          "width": 160,
+          "height": 41,
+          "confidence": 95.396439
+        },
+        {
+          "text": "下",
+          "left": 994,
+          "top": 1176,
+          "width": 55,
+          "height": 54,
+          "confidence": 96.58091
+        },
+        {
+          "text": "来",
+          "left": 1048,
+          "top": 1176,
+          "width": 45,
+          "height": 54,
+          "confidence": 92.765739
+        },
+        {
+          "text": "，",
+          "left": 1113,
+          "top": 1180,
+          "width": 10,
+          "height": 37,
+          "confidence": 92.425705
+        },
+        {
+          "text": "供",
+          "left": 1125,
+          "top": 1180,
+          "width": 49,
+          "height": 37,
+          "confidence": 92.254265
+        },
+        {
+          "text": "以",
+          "left": 1194,
+          "top": 1181,
+          "width": 20,
+          "height": 36,
+          "confidence": 96.824684
+        },
+        {
+          "text": "后",
+          "left": 1214,
+          "top": 1176,
+          "width": 38,
+          "height": 54,
+          "confidence": 93.170273
+        },
+        {
+          "text": "查",
+          "left": 1251,
+          "top": 1180,
+          "width": 38,
+          "height": 36,
+          "confidence": 92.908318
+        },
+        {
+          "text": "错",
+          "left": 1289,
+          "top": 1180,
+          "width": 22,
+          "height": 37,
+          "confidence": 93.188522
+        },
+        {
+          "text": "用",
+          "left": 1325,
+          "top": 1182,
+          "width": 23,
+          "height": 34,
+          "confidence": 96.618362
+        }
+      ]
+    },
+    {
+      "text": "23",
+      "left": 106,
+      "top": 1252,
+      "right": 148,
+      "bottom": 1284,
+      "height": 32,
+      "confidence": 91.882309,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 1252,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.882309
+        }
+      ]
+    },
+    {
+      "text": "2. 获取到子页面信息, 找到下载图片的图片路径",
+      "left": 93,
+      "top": 1368,
+      "right": 1109,
+      "bottom": 1436,
+      "height": 68,
+      "confidence": 92.78775263157894,
+      "words": [
+        {
+          "text": "2.",
+          "left": 93,
+          "top": 1376,
+          "width": 39,
+          "height": 39,
+          "confidence": 92.919159
+        },
+        {
+          "text": "获",
+          "left": 152,
+          "top": 1372,
+          "width": 30,
+          "height": 48,
+          "confidence": 92.629128
+        },
+        {
+          "text": "取",
+          "left": 203,
+          "top": 1374,
+          "width": 29,
+          "height": 46,
+          "confidence": 93.155655
+        },
+        {
+          "text": "到",
+          "left": 246,
+          "top": 1372,
+          "width": 35,
+          "height": 48,
+          "confidence": 88.105614
+        },
+        {
+          "text": "子",
+          "left": 301,
+          "top": 1374,
+          "width": 30,
+          "height": 46,
+          "confidence": 87.010132
+        },
+        {
+          "text": "页",
+          "left": 356,
+          "top": 1374,
+          "width": 25,
+          "height": 47,
+          "confidence": 92.966751
+        },
+        {
+          "text": "面",
+          "left": 407,
+          "top": 1374,
+          "width": 25,
+          "height": 47,
+          "confidence": 92.997749
+        },
+        {
+          "text": "信息",
+          "left": 454,
+          "top": 1372,
+          "width": 77,
+          "height": 49,
+          "confidence": 93.290039
+        },
+        {
+          "text": ",",
+          "left": 534,
+          "top": 1407,
+          "width": 9,
+          "height": 16,
+          "confidence": 92.716705
+        },
+        {
+          "text": "找到",
+          "left": 582,
+          "top": 1372,
+          "width": 75,
+          "height": 48,
+          "confidence": 96.912735
+        },
+        {
+          "text": "下",
+          "left": 671,
+          "top": 1374,
+          "width": 36,
+          "height": 47,
+          "confidence": 93.077362
+        },
+        {
+          "text": "载",
+          "left": 726,
+          "top": 1372,
+          "width": 32,
+          "height": 48,
+          "confidence": 92.065872
+        },
+        {
+          "text": "图",
+          "left": 781,
+          "top": 1374,
+          "width": 25,
+          "height": 47,
+          "confidence": 93.071342
+        },
+        {
+          "text": "片",
+          "left": 832,
+          "top": 1372,
+          "width": 56,
+          "height": 49,
+          "confidence": 93.147644
+        },
+        {
+          "text": "的",
+          "left": 888,
+          "top": 1368,
+          "width": 47,
+          "height": 68,
+          "confidence": 96.972084
+        },
+        {
+          "text": "图",
+          "left": 934,
+          "top": 1372,
+          "width": 52,
+          "height": 49,
+          "confidence": 93.237358
+        },
+        {
+          "text": "片",
+          "left": 1011,
+          "top": 1372,
+          "width": 26,
+          "height": 48,
+          "confidence": 93.200104
+        },
+        {
+          "text": "路",
+          "left": 1061,
+          "top": 1372,
+          "width": 16,
+          "height": 48,
+          "confidence": 93.223518
+        },
+        {
+          "text": "径",
+          "left": 1079,
+          "top": 1374,
+          "width": 30,
+          "height": 46,
+          "confidence": 92.268349
+        }
+      ]
+    },
+    {
+      "text": "1 def child_page():",
+      "left": 131,
+      "top": 1534,
+      "right": 582,
+      "bottom": 1575,
+      "height": 41,
+      "confidence": 90.56835699999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 1536,
+          "width": 18,
+          "height": 30,
+          "confidence": 95.723885
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 1534,
+          "width": 69,
+          "height": 33,
+          "confidence": 92.316666
+        },
+        {
+          "text": "child_page():",
+          "left": 282,
+          "top": 1534,
+          "width": 300,
+          "height": 41,
+          "confidence": 83.66452
+        }
+      ]
+    },
+    {
+      "text": "2 with openC\"child_page_href.txt\", mode=\"r\") as",
+      "left": 130,
+      "top": 1604,
+      "right": 1357,
+      "bottom": 1645,
+      "height": 41,
+      "confidence": 92.1789508,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 1605,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.693512
+        },
+        {
+          "text": "with",
+          "left": 280,
+          "top": 1604,
+          "width": 92,
+          "height": 33,
+          "confidence": 93.114319
+        },
+        {
+          "text": "openC\"child_page_href.txt\",",
+          "left": 401,
+          "top": 1604,
+          "width": 639,
+          "height": 41,
+          "confidence": 86.252625
+        },
+        {
+          "text": "mode=\"r\")",
+          "left": 1073,
+          "top": 1604,
+          "width": 211,
+          "height": 39,
+          "confidence": 88.16404
+        },
+        {
+          "text": "as",
+          "left": 1314,
+          "top": 1614,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.670258
+        }
+      ]
+    },
+    {
+      "text": "f:",
+      "left": 186,
+      "top": 1674,
+      "right": 222,
+      "bottom": 1707,
+      "height": 33,
+      "confidence": 80.435249,
+      "words": [
+        {
+          "text": "f:",
+          "left": 186,
+          "top": 1674,
+          "width": 36,
+          "height": 33,
+          "confidence": 80.435249
+        }
+      ]
+    },
+    {
+      "text": "3 for line in f:",
+      "left": 130,
+      "top": 1744,
+      "right": 702,
+      "bottom": 1777,
+      "height": 33,
+      "confidence": 87.90000300000001,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 1745,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.700478
+        },
+        {
+          "text": "for",
+          "left": 378,
+          "top": 1744,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.512764
+        },
+        {
+          "text": "line",
+          "left": 473,
+          "top": 1744,
+          "width": 92,
+          "height": 33,
+          "confidence": 63.954071
+        },
+        {
+          "text": "in",
+          "left": 594,
+          "top": 1744,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.166351
+        },
+        {
+          "text": "f:",
+          "left": 666,
+          "top": 1744,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.166351
+        }
+      ]
+    },
+    {
+      "text": "4 Line = Line.stripQ",
+      "left": 128,
+      "top": 1814,
+      "right": 924,
+      "bottom": 1855,
+      "height": 41,
+      "confidence": 84.24524324999999,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 1816,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.437714
+        },
+        {
+          "text": "Line",
+          "left": 473,
+          "top": 1814,
+          "width": 92,
+          "height": 33,
+          "confidence": 73.136299
+        },
+        {
+          "text": "=",
+          "left": 592,
+          "top": 1830,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.220665
+        },
+        {
+          "text": "Line.stripQ",
+          "left": 641,
+          "top": 1814,
+          "width": 283,
+          "height": 41,
+          "confidence": 74.186295
+        }
+      ]
+    },
+    {
+      "text": "5 resp = requests.get(Line)",
+      "left": 130,
+      "top": 1884,
+      "right": 1068,
+      "bottom": 1925,
+      "height": 41,
+      "confidence": 84.10284875,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 1886,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.205978
+        },
+        {
+          "text": "resp",
+          "left": 476,
+          "top": 1894,
+          "width": 89,
+          "height": 31,
+          "confidence": 96.367462
+        },
+        {
+          "text": "=",
+          "left": 592,
+          "top": 1900,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.831024
+        },
+        {
+          "text": "requests.get(Line)",
+          "left": 644,
+          "top": 1884,
+          "width": 424,
+          "height": 41,
+          "confidence": 51.006931
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1136 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/ebook-scraping/page-2.png",
+  "lines": [
+    {
+      "text": "13 url =",
+      "left": 107,
+      "top": 130,
+      "right": 398,
+      "bottom": 163,
+      "height": 33,
+      "confidence": 94.55289466666666,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 131,
+          "width": 41,
+          "height": 32,
+          "confidence": 92.823128
+        },
+        {
+          "text": "url",
+          "left": 282,
+          "top": 130,
+          "width": 65,
+          "height": 33,
+          "confidence": 95.002846
+        },
+        {
+          "text": "=",
+          "left": 376,
+          "top": 146,
+          "width": 22,
+          "height": 11,
+          "confidence": 95.83271
+        }
+      ]
+    },
+    {
+      "text": "f\"http://dushu.baidu.com/api/pc/getChapterContent",
+      "left": 186,
+      "top": 200,
+      "right": 1357,
+      "bottom": 241,
+      "height": 41,
+      "confidence": 50.280922,
+      "words": [
+        {
+          "text": "f\"http://dushu.baidu.com/api/pc/getChapterContent",
+          "left": 186,
+          "top": 200,
+          "width": 1171,
+          "height": 41,
+          "confidence": 50.280922
+        }
+      ]
+    },
+    {
+      "text": "?data={json.dumps(params)}\"",
+      "left": 187,
+      "top": 270,
+      "right": 826,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 80.347137,
+      "words": [
+        {
+          "text": "?data={json.dumps(params)}\"",
+          "left": 187,
+          "top": 270,
+          "width": 639,
+          "height": 41,
+          "confidence": 80.347137
+        }
+      ]
+    },
+    {
+      "text": "14 async with session.getCurLl) as resp:",
+      "left": 107,
+      "top": 340,
+      "right": 1135,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 88.5796255,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 342,
+          "width": 43,
+          "height": 30,
+          "confidence": 96.849945
+        },
+        {
+          "text": "async",
+          "left": 281,
+          "top": 350,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.1409
+        },
+        {
+          "text": "with",
+          "left": 423,
+          "top": 340,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.298233
+        },
+        {
+          "text": "session.getCurLl)",
+          "left": 546,
+          "top": 340,
+          "width": 378,
+          "height": 41,
+          "confidence": 52.640831
+        },
+        {
+          "text": "as",
+          "left": 954,
+          "top": 350,
+          "width": 43,
+          "height": 23,
+          "confidence": 95.896957
+        },
+        {
+          "text": "resp:",
+          "left": 1029,
+          "top": 349,
+          "width": 106,
+          "height": 32,
+          "confidence": 96.650887
+        }
+      ]
+    },
+    {
+      "text": "15 dic = await resp. json(c)",
+      "left": 107,
+      "top": 406,
+      "right": 924,
+      "bottom": 455,
+      "height": 49,
+      "confidence": 63.14763633333333,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 412,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.947357
+        },
+        {
+          "text": "dic",
+          "left": 377,
+          "top": 410,
+          "width": 68,
+          "height": 33,
+          "confidence": 96.748634
+        },
+        {
+          "text": "=",
+          "left": 472,
+          "top": 426,
+          "width": 22,
+          "height": 11,
+          "confidence": 95.751747
+        },
+        {
+          "text": "await",
+          "left": 521,
+          "top": 410,
+          "width": 115,
+          "height": 33,
+          "confidence": 89.43808
+        },
+        {
+          "text": "resp.",
+          "left": 668,
+          "top": 419,
+          "width": 106,
+          "height": 32,
+          "confidence": 0.0
+        },
+        {
+          "text": "json(c)",
+          "left": 786,
+          "top": 406,
+          "width": 138,
+          "height": 49,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "16 with open(f\"novel/{titLle}.txt\", mode=\"w\",",
+      "left": 107,
+      "top": 480,
+      "right": 1352,
+      "bottom": 521,
+      "height": 41,
+      "confidence": 79.881899,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 481,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.625435
+        },
+        {
+          "text": "with",
+          "left": 375,
+          "top": 480,
+          "width": 93,
+          "height": 33,
+          "confidence": 91.109344
+        },
+        {
+          "text": "open(f\"novel/{titLle}.txt\",",
+          "left": 497,
+          "top": 480,
+          "width": 615,
+          "height": 41,
+          "confidence": 43.198502
+        },
+        {
+          "text": "mode=\"w\",",
+          "left": 1145,
+          "top": 480,
+          "width": 207,
+          "height": 40,
+          "confidence": 88.594315
+        }
+      ]
+    },
+    {
+      "text": "encoding=\"utf-8\") as f:",
+      "left": 185,
+      "top": 551,
+      "right": 726,
+      "bottom": 592,
+      "height": 41,
+      "confidence": 91.58917233333334,
+      "words": [
+        {
+          "text": "encoding=\"utf-8\")",
+          "left": 185,
+          "top": 551,
+          "width": 402,
+          "height": 41,
+          "confidence": 90.499908
+        },
+        {
+          "text": "as",
+          "left": 617,
+          "top": 561,
+          "width": 43,
+          "height": 23,
+          "confidence": 93.157822
+        },
+        {
+          "text": "f:",
+          "left": 690,
+          "top": 551,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.109787
+        }
+      ]
+    },
+    {
+      "text": "17 f.writeCdic['data']['novel']",
+      "left": 107,
+      "top": 621,
+      "right": 1137,
+      "bottom": 660,
+      "height": 39,
+      "confidence": 55.59371300000001,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 623,
+          "width": 43,
+          "height": 30,
+          "confidence": 96.675476
+        },
+        {
+          "text": "f",
+          "left": 474,
+          "top": 621,
+          "width": 20,
+          "height": 32,
+          "confidence": 88.622292
+        },
+        {
+          "text": ".writeCdic[",
+          "left": 513,
+          "top": 621,
+          "width": 243,
+          "height": 39,
+          "confidence": 18.538542
+        },
+        {
+          "text": "'data']['novel']",
+          "left": 768,
+          "top": 621,
+          "width": 369,
+          "height": 39,
+          "confidence": 18.538542
+        }
+      ]
+    },
+    {
+      "text": "['content'].replaceC\"\\n\",))",
+      "left": 190,
+      "top": 691,
+      "right": 900,
+      "bottom": 732,
+      "height": 41,
+      "confidence": 64.019985,
+      "words": [
+        {
+          "text": "['content'].replaceC\"\\n\",",
+          "left": 190,
+          "top": 691,
+          "width": 585,
+          "height": 41,
+          "confidence": 41.967834
+        },
+        {
+          "text": "))",
+          "left": 812,
+          "top": 691,
+          "width": 88,
+          "height": 39,
+          "confidence": 86.072136
+        }
+      ]
+    },
+    {
+      "text": "18 return f\"{title}, OK!\"",
+      "left": 107,
+      "top": 761,
+      "right": 802,
+      "bottom": 801,
+      "height": 40,
+      "confidence": 92.87484925,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 762,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.829208
+        },
+        {
+          "text": "return",
+          "left": 284,
+          "top": 764,
+          "width": 136,
+          "height": 30,
+          "confidence": 93.082275
+        },
+        {
+          "text": "f\"{title},",
+          "left": 450,
+          "top": 761,
+          "width": 229,
+          "height": 40,
+          "confidence": 89.141022
+        },
+        {
+          "text": "OK!\"",
+          "left": 712,
+          "top": 761,
+          "width": 90,
+          "height": 33,
+          "confidence": 92.446892
+        }
+      ]
+    },
+    {
+      "text": "19",
+      "left": 107,
+      "top": 832,
+      "right": 149,
+      "bottom": 864,
+      "height": 32,
+      "confidence": 95.717537,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 832,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.717537
+        }
+      ]
+    },
+    {
+      "text": "20",
+      "left": 106,
+      "top": 902,
+      "right": 150,
+      "bottom": 934,
+      "height": 32,
+      "confidence": 96.796654,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 902,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.796654
+        }
+      ]
+    },
+    {
+      "text": "21 async def main():",
+      "left": 106,
+      "top": 971,
+      "right": 582,
+      "bottom": 1012,
+      "height": 41,
+      "confidence": 91.22778500000001,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 972,
+          "width": 43,
+          "height": 31,
+          "confidence": 96.218353
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 981,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.018448
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 971,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.210411
+        },
+        {
+          "text": "main():",
+          "left": 424,
+          "top": 971,
+          "width": 158,
+          "height": 39,
+          "confidence": 79.463928
+        }
+      ]
+    },
+    {
+      "text": "22 # 准备首页 Url",
+      "left": 106,
+      "top": 1036,
+      "right": 554,
+      "bottom": 1090,
+      "height": 54,
+      "confidence": 90.7095904,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 1042,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.573624
+        },
+        {
+          "text": "#",
+          "left": 280,
+          "top": 1043,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.172531
+        },
+        {
+          "text": "准备",
+          "left": 340,
+          "top": 1040,
+          "width": 65,
+          "height": 37,
+          "confidence": 91.715874
+        },
+        {
+          "text": "首页",
+          "left": 424,
+          "top": 1036,
+          "width": 75,
+          "height": 54,
+          "confidence": 96.660706
+        },
+        {
+          "text": "Url",
+          "left": 498,
+          "top": 1041,
+          "width": 56,
+          "height": 33,
+          "confidence": 76.425217
+        }
+      ]
+    },
+    {
+      "text": "23 gid = 4306063500 # 百度小说的书籍 1d",
+      "left": 106,
+      "top": 1106,
+      "right": 1135,
+      "bottom": 1158,
+      "height": 52,
+      "confidence": 87.63095936363636,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 1112,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.90992
+        },
+        {
+          "text": "gid",
+          "left": 281,
+          "top": 1111,
+          "width": 67,
+          "height": 41,
+          "confidence": 96.736366
+        },
+        {
+          "text": "=",
+          "left": 376,
+          "top": 1127,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.849831
+        },
+        {
+          "text": "4306063500",
+          "left": 428,
+          "top": 1111,
+          "width": 278,
+          "height": 33,
+          "confidence": 77.879532
+        },
+        {
+          "text": "#",
+          "left": 760,
+          "top": 1113,
+          "width": 22,
+          "height": 30,
+          "confidence": 77.879532
+        },
+        {
+          "text": "百度",
+          "left": 810,
+          "top": 1110,
+          "width": 323,
+          "height": 37,
+          "confidence": 96.071945
+        },
+        {
+          "text": "小",
+          "left": 907,
+          "top": 1106,
+          "width": 40,
+          "height": 52,
+          "confidence": 96.286224
+        },
+        {
+          "text": "说",
+          "left": 946,
+          "top": 1106,
+          "width": 40,
+          "height": 52,
+          "confidence": 96.815041
+        },
+        {
+          "text": "的",
+          "left": 985,
+          "top": 1106,
+          "width": 40,
+          "height": 52,
+          "confidence": 96.355881
+        },
+        {
+          "text": "书籍",
+          "left": 1024,
+          "top": 1106,
+          "width": 76,
+          "height": 52,
+          "confidence": 95.628586
+        },
+        {
+          "text": "1d",
+          "left": 1099,
+          "top": 1106,
+          "width": 36,
+          "height": 52,
+          "confidence": 40.527695
+        }
+      ]
+    },
+    {
+      "text": "24 url =",
+      "left": 106,
+      "top": 1181,
+      "right": 398,
+      "bottom": 1214,
+      "height": 33,
+      "confidence": 95.83793633333335,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 1182,
+          "width": 44,
+          "height": 31,
+          "confidence": 96.708061
+        },
+        {
+          "text": "url",
+          "left": 282,
+          "top": 1181,
+          "width": 65,
+          "height": 33,
+          "confidence": 95.002846
+        },
+        {
+          "text": "=",
+          "left": 376,
+          "top": 1197,
+          "width": 22,
+          "height": 11,
+          "confidence": 95.802902
+        }
+      ]
+    },
+    {
+      "text": "f'http://dushu.baidu.com/api/pc/getCatalog?data=",
+      "left": 186,
+      "top": 1251,
+      "right": 1335,
+      "bottom": 1292,
+      "height": 41,
+      "confidence": 45.239647,
+      "words": [
+        {
+          "text": "f'http://dushu.baidu.com/api/pc/getCatalog?data=",
+          "left": 186,
+          "top": 1251,
+          "width": 1149,
+          "height": 41,
+          "confidence": 45.239647
+        }
+      ]
+    },
+    {
+      "text": "{{\"book_id\":\"{gid}\"}}'",
+      "left": 187,
+      "top": 1321,
+      "right": 702,
+      "bottom": 1362,
+      "height": 41,
+      "confidence": 36.442417,
+      "words": [
+        {
+          "text": "{{\"book_id\":\"{gid}\"}}'",
+          "left": 187,
+          "top": 1321,
+          "width": 515,
+          "height": 41,
+          "confidence": 36.442417
+        }
+      ]
+    },
+    {
+      "text": "25 # 此时还没有其他任务会和该任务一起并行执行. 所以完全",
+      "left": 106,
+      "top": 1386,
+      "right": 1334,
+      "bottom": 1440,
+      "height": 54,
+      "confidence": 95.11332004545456,
+      "words": [
+        {
+          "text": "25",
+          "left": 106,
+          "top": 1392,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.619446
+        },
+        {
+          "text": "#",
+          "left": 280,
+          "top": 1393,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.445236
+        },
+        {
+          "text": "此",
+          "left": 340,
+          "top": 1391,
+          "width": 25,
+          "height": 35,
+          "confidence": 96.789352
+        },
+        {
+          "text": "时",
+          "left": 380,
+          "top": 1391,
+          "width": 26,
+          "height": 36,
+          "confidence": 95.257256
+        },
+        {
+          "text": "还",
+          "left": 424,
+          "top": 1391,
+          "width": 48,
+          "height": 36,
+          "confidence": 96.76963
+        },
+        {
+          "text": "没有",
+          "left": 489,
+          "top": 1386,
+          "width": 54,
+          "height": 54,
+          "confidence": 96.787102
+        },
+        {
+          "text": "其",
+          "left": 542,
+          "top": 1390,
+          "width": 24,
+          "height": 37,
+          "confidence": 96.259422
+        },
+        {
+          "text": "他",
+          "left": 583,
+          "top": 1390,
+          "width": 23,
+          "height": 37,
+          "confidence": 96.920868
+        },
+        {
+          "text": "任务",
+          "left": 623,
+          "top": 1390,
+          "width": 92,
+          "height": 37,
+          "confidence": 96.628151
+        },
+        {
+          "text": "会",
+          "left": 714,
+          "top": 1386,
+          "width": 32,
+          "height": 54,
+          "confidence": 93.759995
+        },
+        {
+          "text": "和",
+          "left": 745,
+          "top": 1391,
+          "width": 19,
+          "height": 36,
+          "confidence": 97.021332
+        },
+        {
+          "text": "该",
+          "left": 782,
+          "top": 1390,
+          "width": 48,
+          "height": 37,
+          "confidence": 96.614876
+        },
+        {
+          "text": "任务",
+          "left": 829,
+          "top": 1386,
+          "width": 57,
+          "height": 54,
+          "confidence": 96.885086
+        },
+        {
+          "text": "一",
+          "left": 907,
+          "top": 1390,
+          "width": 41,
+          "height": 37,
+          "confidence": 96.101509
+        },
+        {
+          "text": "起",
+          "left": 947,
+          "top": 1386,
+          "width": 35,
+          "height": 54,
+          "confidence": 96.544662
+        },
+        {
+          "text": "并",
+          "left": 981,
+          "top": 1390,
+          "width": 25,
+          "height": 37,
+          "confidence": 93.199623
+        },
+        {
+          "text": "行",
+          "left": 1025,
+          "top": 1390,
+          "width": 45,
+          "height": 37,
+          "confidence": 91.773956
+        },
+        {
+          "text": "执行",
+          "left": 1090,
+          "top": 1391,
+          "width": 53,
+          "height": 36,
+          "confidence": 87.526466
+        },
+        {
+          "text": ".",
+          "left": 1153,
+          "top": 1386,
+          "width": 14,
+          "height": 54,
+          "confidence": 88.902061
+        },
+        {
+          "text": "所",
+          "left": 1190,
+          "top": 1391,
+          "width": 24,
+          "height": 36,
+          "confidence": 96.992943
+        },
+        {
+          "text": "以",
+          "left": 1231,
+          "top": 1390,
+          "width": 23,
+          "height": 36,
+          "confidence": 96.875748
+        },
+        {
+          "text": "完全",
+          "left": 1271,
+          "top": 1390,
+          "width": 63,
+          "height": 37,
+          "confidence": 95.818321
+        }
+      ]
+    },
+    {
+      "text": "没必要用异步 ~",
+      "left": 185,
+      "top": 1456,
+      "right": 448,
+      "bottom": 1510,
+      "height": 54,
+      "confidence": 93.98418300000002,
+      "words": [
+        {
+          "text": "没",
+          "left": 185,
+          "top": 1461,
+          "width": 36,
+          "height": 36,
+          "confidence": 92.525078
+        },
+        {
+          "text": "必",
+          "left": 238,
+          "top": 1461,
+          "width": 23,
+          "height": 36,
+          "confidence": 93.241493
+        },
+        {
+          "text": "要",
+          "left": 275,
+          "top": 1462,
+          "width": 26,
+          "height": 35,
+          "confidence": 96.40097
+        },
+        {
+          "text": "用",
+          "left": 316,
+          "top": 1462,
+          "width": 23,
+          "height": 34,
+          "confidence": 96.569527
+        },
+        {
+          "text": "异步",
+          "left": 345,
+          "top": 1460,
+          "width": 101,
+          "height": 37,
+          "confidence": 88.290459
+        },
+        {
+          "text": "~",
+          "left": 430,
+          "top": 1456,
+          "width": 18,
+          "height": 54,
+          "confidence": 96.877571
+        }
+      ]
+    },
+    {
+      "text": "26 resp = requests.getCurlL)",
+      "left": 106,
+      "top": 1532,
+      "right": 851,
+      "bottom": 1573,
+      "height": 41,
+      "confidence": 77.55949375,
+      "words": [
+        {
+          "text": "26",
+          "left": 106,
+          "top": 1533,
+          "width": 44,
+          "height": 32,
+          "confidence": 91.610802
+        },
+        {
+          "text": "resp",
+          "left": 284,
+          "top": 1541,
+          "width": 89,
+          "height": 32,
+          "confidence": 95.684845
+        },
+        {
+          "text": "=",
+          "left": 400,
+          "top": 1548,
+          "width": 22,
+          "height": 11,
+          "confidence": 95.342392
+        },
+        {
+          "text": "requests.getCurlL)",
+          "left": 452,
+          "top": 1532,
+          "width": 399,
+          "height": 41,
+          "confidence": 27.599936
+        }
+      ]
+    },
+    {
+      "text": "27 dic = resp.json()",
+      "left": 106,
+      "top": 1602,
+      "right": 683,
+      "bottom": 1643,
+      "height": 41,
+      "confidence": 77.12893475,
+      "words": [
+        {
+          "text": "27",
+          "left": 106,
+          "top": 1603,
+          "width": 44,
+          "height": 31,
+          "confidence": 92.904655
+        },
+        {
+          "text": "dic",
+          "left": 281,
+          "top": 1602,
+          "width": 68,
+          "height": 33,
+          "confidence": 96.863182
+        },
+        {
+          "text": "=",
+          "left": 376,
+          "top": 1618,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.025017
+        },
+        {
+          "text": "resp.json()",
+          "left": 428,
+          "top": 1602,
+          "width": 255,
+          "height": 41,
+          "confidence": 25.722885
+        }
+      ]
+    },
+    {
+      "text": "28 tasks = []",
+      "left": 106,
+      "top": 1672,
+      "right": 512,
+      "bottom": 1711,
+      "height": 39,
+      "confidence": 94.3188725,
+      "words": [
+        {
+          "text": "28",
+          "left": 106,
+          "top": 1673,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.557152
+        },
+        {
+          "text": "tasks",
+          "left": 281,
+          "top": 1672,
+          "width": 115,
+          "height": 33,
+          "confidence": 95.254486
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 1688,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.303406
+        },
+        {
+          "text": "[]",
+          "left": 478,
+          "top": 1672,
+          "width": 34,
+          "height": 39,
+          "confidence": 92.160446
+        }
+      ]
+    },
+    {
+      "text": "29 async with aiohttp.ClientSession() as",
+      "left": 106,
+      "top": 1742,
+      "right": 1165,
+      "bottom": 1783,
+      "height": 41,
+      "confidence": 91.1294676,
+      "words": [
+        {
+          "text": "29",
+          "left": 106,
+          "top": 1743,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.886345
+        },
+        {
+          "text": "async",
+          "left": 281,
+          "top": 1752,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.647949
+        },
+        {
+          "text": "with",
+          "left": 423,
+          "top": 1742,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.274467
+        },
+        {
+          "text": "aiohttp.ClientSession()",
+          "left": 545,
+          "top": 1742,
+          "width": 547,
+          "height": 41,
+          "confidence": 72.070915
+        },
+        {
+          "text": "as",
+          "left": 1122,
+          "top": 1752,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.767662
+        }
+      ]
+    },
+    {
+      "text": "session:",
+      "left": 186,
+      "top": 1812,
+      "right": 366,
+      "bottom": 1845,
+      "height": 33,
+      "confidence": 95.509605,
+      "words": [
+        {
+          "text": "session:",
+          "left": 186,
+          "top": 1812,
+          "width": 180,
+          "height": 33,
+          "confidence": 95.509605
+        }
+      ]
+    }
+  ]
+}

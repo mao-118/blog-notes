@@ -1,0 +1,392 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/coroutines/page-7.png",
+  "lines": [
+    {
+      "text": "14 # 生成任务列表",
+      "left": 107,
+      "top": 129,
+      "right": 565,
+      "bottom": 166,
+      "height": 37,
+      "confidence": 94.0313478,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 132,
+          "width": 43,
+          "height": 30,
+          "confidence": 92.416405
+        },
+        {
+          "text": "#",
+          "left": 280,
+          "top": 132,
+          "width": 22,
+          "height": 30,
+          "confidence": 88.9814
+        },
+        {
+          "text": "生成",
+          "left": 336,
+          "top": 129,
+          "width": 85,
+          "height": 37,
+          "confidence": 96.213539
+        },
+        {
+          "text": "任务",
+          "left": 425,
+          "top": 129,
+          "width": 83,
+          "height": 37,
+          "confidence": 96.999794
+        },
+        {
+          "text": "列表",
+          "left": 513,
+          "top": 129,
+          "width": 52,
+          "height": 37,
+          "confidence": 95.545601
+        }
+      ]
+    },
+    {
+      "text": "15 tasks = [downloadCurl) for url in urls]",
+      "left": 107,
+      "top": 200,
+      "right": 1209,
+      "bottom": 239,
+      "height": 39,
+      "confidence": 85.24910299999999,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 202,
+          "width": 41,
+          "height": 31,
+          "confidence": 88.540047
+        },
+        {
+          "text": "tasks",
+          "left": 281,
+          "top": 200,
+          "width": 115,
+          "height": 33,
+          "confidence": 95.961647
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 216,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.456108
+        },
+        {
+          "text": "[downloadCurl)",
+          "left": 478,
+          "top": 200,
+          "width": 325,
+          "height": 39,
+          "confidence": 26.664509
+        },
+        {
+          "text": "for",
+          "left": 834,
+          "top": 200,
+          "width": 67,
+          "height": 33,
+          "confidence": 96.977081
+        },
+        {
+          "text": "url",
+          "left": 931,
+          "top": 200,
+          "width": 64,
+          "height": 33,
+          "confidence": 93.225433
+        },
+        {
+          "text": "in",
+          "left": 1027,
+          "top": 200,
+          "width": 42,
+          "height": 32,
+          "confidence": 93.225433
+        },
+        {
+          "text": "urls]",
+          "left": 1099,
+          "top": 200,
+          "width": 110,
+          "height": 39,
+          "confidence": 90.942566
+        }
+      ]
+    },
+    {
+      "text": "16 done, pedding = await asyncio.wait(tasks)",
+      "left": 107,
+      "top": 270,
+      "right": 1260,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 88.29949883333332,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 271,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.975456
+        },
+        {
+          "text": "done,",
+          "left": 281,
+          "top": 270,
+          "width": 110,
+          "height": 40,
+          "confidence": 93.11969
+        },
+        {
+          "text": "pedding",
+          "left": 426,
+          "top": 270,
+          "width": 162,
+          "height": 41,
+          "confidence": 92.465492
+        },
+        {
+          "text": "=",
+          "left": 616,
+          "top": 286,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.956772
+        },
+        {
+          "text": "await",
+          "left": 665,
+          "top": 270,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.284225
+        },
+        {
+          "text": "asyncio.wait(tasks)",
+          "left": 809,
+          "top": 270,
+          "width": 451,
+          "height": 41,
+          "confidence": 56.995358
+        }
+      ]
+    },
+    {
+      "text": "17 for d in done:",
+      "left": 107,
+      "top": 340,
+      "right": 606,
+      "bottom": 373,
+      "height": 33,
+      "confidence": 95.1868594,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 342,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.889786
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 340,
+          "width": 66,
+          "height": 33,
+          "confidence": 93.114716
+        },
+        {
+          "text": "d",
+          "left": 377,
+          "top": 340,
+          "width": 19,
+          "height": 33,
+          "confidence": 93.114716
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 340,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.987946
+        },
+        {
+          "text": "done:",
+          "left": 497,
+          "top": 340,
+          "width": 109,
+          "height": 33,
+          "confidence": 96.827133
+        }
+      ]
+    },
+    {
+      "text": "18 printCd.resultQ))",
+      "left": 107,
+      "top": 410,
+      "right": 779,
+      "bottom": 451,
+      "height": 41,
+      "confidence": 77.6442795,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 411,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.829208
+        },
+        {
+          "text": "printCd.resultQ))",
+          "left": 378,
+          "top": 410,
+          "width": 401,
+          "height": 41,
+          "confidence": 58.459351
+        }
+      ]
+    },
+    {
+      "text": "19",
+      "left": 107,
+      "top": 481,
+      "right": 149,
+      "bottom": 513,
+      "height": 32,
+      "confidence": 95.717537,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 481,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.717537
+        }
+      ]
+    },
+    {
+      "text": "20",
+      "left": 106,
+      "top": 552,
+      "right": 150,
+      "bottom": 584,
+      "height": 32,
+      "confidence": 96.796654,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 552,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.796654
+        }
+      ]
+    },
+    {
+      "text": "21 if __name__ == '__main__':",
+      "left": 106,
+      "top": 621,
+      "right": 798,
+      "bottom": 656,
+      "height": 35,
+      "confidence": 90.8976166,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 622,
+          "width": 43,
+          "height": 31,
+          "confidence": 95.382332
+        },
+        {
+          "text": "if",
+          "left": 186,
+          "top": 621,
+          "width": 44,
+          "height": 32,
+          "confidence": 93.169083
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 631,
+          "width": 190,
+          "height": 25,
+          "confidence": 91.596992
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 637,
+          "width": 46,
+          "height": 10,
+          "confidence": 87.402756
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 621,
+          "width": 246,
+          "height": 35,
+          "confidence": 86.93692
+        }
+      ]
+    },
+    {
+      "text": "22 asyncio.runCmain())",
+      "left": 106,
+      "top": 687,
+      "right": 735,
+      "bottom": 736,
+      "height": 49,
+      "confidence": 75.94024933333333,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 692,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.444832
+        },
+        {
+          "text": "asyncio.runCmain()",
+          "left": 281,
+          "top": 691,
+          "width": 450,
+          "height": 41,
+          "confidence": 65.687958
+        },
+        {
+          "text": ")",
+          "left": 713,
+          "top": 687,
+          "width": 22,
+          "height": 49,
+          "confidence": 65.687958
+        }
+      ]
+    }
+  ]
+}

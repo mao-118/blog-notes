@@ -1,0 +1,1412 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/requests-headers/page-1.png",
+  "lines": [
+    {
+      "text": "requests By Ma IA",
+      "left": 99,
+      "top": 342,
+      "right": 950,
+      "bottom": 472,
+      "height": 130,
+      "confidence": 8.59688,
+      "words": [
+        {
+          "text": "requests",
+          "left": 99,
+          "top": 346,
+          "width": 594,
+          "height": 111,
+          "confidence": 34.38752
+        },
+        {
+          "text": "By",
+          "left": 647,
+          "top": 342,
+          "width": 55,
+          "height": 130,
+          "confidence": 0.0
+        },
+        {
+          "text": "Ma",
+          "left": 709,
+          "top": 385,
+          "width": 8,
+          "height": 61,
+          "confidence": 0.0
+        },
+        {
+          "text": "IA",
+          "left": 853,
+          "top": 346,
+          "width": 97,
+          "height": 101,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "NX UN, ae",
+      "left": 532,
+      "top": 343,
+      "right": 877,
+      "bottom": 397,
+      "height": 54,
+      "confidence": 35.921088000000005,
+      "words": [
+        {
+          "text": "NX",
+          "left": 532,
+          "top": 344,
+          "width": 28,
+          "height": 34,
+          "confidence": 34.742603
+        },
+        {
+          "text": "UN,",
+          "left": 663,
+          "top": 343,
+          "width": 77,
+          "height": 54,
+          "confidence": 34.832802
+        },
+        {
+          "text": "ae",
+          "left": 853,
+          "top": 348,
+          "width": 24,
+          "height": 22,
+          "confidence": 38.187859
+        }
+      ]
+    },
+    {
+      "text": "我们在之前的爬虫中其实已经使用过 headers 了. header 为 HTTP 协",
+      "left": 91,
+      "top": 668,
+      "right": 1358,
+      "bottom": 724,
+      "height": 56,
+      "confidence": 92.3330675,
+      "words": [
+        {
+          "text": "我",
+          "left": 91,
+          "top": 673,
+          "width": 66,
+          "height": 41,
+          "confidence": 93.167725
+        },
+        {
+          "text": "们",
+          "left": 160,
+          "top": 676,
+          "width": 13,
+          "height": 37,
+          "confidence": 92.591476
+        },
+        {
+          "text": "在",
+          "left": 195,
+          "top": 673,
+          "width": 24,
+          "height": 41,
+          "confidence": 96.850456
+        },
+        {
+          "text": "之",
+          "left": 241,
+          "top": 673,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.798302
+        },
+        {
+          "text": "前",
+          "left": 283,
+          "top": 673,
+          "width": 44,
+          "height": 41,
+          "confidence": 96.940147
+        },
+        {
+          "text": "的",
+          "left": 328,
+          "top": 673,
+          "width": 53,
+          "height": 40,
+          "confidence": 96.643829
+        },
+        {
+          "text": "爬虫",
+          "left": 400,
+          "top": 673,
+          "width": 65,
+          "height": 41,
+          "confidence": 54.58416
+        },
+        {
+          "text": "中",
+          "left": 465,
+          "top": 668,
+          "width": 39,
+          "height": 56,
+          "confidence": 96.586319
+        },
+        {
+          "text": "其",
+          "left": 503,
+          "top": 673,
+          "width": 24,
+          "height": 40,
+          "confidence": 93.300743
+        },
+        {
+          "text": "实",
+          "left": 545,
+          "top": 673,
+          "width": 25,
+          "height": 40,
+          "confidence": 91.468971
+        },
+        {
+          "text": "已",
+          "left": 594,
+          "top": 673,
+          "width": 40,
+          "height": 39,
+          "confidence": 95.875183
+        },
+        {
+          "text": "经",
+          "left": 640,
+          "top": 673,
+          "width": 49,
+          "height": 41,
+          "confidence": 96.983284
+        },
+        {
+          "text": "使",
+          "left": 707,
+          "top": 675,
+          "width": 24,
+          "height": 38,
+          "confidence": 96.911171
+        },
+        {
+          "text": "用",
+          "left": 731,
+          "top": 668,
+          "width": 39,
+          "height": 56,
+          "confidence": 96.77636
+        },
+        {
+          "text": "过",
+          "left": 769,
+          "top": 673,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.938591
+        },
+        {
+          "text": "headers",
+          "left": 801,
+          "top": 678,
+          "width": 150,
+          "height": 31,
+          "confidence": 92.299294
+        },
+        {
+          "text": "了",
+          "left": 965,
+          "top": 676,
+          "width": 25,
+          "height": 37,
+          "confidence": 93.115891
+        },
+        {
+          "text": ".",
+          "left": 1000,
+          "top": 704,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.505783
+        },
+        {
+          "text": "header",
+          "left": 1023,
+          "top": 673,
+          "width": 330,
+          "height": 40,
+          "confidence": 92.083244
+        },
+        {
+          "text": "为",
+          "left": 1182,
+          "top": 668,
+          "width": 43,
+          "height": 56,
+          "confidence": 90.945984
+        },
+        {
+          "text": "HTTP",
+          "left": 1224,
+          "top": 673,
+          "width": 95,
+          "height": 40,
+          "confidence": 91.672234
+        },
+        {
+          "text": "协",
+          "left": 1319,
+          "top": 668,
+          "width": 39,
+          "height": 56,
+          "confidence": 86.288338
+        }
+      ]
+    },
+    {
+      "text": "议中的请求头. 一般存放一些和请求内容无关的数据. 有时也会存放",
+      "left": 91,
+      "top": 738,
+      "right": 1369,
+      "bottom": 794,
+      "height": 56,
+      "confidence": 93.16338174999999,
+      "words": [
+        {
+          "text": "议",
+          "left": 91,
+          "top": 743,
+          "width": 40,
+          "height": 40,
+          "confidence": 90.890388
+        },
+        {
+          "text": "中",
+          "left": 150,
+          "top": 743,
+          "width": 39,
+          "height": 41,
+          "confidence": 92.220985
+        },
+        {
+          "text": "的",
+          "left": 196,
+          "top": 743,
+          "width": 41,
+          "height": 40,
+          "confidence": 95.390892
+        },
+        {
+          "text": "请",
+          "left": 237,
+          "top": 743,
+          "width": 26,
+          "height": 40,
+          "confidence": 93.075089
+        },
+        {
+          "text": "求",
+          "left": 286,
+          "top": 743,
+          "width": 46,
+          "height": 40,
+          "confidence": 91.028717
+        },
+        {
+          "text": "头",
+          "left": 357,
+          "top": 774,
+          "width": 3,
+          "height": 5,
+          "confidence": 92.960014
+        },
+        {
+          "text": ".",
+          "left": 360,
+          "top": 738,
+          "width": 11,
+          "height": 56,
+          "confidence": 92.573586
+        },
+        {
+          "text": "一",
+          "left": 398,
+          "top": 743,
+          "width": 43,
+          "height": 40,
+          "confidence": 93.194229
+        },
+        {
+          "text": "般",
+          "left": 443,
+          "top": 745,
+          "width": 20,
+          "height": 38,
+          "confidence": 92.908569
+        },
+        {
+          "text": "存",
+          "left": 482,
+          "top": 743,
+          "width": 43,
+          "height": 40,
+          "confidence": 92.291206
+        },
+        {
+          "text": "放",
+          "left": 528,
+          "top": 743,
+          "width": 23,
+          "height": 40,
+          "confidence": 92.353531
+        },
+        {
+          "text": "一",
+          "left": 570,
+          "top": 743,
+          "width": 53,
+          "height": 39,
+          "confidence": 88.947876
+        },
+        {
+          "text": "些",
+          "left": 644,
+          "top": 744,
+          "width": 14,
+          "height": 39,
+          "confidence": 92.985954
+        },
+        {
+          "text": "和",
+          "left": 665,
+          "top": 744,
+          "width": 35,
+          "height": 38,
+          "confidence": 93.286682
+        },
+        {
+          "text": "请",
+          "left": 701,
+          "top": 743,
+          "width": 27,
+          "height": 40,
+          "confidence": 92.657326
+        },
+        {
+          "text": "求",
+          "left": 752,
+          "top": 743,
+          "width": 20,
+          "height": 40,
+          "confidence": 92.832191
+        },
+        {
+          "text": "内",
+          "left": 794,
+          "top": 743,
+          "width": 19,
+          "height": 40,
+          "confidence": 93.166458
+        },
+        {
+          "text": "容",
+          "left": 832,
+          "top": 743,
+          "width": 53,
+          "height": 40,
+          "confidence": 92.613525
+        },
+        {
+          "text": "无",
+          "left": 885,
+          "top": 738,
+          "width": 42,
+          "height": 56,
+          "confidence": 91.210159
+        },
+        {
+          "text": "关",
+          "left": 927,
+          "top": 743,
+          "width": 39,
+          "height": 40,
+          "confidence": 92.597923
+        },
+        {
+          "text": "的",
+          "left": 969,
+          "top": 743,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.45195
+        },
+        {
+          "text": "数据",
+          "left": 1011,
+          "top": 743,
+          "width": 80,
+          "height": 40,
+          "confidence": 92.637146
+        },
+        {
+          "text": ".",
+          "left": 1095,
+          "top": 738,
+          "width": 18,
+          "height": 56,
+          "confidence": 89.053223
+        },
+        {
+          "text": "有",
+          "left": 1130,
+          "top": 743,
+          "width": 32,
+          "height": 40,
+          "confidence": 96.916649
+        },
+        {
+          "text": "时",
+          "left": 1169,
+          "top": 743,
+          "width": 24,
+          "height": 40,
+          "confidence": 95.491829
+        },
+        {
+          "text": "也",
+          "left": 1203,
+          "top": 743,
+          "width": 34,
+          "height": 39,
+          "confidence": 96.050819
+        },
+        {
+          "text": "会",
+          "left": 1256,
+          "top": 743,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.636986
+        },
+        {
+          "text": "存放",
+          "left": 1305,
+          "top": 743,
+          "width": 64,
+          "height": 40,
+          "confidence": 96.150787
+        }
+      ]
+    },
+    {
+      "text": "一些安全验证信息.比如常见的 UserrAgent, token, cookie 等.",
+      "left": 91,
+      "top": 807,
+      "right": 1242,
+      "bottom": 862,
+      "height": 55,
+      "confidence": 93.1234366153846,
+      "words": [
+        {
+          "text": "一",
+          "left": 91,
+          "top": 831,
+          "width": 40,
+          "height": 3,
+          "confidence": 92.51358
+        },
+        {
+          "text": "些",
+          "left": 152,
+          "top": 813,
+          "width": 49,
+          "height": 40,
+          "confidence": 92.322823
+        },
+        {
+          "text": "安全",
+          "left": 200,
+          "top": 807,
+          "width": 80,
+          "height": 55,
+          "confidence": 92.976433
+        },
+        {
+          "text": "验证",
+          "left": 282,
+          "top": 813,
+          "width": 84,
+          "height": 41,
+          "confidence": 95.23642
+        },
+        {
+          "text": "信息",
+          "left": 367,
+          "top": 813,
+          "width": 72,
+          "height": 40,
+          "confidence": 96.848091
+        },
+        {
+          "text": ".比如",
+          "left": 445,
+          "top": 813,
+          "width": 92,
+          "height": 40,
+          "confidence": 96.716362
+        },
+        {
+          "text": "常见",
+          "left": 561,
+          "top": 813,
+          "width": 86,
+          "height": 41,
+          "confidence": 96.640114
+        },
+        {
+          "text": "的",
+          "left": 657,
+          "top": 813,
+          "width": 39,
+          "height": 40,
+          "confidence": 94.701271
+        },
+        {
+          "text": "UserrAgent,",
+          "left": 695,
+          "top": 813,
+          "width": 210,
+          "height": 45,
+          "confidence": 83.040039
+        },
+        {
+          "text": "token,",
+          "left": 921,
+          "top": 818,
+          "width": 119,
+          "height": 37,
+          "confidence": 96.254288
+        },
+        {
+          "text": "cookie",
+          "left": 1057,
+          "top": 813,
+          "width": 182,
+          "height": 40,
+          "confidence": 91.423645
+        },
+        {
+          "text": "等",
+          "left": 1197,
+          "top": 807,
+          "width": 32,
+          "height": 55,
+          "confidence": 93.012558
+        },
+        {
+          "text": ".",
+          "left": 1228,
+          "top": 807,
+          "width": 14,
+          "height": 55,
+          "confidence": 88.919052
+        }
+      ]
+    },
+    {
+      "text": "通过 requests 发送的请求, 我们可以把请求头信息放在 headers 中. 也",
+      "left": 91,
+      "top": 944,
+      "right": 1388,
+      "bottom": 1000,
+      "height": 56,
+      "confidence": 92.84535613043478,
+      "words": [
+        {
+          "text": "通过",
+          "left": 91,
+          "top": 949,
+          "width": 84,
+          "height": 40,
+          "confidence": 96.552582
+        },
+        {
+          "text": "requests",
+          "left": 180,
+          "top": 949,
+          "width": 396,
+          "height": 45,
+          "confidence": 91.922371
+        },
+        {
+          "text": "发",
+          "left": 363,
+          "top": 944,
+          "width": 50,
+          "height": 56,
+          "confidence": 92.453438
+        },
+        {
+          "text": "送",
+          "left": 412,
+          "top": 944,
+          "width": 43,
+          "height": 56,
+          "confidence": 93.215355
+        },
+        {
+          "text": "的",
+          "left": 454,
+          "top": 944,
+          "width": 43,
+          "height": 56,
+          "confidence": 89.729408
+        },
+        {
+          "text": "请",
+          "left": 496,
+          "top": 944,
+          "width": 46,
+          "height": 56,
+          "confidence": 93.206924
+        },
+        {
+          "text": "求",
+          "left": 542,
+          "top": 944,
+          "width": 32,
+          "height": 56,
+          "confidence": 92.741531
+        },
+        {
+          "text": ",",
+          "left": 573,
+          "top": 944,
+          "width": 15,
+          "height": 56,
+          "confidence": 90.423683
+        },
+        {
+          "text": "我",
+          "left": 619,
+          "top": 949,
+          "width": 41,
+          "height": 41,
+          "confidence": 93.021049
+        },
+        {
+          "text": "们",
+          "left": 662,
+          "top": 952,
+          "width": 13,
+          "height": 37,
+          "confidence": 92.354111
+        },
+        {
+          "text": "可",
+          "left": 696,
+          "top": 952,
+          "width": 25,
+          "height": 37,
+          "confidence": 96.732964
+        },
+        {
+          "text": "以",
+          "left": 738,
+          "top": 949,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.51355
+        },
+        {
+          "text": "把",
+          "left": 784,
+          "top": 950,
+          "width": 43,
+          "height": 38,
+          "confidence": 96.671333
+        },
+        {
+          "text": "请",
+          "left": 829,
+          "top": 949,
+          "width": 49,
+          "height": 40,
+          "confidence": 93.273735
+        },
+        {
+          "text": "求",
+          "left": 902,
+          "top": 949,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.607758
+        },
+        {
+          "text": "头",
+          "left": 945,
+          "top": 949,
+          "width": 12,
+          "height": 41,
+          "confidence": 92.757828
+        },
+        {
+          "text": "信息",
+          "left": 958,
+          "top": 949,
+          "width": 88,
+          "height": 40,
+          "confidence": 85.203247
+        },
+        {
+          "text": "放",
+          "left": 1051,
+          "top": 949,
+          "width": 23,
+          "height": 40,
+          "confidence": 91.875496
+        },
+        {
+          "text": "在",
+          "left": 1095,
+          "top": 949,
+          "width": 39,
+          "height": 41,
+          "confidence": 91.972488
+        },
+        {
+          "text": "headers",
+          "left": 1133,
+          "top": 944,
+          "width": 144,
+          "height": 56,
+          "confidence": 91.319496
+        },
+        {
+          "text": "中",
+          "left": 1291,
+          "top": 949,
+          "width": 26,
+          "height": 41,
+          "confidence": 92.754608
+        },
+        {
+          "text": ".",
+          "left": 1326,
+          "top": 980,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.21608
+        },
+        {
+          "text": "也",
+          "left": 1348,
+          "top": 949,
+          "width": 40,
+          "height": 39,
+          "confidence": 96.924156
+        }
+      ]
+    },
+    {
+      "text": "可以单独进行存放, 最终由 requests 自动帮有我们拼接成完整的 http 请",
+      "left": 91,
+      "top": 1015,
+      "right": 1372,
+      "bottom": 1068,
+      "height": 53,
+      "confidence": 92.95509963636363,
+      "words": [
+        {
+          "text": "可",
+          "left": 91,
+          "top": 1022,
+          "width": 40,
+          "height": 37,
+          "confidence": 96.68425
+        },
+        {
+          "text": "以",
+          "left": 146,
+          "top": 1019,
+          "width": 54,
+          "height": 41,
+          "confidence": 95.930122
+        },
+        {
+          "text": "单独",
+          "left": 223,
+          "top": 1019,
+          "width": 39,
+          "height": 40,
+          "confidence": 96.813972
+        },
+        {
+          "text": "进行",
+          "left": 268,
+          "top": 1019,
+          "width": 182,
+          "height": 42,
+          "confidence": 96.709908
+        },
+        {
+          "text": "存放",
+          "left": 375,
+          "top": 1015,
+          "width": 67,
+          "height": 53,
+          "confidence": 93.052551
+        },
+        {
+          "text": ",",
+          "left": 441,
+          "top": 1015,
+          "width": 14,
+          "height": 53,
+          "confidence": 92.132782
+        },
+        {
+          "text": "最",
+          "left": 484,
+          "top": 1019,
+          "width": 41,
+          "height": 41,
+          "confidence": 93.297211
+        },
+        {
+          "text": "终",
+          "left": 527,
+          "top": 1019,
+          "width": 24,
+          "height": 40,
+          "confidence": 92.511765
+        },
+        {
+          "text": "由",
+          "left": 573,
+          "top": 1019,
+          "width": 19,
+          "height": 40,
+          "confidence": 92.794334
+        },
+        {
+          "text": "requests",
+          "left": 603,
+          "top": 1025,
+          "width": 163,
+          "height": 39,
+          "confidence": 84.180534
+        },
+        {
+          "text": "自",
+          "left": 779,
+          "top": 1019,
+          "width": 50,
+          "height": 40,
+          "confidence": 92.955429
+        },
+        {
+          "text": "动",
+          "left": 831,
+          "top": 1019,
+          "width": 21,
+          "height": 40,
+          "confidence": 91.86142
+        },
+        {
+          "text": "帮",
+          "left": 868,
+          "top": 1019,
+          "width": 28,
+          "height": 41,
+          "confidence": 85.461517
+        },
+        {
+          "text": "有",
+          "left": 901,
+          "top": 1019,
+          "width": 21,
+          "height": 40,
+          "confidence": 87.098137
+        },
+        {
+          "text": "我",
+          "left": 945,
+          "top": 1019,
+          "width": 20,
+          "height": 41,
+          "confidence": 92.810577
+        },
+        {
+          "text": "们",
+          "left": 970,
+          "top": 1019,
+          "width": 34,
+          "height": 40,
+          "confidence": 92.671532
+        },
+        {
+          "text": "拼接",
+          "left": 1004,
+          "top": 1019,
+          "width": 70,
+          "height": 40,
+          "confidence": 94.515053
+        },
+        {
+          "text": "成",
+          "left": 1094,
+          "top": 1019,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.677269
+        },
+        {
+          "text": "完整",
+          "left": 1140,
+          "top": 1019,
+          "width": 86,
+          "height": 40,
+          "confidence": 96.664383
+        },
+        {
+          "text": "的",
+          "left": 1233,
+          "top": 1019,
+          "width": 16,
+          "height": 40,
+          "confidence": 95.401878
+        },
+        {
+          "text": "http",
+          "left": 1262,
+          "top": 1020,
+          "width": 81,
+          "height": 44,
+          "confidence": 93.065102
+        },
+        {
+          "text": "请",
+          "left": 1345,
+          "top": 1019,
+          "width": 27,
+          "height": 40,
+          "confidence": 91.722466
+        }
+      ]
+    },
+    {
+      "text": "本章内容:",
+      "left": 91,
+      "top": 1220,
+      "right": 276,
+      "bottom": 1276,
+      "height": 56,
+      "confidence": 91.9106322,
+      "words": [
+        {
+          "text": "本",
+          "left": 91,
+          "top": 1225,
+          "width": 183,
+          "height": 40,
+          "confidence": 90.370384
+        },
+        {
+          "text": "章",
+          "left": 146,
+          "top": 1220,
+          "width": 43,
+          "height": 56,
+          "confidence": 92.761299
+        },
+        {
+          "text": "内",
+          "left": 188,
+          "top": 1220,
+          "width": 43,
+          "height": 56,
+          "confidence": 92.633553
+        },
+        {
+          "text": "容",
+          "left": 230,
+          "top": 1220,
+          "width": 29,
+          "height": 56,
+          "confidence": 90.917915
+        },
+        {
+          "text": ":",
+          "left": 258,
+          "top": 1220,
+          "width": 18,
+          "height": 56,
+          "confidence": 92.87001
+        }
+      ]
+    },
+    {
+      "text": "1. 模拟浏览器登录 -> 处理 cookie",
+      "left": 113,
+      "top": 1357,
+      "right": 741,
+      "bottom": 1411,
+      "height": 54,
+      "confidence": 93.84927866666665,
+      "words": [
+        {
+          "text": "1.",
+          "left": 113,
+          "top": 1366,
+          "width": 29,
+          "height": 31,
+          "confidence": 89.404877
+        },
+        {
+          "text": "模拟",
+          "left": 183,
+          "top": 1361,
+          "width": 99,
+          "height": 40,
+          "confidence": 95.140968
+        },
+        {
+          "text": "浏览",
+          "left": 289,
+          "top": 1357,
+          "width": 80,
+          "height": 54,
+          "confidence": 96.372246
+        },
+        {
+          "text": "器",
+          "left": 368,
+          "top": 1362,
+          "width": 49,
+          "height": 39,
+          "confidence": 94.417656
+        },
+        {
+          "text": "登录",
+          "left": 438,
+          "top": 1357,
+          "width": 46,
+          "height": 54,
+          "confidence": 96.566116
+        },
+        {
+          "text": "->",
+          "left": 483,
+          "top": 1375,
+          "width": 38,
+          "height": 22,
+          "confidence": 96.74456
+        },
+        {
+          "text": "处",
+          "left": 541,
+          "top": 1361,
+          "width": 42,
+          "height": 40,
+          "confidence": 93.233246
+        },
+        {
+          "text": "理",
+          "left": 591,
+          "top": 1363,
+          "width": 35,
+          "height": 37,
+          "confidence": 90.165611
+        },
+        {
+          "text": "cookie",
+          "left": 625,
+          "top": 1357,
+          "width": 116,
+          "height": 54,
+          "confidence": 92.598228
+        }
+      ]
+    },
+    {
+      "text": "2 防盗链处理 -> 抓取梨视频数据",
+      "left": 110,
+      "top": 1423,
+      "right": 757,
+      "bottom": 1479,
+      "height": 56,
+      "confidence": 80.95337099999999,
+      "words": [
+        {
+          "text": "2",
+          "left": 110,
+          "top": 1436,
+          "width": 32,
+          "height": 31,
+          "confidence": 96.960686
+        },
+        {
+          "text": "防盗",
+          "left": 175,
+          "top": 1431,
+          "width": 258,
+          "height": 40,
+          "confidence": 13.241501
+        },
+        {
+          "text": "链",
+          "left": 277,
+          "top": 1423,
+          "width": 46,
+          "height": 56,
+          "confidence": 61.523998
+        },
+        {
+          "text": "处",
+          "left": 323,
+          "top": 1423,
+          "width": 46,
+          "height": 56,
+          "confidence": 93.024506
+        },
+        {
+          "text": "理",
+          "left": 368,
+          "top": 1423,
+          "width": 32,
+          "height": 56,
+          "confidence": 92.730316
+        },
+        {
+          "text": "->",
+          "left": 400,
+          "top": 1423,
+          "width": 35,
+          "height": 56,
+          "confidence": 91.938286
+        },
+        {
+          "text": "抓",
+          "left": 470,
+          "top": 1431,
+          "width": 19,
+          "height": 40,
+          "confidence": 91.461174
+        },
+        {
+          "text": "取",
+          "left": 512,
+          "top": 1433,
+          "width": 21,
+          "height": 38,
+          "confidence": 93.040619
+        },
+        {
+          "text": "梨",
+          "left": 550,
+          "top": 1431,
+          "width": 46,
+          "height": 40,
+          "confidence": 66.032166
+        },
+        {
+          "text": "视频",
+          "left": 595,
+          "top": 1431,
+          "width": 158,
+          "height": 40,
+          "confidence": 95.477051
+        },
+        {
+          "text": "数据",
+          "left": 683,
+          "top": 1423,
+          "width": 74,
+          "height": 56,
+          "confidence": 95.056778
+        }
+      ]
+    },
+    {
+      "text": "3. 代理 -> 防止被封 IP",
+      "left": 110,
+      "top": 1497,
+      "right": 545,
+      "bottom": 1554,
+      "height": 57,
+      "confidence": 90.77477614285715,
+      "words": [
+        {
+          "text": "3.",
+          "left": 110,
+          "top": 1507,
+          "width": 32,
+          "height": 31,
+          "confidence": 92.912201
+        },
+        {
+          "text": "代理",
+          "left": 173,
+          "top": 1502,
+          "width": 84,
+          "height": 41,
+          "confidence": 95.019501
+        },
+        {
+          "text": "->",
+          "left": 273,
+          "top": 1516,
+          "width": 40,
+          "height": 22,
+          "confidence": 92.776604
+        },
+        {
+          "text": "防止",
+          "left": 331,
+          "top": 1502,
+          "width": 211,
+          "height": 40,
+          "confidence": 96.373055
+        },
+        {
+          "text": "被",
+          "left": 440,
+          "top": 1497,
+          "width": 48,
+          "height": 57,
+          "confidence": 93.162415
+        },
+        {
+          "text": "封",
+          "left": 487,
+          "top": 1497,
+          "width": 29,
+          "height": 57,
+          "confidence": 92.679558
+        },
+        {
+          "text": "IP",
+          "left": 515,
+          "top": 1497,
+          "width": 30,
+          "height": 57,
+          "confidence": 72.500099
+        }
+      ]
+    },
+    {
+      "text": "综合训练:",
+      "left": 91,
+      "top": 1638,
+      "right": 274,
+      "bottom": 1679,
+      "height": 41,
+      "confidence": 94.26449066666667,
+      "words": [
+        {
+          "text": "综合",
+          "left": 91,
+          "top": 1638,
+          "width": 101,
+          "height": 40,
+          "confidence": 96.5112
+        },
+        {
+          "text": "训练",
+          "left": 192,
+          "top": 1638,
+          "width": 71,
+          "height": 41,
+          "confidence": 93.041801
+        },
+        {
+          "text": ":",
+          "left": 269,
+          "top": 1651,
+          "width": 5,
+          "height": 23,
+          "confidence": 93.240471
+        }
+      ]
+    },
+    {
+      "text": "抓取网易云音乐评论信息",
+      "left": 91,
+      "top": 1774,
+      "right": 571,
+      "bottom": 1815,
+      "height": 41,
+      "confidence": 93.800246125,
+      "words": [
+        {
+          "text": "抓",
+          "left": 91,
+          "top": 1774,
+          "width": 40,
+          "height": 40,
+          "confidence": 91.64138
+        },
+        {
+          "text": "取",
+          "left": 153,
+          "top": 1776,
+          "width": 22,
+          "height": 38,
+          "confidence": 92.340126
+        },
+        {
+          "text": "网",
+          "left": 195,
+          "top": 1776,
+          "width": 22,
+          "height": 38,
+          "confidence": 90.253448
+        },
+        {
+          "text": "易",
+          "left": 237,
+          "top": 1776,
+          "width": 23,
+          "height": 38,
+          "confidence": 92.783638
+        },
+        {
+          "text": "云",
+          "left": 283,
+          "top": 1777,
+          "width": 24,
+          "height": 37,
+          "confidence": 92.772469
+        },
+        {
+          "text": "音乐",
+          "left": 328,
+          "top": 1774,
+          "width": 86,
+          "height": 40,
+          "confidence": 96.902542
+        },
+        {
+          "text": "评论",
+          "left": 419,
+          "top": 1774,
+          "width": 80,
+          "height": 41,
+          "confidence": 96.80616
+        },
+        {
+          "text": "信息",
+          "left": 500,
+          "top": 1774,
+          "width": 71,
+          "height": 40,
+          "confidence": 96.902206
+        }
+      ]
+    }
+  ]
+}

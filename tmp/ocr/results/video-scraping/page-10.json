@@ -1,0 +1,923 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/video-scraping/page-10.png",
+  "lines": [
+    {
+      "text": "28 resp.encoding='utf-8'",
+      "left": 130,
+      "top": 130,
+      "right": 800,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 88.582794,
+      "words": [
+        {
+          "text": "28",
+          "left": 130,
+          "top": 131,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.290161
+        },
+        {
+          "text": "resp.encoding='utf-8'",
+          "left": 310,
+          "top": 130,
+          "width": 490,
+          "height": 41,
+          "confidence": 84.875427
+        }
+      ]
+    },
+    {
+      "text": "29 with openCname, mode=\"w\", encoding=\"utf-8\")",
+      "left": 130,
+      "top": 200,
+      "right": 1334,
+      "bottom": 241,
+      "height": 41,
+      "confidence": 82.1329698,
+      "words": [
+        {
+          "text": "29",
+          "left": 130,
+          "top": 201,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.762238
+        },
+        {
+          "text": "with",
+          "left": 305,
+          "top": 200,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.27729
+        },
+        {
+          "text": "openCname,",
+          "left": 427,
+          "top": 200,
+          "width": 230,
+          "height": 41,
+          "confidence": 74.648102
+        },
+        {
+          "text": "mode=\"w\",",
+          "left": 690,
+          "top": 200,
+          "width": 208,
+          "height": 40,
+          "confidence": 70.990761
+        },
+        {
+          "text": "encoding=\"utf-8\")",
+          "left": 932,
+          "top": 200,
+          "width": 402,
+          "height": 41,
+          "confidence": 74.986458
+        }
+      ]
+    },
+    {
+      "text": "as f:",
+      "left": 211,
+      "top": 270,
+      "right": 320,
+      "bottom": 303,
+      "height": 33,
+      "confidence": 92.1796605,
+      "words": [
+        {
+          "text": "as",
+          "left": 211,
+          "top": 280,
+          "width": 43,
+          "height": 23,
+          "confidence": 93.278076
+        },
+        {
+          "text": "f:",
+          "left": 284,
+          "top": 270,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.081245
+        }
+      ]
+    },
+    {
+      "text": "30 f.writeCresp. text)",
+      "left": 130,
+      "top": 340,
+      "right": 829,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 41.6827315,
+      "words": [
+        {
+          "text": "30",
+          "left": 130,
+          "top": 341,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.198181
+        },
+        {
+          "text": "f",
+          "left": 404,
+          "top": 340,
+          "width": 20,
+          "height": 32,
+          "confidence": 70.532745
+        },
+        {
+          "text": ".writeCresp.",
+          "left": 444,
+          "top": 340,
+          "width": 259,
+          "height": 41,
+          "confidence": 0.0
+        },
+        {
+          "text": "text)",
+          "left": 715,
+          "top": 340,
+          "width": 114,
+          "height": 39,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "31 resp.close()",
+      "left": 130,
+      "top": 410,
+      "right": 589,
+      "bottom": 451,
+      "height": 41,
+      "confidence": 87.9541895,
+      "words": [
+        {
+          "text": "31",
+          "left": 130,
+          "top": 411,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.271042
+        },
+        {
+          "text": "resp.close()",
+          "left": 310,
+          "top": 410,
+          "width": 279,
+          "height": 41,
+          "confidence": 79.637337
+        }
+      ]
+    },
+    {
+      "text": "32",
+      "left": 130,
+      "top": 481,
+      "right": 172,
+      "bottom": 513,
+      "height": 32,
+      "confidence": 96.331917,
+      "words": [
+        {
+          "text": "32",
+          "left": 130,
+          "top": 481,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.331917
+        }
+      ]
+    },
+    {
+      "text": "33",
+      "left": 130,
+      "top": 552,
+      "right": 172,
+      "bottom": 584,
+      "height": 32,
+      "confidence": 95.820908,
+      "words": [
+        {
+          "text": "33",
+          "left": 130,
+          "top": 552,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.820908
+        }
+      ]
+    },
+    {
+      "text": "34 async def download_ts(session, url, name):",
+      "left": 130,
+      "top": 621,
+      "right": 1209,
+      "bottom": 662,
+      "height": 41,
+      "confidence": 92.72019183333335,
+      "words": [
+        {
+          "text": "34",
+          "left": 130,
+          "top": 622,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.830566
+        },
+        {
+          "text": "async",
+          "left": 211,
+          "top": 631,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.551857
+        },
+        {
+          "text": "def",
+          "left": 355,
+          "top": 621,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.156509
+        },
+        {
+          "text": "download_ts(session,",
+          "left": 451,
+          "top": 621,
+          "width": 471,
+          "height": 40,
+          "confidence": 78.096474
+        },
+        {
+          "text": "url,",
+          "left": 957,
+          "top": 621,
+          "width": 85,
+          "height": 40,
+          "confidence": 96.289848
+        },
+        {
+          "text": "name):",
+          "left": 1077,
+          "top": 621,
+          "width": 132,
+          "height": 39,
+          "confidence": 96.395897
+        }
+      ]
+    },
+    {
+      "text": "35 async with session.getCurL) as resp:",
+      "left": 130,
+      "top": 691,
+      "right": 1161,
+      "bottom": 732,
+      "height": 41,
+      "confidence": 87.64101533333333,
+      "words": [
+        {
+          "text": "35",
+          "left": 130,
+          "top": 692,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.825722
+        },
+        {
+          "text": "async",
+          "left": 307,
+          "top": 701,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.116798
+        },
+        {
+          "text": "with",
+          "left": 449,
+          "top": 691,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.298149
+        },
+        {
+          "text": "session.getCurL)",
+          "left": 572,
+          "top": 691,
+          "width": 378,
+          "height": 41,
+          "confidence": 46.917816
+        },
+        {
+          "text": "as",
+          "left": 980,
+          "top": 701,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.443192
+        },
+        {
+          "text": "resp:",
+          "left": 1055,
+          "top": 700,
+          "width": 106,
+          "height": 32,
+          "confidence": 96.244415
+        }
+      ]
+    },
+    {
+      "text": "36 async with",
+      "left": 130,
+      "top": 761,
+      "right": 638,
+      "bottom": 802,
+      "height": 41,
+      "confidence": 96.213463,
+      "words": [
+        {
+          "text": "36",
+          "left": 130,
+          "top": 762,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.978676
+        },
+        {
+          "text": "async",
+          "left": 403,
+          "top": 771,
+          "width": 115,
+          "height": 31,
+          "confidence": 95.916855
+        },
+        {
+          "text": "with",
+          "left": 545,
+          "top": 761,
+          "width": 93,
+          "height": 33,
+          "confidence": 95.744858
+        }
+      ]
+    },
+    {
+      "text": "aiofiles.open(f\"video3/{name}\", mode=\"wb\") as f:",
+      "left": 211,
+      "top": 831,
+      "right": 1353,
+      "bottom": 872,
+      "height": 41,
+      "confidence": 88.76110075000001,
+      "words": [
+        {
+          "text": "aiofiles.open(f\"video3/{name}\",",
+          "left": 211,
+          "top": 831,
+          "width": 735,
+          "height": 41,
+          "confidence": 78.64164
+        },
+        {
+          "text": "mode=\"wb\")",
+          "left": 979,
+          "top": 831,
+          "width": 235,
+          "height": 39,
+          "confidence": 91.133255
+        },
+        {
+          "text": "as",
+          "left": 1244,
+          "top": 841,
+          "width": 43,
+          "height": 23,
+          "confidence": 92.762558
+        },
+        {
+          "text": "f:",
+          "left": 1317,
+          "top": 831,
+          "width": 36,
+          "height": 33,
+          "confidence": 92.50695
+        }
+      ]
+    },
+    {
+      "text": "37 await f.writeCawait",
+      "left": 130,
+      "top": 901,
+      "right": 951,
+      "bottom": 940,
+      "height": 39,
+      "confidence": 92.726611,
+      "words": [
+        {
+          "text": "37",
+          "left": 130,
+          "top": 902,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.659958
+        },
+        {
+          "text": "await",
+          "left": 499,
+          "top": 901,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.262047
+        },
+        {
+          "text": "f.writeCawait",
+          "left": 644,
+          "top": 901,
+          "width": 307,
+          "height": 39,
+          "confidence": 88.257828
+        }
+      ]
+    },
+    {
+      "text": "resp.content.read())",
+      "left": 214,
+      "top": 971,
+      "right": 685,
+      "bottom": 1012,
+      "height": 41,
+      "confidence": 43.659534,
+      "words": [
+        {
+          "text": "resp.content.read())",
+          "left": 214,
+          "top": 971,
+          "width": 471,
+          "height": 41,
+          "confidence": 43.659534
+        }
+      ]
+    },
+    {
+      "text": "38 printCf\" {name}~OK!\")",
+      "left": 130,
+      "top": 1041,
+      "right": 781,
+      "bottom": 1082,
+      "height": 41,
+      "confidence": 63.76069633333333,
+      "words": [
+        {
+          "text": "38",
+          "left": 130,
+          "top": 1042,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.760109
+        },
+        {
+          "text": "printCf\"",
+          "left": 308,
+          "top": 1041,
+          "width": 183,
+          "height": 41,
+          "confidence": 47.26099
+        },
+        {
+          "text": "{name}~OK!\")",
+          "left": 508,
+          "top": 1041,
+          "width": 273,
+          "height": 39,
+          "confidence": 47.26099
+        }
+      ]
+    },
+    {
+      "text": "39",
+      "left": 130,
+      "top": 1112,
+      "right": 173,
+      "bottom": 1144,
+      "height": 32,
+      "confidence": 96.104492,
+      "words": [
+        {
+          "text": "39",
+          "left": 130,
+          "top": 1112,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.104492
+        }
+      ]
+    },
+    {
+      "text": "40",
+      "left": 128,
+      "top": 1182,
+      "right": 174,
+      "bottom": 1214,
+      "height": 32,
+      "confidence": 82.768623,
+      "words": [
+        {
+          "text": "40",
+          "left": 128,
+          "top": 1182,
+          "width": 46,
+          "height": 32,
+          "confidence": 82.768623
+        }
+      ]
+    },
+    {
+      "text": "41 async def aio_download(Cup_ur1L):",
+      "left": 128,
+      "top": 1251,
+      "right": 945,
+      "bottom": 1292,
+      "height": 41,
+      "confidence": 70.80962249999999,
+      "words": [
+        {
+          "text": "41",
+          "left": 128,
+          "top": 1253,
+          "width": 45,
+          "height": 30,
+          "confidence": 94.19326
+        },
+        {
+          "text": "async",
+          "left": 211,
+          "top": 1261,
+          "width": 115,
+          "height": 31,
+          "confidence": 94.406967
+        },
+        {
+          "text": "def",
+          "left": 355,
+          "top": 1251,
+          "width": 69,
+          "height": 33,
+          "confidence": 92.710754
+        },
+        {
+          "text": "aio_download(Cup_ur1L):",
+          "left": 451,
+          "top": 1251,
+          "width": 494,
+          "height": 41,
+          "confidence": 1.927509
+        }
+      ]
+    },
+    {
+      "text": "42 tasks = []",
+      "left": 128,
+      "top": 1321,
+      "right": 538,
+      "bottom": 1360,
+      "height": 39,
+      "confidence": 94.07575424999999,
+      "words": [
+        {
+          "text": "42",
+          "left": 128,
+          "top": 1322,
+          "width": 44,
+          "height": 31,
+          "confidence": 95.584679
+        },
+        {
+          "text": "tasks",
+          "left": 307,
+          "top": 1321,
+          "width": 115,
+          "height": 33,
+          "confidence": 95.254486
+        },
+        {
+          "text": "=",
+          "left": 450,
+          "top": 1337,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.303406
+        },
+        {
+          "text": "[]",
+          "left": 504,
+          "top": 1321,
+          "width": 34,
+          "height": 39,
+          "confidence": 92.160446
+        }
+      ]
+    },
+    {
+      "text": "43 async with aiofiles.open(\"#—",
+      "left": 128,
+      "top": 1390,
+      "right": 1047,
+      "bottom": 1432,
+      "height": 42,
+      "confidence": 80.21416875,
+      "words": [
+        {
+          "text": "43",
+          "left": 128,
+          "top": 1392,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.838776
+        },
+        {
+          "text": "async",
+          "left": 307,
+          "top": 1401,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.703705
+        },
+        {
+          "text": "with",
+          "left": 449,
+          "top": 1391,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.119614
+        },
+        {
+          "text": "aiofiles.open(\"#—",
+          "left": 571,
+          "top": 1390,
+          "width": 476,
+          "height": 42,
+          "confidence": 34.19458
+        }
+      ]
+    },
+    {
+      "text": "_tmp_m3u8.txt\", mode=\"r\", encoding=\"utf-8\") as",
+      "left": 210,
+      "top": 1461,
+      "right": 1311,
+      "bottom": 1502,
+      "height": 41,
+      "confidence": 90.87143125,
+      "words": [
+        {
+          "text": "_tmp_m3u8.txt\",",
+          "left": 210,
+          "top": 1461,
+          "width": 351,
+          "height": 41,
+          "confidence": 88.14035
+        },
+        {
+          "text": "mode=\"r\",",
+          "left": 594,
+          "top": 1461,
+          "width": 207,
+          "height": 40,
+          "confidence": 90.809067
+        },
+        {
+          "text": "encoding=\"utf-8\")",
+          "left": 835,
+          "top": 1461,
+          "width": 403,
+          "height": 41,
+          "confidence": 87.982864
+        },
+        {
+          "text": "as",
+          "left": 1268,
+          "top": 1471,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.553444
+        }
+      ]
+    },
+    {
+      "text": "f:",
+      "left": 212,
+      "top": 1532,
+      "right": 248,
+      "bottom": 1565,
+      "height": 33,
+      "confidence": 80.435249,
+      "words": [
+        {
+          "text": "f:",
+          "left": 212,
+          "top": 1532,
+          "width": 36,
+          "height": 33,
+          "confidence": 80.435249
+        }
+      ]
+    },
+    {
+      "text": "44 async with aiohttp.ClientSessiond) as",
+      "left": 128,
+      "top": 1602,
+      "right": 1287,
+      "bottom": 1643,
+      "height": 41,
+      "confidence": 78.29161180000001,
+      "words": [
+        {
+          "text": "44",
+          "left": 128,
+          "top": 1604,
+          "width": 46,
+          "height": 30,
+          "confidence": 96.193634
+        },
+        {
+          "text": "async",
+          "left": 403,
+          "top": 1612,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.332146
+        },
+        {
+          "text": "with",
+          "left": 545,
+          "top": 1602,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.29113
+        },
+        {
+          "text": "aiohttp.ClientSessiond)",
+          "left": 667,
+          "top": 1602,
+          "width": 547,
+          "height": 41,
+          "confidence": 9.838209
+        },
+        {
+          "text": "as",
+          "left": 1244,
+          "top": 1612,
+          "width": 43,
+          "height": 23,
+          "confidence": 95.80294
+        }
+      ]
+    },
+    {
+      "text": "session:",
+      "left": 212,
+      "top": 1672,
+      "right": 392,
+      "bottom": 1705,
+      "height": 33,
+      "confidence": 95.509605,
+      "words": [
+        {
+          "text": "session:",
+          "left": 212,
+          "top": 1672,
+          "width": 180,
+          "height": 33,
+          "confidence": 95.509605
+        }
+      ]
+    },
+    {
+      "text": "45 async for line in f:",
+      "left": 128,
+      "top": 1742,
+      "right": 969,
+      "bottom": 1783,
+      "height": 41,
+      "confidence": 94.674886,
+      "words": [
+        {
+          "text": "45",
+          "left": 128,
+          "top": 1744,
+          "width": 45,
+          "height": 31,
+          "confidence": 96.874504
+        },
+        {
+          "text": "async",
+          "left": 499,
+          "top": 1752,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.486732
+        },
+        {
+          "text": "for",
+          "left": 644,
+          "top": 1742,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.699936
+        },
+        {
+          "text": "line",
+          "left": 739,
+          "top": 1742,
+          "width": 92,
+          "height": 33,
+          "confidence": 95.709564
+        },
+        {
+          "text": "in",
+          "left": 860,
+          "top": 1742,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.805626
+        },
+        {
+          "text": "f:",
+          "left": 933,
+          "top": 1742,
+          "width": 36,
+          "height": 33,
+          "confidence": 89.472954
+        }
+      ]
+    },
+    {
+      "text": "46 if line.startswithC\"#\"):",
+      "left": 128,
+      "top": 1812,
+      "right": 1161,
+      "bottom": 1851,
+      "height": 39,
+      "confidence": 83.76346333333333,
+      "words": [
+        {
+          "text": "46",
+          "left": 128,
+          "top": 1813,
+          "width": 46,
+          "height": 32,
+          "confidence": 96.636024
+        },
+        {
+          "text": "if",
+          "left": 596,
+          "top": 1812,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.256386
+        },
+        {
+          "text": "line.startswithC\"#\"):",
+          "left": 667,
+          "top": 1812,
+          "width": 494,
+          "height": 39,
+          "confidence": 62.39798
+        }
+      ]
+    },
+    {
+      "text": "47 continue",
+      "left": 128,
+      "top": 1882,
+      "right": 879,
+      "bottom": 1915,
+      "height": 33,
+      "confidence": 96.674454,
+      "words": [
+        {
+          "text": "47",
+          "left": 128,
+          "top": 1884,
+          "width": 45,
+          "height": 30,
+          "confidence": 96.788788
+        },
+        {
+          "text": "continue",
+          "left": 692,
+          "top": 1882,
+          "width": 187,
+          "height": 33,
+          "confidence": 96.56012
+        }
+      ]
+    }
+  ]
+}

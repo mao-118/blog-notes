@@ -1,0 +1,1295 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/chapter-overview/page-2.png",
+  "lines": [
+    {
+      "text": "在这里要特殊说明一下. 多线程异步怜虫中每一步都可以设立成多线",
+      "left": 91,
+      "top": 122,
+      "right": 1388,
+      "bottom": 179,
+      "height": 57,
+      "confidence": 90.66958350000002,
+      "words": [
+        {
+          "text": "在",
+          "left": 91,
+          "top": 126,
+          "width": 40,
+          "height": 41,
+          "confidence": 96.801231
+        },
+        {
+          "text": "这",
+          "left": 147,
+          "top": 126,
+          "width": 28,
+          "height": 40,
+          "confidence": 96.519577
+        },
+        {
+          "text": "里",
+          "left": 193,
+          "top": 128,
+          "width": 25,
+          "height": 37,
+          "confidence": 96.514969
+        },
+        {
+          "text": "要",
+          "left": 236,
+          "top": 126,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.326813
+        },
+        {
+          "text": "特殊",
+          "left": 283,
+          "top": 126,
+          "width": 87,
+          "height": 41,
+          "confidence": 95.445953
+        },
+        {
+          "text": "说",
+          "left": 375,
+          "top": 126,
+          "width": 39,
+          "height": 40,
+          "confidence": 92.880432
+        },
+        {
+          "text": "明",
+          "left": 414,
+          "top": 127,
+          "width": 23,
+          "height": 39,
+          "confidence": 91.17791
+        },
+        {
+          "text": "一",
+          "left": 457,
+          "top": 144,
+          "width": 26,
+          "height": 3,
+          "confidence": 91.333633
+        },
+        {
+          "text": "下",
+          "left": 503,
+          "top": 128,
+          "width": 24,
+          "height": 39,
+          "confidence": 92.909134
+        },
+        {
+          "text": ".",
+          "left": 533,
+          "top": 157,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.697289
+        },
+        {
+          "text": "多",
+          "left": 567,
+          "top": 126,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.709816
+        },
+        {
+          "text": "线程",
+          "left": 615,
+          "top": 126,
+          "width": 96,
+          "height": 40,
+          "confidence": 96.384056
+        },
+        {
+          "text": "异步",
+          "left": 732,
+          "top": 126,
+          "width": 72,
+          "height": 41,
+          "confidence": 93.188522
+        },
+        {
+          "text": "怜",
+          "left": 821,
+          "top": 126,
+          "width": 29,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "虫",
+          "left": 867,
+          "top": 126,
+          "width": 18,
+          "height": 41,
+          "confidence": 92.042664
+        },
+        {
+          "text": "中",
+          "left": 885,
+          "top": 122,
+          "width": 40,
+          "height": 57,
+          "confidence": 96.935493
+        },
+        {
+          "text": "每",
+          "left": 924,
+          "top": 126,
+          "width": 51,
+          "height": 40,
+          "confidence": 96.730385
+        },
+        {
+          "text": "一",
+          "left": 996,
+          "top": 126,
+          "width": 21,
+          "height": 41,
+          "confidence": 93.271576
+        },
+        {
+          "text": "步",
+          "left": 1040,
+          "top": 126,
+          "width": 23,
+          "height": 40,
+          "confidence": 92.701164
+        },
+        {
+          "text": "都",
+          "left": 1065,
+          "top": 128,
+          "width": 41,
+          "height": 38,
+          "confidence": 92.610832
+        },
+        {
+          "text": "可",
+          "left": 1105,
+          "top": 122,
+          "width": 41,
+          "height": 57,
+          "confidence": 96.913467
+        },
+        {
+          "text": "以",
+          "left": 1145,
+          "top": 126,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.956108
+        },
+        {
+          "text": "设立",
+          "left": 1191,
+          "top": 126,
+          "width": 93,
+          "height": 40,
+          "confidence": 94.866776
+        },
+        {
+          "text": "成",
+          "left": 1284,
+          "top": 122,
+          "width": 40,
+          "height": 57,
+          "confidence": 96.532684
+        },
+        {
+          "text": "多",
+          "left": 1323,
+          "top": 126,
+          "width": 36,
+          "height": 40,
+          "confidence": 93.094322
+        },
+        {
+          "text": "线",
+          "left": 1363,
+          "top": 126,
+          "width": 25,
+          "height": 40,
+          "confidence": 85.864365
+        }
+      ]
+    },
+    {
+      "text": "程的. 具体操作得实际去分析. SA, 也可以像我国图这样, 每一个 url",
+      "left": 91,
+      "top": 192,
+      "right": 1381,
+      "bottom": 249,
+      "height": 57,
+      "confidence": 89.6217648076923,
+      "words": [
+        {
+          "text": "程",
+          "left": 91,
+          "top": 196,
+          "width": 95,
+          "height": 40,
+          "confidence": 92.634903
+        },
+        {
+          "text": "的",
+          "left": 154,
+          "top": 192,
+          "width": 30,
+          "height": 57,
+          "confidence": 93.217407
+        },
+        {
+          "text": ".",
+          "left": 183,
+          "top": 192,
+          "width": 15,
+          "height": 57,
+          "confidence": 92.25116
+        },
+        {
+          "text": "具体",
+          "left": 218,
+          "top": 196,
+          "width": 86,
+          "height": 40,
+          "confidence": 96.853752
+        },
+        {
+          "text": "操作",
+          "left": 307,
+          "top": 196,
+          "width": 83,
+          "height": 40,
+          "confidence": 96.609329
+        },
+        {
+          "text": "得",
+          "left": 391,
+          "top": 198,
+          "width": 28,
+          "height": 38,
+          "confidence": 96.447319
+        },
+        {
+          "text": "实际",
+          "left": 439,
+          "top": 196,
+          "width": 94,
+          "height": 41,
+          "confidence": 96.871796
+        },
+        {
+          "text": "去",
+          "left": 532,
+          "top": 192,
+          "width": 44,
+          "height": 57,
+          "confidence": 96.894707
+        },
+        {
+          "text": "分",
+          "left": 575,
+          "top": 196,
+          "width": 41,
+          "height": 40,
+          "confidence": 89.570923
+        },
+        {
+          "text": "析",
+          "left": 617,
+          "top": 196,
+          "width": 23,
+          "height": 40,
+          "confidence": 90.474731
+        },
+        {
+          "text": ".",
+          "left": 646,
+          "top": 227,
+          "width": 5,
+          "height": 5,
+          "confidence": 93.04493
+        },
+        {
+          "text": "SA,",
+          "left": 671,
+          "top": 196,
+          "width": 92,
+          "height": 42,
+          "confidence": 80.745422
+        },
+        {
+          "text": "也",
+          "left": 803,
+          "top": 196,
+          "width": 18,
+          "height": 39,
+          "confidence": 96.94873
+        },
+        {
+          "text": "可",
+          "left": 838,
+          "top": 199,
+          "width": 27,
+          "height": 37,
+          "confidence": 96.185417
+        },
+        {
+          "text": "以",
+          "left": 885,
+          "top": 196,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.154617
+        },
+        {
+          "text": "像",
+          "left": 931,
+          "top": 196,
+          "width": 51,
+          "height": 41,
+          "confidence": 91.617996
+        },
+        {
+          "text": "我",
+          "left": 1001,
+          "top": 198,
+          "width": 23,
+          "height": 38,
+          "confidence": 76.522377
+        },
+        {
+          "text": "国",
+          "left": 1047,
+          "top": 198,
+          "width": 20,
+          "height": 38,
+          "confidence": 42.182579
+        },
+        {
+          "text": "图",
+          "left": 1066,
+          "top": 192,
+          "width": 37,
+          "height": 57,
+          "confidence": 96.707909
+        },
+        {
+          "text": "这",
+          "left": 1102,
+          "top": 196,
+          "width": 46,
+          "height": 40,
+          "confidence": 93.081573
+        },
+        {
+          "text": "样",
+          "left": 1148,
+          "top": 196,
+          "width": 36,
+          "height": 42,
+          "confidence": 92.955009
+        },
+        {
+          "text": ",",
+          "left": 1184,
+          "top": 192,
+          "width": 11,
+          "height": 57,
+          "confidence": 92.715103
+        },
+        {
+          "text": "每",
+          "left": 1202,
+          "top": 196,
+          "width": 176,
+          "height": 40,
+          "confidence": 96.473526
+        },
+        {
+          "text": "一",
+          "left": 1269,
+          "top": 192,
+          "width": 40,
+          "height": 57,
+          "confidence": 96.342354
+        },
+        {
+          "text": "个",
+          "left": 1308,
+          "top": 192,
+          "width": 30,
+          "height": 57,
+          "confidence": 96.450089
+        },
+        {
+          "text": "url",
+          "left": 1337,
+          "top": 192,
+          "width": 44,
+          "height": 57,
+          "confidence": 53.212227
+        }
+      ]
+    },
+    {
+      "text": "一个单独线程. 还是那句话. 技术是死的. 人是活的. 怎么干还得看你",
+      "left": 91,
+      "top": 261,
+      "right": 1378,
+      "bottom": 319,
+      "height": 58,
+      "confidence": 90.50298988888888,
+      "words": [
+        {
+          "text": "一",
+          "left": 91,
+          "top": 284,
+          "width": 40,
+          "height": 3,
+          "confidence": 96.76107
+        },
+        {
+          "text": "个",
+          "left": 148,
+          "top": 266,
+          "width": 52,
+          "height": 41,
+          "confidence": 96.525833
+        },
+        {
+          "text": "单独",
+          "left": 223,
+          "top": 266,
+          "width": 60,
+          "height": 40,
+          "confidence": 96.728592
+        },
+        {
+          "text": "线程",
+          "left": 282,
+          "top": 266,
+          "width": 80,
+          "height": 40,
+          "confidence": 93.052338
+        },
+        {
+          "text": ".",
+          "left": 362,
+          "top": 261,
+          "width": 15,
+          "height": 58,
+          "confidence": 89.479774
+        },
+        {
+          "text": "还",
+          "left": 402,
+          "top": 267,
+          "width": 17,
+          "height": 39,
+          "confidence": 96.842163
+        },
+        {
+          "text": "是",
+          "left": 442,
+          "top": 267,
+          "width": 44,
+          "height": 39,
+          "confidence": 93.244774
+        },
+        {
+          "text": "那",
+          "left": 491,
+          "top": 266,
+          "width": 39,
+          "height": 40,
+          "confidence": 91.730873
+        },
+        {
+          "text": "句",
+          "left": 556,
+          "top": 267,
+          "width": 14,
+          "height": 37,
+          "confidence": 49.611168
+        },
+        {
+          "text": "话",
+          "left": 570,
+          "top": 267,
+          "width": 27,
+          "height": 39,
+          "confidence": 92.715347
+        },
+        {
+          "text": ".",
+          "left": 602,
+          "top": 297,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.208992
+        },
+        {
+          "text": "技术",
+          "left": 624,
+          "top": 266,
+          "width": 227,
+          "height": 40,
+          "confidence": 96.800606
+        },
+        {
+          "text": "是",
+          "left": 728,
+          "top": 261,
+          "width": 48,
+          "height": 58,
+          "confidence": 93.268158
+        },
+        {
+          "text": "死",
+          "left": 775,
+          "top": 261,
+          "width": 52,
+          "height": 58,
+          "confidence": 93.00209
+        },
+        {
+          "text": "的",
+          "left": 826,
+          "top": 261,
+          "width": 30,
+          "height": 58,
+          "confidence": 67.856705
+        },
+        {
+          "text": ".",
+          "left": 855,
+          "top": 261,
+          "width": 19,
+          "height": 58,
+          "confidence": 92.51162
+        },
+        {
+          "text": "人",
+          "left": 891,
+          "top": 266,
+          "width": 18,
+          "height": 40,
+          "confidence": 97.000748
+        },
+        {
+          "text": "是",
+          "left": 924,
+          "top": 267,
+          "width": 44,
+          "height": 39,
+          "confidence": 93.252121
+        },
+        {
+          "text": "活",
+          "left": 969,
+          "top": 266,
+          "width": 83,
+          "height": 40,
+          "confidence": 91.521736
+        },
+        {
+          "text": "的",
+          "left": 1015,
+          "top": 261,
+          "width": 29,
+          "height": 58,
+          "confidence": 93.282761
+        },
+        {
+          "text": ".",
+          "left": 1044,
+          "top": 261,
+          "width": 15,
+          "height": 58,
+          "confidence": 92.576935
+        },
+        {
+          "text": "怎么",
+          "left": 1069,
+          "top": 266,
+          "width": 304,
+          "height": 40,
+          "confidence": 91.922401
+        },
+        {
+          "text": "干",
+          "left": 1181,
+          "top": 261,
+          "width": 45,
+          "height": 58,
+          "confidence": 82.612114
+        },
+        {
+          "text": "还",
+          "left": 1225,
+          "top": 261,
+          "width": 41,
+          "height": 58,
+          "confidence": 79.479523
+        },
+        {
+          "text": "得",
+          "left": 1265,
+          "top": 261,
+          "width": 40,
+          "height": 58,
+          "confidence": 96.962959
+        },
+        {
+          "text": "看",
+          "left": 1305,
+          "top": 261,
+          "width": 44,
+          "height": 58,
+          "confidence": 96.568497
+        },
+        {
+          "text": "你",
+          "left": 1348,
+          "top": 261,
+          "width": 30,
+          "height": 58,
+          "confidence": 96.060829
+        }
+      ]
+    },
+    {
+      "text": "自己 ~",
+      "left": 96,
+      "top": 331,
+      "right": 203,
+      "bottom": 388,
+      "height": 57,
+      "confidence": 96.2761455,
+      "words": [
+        {
+          "text": "自己",
+          "left": 96,
+          "top": 336,
+          "width": 105,
+          "height": 40,
+          "confidence": 95.772346
+        },
+        {
+          "text": "~",
+          "left": 181,
+          "top": 331,
+          "width": 22,
+          "height": 57,
+          "confidence": 96.779945
+        }
+      ]
+    },
+    {
+      "text": "本章涉及内容:",
+      "left": 91,
+      "top": 605,
+      "right": 365,
+      "bottom": 662,
+      "height": 57,
+      "confidence": 91.28035883333332,
+      "words": [
+        {
+          "text": "本",
+          "left": 91,
+          "top": 609,
+          "width": 40,
+          "height": 40,
+          "confidence": 90.986153
+        },
+        {
+          "text": "章",
+          "left": 147,
+          "top": 609,
+          "width": 43,
+          "height": 40,
+          "confidence": 85.866608
+        },
+        {
+          "text": "涉及",
+          "left": 191,
+          "top": 609,
+          "width": 171,
+          "height": 41,
+          "confidence": 94.851204
+        },
+        {
+          "text": "内",
+          "left": 272,
+          "top": 605,
+          "width": 47,
+          "height": 57,
+          "confidence": 93.21627
+        },
+        {
+          "text": "容",
+          "left": 318,
+          "top": 605,
+          "width": 30,
+          "height": 57,
+          "confidence": 89.906754
+        },
+        {
+          "text": ":",
+          "left": 347,
+          "top": 605,
+          "width": 18,
+          "height": 57,
+          "confidence": 92.855164
+        }
+      ]
+    },
+    {
+      "text": "1. 快速学会多线程",
+      "left": 113,
+      "top": 740,
+      "right": 479,
+      "bottom": 798,
+      "height": 58,
+      "confidence": 94.92097366666667,
+      "words": [
+        {
+          "text": "1.",
+          "left": 113,
+          "top": 750,
+          "width": 29,
+          "height": 31,
+          "confidence": 85.225975
+        },
+        {
+          "text": "快速",
+          "left": 173,
+          "top": 745,
+          "width": 304,
+          "height": 40,
+          "confidence": 96.726082
+        },
+        {
+          "text": "学",
+          "left": 283,
+          "top": 740,
+          "width": 44,
+          "height": 58,
+          "confidence": 96.937775
+        },
+        {
+          "text": "会",
+          "left": 326,
+          "top": 740,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.747185
+        },
+        {
+          "text": "多",
+          "left": 366,
+          "top": 740,
+          "width": 41,
+          "height": 58,
+          "confidence": 97.006409
+        },
+        {
+          "text": "线程",
+          "left": 406,
+          "top": 740,
+          "width": 73,
+          "height": 58,
+          "confidence": 96.882416
+        }
+      ]
+    },
+    {
+      "text": "2. 快速学会多进程",
+      "left": 110,
+      "top": 810,
+      "right": 481,
+      "bottom": 867,
+      "height": 57,
+      "confidence": 95.71575933333334,
+      "words": [
+        {
+          "text": "2.",
+          "left": 110,
+          "top": 820,
+          "width": 32,
+          "height": 31,
+          "confidence": 92.588203
+        },
+        {
+          "text": "快速",
+          "left": 173,
+          "top": 815,
+          "width": 304,
+          "height": 40,
+          "confidence": 95.5131
+        },
+        {
+          "text": "学",
+          "left": 280,
+          "top": 810,
+          "width": 47,
+          "height": 57,
+          "confidence": 96.920456
+        },
+        {
+          "text": "会",
+          "left": 326,
+          "top": 810,
+          "width": 44,
+          "height": 57,
+          "confidence": 96.607079
+        },
+        {
+          "text": "多",
+          "left": 369,
+          "top": 810,
+          "width": 37,
+          "height": 57,
+          "confidence": 96.902122
+        },
+        {
+          "text": "进程",
+          "left": 405,
+          "top": 810,
+          "width": 76,
+          "height": 57,
+          "confidence": 95.763596
+        }
+      ]
+    },
+    {
+      "text": "3. 线程池和进程池",
+      "left": 110,
+      "top": 880,
+      "right": 480,
+      "bottom": 938,
+      "height": 58,
+      "confidence": 92.08986650000001,
+      "words": [
+        {
+          "text": "3.",
+          "left": 110,
+          "top": 890,
+          "width": 32,
+          "height": 32,
+          "confidence": 91.946136
+        },
+        {
+          "text": "线程",
+          "left": 173,
+          "top": 885,
+          "width": 304,
+          "height": 40,
+          "confidence": 93.093292
+        },
+        {
+          "text": "池",
+          "left": 283,
+          "top": 880,
+          "width": 30,
+          "height": 58,
+          "confidence": 89.302887
+        },
+        {
+          "text": "和",
+          "left": 312,
+          "top": 880,
+          "width": 45,
+          "height": 58,
+          "confidence": 93.299141
+        },
+        {
+          "text": "进程",
+          "left": 356,
+          "top": 885,
+          "width": 95,
+          "height": 40,
+          "confidence": 93.075691
+        },
+        {
+          "text": "池",
+          "left": 450,
+          "top": 880,
+          "width": 30,
+          "height": 58,
+          "confidence": 91.822052
+        }
+      ]
+    },
+    {
+      "text": "4. 扒光新发地",
+      "left": 110,
+      "top": 955,
+      "right": 389,
+      "bottom": 996,
+      "height": 41,
+      "confidence": 92.90690883333332,
+      "words": [
+        {
+          "text": "4.",
+          "left": 110,
+          "top": 960,
+          "width": 32,
+          "height": 31,
+          "confidence": 90.481499
+        },
+        {
+          "text": "扒",
+          "left": 184,
+          "top": 955,
+          "width": 29,
+          "height": 40,
+          "confidence": 87.655518
+        },
+        {
+          "text": "光",
+          "left": 227,
+          "top": 955,
+          "width": 47,
+          "height": 41,
+          "confidence": 93.122444
+        },
+        {
+          "text": "新",
+          "left": 280,
+          "top": 956,
+          "width": 21,
+          "height": 40,
+          "confidence": 92.26487
+        },
+        {
+          "text": "发",
+          "left": 323,
+          "top": 955,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.910286
+        },
+        {
+          "text": "地",
+          "left": 362,
+          "top": 955,
+          "width": 27,
+          "height": 40,
+          "confidence": 97.006836
+        }
+      ]
+    },
+    {
+      "text": "5. 协程",
+      "left": 111,
+      "top": 1020,
+      "right": 261,
+      "bottom": 1077,
+      "height": 57,
+      "confidence": 87.28569800000001,
+      "words": [
+        {
+          "text": "5.",
+          "left": 111,
+          "top": 1030,
+          "width": 31,
+          "height": 32,
+          "confidence": 94.329857
+        },
+        {
+          "text": "协",
+          "left": 173,
+          "top": 1025,
+          "width": 84,
+          "height": 40,
+          "confidence": 75.308327
+        },
+        {
+          "text": "程",
+          "left": 231,
+          "top": 1020,
+          "width": 30,
+          "height": 57,
+          "confidence": 92.21891
+        }
+      ]
+    },
+    {
+      "text": "6. 多任务异步协程实现",
+      "left": 111,
+      "top": 1095,
+      "right": 566,
+      "bottom": 1136,
+      "height": 41,
+      "confidence": 94.51481628571428,
+      "words": [
+        {
+          "text": "6.",
+          "left": 111,
+          "top": 1100,
+          "width": 31,
+          "height": 32,
+          "confidence": 94.15416
+        },
+        {
+          "text": "多",
+          "left": 181,
+          "top": 1095,
+          "width": 48,
+          "height": 41,
+          "confidence": 95.862083
+        },
+        {
+          "text": "任务",
+          "left": 228,
+          "top": 1095,
+          "width": 73,
+          "height": 40,
+          "confidence": 96.433372
+        },
+        {
+          "text": "异步",
+          "left": 324,
+          "top": 1095,
+          "width": 82,
+          "height": 41,
+          "confidence": 93.157433
+        },
+        {
+          "text": "协",
+          "left": 413,
+          "top": 1095,
+          "width": 40,
+          "height": 40,
+          "confidence": 93.266273
+        },
+        {
+          "text": "程",
+          "left": 456,
+          "top": 1095,
+          "width": 47,
+          "height": 40,
+          "confidence": 91.935814
+        },
+        {
+          "text": "实现",
+          "left": 526,
+          "top": 1097,
+          "width": 40,
+          "height": 38,
+          "confidence": 96.794579
+        }
+      ]
+    },
+    {
+      "text": "7. aiohttp 模块详解",
+      "left": 111,
+      "top": 1160,
+      "right": 485,
+      "bottom": 1216,
+      "height": 56,
+      "confidence": 91.7693742,
+      "words": [
+        {
+          "text": "7.",
+          "left": 111,
+          "top": 1170,
+          "width": 31,
+          "height": 31,
+          "confidence": 92.557648
+        },
+        {
+          "text": "aiohttp",
+          "left": 173,
+          "top": 1165,
+          "width": 309,
+          "height": 45,
+          "confidence": 91.06942
+        },
+        {
+          "text": "模",
+          "left": 320,
+          "top": 1160,
+          "width": 53,
+          "height": 56,
+          "confidence": 87.721069
+        },
+        {
+          "text": "块",
+          "left": 373,
+          "top": 1160,
+          "width": 46,
+          "height": 56,
+          "confidence": 90.854485
+        },
+        {
+          "text": "详解",
+          "left": 418,
+          "top": 1160,
+          "width": 67,
+          "height": 56,
+          "confidence": 96.644249
+        }
+      ]
+    },
+    {
+      "text": "8. 扒光一本小说",
+      "left": 111,
+      "top": 1235,
+      "right": 434,
+      "bottom": 1275,
+      "height": 40,
+      "confidence": 91.61009,
+      "words": [
+        {
+          "text": "8.",
+          "left": 111,
+          "top": 1240,
+          "width": 31,
+          "height": 32,
+          "confidence": 89.762589
+        },
+        {
+          "text": "扒",
+          "left": 185,
+          "top": 1235,
+          "width": 28,
+          "height": 40,
+          "confidence": 78.588707
+        },
+        {
+          "text": "光",
+          "left": 228,
+          "top": 1235,
+          "width": 29,
+          "height": 40,
+          "confidence": 88.612671
+        },
+        {
+          "text": "一",
+          "left": 274,
+          "top": 1253,
+          "width": 27,
+          "height": 3,
+          "confidence": 96.558083
+        },
+        {
+          "text": "本",
+          "left": 320,
+          "top": 1235,
+          "width": 39,
+          "height": 40,
+          "confidence": 96.911346
+        },
+        {
+          "text": "小",
+          "left": 360,
+          "top": 1236,
+          "width": 47,
+          "height": 39,
+          "confidence": 95.846153
+        },
+        {
+          "text": "说",
+          "left": 406,
+          "top": 1235,
+          "width": 28,
+          "height": 40,
+          "confidence": 94.991081
+        }
+      ]
+    },
+    {
+      "text": "9. 综合训练 - 抓取一部电影",
+      "left": 110,
+      "top": 1305,
+      "right": 627,
+      "bottom": 1346,
+      "height": 41,
+      "confidence": 93.32073299999999,
+      "words": [
+        {
+          "text": "9.",
+          "left": 110,
+          "top": 1310,
+          "width": 32,
+          "height": 32,
+          "confidence": 92.632484
+        },
+        {
+          "text": "综合",
+          "left": 182,
+          "top": 1305,
+          "width": 93,
+          "height": 40,
+          "confidence": 94.245003
+        },
+        {
+          "text": "训练",
+          "left": 276,
+          "top": 1305,
+          "width": 84,
+          "height": 41,
+          "confidence": 90.12101
+        },
+        {
+          "text": "-",
+          "left": 366,
+          "top": 1305,
+          "width": 15,
+          "height": 40,
+          "confidence": 92.678635
+        },
+        {
+          "text": "抓",
+          "left": 388,
+          "top": 1305,
+          "width": 18,
+          "height": 40,
+          "confidence": 91.877899
+        },
+        {
+          "text": "取",
+          "left": 428,
+          "top": 1307,
+          "width": 23,
+          "height": 38,
+          "confidence": 92.93821
+        },
+        {
+          "text": "一",
+          "left": 468,
+          "top": 1305,
+          "width": 48,
+          "height": 40,
+          "confidence": 92.614708
+        },
+        {
+          "text": "部",
+          "left": 523,
+          "top": 1307,
+          "width": 15,
+          "height": 38,
+          "confidence": 96.776405
+        },
+        {
+          "text": "电影",
+          "left": 559,
+          "top": 1305,
+          "width": 68,
+          "height": 40,
+          "confidence": 96.002243
+        }
+      ]
+    }
+  ]
+}

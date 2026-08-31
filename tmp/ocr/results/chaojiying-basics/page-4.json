@@ -1,0 +1,1227 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/chaojiying-basics/page-4.png",
+  "lines": [
+    {
+      "text": "首页> AP 文档",
+      "left": 221,
+      "top": 145,
+      "right": 313,
+      "bottom": 158,
+      "height": 13,
+      "confidence": 78.63978300000001,
+      "words": [
+        {
+          "text": "首页",
+          "left": 221,
+          "top": 145,
+          "width": 26,
+          "height": 13,
+          "confidence": 96.699394
+        },
+        {
+          "text": ">",
+          "left": 257,
+          "top": 149,
+          "width": 2,
+          "height": 7,
+          "confidence": 95.149399
+        },
+        {
+          "text": "AP",
+          "left": 268,
+          "top": 146,
+          "width": 18,
+          "height": 10,
+          "confidence": 95.149399
+        },
+        {
+          "text": "文档",
+          "left": 289,
+          "top": 145,
+          "width": 24,
+          "height": 13,
+          "confidence": 27.56094
+        }
+      ]
+    },
+    {
+      "text": "跨平台 HTTP 标准 WEB 接口",
+      "left": 240,
+      "top": 286,
+      "right": 406,
+      "bottom": 308,
+      "height": 22,
+      "confidence": 92.952134125,
+      "words": [
+        {
+          "text": "跨",
+          "left": 240,
+          "top": 290,
+          "width": 76,
+          "height": 12,
+          "confidence": 91.331581
+        },
+        {
+          "text": "平",
+          "left": 259,
+          "top": 286,
+          "width": 15,
+          "height": 22,
+          "confidence": 91.50901
+        },
+        {
+          "text": "台",
+          "left": 273,
+          "top": 286,
+          "width": 10,
+          "height": 22,
+          "confidence": 93.225479
+        },
+        {
+          "text": "HTTP",
+          "left": 282,
+          "top": 290,
+          "width": 31,
+          "height": 12,
+          "confidence": 92.324608
+        },
+        {
+          "text": "标准",
+          "left": 325,
+          "top": 290,
+          "width": 29,
+          "height": 12,
+          "confidence": 96.687309
+        },
+        {
+          "text": "WEB",
+          "left": 355,
+          "top": 290,
+          "width": 29,
+          "height": 12,
+          "confidence": 93.070961
+        },
+        {
+          "text": "接",
+          "left": 385,
+          "top": 290,
+          "width": 9,
+          "height": 11,
+          "confidence": 92.281647
+        },
+        {
+          "text": "口",
+          "left": 399,
+          "top": 291,
+          "width": 7,
+          "height": 10,
+          "confidence": 93.186478
+        }
+      ]
+    },
+    {
+      "text": "python3 可能会提示 SyntaxError: invalid syntax 注意把 print 后边加 0",
+      "left": 554,
+      "top": 360,
+      "right": 1080,
+      "bottom": 389,
+      "height": 29,
+      "confidence": 91.85953213333333,
+      "words": [
+        {
+          "text": "python3",
+          "left": 554,
+          "top": 368,
+          "width": 63,
+          "height": 16,
+          "confidence": 91.756485
+        },
+        {
+          "text": "可",
+          "left": 626,
+          "top": 368,
+          "width": 13,
+          "height": 14,
+          "confidence": 96.514824
+        },
+        {
+          "text": "能",
+          "left": 641,
+          "top": 367,
+          "width": 61,
+          "height": 15,
+          "confidence": 96.464531
+        },
+        {
+          "text": "会",
+          "left": 662,
+          "top": 360,
+          "width": 15,
+          "height": 29,
+          "confidence": 96.782562
+        },
+        {
+          "text": "提示",
+          "left": 676,
+          "top": 367,
+          "width": 26,
+          "height": 15,
+          "confidence": 93.191422
+        },
+        {
+          "text": "SyntaxError:",
+          "left": 709,
+          "top": 368,
+          "width": 96,
+          "height": 15,
+          "confidence": 84.189117
+        },
+        {
+          "text": "invalid",
+          "left": 812,
+          "top": 368,
+          "width": 47,
+          "height": 13,
+          "confidence": 96.069809
+        },
+        {
+          "text": "syntax",
+          "left": 867,
+          "top": 370,
+          "width": 50,
+          "height": 14,
+          "confidence": 95.604881
+        },
+        {
+          "text": "注意",
+          "left": 929,
+          "top": 367,
+          "width": 46,
+          "height": 15,
+          "confidence": 95.444839
+        },
+        {
+          "text": "把",
+          "left": 966,
+          "top": 360,
+          "width": 14,
+          "height": 29,
+          "confidence": 96.465546
+        },
+        {
+          "text": "print",
+          "left": 982,
+          "top": 370,
+          "width": 35,
+          "height": 14,
+          "confidence": 93.243187
+        },
+        {
+          "text": "后",
+          "left": 1030,
+          "top": 367,
+          "width": 17,
+          "height": 15,
+          "confidence": 93.167183
+        },
+        {
+          "text": "边",
+          "left": 1055,
+          "top": 367,
+          "width": 8,
+          "height": 15,
+          "confidence": 93.085632
+        },
+        {
+          "text": "加",
+          "left": 1064,
+          "top": 369,
+          "width": 5,
+          "height": 12,
+          "confidence": 96.89901
+        },
+        {
+          "text": "0",
+          "left": 1073,
+          "top": 368,
+          "width": 7,
+          "height": 15,
+          "confidence": 59.013954
+        }
+      ]
+    },
+    {
+      "text": "ESIBERIRSICHENDemo TS 如果是 WIN 系统， 有时本地图片路径可能须要双斜杠 //",
+      "left": 240,
+      "top": 395,
+      "right": 933,
+      "bottom": 429,
+      "height": 34,
+      "confidence": 82.78481321739132,
+      "words": [
+        {
+          "text": "ESIBERIRSICHENDemo",
+          "left": 240,
+          "top": 400,
+          "width": 180,
+          "height": 12,
+          "confidence": 0.0
+        },
+        {
+          "text": "TS",
+          "left": 425,
+          "top": 400,
+          "width": 22,
+          "height": 12,
+          "confidence": 45.290218
+        },
+        {
+          "text": "如",
+          "left": 554,
+          "top": 406,
+          "width": 13,
+          "height": 14,
+          "confidence": 93.292511
+        },
+        {
+          "text": "果",
+          "left": 573,
+          "top": 407,
+          "width": 11,
+          "height": 14,
+          "confidence": 91.546051
+        },
+        {
+          "text": "是",
+          "left": 592,
+          "top": 407,
+          "width": 8,
+          "height": 13,
+          "confidence": 93.099258
+        },
+        {
+          "text": "WIN",
+          "left": 607,
+          "top": 407,
+          "width": 25,
+          "height": 12,
+          "confidence": 93.821526
+        },
+        {
+          "text": "系统",
+          "left": 639,
+          "top": 406,
+          "width": 29,
+          "height": 15,
+          "confidence": 93.22271
+        },
+        {
+          "text": "，",
+          "left": 673,
+          "top": 395,
+          "width": 11,
+          "height": 34,
+          "confidence": 92.5298
+        },
+        {
+          "text": "有",
+          "left": 683,
+          "top": 406,
+          "width": 13,
+          "height": 14,
+          "confidence": 92.981064
+        },
+        {
+          "text": "时",
+          "left": 698,
+          "top": 407,
+          "width": 14,
+          "height": 13,
+          "confidence": 92.133369
+        },
+        {
+          "text": "本",
+          "left": 715,
+          "top": 406,
+          "width": 18,
+          "height": 14,
+          "confidence": 96.141502
+        },
+        {
+          "text": "地",
+          "left": 733,
+          "top": 406,
+          "width": 10,
+          "height": 14,
+          "confidence": 96.57106
+        },
+        {
+          "text": "图",
+          "left": 749,
+          "top": 406,
+          "width": 20,
+          "height": 15,
+          "confidence": 93.267601
+        },
+        {
+          "text": "片",
+          "left": 768,
+          "top": 395,
+          "width": 16,
+          "height": 34,
+          "confidence": 87.498947
+        },
+        {
+          "text": "路",
+          "left": 783,
+          "top": 406,
+          "width": 9,
+          "height": 15,
+          "confidence": 93.264938
+        },
+        {
+          "text": "径",
+          "left": 798,
+          "top": 407,
+          "width": 9,
+          "height": 14,
+          "confidence": 76.344437
+        },
+        {
+          "text": "可",
+          "left": 813,
+          "top": 407,
+          "width": 10,
+          "height": 13,
+          "confidence": 96.280396
+        },
+        {
+          "text": "能",
+          "left": 830,
+          "top": 406,
+          "width": 9,
+          "height": 14,
+          "confidence": 96.736946
+        },
+        {
+          "text": "须要",
+          "left": 845,
+          "top": 406,
+          "width": 26,
+          "height": 14,
+          "confidence": 93.245667
+        },
+        {
+          "text": "双",
+          "left": 875,
+          "top": 406,
+          "width": 22,
+          "height": 15,
+          "confidence": 91.543533
+        },
+        {
+          "text": "斜",
+          "left": 904,
+          "top": 406,
+          "width": 6,
+          "height": 15,
+          "confidence": 29.58498
+        },
+        {
+          "text": "杠",
+          "left": 911,
+          "top": 407,
+          "width": 7,
+          "height": 13,
+          "confidence": 91.147896
+        },
+        {
+          "text": "//",
+          "left": 921,
+          "top": 407,
+          "width": 12,
+          "height": 15,
+          "confidence": 74.506294
+        }
+      ]
+    },
+    {
+      "text": "超级麻图像识别 Java 语言 Demo 下载有时 python 版本可能会提示 tab 空格错误， 注意统一一下换行符就行",
+      "left": 240,
+      "top": 437,
+      "right": 1041,
+      "bottom": 467,
+      "height": 30,
+      "confidence": 89.74816690909091,
+      "words": [
+        {
+          "text": "超级",
+          "left": 240,
+          "top": 444,
+          "width": 27,
+          "height": 11,
+          "confidence": 93.167328
+        },
+        {
+          "text": "麻",
+          "left": 271,
+          "top": 443,
+          "width": 8,
+          "height": 13,
+          "confidence": 0.0
+        },
+        {
+          "text": "图",
+          "left": 284,
+          "top": 444,
+          "width": 12,
+          "height": 12,
+          "confidence": 71.50428
+        },
+        {
+          "text": "像",
+          "left": 301,
+          "top": 444,
+          "width": 11,
+          "height": 11,
+          "confidence": 92.220421
+        },
+        {
+          "text": "识别",
+          "left": 314,
+          "top": 444,
+          "width": 23,
+          "height": 11,
+          "confidence": 96.919144
+        },
+        {
+          "text": "Java",
+          "left": 338,
+          "top": 444,
+          "width": 31,
+          "height": 11,
+          "confidence": 92.945114
+        },
+        {
+          "text": "语",
+          "left": 369,
+          "top": 444,
+          "width": 19,
+          "height": 12,
+          "confidence": 92.693558
+        },
+        {
+          "text": "言",
+          "left": 392,
+          "top": 444,
+          "width": 9,
+          "height": 10,
+          "confidence": 93.207306
+        },
+        {
+          "text": "Demo",
+          "left": 400,
+          "top": 437,
+          "width": 30,
+          "height": 26,
+          "confidence": 91.405807
+        },
+        {
+          "text": "下",
+          "left": 434,
+          "top": 444,
+          "width": 10,
+          "height": 12,
+          "confidence": 89.211189
+        },
+        {
+          "text": "载",
+          "left": 450,
+          "top": 444,
+          "width": 8,
+          "height": 12,
+          "confidence": 80.69384
+        },
+        {
+          "text": "有",
+          "left": 554,
+          "top": 445,
+          "width": 14,
+          "height": 14,
+          "confidence": 96.566803
+        },
+        {
+          "text": "时",
+          "left": 571,
+          "top": 445,
+          "width": 12,
+          "height": 14,
+          "confidence": 96.416092
+        },
+        {
+          "text": "python",
+          "left": 586,
+          "top": 444,
+          "width": 164,
+          "height": 17,
+          "confidence": 91.410011
+        },
+        {
+          "text": "版",
+          "left": 646,
+          "top": 440,
+          "width": 18,
+          "height": 27,
+          "confidence": 90.33754
+        },
+        {
+          "text": "本",
+          "left": 663,
+          "top": 440,
+          "width": 14,
+          "height": 27,
+          "confidence": 96.886925
+        },
+        {
+          "text": "可",
+          "left": 676,
+          "top": 440,
+          "width": 16,
+          "height": 27,
+          "confidence": 96.81282
+        },
+        {
+          "text": "能",
+          "left": 691,
+          "top": 440,
+          "width": 20,
+          "height": 27,
+          "confidence": 96.913651
+        },
+        {
+          "text": "会",
+          "left": 710,
+          "top": 440,
+          "width": 16,
+          "height": 27,
+          "confidence": 96.692062
+        },
+        {
+          "text": "提示",
+          "left": 725,
+          "top": 440,
+          "width": 25,
+          "height": 27,
+          "confidence": 94.218903
+        },
+        {
+          "text": "tab",
+          "left": 756,
+          "top": 446,
+          "width": 25,
+          "height": 12,
+          "confidence": 95.270607
+        },
+        {
+          "text": "空格",
+          "left": 793,
+          "top": 445,
+          "width": 32,
+          "height": 14,
+          "confidence": 96.689598
+        },
+        {
+          "text": "错误",
+          "left": 826,
+          "top": 445,
+          "width": 28,
+          "height": 15,
+          "confidence": 91.723816
+        },
+        {
+          "text": "，",
+          "left": 868,
+          "top": 445,
+          "width": 3,
+          "height": 14,
+          "confidence": 93.012642
+        },
+        {
+          "text": "注",
+          "left": 871,
+          "top": 446,
+          "width": 11,
+          "height": 12,
+          "confidence": 92.457375
+        },
+        {
+          "text": "意",
+          "left": 889,
+          "top": 445,
+          "width": 16,
+          "height": 14,
+          "confidence": 93.214714
+        },
+        {
+          "text": "统一",
+          "left": 905,
+          "top": 445,
+          "width": 34,
+          "height": 14,
+          "confidence": 92.702927
+        },
+        {
+          "text": "一",
+          "left": 938,
+          "top": 440,
+          "width": 16,
+          "height": 27,
+          "confidence": 96.943512
+        },
+        {
+          "text": "下",
+          "left": 953,
+          "top": 445,
+          "width": 8,
+          "height": 14,
+          "confidence": 96.565979
+        },
+        {
+          "text": "换行",
+          "left": 966,
+          "top": 445,
+          "width": 27,
+          "height": 14,
+          "confidence": 91.721077
+        },
+        {
+          "text": "符",
+          "left": 1000,
+          "top": 445,
+          "width": 9,
+          "height": 14,
+          "confidence": 93.185349
+        },
+        {
+          "text": "就",
+          "left": 1017,
+          "top": 445,
+          "width": 13,
+          "height": 14,
+          "confidence": 92.393219
+        },
+        {
+          "text": "行",
+          "left": 1032,
+          "top": 445,
+          "width": 9,
+          "height": 14,
+          "confidence": 85.585899
+        }
+      ]
+    },
+    {
+      "text": "超级鹰图像识别 Python 语言 Demo 下载",
+      "left": 239,
+      "top": 482,
+      "right": 478,
+      "bottom": 505,
+      "height": 23,
+      "confidence": 81.2033868888889,
+      "words": [
+        {
+          "text": "超级",
+          "left": 239,
+          "top": 487,
+          "width": 26,
+          "height": 12,
+          "confidence": 93.248024
+        },
+        {
+          "text": "鹰",
+          "left": 272,
+          "top": 486,
+          "width": 7,
+          "height": 12,
+          "confidence": 0.0
+        },
+        {
+          "text": "图像",
+          "left": 285,
+          "top": 487,
+          "width": 27,
+          "height": 12,
+          "confidence": 96.628593
+        },
+        {
+          "text": "识别",
+          "left": 314,
+          "top": 487,
+          "width": 25,
+          "height": 12,
+          "confidence": 96.562263
+        },
+        {
+          "text": "Python",
+          "left": 338,
+          "top": 482,
+          "width": 47,
+          "height": 23,
+          "confidence": 96.608162
+        },
+        {
+          "text": "语言",
+          "left": 386,
+          "top": 487,
+          "width": 31,
+          "height": 12,
+          "confidence": 96.700493
+        },
+        {
+          "text": "Demo",
+          "left": 416,
+          "top": 482,
+          "width": 32,
+          "height": 23,
+          "confidence": 91.688759
+        },
+        {
+          "text": "下",
+          "left": 449,
+          "top": 487,
+          "width": 26,
+          "height": 12,
+          "confidence": 72.220947
+        },
+        {
+          "text": "载",
+          "left": 466,
+          "top": 482,
+          "width": 12,
+          "height": 23,
+          "confidence": 87.173241
+        }
+      ]
+    },
+    {
+      "text": "下载好的内容解压. Ellpycharmp,",
+      "left": 92,
+      "top": 609,
+      "right": 778,
+      "bottom": 666,
+      "height": 57,
+      "confidence": 82.77868044444445,
+      "words": [
+        {
+          "text": "下",
+          "left": 92,
+          "top": 617,
+          "width": 38,
+          "height": 37,
+          "confidence": 90.92749
+        },
+        {
+          "text": "载",
+          "left": 148,
+          "top": 614,
+          "width": 49,
+          "height": 40,
+          "confidence": 92.554512
+        },
+        {
+          "text": "好",
+          "left": 198,
+          "top": 614,
+          "width": 40,
+          "height": 40,
+          "confidence": 94.332481
+        },
+        {
+          "text": "的",
+          "left": 240,
+          "top": 614,
+          "width": 21,
+          "height": 40,
+          "confidence": 95.984253
+        },
+        {
+          "text": "内",
+          "left": 270,
+          "top": 614,
+          "width": 34,
+          "height": 40,
+          "confidence": 93.283508
+        },
+        {
+          "text": "容",
+          "left": 319,
+          "top": 614,
+          "width": 54,
+          "height": 40,
+          "confidence": 92.930458
+        },
+        {
+          "text": "解压",
+          "left": 376,
+          "top": 616,
+          "width": 72,
+          "height": 38,
+          "confidence": 92.289795
+        },
+        {
+          "text": ".",
+          "left": 447,
+          "top": 609,
+          "width": 16,
+          "height": 57,
+          "confidence": 92.705627
+        },
+        {
+          "text": "Ellpycharmp,",
+          "left": 467,
+          "top": 614,
+          "width": 311,
+          "height": 45,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "> pug Bi",
+      "left": 166,
+      "top": 614,
+      "right": 534,
+      "bottom": 633,
+      "height": 19,
+      "confidence": 34.063937,
+      "words": [
+        {
+          "text": ">",
+          "left": 166,
+          "top": 615,
+          "width": 6,
+          "height": 7,
+          "confidence": 57.539696
+        },
+        {
+          "text": "pug",
+          "left": 313,
+          "top": 614,
+          "width": 80,
+          "height": 15,
+          "confidence": 0.0
+        },
+        {
+          "text": "Bi",
+          "left": 512,
+          "top": 616,
+          "width": 22,
+          "height": 17,
+          "confidence": 44.652115
+        }
+      ]
+    },
+    {
+      "text": "v Chaojiying_Python",
+      "left": 108,
+      "top": 765,
+      "right": 489,
+      "bottom": 796,
+      "height": 31,
+      "confidence": 85.05859749999999,
+      "words": [
+        {
+          "text": "v",
+          "left": 108,
+          "top": 768,
+          "width": 21,
+          "height": 19,
+          "confidence": 78.412796
+        },
+        {
+          "text": "Chaojiying_Python",
+          "left": 211,
+          "top": 765,
+          "width": 278,
+          "height": 31,
+          "confidence": 91.704399
+        }
+      ]
+    },
+    {
+      "text": "v chaojiying_Python",
+      "left": 164,
+      "top": 816,
+      "right": 540,
+      "bottom": 847,
+      "height": 31,
+      "confidence": 83.426548,
+      "words": [
+        {
+          "text": "v",
+          "left": 164,
+          "top": 820,
+          "width": 21,
+          "height": 18,
+          "confidence": 74.947235
+        },
+        {
+          "text": "chaojiying_Python",
+          "left": 267,
+          "top": 816,
+          "width": 273,
+          "height": 31,
+          "confidence": 91.905861
+        }
+      ]
+    },
+    {
+      "text": "chaojiying.py",
+      "left": 324,
+      "top": 867,
+      "right": 521,
+      "bottom": 898,
+      "height": 31,
+      "confidence": 91.863075,
+      "words": [
+        {
+          "text": "chaojiying.py",
+          "left": 324,
+          "top": 867,
+          "width": 197,
+          "height": 31,
+          "confidence": 91.863075
+        }
+      ]
+    },
+    {
+      "text": "读我.txt",
+      "left": 324,
+      "top": 911,
+      "right": 435,
+      "bottom": 955,
+      "height": 44,
+      "confidence": 92.891838,
+      "words": [
+        {
+          "text": "读",
+          "left": 324,
+          "top": 916,
+          "width": 111,
+          "height": 30,
+          "confidence": 92.973167
+        },
+        {
+          "text": "我",
+          "left": 369,
+          "top": 911,
+          "width": 23,
+          "height": 44,
+          "confidence": 96.764534
+        },
+        {
+          "text": ".txt",
+          "left": 391,
+          "top": 916,
+          "width": 44,
+          "height": 30,
+          "confidence": 88.937813
+        }
+      ]
+    },
+    {
+      "text": "readme.txt",
+      "left": 325,
+      "top": 970,
+      "right": 485,
+      "bottom": 994,
+      "height": 24,
+      "confidence": 95.231773,
+      "words": [
+        {
+          "text": "readme.txt",
+          "left": 325,
+          "top": 970,
+          "width": 160,
+          "height": 24,
+          "confidence": 95.231773
+        }
+      ]
+    },
+    {
+      "text": "=) a.jpg",
+      "left": 273,
+      "top": 1021,
+      "right": 394,
+      "bottom": 1052,
+      "height": 31,
+      "confidence": 59.47662,
+      "words": [
+        {
+          "text": "=)",
+          "left": 273,
+          "top": 1031,
+          "width": 34,
+          "height": 13,
+          "confidence": 34.635567
+        },
+        {
+          "text": "a.jpg",
+          "left": 324,
+          "top": 1021,
+          "width": 70,
+          "height": 31,
+          "confidence": 84.317673
+        }
+      ]
+    },
+    {
+      "text": "= open",
+      "left": 266,
+      "top": 1288,
+      "right": 354,
+      "bottom": 1308,
+      "height": 20,
+      "confidence": 96.17125300000001,
+      "words": [
+        {
+          "text": "=",
+          "left": 266,
+          "top": 1290,
+          "width": 14,
+          "height": 9,
+          "confidence": 96.61042
+        },
+        {
+          "text": "open",
+          "left": 297,
+          "top": 1288,
+          "width": 57,
+          "height": 20,
+          "confidence": 95.732086
+        }
+      ]
+    },
+    {
+      "text": "print 1902",
+      "left": 222,
+      "top": 1321,
+      "right": 719,
+      "bottom": 1346,
+      "height": 25,
+      "confidence": 93.88991200000001,
+      "words": [
+        {
+          "text": "print",
+          "left": 222,
+          "top": 1321,
+          "width": 72,
+          "height": 25,
+          "confidence": 96.428284
+        },
+        {
+          "text": "1902",
+          "left": 663,
+          "top": 1322,
+          "width": 56,
+          "height": 19,
+          "confidence": 91.35154
+        }
+      ]
+    },
+    {
+      "text": "i=} NT]>",
+      "left": 93,
+      "top": 1480,
+      "right": 259,
+      "bottom": 1509,
+      "height": 29,
+      "confidence": 36.92292533333333,
+      "words": [
+        {
+          "text": "i=}",
+          "left": 93,
+          "top": 1480,
+          "width": 37,
+          "height": 29,
+          "confidence": 85.759087
+        },
+        {
+          "text": "NT]",
+          "left": 203,
+          "top": 1487,
+          "width": 8,
+          "height": 18,
+          "confidence": 21.736574
+        },
+        {
+          "text": ">",
+          "left": 250,
+          "top": 1487,
+          "width": 9,
+          "height": 8,
+          "confidence": 3.273115
+        }
+      ]
+    },
+    {
+      "text": "最后, 测试一下",
+      "left": 92,
+      "top": 1482,
+      "right": 374,
+      "bottom": 1538,
+      "height": 56,
+      "confidence": 95.12530633333334,
+      "words": [
+        {
+          "text": "最",
+          "left": 92,
+          "top": 1487,
+          "width": 83,
+          "height": 39,
+          "confidence": 96.593109
+        },
+        {
+          "text": "后",
+          "left": 151,
+          "top": 1482,
+          "width": 28,
+          "height": 56,
+          "confidence": 93.204865
+        },
+        {
+          "text": ",",
+          "left": 181,
+          "top": 1517,
+          "width": 4,
+          "height": 11,
+          "confidence": 92.833427
+        },
+        {
+          "text": "测试",
+          "left": 204,
+          "top": 1486,
+          "width": 83,
+          "height": 40,
+          "confidence": 94.767776
+        },
+        {
+          "text": "一",
+          "left": 315,
+          "top": 1482,
+          "width": 39,
+          "height": 56,
+          "confidence": 96.352898
+        },
+        {
+          "text": "下",
+          "left": 336,
+          "top": 1489,
+          "width": 38,
+          "height": 37,
+          "confidence": 96.999763
+        }
+      ]
+    }
+  ]
+}

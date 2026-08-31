@@ -1,0 +1,1239 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/bs4-installation-and-usage/page-1.png",
+  "lines": [
+    {
+      "text": "喘块安丢和使",
+      "left": 313,
+      "top": 341,
+      "right": 916,
+      "bottom": 476,
+      "height": 135,
+      "confidence": 62.55538066666667,
+      "words": [
+        {
+          "text": "喘",
+          "left": 313,
+          "top": 346,
+          "width": 66,
+          "height": 25,
+          "confidence": 29.303436
+        },
+        {
+          "text": "块",
+          "left": 498,
+          "top": 345,
+          "width": 56,
+          "height": 36,
+          "confidence": 62.115444
+        },
+        {
+          "text": "安",
+          "left": 602,
+          "top": 346,
+          "width": 155,
+          "height": 100,
+          "confidence": 93.007576
+        },
+        {
+          "text": "丢",
+          "left": 654,
+          "top": 341,
+          "width": 69,
+          "height": 135,
+          "confidence": 11.737242
+        },
+        {
+          "text": "和",
+          "left": 813,
+          "top": 345,
+          "width": 20,
+          "height": 102,
+          "confidence": 93.687614
+        },
+        {
+          "text": "使",
+          "left": 843,
+          "top": 346,
+          "width": 73,
+          "height": 102,
+          "confidence": 85.480972
+        }
+      ]
+    },
+    {
+      "text": "bs4 模块安委和使用",
+      "left": 99,
+      "top": 342,
+      "right": 1015,
+      "bottom": 471,
+      "height": 129,
+      "confidence": 79.176116875,
+      "words": [
+        {
+          "text": "bs4",
+          "left": 99,
+          "top": 346,
+          "width": 602,
+          "height": 101,
+          "confidence": 91.828178
+        },
+        {
+          "text": "模",
+          "left": 304,
+          "top": 342,
+          "width": 130,
+          "height": 129,
+          "confidence": 40.612175
+        },
+        {
+          "text": "块",
+          "left": 433,
+          "top": 342,
+          "width": 122,
+          "height": 129,
+          "confidence": 73.758865
+        },
+        {
+          "text": "安",
+          "left": 554,
+          "top": 342,
+          "width": 90,
+          "height": 129,
+          "confidence": 93.020065
+        },
+        {
+          "text": "委",
+          "left": 643,
+          "top": 342,
+          "width": 65,
+          "height": 129,
+          "confidence": 67.980904
+        },
+        {
+          "text": "和",
+          "left": 761,
+          "top": 353,
+          "width": 42,
+          "height": 91,
+          "confidence": 74.930794
+        },
+        {
+          "text": "使",
+          "left": 844,
+          "top": 342,
+          "width": 106,
+          "height": 129,
+          "confidence": 94.44854
+        },
+        {
+          "text": "用",
+          "left": 922,
+          "top": 350,
+          "width": 93,
+          "height": 96,
+          "confidence": 96.829414
+        }
+      ]
+    },
+    {
+      "text": "abs4 模块安装",
+      "left": 130,
+      "top": 532,
+      "right": 422,
+      "bottom": 589,
+      "height": 57,
+      "confidence": 78.66628374999999,
+      "words": [
+        {
+          "text": "abs4",
+          "left": 130,
+          "top": 536,
+          "width": 288,
+          "height": 40,
+          "confidence": 32.831059
+        },
+        {
+          "text": "模",
+          "left": 257,
+          "top": 532,
+          "width": 51,
+          "height": 57,
+          "confidence": 92.630722
+        },
+        {
+          "text": "块",
+          "left": 307,
+          "top": 532,
+          "width": 51,
+          "height": 57,
+          "confidence": 93.17746
+        },
+        {
+          "text": "安装",
+          "left": 357,
+          "top": 532,
+          "width": 65,
+          "height": 57,
+          "confidence": 96.025894
+        }
+      ]
+    },
+    {
+      "text": "在 python 中我一般只推荐用 pip 进行安装. 原因: 简单山",
+      "left": 173,
+      "top": 623,
+      "right": 1211,
+      "bottom": 678,
+      "height": 55,
+      "confidence": 89.27067544444446,
+      "words": [
+        {
+          "text": "在",
+          "left": 173,
+          "top": 629,
+          "width": 40,
+          "height": 41,
+          "confidence": 96.061401
+        },
+        {
+          "text": "python",
+          "left": 227,
+          "top": 634,
+          "width": 122,
+          "height": 40,
+          "confidence": 92.764175
+        },
+        {
+          "text": "中",
+          "left": 361,
+          "top": 629,
+          "width": 29,
+          "height": 41,
+          "confidence": 92.5746
+        },
+        {
+          "text": "我",
+          "left": 413,
+          "top": 629,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.724823
+        },
+        {
+          "text": "一",
+          "left": 461,
+          "top": 629,
+          "width": 42,
+          "height": 40,
+          "confidence": 92.903877
+        },
+        {
+          "text": "般",
+          "left": 506,
+          "top": 631,
+          "width": 20,
+          "height": 38,
+          "confidence": 92.95816
+        },
+        {
+          "text": "只",
+          "left": 543,
+          "top": 632,
+          "width": 26,
+          "height": 37,
+          "confidence": 92.344887
+        },
+        {
+          "text": "推荐",
+          "left": 591,
+          "top": 623,
+          "width": 87,
+          "height": 55,
+          "confidence": 96.094551
+        },
+        {
+          "text": "用",
+          "left": 677,
+          "top": 631,
+          "width": 22,
+          "height": 38,
+          "confidence": 96.425049
+        },
+        {
+          "text": "pip",
+          "left": 708,
+          "top": 634,
+          "width": 57,
+          "height": 40,
+          "confidence": 92.80365
+        },
+        {
+          "text": "进",
+          "left": 780,
+          "top": 629,
+          "width": 46,
+          "height": 40,
+          "confidence": 92.492119
+        },
+        {
+          "text": "行",
+          "left": 832,
+          "top": 629,
+          "width": 46,
+          "height": 40,
+          "confidence": 91.200951
+        },
+        {
+          "text": "安装",
+          "left": 877,
+          "top": 623,
+          "width": 63,
+          "height": 55,
+          "confidence": 89.89679
+        },
+        {
+          "text": ".",
+          "left": 946,
+          "top": 660,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.412399
+        },
+        {
+          "text": "原因",
+          "left": 969,
+          "top": 631,
+          "width": 95,
+          "height": 38,
+          "confidence": 93.241356
+        },
+        {
+          "text": ":",
+          "left": 1052,
+          "top": 623,
+          "width": 15,
+          "height": 55,
+          "confidence": 78.68557
+        },
+        {
+          "text": "简单",
+          "left": 1082,
+          "top": 629,
+          "width": 127,
+          "height": 41,
+          "confidence": 93.235413
+        },
+        {
+          "text": "山",
+          "left": 1183,
+          "top": 623,
+          "width": 28,
+          "height": 55,
+          "confidence": 34.052387
+        }
+      ]
+    },
+    {
+      "text": "1 pip install bs4",
+      "left": 189,
+      "top": 745,
+      "right": 601,
+      "bottom": 785,
+      "height": 40,
+      "confidence": 93.66756824999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 189,
+          "top": 747,
+          "width": 18,
+          "height": 30,
+          "confidence": 93.35321
+        },
+        {
+          "text": "pip",
+          "left": 244,
+          "top": 745,
+          "width": 67,
+          "height": 40,
+          "confidence": 95.565697
+        },
+        {
+          "text": "install",
+          "left": 340,
+          "top": 745,
+          "width": 161,
+          "height": 33,
+          "confidence": 92.779816
+        },
+        {
+          "text": "bs4",
+          "left": 533,
+          "top": 745,
+          "width": 68,
+          "height": 33,
+          "confidence": 92.97155
+        }
+      ]
+    },
+    {
+      "text": "如果安装的速度慢, 建议更换国内源 (推荐阿里源或者清华源)",
+      "left": 173,
+      "top": 871,
+      "right": 1317,
+      "bottom": 916,
+      "height": 45,
+      "confidence": 92.73113357142856,
+      "words": [
+        {
+          "text": "如",
+          "left": 173,
+          "top": 871,
+          "width": 38,
+          "height": 40,
+          "confidence": 93.294746
+        },
+        {
+          "text": "果",
+          "left": 227,
+          "top": 873,
+          "width": 30,
+          "height": 38,
+          "confidence": 92.970253
+        },
+        {
+          "text": "安",
+          "left": 274,
+          "top": 871,
+          "width": 27,
+          "height": 40,
+          "confidence": 92.042091
+        },
+        {
+          "text": "装",
+          "left": 321,
+          "top": 871,
+          "width": 44,
+          "height": 40,
+          "confidence": 91.753899
+        },
+        {
+          "text": "的",
+          "left": 366,
+          "top": 871,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.004059
+        },
+        {
+          "text": "速度",
+          "left": 411,
+          "top": 871,
+          "width": 84,
+          "height": 40,
+          "confidence": 93.148628
+        },
+        {
+          "text": "慢",
+          "left": 498,
+          "top": 872,
+          "width": 23,
+          "height": 39,
+          "confidence": 92.784569
+        },
+        {
+          "text": ",",
+          "left": 528,
+          "top": 902,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.15609
+        },
+        {
+          "text": "建议",
+          "left": 571,
+          "top": 871,
+          "width": 88,
+          "height": 40,
+          "confidence": 96.64151
+        },
+        {
+          "text": "更",
+          "left": 682,
+          "top": 871,
+          "width": 13,
+          "height": 40,
+          "confidence": 93.247704
+        },
+        {
+          "text": "换",
+          "left": 698,
+          "top": 871,
+          "width": 24,
+          "height": 40,
+          "confidence": 93.219086
+        },
+        {
+          "text": "国内",
+          "left": 745,
+          "top": 871,
+          "width": 80,
+          "height": 40,
+          "confidence": 89.144897
+        },
+        {
+          "text": "源",
+          "left": 825,
+          "top": 873,
+          "width": 29,
+          "height": 38,
+          "confidence": 90.348312
+        },
+        {
+          "text": "(推荐",
+          "left": 858,
+          "top": 871,
+          "width": 115,
+          "height": 45,
+          "confidence": 90.164177
+        },
+        {
+          "text": "阿里",
+          "left": 974,
+          "top": 872,
+          "width": 83,
+          "height": 39,
+          "confidence": 93.208839
+        },
+        {
+          "text": "源",
+          "left": 1060,
+          "top": 873,
+          "width": 26,
+          "height": 38,
+          "confidence": 91.864357
+        },
+        {
+          "text": "或",
+          "left": 1107,
+          "top": 871,
+          "width": 48,
+          "height": 40,
+          "confidence": 93.174911
+        },
+        {
+          "text": "者",
+          "left": 1179,
+          "top": 872,
+          "width": 10,
+          "height": 39,
+          "confidence": 96.726585
+        },
+        {
+          "text": "清华",
+          "left": 1194,
+          "top": 871,
+          "width": 83,
+          "height": 40,
+          "confidence": 93.244858
+        },
+        {
+          "text": "源",
+          "left": 1278,
+          "top": 873,
+          "width": 26,
+          "height": 38,
+          "confidence": 90.305817
+        },
+        {
+          "text": ")",
+          "left": 1308,
+          "top": 875,
+          "width": 9,
+          "height": 41,
+          "confidence": 91.908417
+        }
+      ]
+    },
+    {
+      "text": "1 pip install -1",
+      "left": 189,
+      "top": 987,
+      "right": 573,
+      "bottom": 1027,
+      "height": 40,
+      "confidence": 88.34661274999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 189,
+          "top": 989,
+          "width": 18,
+          "height": 30,
+          "confidence": 92.666412
+        },
+        {
+          "text": "pip",
+          "left": 244,
+          "top": 987,
+          "width": 67,
+          "height": 40,
+          "confidence": 94.267845
+        },
+        {
+          "text": "install",
+          "left": 340,
+          "top": 987,
+          "width": 161,
+          "height": 33,
+          "confidence": 86.772842
+        },
+        {
+          "text": "-1",
+          "left": 534,
+          "top": 987,
+          "width": 39,
+          "height": 32,
+          "confidence": 79.679352
+        }
+      ]
+    },
+    {
+      "text": "https://pypi.tuna.tsinghua.edu.cn/simple bs4",
+      "left": 244,
+      "top": 1057,
+      "right": 1297,
+      "bottom": 1098,
+      "height": 41,
+      "confidence": 91.85019299999999,
+      "words": [
+        {
+          "text": "https://pypi.tuna.tsinghua.edu.cn/simple",
+          "left": 244,
+          "top": 1057,
+          "width": 955,
+          "height": 41,
+          "confidence": 90.62677
+        },
+        {
+          "text": "bs4",
+          "left": 1229,
+          "top": 1057,
+          "width": 68,
+          "height": 33,
+          "confidence": 93.073616
+        }
+      ]
+    },
+    {
+      "text": "= 如何使用 bs4",
+      "left": 130,
+      "top": 1271,
+      "right": 418,
+      "bottom": 1329,
+      "height": 58,
+      "confidence": 91.85587066666665,
+      "words": [
+        {
+          "text": "=",
+          "left": 130,
+          "top": 1290,
+          "width": 14,
+          "height": 14,
+          "confidence": 82.555565
+        },
+        {
+          "text": "如",
+          "left": 184,
+          "top": 1275,
+          "width": 45,
+          "height": 40,
+          "confidence": 93.151337
+        },
+        {
+          "text": "何",
+          "left": 231,
+          "top": 1275,
+          "width": 42,
+          "height": 40,
+          "confidence": 91.55648
+        },
+        {
+          "text": "使",
+          "left": 285,
+          "top": 1275,
+          "width": 44,
+          "height": 40,
+          "confidence": 95.083405
+        },
+        {
+          "text": "用",
+          "left": 329,
+          "top": 1271,
+          "width": 26,
+          "height": 58,
+          "confidence": 96.300865
+        },
+        {
+          "text": "bs4",
+          "left": 350,
+          "top": 1280,
+          "width": 68,
+          "height": 31,
+          "confidence": 92.487572
+        }
+      ]
+    },
+    {
+      "text": "bs4 在使用的时候就需要参照一些 html 的基本语法来进行使用",
+      "left": 174,
+      "top": 1363,
+      "right": 1338,
+      "bottom": 1420,
+      "height": 57,
+      "confidence": 93.8509621,
+      "words": [
+        {
+          "text": "bs4",
+          "left": 174,
+          "top": 1372,
+          "width": 68,
+          "height": 31,
+          "confidence": 93.28743
+        },
+        {
+          "text": "在",
+          "left": 255,
+          "top": 1367,
+          "width": 47,
+          "height": 41,
+          "confidence": 91.328857
+        },
+        {
+          "text": "使",
+          "left": 312,
+          "top": 1367,
+          "width": 47,
+          "height": 40,
+          "confidence": 96.48349
+        },
+        {
+          "text": "用",
+          "left": 380,
+          "top": 1367,
+          "width": 14,
+          "height": 39,
+          "confidence": 96.649734
+        },
+        {
+          "text": "的",
+          "left": 398,
+          "top": 1367,
+          "width": 38,
+          "height": 40,
+          "confidence": 96.018616
+        },
+        {
+          "text": "时",
+          "left": 440,
+          "top": 1367,
+          "width": 40,
+          "height": 40,
+          "confidence": 93.290413
+        },
+        {
+          "text": "候",
+          "left": 480,
+          "top": 1367,
+          "width": 50,
+          "height": 40,
+          "confidence": 92.340073
+        },
+        {
+          "text": "就",
+          "left": 529,
+          "top": 1367,
+          "width": 48,
+          "height": 41,
+          "confidence": 93.094612
+        },
+        {
+          "text": "需要",
+          "left": 576,
+          "top": 1363,
+          "width": 62,
+          "height": 57,
+          "confidence": 96.267059
+        },
+        {
+          "text": "参照",
+          "left": 658,
+          "top": 1367,
+          "width": 97,
+          "height": 41,
+          "confidence": 95.96843
+        },
+        {
+          "text": "一",
+          "left": 774,
+          "top": 1367,
+          "width": 23,
+          "height": 39,
+          "confidence": 93.214607
+        },
+        {
+          "text": "些",
+          "left": 819,
+          "top": 1372,
+          "width": 11,
+          "height": 31,
+          "confidence": 89.586243
+        },
+        {
+          "text": "html",
+          "left": 829,
+          "top": 1363,
+          "width": 91,
+          "height": 57,
+          "confidence": 78.626945
+        },
+        {
+          "text": "的",
+          "left": 921,
+          "top": 1367,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.194443
+        },
+        {
+          "text": "基本",
+          "left": 960,
+          "top": 1367,
+          "width": 87,
+          "height": 40,
+          "confidence": 96.518082
+        },
+        {
+          "text": "语法",
+          "left": 1050,
+          "top": 1367,
+          "width": 70,
+          "height": 40,
+          "confidence": 95.48436
+        },
+        {
+          "text": "来",
+          "left": 1142,
+          "top": 1367,
+          "width": 47,
+          "height": 40,
+          "confidence": 96.385948
+        },
+        {
+          "text": "进行",
+          "left": 1212,
+          "top": 1367,
+          "width": 70,
+          "height": 40,
+          "confidence": 96.738106
+        },
+        {
+          "text": "使",
+          "left": 1281,
+          "top": 1363,
+          "width": 37,
+          "height": 57,
+          "confidence": 96.983635
+        },
+        {
+          "text": "用",
+          "left": 1317,
+          "top": 1369,
+          "width": 21,
+          "height": 38,
+          "confidence": 96.558159
+        }
+      ]
+    },
+    {
+      "text": "了. 我们直接上案例哈. 案例是最能直观的展现出 bs4 的便捷效果",
+      "left": 176,
+      "top": 1433,
+      "right": 1392,
+      "bottom": 1492,
+      "height": 59,
+      "confidence": 94.6196201904762,
+      "words": [
+        {
+          "text": "了",
+          "left": 176,
+          "top": 1440,
+          "width": 48,
+          "height": 37,
+          "confidence": 92.604614
+        },
+        {
+          "text": ".",
+          "left": 205,
+          "top": 1433,
+          "width": 23,
+          "height": 59,
+          "confidence": 86.818298
+        },
+        {
+          "text": "我",
+          "left": 260,
+          "top": 1437,
+          "width": 49,
+          "height": 40,
+          "confidence": 92.75119
+        },
+        {
+          "text": "们",
+          "left": 311,
+          "top": 1440,
+          "width": 13,
+          "height": 37,
+          "confidence": 92.107491
+        },
+        {
+          "text": "直接",
+          "left": 331,
+          "top": 1437,
+          "width": 270,
+          "height": 40,
+          "confidence": 96.592201
+        },
+        {
+          "text": "上",
+          "left": 433,
+          "top": 1433,
+          "width": 38,
+          "height": 59,
+          "confidence": 96.985352
+        },
+        {
+          "text": "案例",
+          "left": 470,
+          "top": 1437,
+          "width": 97,
+          "height": 40,
+          "confidence": 93.248253
+        },
+        {
+          "text": "哈",
+          "left": 566,
+          "top": 1433,
+          "width": 27,
+          "height": 59,
+          "confidence": 93.251312
+        },
+        {
+          "text": ".",
+          "left": 592,
+          "top": 1433,
+          "width": 16,
+          "height": 59,
+          "confidence": 92.239777
+        },
+        {
+          "text": "案例",
+          "left": 636,
+          "top": 1437,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.857498
+        },
+        {
+          "text": "是",
+          "left": 725,
+          "top": 1439,
+          "width": 22,
+          "height": 38,
+          "confidence": 96.589081
+        },
+        {
+          "text": "最",
+          "left": 769,
+          "top": 1437,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.74749
+        },
+        {
+          "text": "能",
+          "left": 818,
+          "top": 1437,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.674362
+        },
+        {
+          "text": "直观",
+          "left": 854,
+          "top": 1437,
+          "width": 89,
+          "height": 40,
+          "confidence": 95.965111
+        },
+        {
+          "text": "的",
+          "left": 946,
+          "top": 1437,
+          "width": 20,
+          "height": 40,
+          "confidence": 96.786957
+        },
+        {
+          "text": "展现",
+          "left": 990,
+          "top": 1437,
+          "width": 93,
+          "height": 40,
+          "confidence": 96.84446
+        },
+        {
+          "text": "出",
+          "left": 1104,
+          "top": 1442,
+          "width": 13,
+          "height": 31,
+          "confidence": 96.243446
+        },
+        {
+          "text": "bs4",
+          "left": 1116,
+          "top": 1433,
+          "width": 71,
+          "height": 59,
+          "confidence": 93.289291
+        },
+        {
+          "text": "的",
+          "left": 1193,
+          "top": 1437,
+          "width": 38,
+          "height": 40,
+          "confidence": 92.941528
+        },
+        {
+          "text": "便捷",
+          "left": 1234,
+          "top": 1437,
+          "width": 89,
+          "height": 40,
+          "confidence": 95.17083
+        },
+        {
+          "text": "效果",
+          "left": 1325,
+          "top": 1437,
+          "width": 67,
+          "height": 40,
+          "confidence": 96.303482
+        }
+      ]
+    },
+    {
+      "text": "的.",
+      "left": 175,
+      "top": 1503,
+      "right": 226,
+      "bottom": 1561,
+      "height": 58,
+      "confidence": 90.93867499999999,
+      "words": [
+        {
+          "text": "的",
+          "left": 175,
+          "top": 1508,
+          "width": 49,
+          "height": 40,
+          "confidence": 93.272331
+        },
+        {
+          "text": ".",
+          "left": 210,
+          "top": 1503,
+          "width": 16,
+          "height": 58,
+          "confidence": 88.605019
+        }
+      ]
+    },
+    {
+      "text": "我们来尝试抓取北京新发地市场的农产品价格. http:/Avww.xinf",
+      "left": 173,
+      "top": 1596,
+      "right": 1377,
+      "bottom": 1654,
+      "height": 58,
+      "confidence": 90.54300222222224,
+      "words": [
+        {
+          "text": "我",
+          "left": 173,
+          "top": 1600,
+          "width": 57,
+          "height": 40,
+          "confidence": 93.217743
+        },
+        {
+          "text": "们",
+          "left": 234,
+          "top": 1600,
+          "width": 21,
+          "height": 40,
+          "confidence": 93.183876
+        },
+        {
+          "text": "来",
+          "left": 277,
+          "top": 1600,
+          "width": 24,
+          "height": 40,
+          "confidence": 95.51368
+        },
+        {
+          "text": "尝试",
+          "left": 324,
+          "top": 1600,
+          "width": 96,
+          "height": 40,
+          "confidence": 76.881081
+        },
+        {
+          "text": "抓",
+          "left": 419,
+          "top": 1596,
+          "width": 37,
+          "height": 58,
+          "confidence": 93.207008
+        },
+        {
+          "text": "取",
+          "left": 455,
+          "top": 1600,
+          "width": 37,
+          "height": 40,
+          "confidence": 91.297379
+        },
+        {
+          "text": "北",
+          "left": 504,
+          "top": 1600,
+          "width": 16,
+          "height": 40,
+          "confidence": 86.556061
+        },
+        {
+          "text": "京",
+          "left": 542,
+          "top": 1600,
+          "width": 48,
+          "height": 41,
+          "confidence": 90.399086
+        },
+        {
+          "text": "新",
+          "left": 589,
+          "top": 1600,
+          "width": 48,
+          "height": 41,
+          "confidence": 96.96891
+        },
+        {
+          "text": "发",
+          "left": 658,
+          "top": 1600,
+          "width": 13,
+          "height": 35,
+          "confidence": 96.750038
+        },
+        {
+          "text": "地",
+          "left": 676,
+          "top": 1600,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.964729
+        },
+        {
+          "text": "市",
+          "left": 716,
+          "top": 1600,
+          "width": 44,
+          "height": 40,
+          "confidence": 92.530258
+        },
+        {
+          "text": "场",
+          "left": 767,
+          "top": 1600,
+          "width": 39,
+          "height": 40,
+          "confidence": 92.707581
+        },
+        {
+          "text": "的",
+          "left": 814,
+          "top": 1600,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.931839
+        },
+        {
+          "text": "农产品",
+          "left": 854,
+          "top": 1596,
+          "width": 124,
+          "height": 58,
+          "confidence": 96.40731
+        },
+        {
+          "text": "价格",
+          "left": 984,
+          "top": 1600,
+          "width": 66,
+          "height": 40,
+          "confidence": 93.040405
+        },
+        {
+          "text": ".",
+          "left": 1057,
+          "top": 1631,
+          "width": 4,
+          "height": 5,
+          "confidence": 92.724571
+        },
+        {
+          "text": "http:/Avww.xinf",
+          "left": 1077,
+          "top": 1604,
+          "width": 300,
+          "height": 41,
+          "confidence": 54.492485
+        }
+      ]
+    },
+    {
+      "text": "adi.com.cn/marketanalysis/O/list/1.shtml",
+      "left": 173,
+      "top": 1674,
+      "right": 964,
+      "bottom": 1715,
+      "height": 41,
+      "confidence": 88.709137,
+      "words": [
+        {
+          "text": "adi.com.cn/marketanalysis/O/list/1.shtml",
+          "left": 173,
+          "top": 1674,
+          "width": 791,
+          "height": 41,
+          "confidence": 88.709137
+        }
+      ]
+    }
+  ]
+}

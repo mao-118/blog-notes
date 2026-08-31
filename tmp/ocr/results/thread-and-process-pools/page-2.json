@@ -1,0 +1,1233 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/thread-and-process-pools/page-2.png",
+  "lines": [
+    {
+      "text": "创建一个大池子, 存放固定数量的线程. 然后把我们要执行的任务丢",
+      "left": 91,
+      "top": 122,
+      "right": 1369,
+      "bottom": 180,
+      "height": 58,
+      "confidence": 88.76333371428571,
+      "words": [
+        {
+          "text": "创建",
+          "left": 91,
+          "top": 126,
+          "width": 315,
+          "height": 42,
+          "confidence": 96.379761
+        },
+        {
+          "text": "一",
+          "left": 203,
+          "top": 122,
+          "width": 44,
+          "height": 58,
+          "confidence": 95.632889
+        },
+        {
+          "text": "个",
+          "left": 246,
+          "top": 122,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.92424
+        },
+        {
+          "text": "大",
+          "left": 286,
+          "top": 122,
+          "width": 33,
+          "height": 58,
+          "confidence": 96.560379
+        },
+        {
+          "text": "池子",
+          "left": 319,
+          "top": 126,
+          "width": 80,
+          "height": 42,
+          "confidence": 92.87989
+        },
+        {
+          "text": ",",
+          "left": 398,
+          "top": 122,
+          "width": 16,
+          "height": 58,
+          "confidence": 93.053917
+        },
+        {
+          "text": "存放",
+          "left": 442,
+          "top": 126,
+          "width": 65,
+          "height": 41,
+          "confidence": 95.801613
+        },
+        {
+          "text": "固定",
+          "left": 525,
+          "top": 126,
+          "width": 71,
+          "height": 40,
+          "confidence": 96.155518
+        },
+        {
+          "text": "数量",
+          "left": 616,
+          "top": 126,
+          "width": 88,
+          "height": 40,
+          "confidence": 96.872002
+        },
+        {
+          "text": "的",
+          "left": 705,
+          "top": 126,
+          "width": 42,
+          "height": 40,
+          "confidence": 97.003784
+        },
+        {
+          "text": "线程",
+          "left": 747,
+          "top": 126,
+          "width": 80,
+          "height": 40,
+          "confidence": 93.020851
+        },
+        {
+          "text": ".",
+          "left": 826,
+          "top": 122,
+          "width": 15,
+          "height": 58,
+          "confidence": 92.505875
+        },
+        {
+          "text": "然后",
+          "left": 870,
+          "top": 126,
+          "width": 75,
+          "height": 41,
+          "confidence": 39.250038
+        },
+        {
+          "text": "把",
+          "left": 949,
+          "top": 126,
+          "width": 48,
+          "height": 40,
+          "confidence": 96.859657
+        },
+        {
+          "text": "我",
+          "left": 1020,
+          "top": 126,
+          "width": 21,
+          "height": 41,
+          "confidence": 92.833107
+        },
+        {
+          "text": "们",
+          "left": 1045,
+          "top": 129,
+          "width": 14,
+          "height": 37,
+          "confidence": 92.294388
+        },
+        {
+          "text": "要",
+          "left": 1076,
+          "top": 126,
+          "width": 45,
+          "height": 41,
+          "confidence": 95.049126
+        },
+        {
+          "text": "执行",
+          "left": 1122,
+          "top": 126,
+          "width": 91,
+          "height": 40,
+          "confidence": 96.885323
+        },
+        {
+          "text": "的",
+          "left": 1218,
+          "top": 126,
+          "width": 36,
+          "height": 41,
+          "confidence": 96.259995
+        },
+        {
+          "text": "任务",
+          "left": 1257,
+          "top": 126,
+          "width": 68,
+          "height": 40,
+          "confidence": 93.249382
+        },
+        {
+          "text": "丢",
+          "left": 1341,
+          "top": 127,
+          "width": 28,
+          "height": 39,
+          "confidence": 18.558273
+        }
+      ]
+    },
+    {
+      "text": "给线程池. 由线程池去分配哪个线程来完成该任务. 其他的事情都不",
+      "left": 91,
+      "top": 192,
+      "right": 1371,
+      "bottom": 250,
+      "height": 58,
+      "confidence": 94.95564934782608,
+      "words": [
+        {
+          "text": "给",
+          "left": 91,
+          "top": 196,
+          "width": 58,
+          "height": 40,
+          "confidence": 96.714561
+        },
+        {
+          "text": "线程",
+          "left": 150,
+          "top": 196,
+          "width": 84,
+          "height": 40,
+          "confidence": 93.186531
+        },
+        {
+          "text": "池",
+          "left": 239,
+          "top": 196,
+          "width": 24,
+          "height": 39,
+          "confidence": 93.061668
+        },
+        {
+          "text": ".",
+          "left": 269,
+          "top": 227,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.378052
+        },
+        {
+          "text": "由",
+          "left": 304,
+          "top": 196,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.567482
+        },
+        {
+          "text": "线程",
+          "left": 350,
+          "top": 196,
+          "width": 84,
+          "height": 40,
+          "confidence": 93.085014
+        },
+        {
+          "text": "池",
+          "left": 438,
+          "top": 196,
+          "width": 25,
+          "height": 39,
+          "confidence": 93.130951
+        },
+        {
+          "text": "去",
+          "left": 482,
+          "top": 196,
+          "width": 25,
+          "height": 41,
+          "confidence": 90.900673
+        },
+        {
+          "text": "分",
+          "left": 525,
+          "top": 197,
+          "width": 45,
+          "height": 39,
+          "confidence": 93.240105
+        },
+        {
+          "text": "配",
+          "left": 578,
+          "top": 198,
+          "width": 42,
+          "height": 38,
+          "confidence": 92.86058
+        },
+        {
+          "text": "哪个",
+          "left": 628,
+          "top": 196,
+          "width": 76,
+          "height": 40,
+          "confidence": 96.691841
+        },
+        {
+          "text": "线程",
+          "left": 703,
+          "top": 196,
+          "width": 95,
+          "height": 40,
+          "confidence": 95.404678
+        },
+        {
+          "text": "来",
+          "left": 821,
+          "top": 196,
+          "width": 20,
+          "height": 41,
+          "confidence": 96.941109
+        },
+        {
+          "text": "完成",
+          "left": 841,
+          "top": 192,
+          "width": 82,
+          "height": 58,
+          "confidence": 96.54818
+        },
+        {
+          "text": "该",
+          "left": 931,
+          "top": 196,
+          "width": 34,
+          "height": 41,
+          "confidence": 96.932579
+        },
+        {
+          "text": "任务",
+          "left": 975,
+          "top": 196,
+          "width": 61,
+          "height": 40,
+          "confidence": 93.297989
+        },
+        {
+          "text": ".",
+          "left": 1042,
+          "top": 227,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.648911
+        },
+        {
+          "text": "其",
+          "left": 1083,
+          "top": 196,
+          "width": 38,
+          "height": 41,
+          "confidence": 96.927536
+        },
+        {
+          "text": "他",
+          "left": 1123,
+          "top": 196,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.988029
+        },
+        {
+          "text": "的",
+          "left": 1170,
+          "top": 196,
+          "width": 22,
+          "height": 40,
+          "confidence": 95.800339
+        },
+        {
+          "text": "事情",
+          "left": 1197,
+          "top": 196,
+          "width": 172,
+          "height": 41,
+          "confidence": 96.754097
+        },
+        {
+          "text": "都",
+          "left": 1301,
+          "top": 192,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.953217
+        },
+        {
+          "text": "不",
+          "left": 1341,
+          "top": 192,
+          "width": 30,
+          "height": 58,
+          "confidence": 96.965813
+        }
+      ]
+    },
+    {
+      "text": "需要你来管. 舒服吧.",
+      "left": 91,
+      "top": 262,
+      "right": 479,
+      "bottom": 320,
+      "height": 58,
+      "confidence": 91.340188875,
+      "words": [
+        {
+          "text": "需要",
+          "left": 91,
+          "top": 266,
+          "width": 227,
+          "height": 41,
+          "confidence": 96.485931
+        },
+        {
+          "text": "你",
+          "left": 192,
+          "top": 262,
+          "width": 48,
+          "height": 58,
+          "confidence": 96.968597
+        },
+        {
+          "text": "来",
+          "left": 239,
+          "top": 262,
+          "width": 48,
+          "height": 58,
+          "confidence": 92.936729
+        },
+        {
+          "text": "管",
+          "left": 286,
+          "top": 262,
+          "width": 30,
+          "height": 58,
+          "confidence": 91.469727
+        },
+        {
+          "text": ".",
+          "left": 315,
+          "top": 262,
+          "width": 15,
+          "height": 58,
+          "confidence": 92.081665
+        },
+        {
+          "text": "舒服",
+          "left": 335,
+          "top": 266,
+          "width": 139,
+          "height": 41,
+          "confidence": 82.967712
+        },
+        {
+          "text": "吧",
+          "left": 435,
+          "top": 262,
+          "width": 26,
+          "height": 58,
+          "confidence": 93.108757
+        },
+        {
+          "text": ".",
+          "left": 460,
+          "top": 262,
+          "width": 19,
+          "height": 58,
+          "confidence": 84.702393
+        }
+      ]
+    },
+    {
+      "text": "废话不多说, 上代码",
+      "left": 91,
+      "top": 398,
+      "right": 462,
+      "bottom": 456,
+      "height": 58,
+      "confidence": 92.20398828571429,
+      "words": [
+        {
+          "text": "废话",
+          "left": 91,
+          "top": 402,
+          "width": 227,
+          "height": 42,
+          "confidence": 87.181641
+        },
+        {
+          "text": "不",
+          "left": 199,
+          "top": 398,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.528481
+        },
+        {
+          "text": "多",
+          "left": 239,
+          "top": 398,
+          "width": 44,
+          "height": 58,
+          "confidence": 96.930214
+        },
+        {
+          "text": "说",
+          "left": 282,
+          "top": 398,
+          "width": 37,
+          "height": 58,
+          "confidence": 93.129639
+        },
+        {
+          "text": ",",
+          "left": 319,
+          "top": 398,
+          "width": 19,
+          "height": 58,
+          "confidence": 91.633743
+        },
+        {
+          "text": "上",
+          "left": 355,
+          "top": 402,
+          "width": 20,
+          "height": 39,
+          "confidence": 96.935699
+        },
+        {
+          "text": "代码",
+          "left": 378,
+          "top": 402,
+          "width": 84,
+          "height": 41,
+          "confidence": 83.088501
+        }
+      ]
+    },
+    {
+      "text": "1 from concurrent. futures import",
+      "left": 131,
+      "top": 563,
+      "right": 901,
+      "bottom": 604,
+      "height": 41,
+      "confidence": 66.3680106,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 565,
+          "width": 18,
+          "height": 30,
+          "confidence": 95.460648
+        },
+        {
+          "text": "from",
+          "left": 186,
+          "top": 563,
+          "width": 92,
+          "height": 33,
+          "confidence": 96.550369
+        },
+        {
+          "text": "concurrent.",
+          "left": 306,
+          "top": 566,
+          "width": 252,
+          "height": 30,
+          "confidence": 22.005548
+        },
+        {
+          "text": "futures",
+          "left": 572,
+          "top": 563,
+          "width": 160,
+          "height": 33,
+          "confidence": 22.005548
+        },
+        {
+          "text": "import",
+          "left": 762,
+          "top": 563,
+          "width": 139,
+          "height": 41,
+          "confidence": 95.81794
+        }
+      ]
+    },
+    {
+      "text": "ThreadPoolExecutor, ProcessPoolExecutor",
+      "left": 184,
+      "top": 633,
+      "right": 1117,
+      "bottom": 673,
+      "height": 40,
+      "confidence": 90.52017599999999,
+      "words": [
+        {
+          "text": "ThreadPoolExecutor,",
+          "left": 184,
+          "top": 633,
+          "width": 447,
+          "height": 40,
+          "confidence": 90.968292
+        },
+        {
+          "text": "ProcessPoolExecutor",
+          "left": 666,
+          "top": 633,
+          "width": 451,
+          "height": 33,
+          "confidence": 90.07206
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "left": 130,
+      "top": 704,
+      "right": 148,
+      "bottom": 735,
+      "height": 31,
+      "confidence": 96.670471,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 704,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.670471
+        }
+      ]
+    },
+    {
+      "text": "3 # 线程池",
+      "left": 130,
+      "top": 768,
+      "right": 354,
+      "bottom": 820,
+      "height": 52,
+      "confidence": 87.0236855,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 774,
+          "width": 18,
+          "height": 32,
+          "confidence": 92.366562
+        },
+        {
+          "text": "#",
+          "left": 184,
+          "top": 775,
+          "width": 22,
+          "height": 30,
+          "confidence": 70.199593
+        },
+        {
+          "text": "线程",
+          "left": 233,
+          "top": 772,
+          "width": 116,
+          "height": 37,
+          "confidence": 93.102829
+        },
+        {
+          "text": "池",
+          "left": 324,
+          "top": 768,
+          "width": 30,
+          "height": 52,
+          "confidence": 92.425758
+        }
+      ]
+    },
+    {
+      "text": "4 def fnCname):",
+      "left": 128,
+      "top": 843,
+      "right": 486,
+      "bottom": 882,
+      "height": 39,
+      "confidence": 90.99050899999999,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 845,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.745842
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 843,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.291534
+        },
+        {
+          "text": "fnCname):",
+          "left": 282,
+          "top": 843,
+          "width": 204,
+          "height": 39,
+          "confidence": 82.934151
+        }
+      ]
+    },
+    {
+      "text": "5 for i in range(1000):",
+      "left": 130,
+      "top": 913,
+      "right": 774,
+      "bottom": 954,
+      "height": 41,
+      "confidence": 78.9862078,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 915,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.05806
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 913,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 913,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 913,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 913,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "6 printCname, 1)",
+      "left": 129,
+      "top": 983,
+      "right": 707,
+      "bottom": 1024,
+      "height": 41,
+      "confidence": 92.26932266666665,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 984,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.968582
+        },
+        {
+          "text": "printCname,",
+          "left": 378,
+          "top": 983,
+          "width": 253,
+          "height": 41,
+          "confidence": 84.235878
+        },
+        {
+          "text": "1)",
+          "left": 666,
+          "top": 983,
+          "width": 41,
+          "height": 39,
+          "confidence": 95.603508
+        }
+      ]
+    },
+    {
+      "text": "7",
+      "left": 130,
+      "top": 1055,
+      "right": 149,
+      "bottom": 1085,
+      "height": 30,
+      "confidence": 94.928879,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 1055,
+          "width": 19,
+          "height": 30,
+          "confidence": 94.928879
+        }
+      ]
+    },
+    {
+      "text": "8",
+      "left": 130,
+      "top": 1124,
+      "right": 149,
+      "bottom": 1156,
+      "height": 32,
+      "confidence": 96.784691,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 1124,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.784691
+        }
+      ]
+    },
+    {
+      "text": "9 if __name__ == '__main__':",
+      "left": 129,
+      "top": 1193,
+      "right": 798,
+      "bottom": 1228,
+      "height": 35,
+      "confidence": 89.556726,
+      "words": [
+        {
+          "text": "9",
+          "left": 129,
+          "top": 1194,
+          "width": 20,
+          "height": 32,
+          "confidence": 95.624321
+        },
+        {
+          "text": "if",
+          "left": 186,
+          "top": 1193,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.159561
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 1203,
+          "width": 190,
+          "height": 25,
+          "confidence": 83.164558
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 1209,
+          "width": 46,
+          "height": 10,
+          "confidence": 92.910591
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 1193,
+          "width": 246,
+          "height": 35,
+          "confidence": 83.924599
+        }
+      ]
+    },
+    {
+      "text": "10 with ThreadPoolExecutor(1Q) as t:",
+      "left": 107,
+      "top": 1263,
+      "right": 1063,
+      "bottom": 1302,
+      "height": 39,
+      "confidence": 79.48747499999999,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 1264,
+          "width": 42,
+          "height": 32,
+          "confidence": 94.241165
+        },
+        {
+          "text": "with",
+          "left": 279,
+          "top": 1263,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.26844
+        },
+        {
+          "text": "ThreadPoolExecutor(1Q)",
+          "left": 400,
+          "top": 1263,
+          "width": 524,
+          "height": 39,
+          "confidence": 27.482328
+        },
+        {
+          "text": "as",
+          "left": 954,
+          "top": 1273,
+          "width": 43,
+          "height": 23,
+          "confidence": 93.103706
+        },
+        {
+          "text": "t:",
+          "left": 1026,
+          "top": 1266,
+          "width": 37,
+          "height": 30,
+          "confidence": 89.341736
+        }
+      ]
+    },
+    {
+      "text": "11 for i in range(10Q):",
+      "left": 107,
+      "top": 1333,
+      "right": 846,
+      "bottom": 1374,
+      "height": 41,
+      "confidence": 79.73029,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 1335,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.908272
+        },
+        {
+          "text": "for",
+          "left": 378,
+          "top": 1333,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.29155
+        },
+        {
+          "text": "i",
+          "left": 474,
+          "top": 1333,
+          "width": 16,
+          "height": 32,
+          "confidence": 94.252556
+        },
+        {
+          "text": "in",
+          "left": 522,
+          "top": 1333,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.805069
+        },
+        {
+          "text": "range(10Q):",
+          "left": 596,
+          "top": 1333,
+          "width": 250,
+          "height": 41,
+          "confidence": 18.394003
+        }
+      ]
+    },
+    {
+      "text": "12 t.submit(fn, name=f\"2272{i}\")",
+      "left": 107,
+      "top": 1402,
+      "right": 1148,
+      "bottom": 1443,
+      "height": 41,
+      "confidence": 54.50036133333333,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 1404,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.519707
+        },
+        {
+          "text": "t.submit(fn,",
+          "left": 473,
+          "top": 1403,
+          "width": 278,
+          "height": 40,
+          "confidence": 66.981377
+        },
+        {
+          "text": "name=f\"2272{i}\")",
+          "left": 786,
+          "top": 1402,
+          "width": 362,
+          "height": 40,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "13",
+      "left": 107,
+      "top": 1474,
+      "right": 148,
+      "bottom": 1506,
+      "height": 32,
+      "confidence": 96.247635,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 1474,
+          "width": 41,
+          "height": 32,
+          "confidence": 96.247635
+        }
+      ]
+    },
+    {
+      "text": "至于进程池. 就把 ThreadPoolExecutor 更换为 ProcessPoolExecutor",
+      "left": 92,
+      "top": 1594,
+      "right": 1378,
+      "bottom": 1650,
+      "height": 56,
+      "confidence": 87.95521166666667,
+      "words": [
+        {
+          "text": "至",
+          "left": 92,
+          "top": 1600,
+          "width": 226,
+          "height": 40,
+          "confidence": 96.614349
+        },
+        {
+          "text": "于",
+          "left": 151,
+          "top": 1594,
+          "width": 42,
+          "height": 56,
+          "confidence": 96.734795
+        },
+        {
+          "text": "进程",
+          "left": 193,
+          "top": 1600,
+          "width": 91,
+          "height": 40,
+          "confidence": 92.938866
+        },
+        {
+          "text": "池",
+          "left": 284,
+          "top": 1594,
+          "width": 25,
+          "height": 56,
+          "confidence": 93.216827
+        },
+        {
+          "text": ".",
+          "left": 308,
+          "top": 1594,
+          "width": 15,
+          "height": 56,
+          "confidence": 92.738335
+        },
+        {
+          "text": "就",
+          "left": 357,
+          "top": 1600,
+          "width": 35,
+          "height": 40,
+          "confidence": 96.787697
+        },
+        {
+          "text": "把",
+          "left": 403,
+          "top": 1602,
+          "width": 32,
+          "height": 37,
+          "confidence": 96.038269
+        },
+        {
+          "text": "ThreadPoolExecutor",
+          "left": 434,
+          "top": 1600,
+          "width": 516,
+          "height": 40,
+          "confidence": 76.243805
+        },
+        {
+          "text": "更",
+          "left": 840,
+          "top": 1594,
+          "width": 43,
+          "height": 56,
+          "confidence": 92.293762
+        },
+        {
+          "text": "换",
+          "left": 882,
+          "top": 1594,
+          "width": 57,
+          "height": 56,
+          "confidence": 93.219345
+        },
+        {
+          "text": "为",
+          "left": 958,
+          "top": 1604,
+          "width": 16,
+          "height": 32,
+          "confidence": 42.162193
+        },
+        {
+          "text": "ProcessPoolExecutor",
+          "left": 986,
+          "top": 1604,
+          "width": 392,
+          "height": 33,
+          "confidence": 86.474297
+        }
+      ]
+    },
+    {
+      "text": "就可以了. 其他一模一样",
+      "left": 91,
+      "top": 1666,
+      "right": 551,
+      "bottom": 1725,
+      "height": 59,
+      "confidence": 94.55392518181817,
+      "words": [
+        {
+          "text": "就",
+          "left": 91,
+          "top": 1670,
+          "width": 70,
+          "height": 40,
+          "confidence": 95.398087
+        },
+        {
+          "text": "可",
+          "left": 182,
+          "top": 1670,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.565353
+        },
+        {
+          "text": "以",
+          "left": 226,
+          "top": 1673,
+          "width": 24,
+          "height": 37,
+          "confidence": 96.788986
+        },
+        {
+          "text": "了",
+          "left": 249,
+          "top": 1666,
+          "width": 16,
+          "height": 59,
+          "confidence": 93.152618
+        },
+        {
+          "text": ".",
+          "left": 269,
+          "top": 1701,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.703758
+        },
+        {
+          "text": "其",
+          "left": 308,
+          "top": 1670,
+          "width": 39,
+          "height": 41,
+          "confidence": 96.720581
+        },
+        {
+          "text": "他",
+          "left": 348,
+          "top": 1670,
+          "width": 27,
+          "height": 40,
+          "confidence": 96.587044
+        },
+        {
+          "text": "一",
+          "left": 393,
+          "top": 1670,
+          "width": 45,
+          "height": 40,
+          "confidence": 93.220001
+        },
+        {
+          "text": "模",
+          "left": 437,
+          "top": 1670,
+          "width": 26,
+          "height": 40,
+          "confidence": 93.070389
+        },
+        {
+          "text": "一",
+          "left": 481,
+          "top": 1670,
+          "width": 45,
+          "height": 41,
+          "confidence": 93.052879
+        },
+        {
+          "text": "样",
+          "left": 529,
+          "top": 1670,
+          "width": 22,
+          "height": 41,
+          "confidence": 92.833481
+        }
+      ]
+    }
+  ]
+}

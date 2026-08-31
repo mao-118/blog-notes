@@ -1,0 +1,3998 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/ebook-scraping/page-4.png",
+  "lines": [
+    {
+      "text": "由第一回灵根育孕源流出心性修持大道生.txt",
+      "left": 188,
+      "top": 121,
+      "right": 856,
+      "bottom": 166,
+      "height": 45,
+      "confidence": 89.05883349999999,
+      "words": [
+        {
+          "text": "由",
+          "left": 188,
+          "top": 125,
+          "width": 25,
+          "height": 35,
+          "confidence": 37.536438
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 125,
+          "width": 21,
+          "height": 31,
+          "confidence": 95.812057
+        },
+        {
+          "text": "一",
+          "left": 273,
+          "top": 139,
+          "width": 20,
+          "height": 3,
+          "confidence": 93.219635
+        },
+        {
+          "text": "回",
+          "left": 307,
+          "top": 127,
+          "width": 17,
+          "height": 29,
+          "confidence": 89.727333
+        },
+        {
+          "text": "灵",
+          "left": 347,
+          "top": 126,
+          "width": 21,
+          "height": 30,
+          "confidence": 93.12606
+        },
+        {
+          "text": "根",
+          "left": 380,
+          "top": 125,
+          "width": 21,
+          "height": 31,
+          "confidence": 92.863274
+        },
+        {
+          "text": "育",
+          "left": 414,
+          "top": 125,
+          "width": 38,
+          "height": 31,
+          "confidence": 92.935997
+        },
+        {
+          "text": "孕",
+          "left": 451,
+          "top": 121,
+          "width": 32,
+          "height": 45,
+          "confidence": 73.869331
+        },
+        {
+          "text": "源流",
+          "left": 468,
+          "top": 125,
+          "width": 93,
+          "height": 31,
+          "confidence": 96.814682
+        },
+        {
+          "text": "出",
+          "left": 546,
+          "top": 121,
+          "width": 21,
+          "height": 45,
+          "confidence": 95.98719
+        },
+        {
+          "text": "心性",
+          "left": 591,
+          "top": 121,
+          "width": 63,
+          "height": 45,
+          "confidence": 93.30014
+        },
+        {
+          "text": "修",
+          "left": 653,
+          "top": 125,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.352234
+        },
+        {
+          "text": "持",
+          "left": 687,
+          "top": 125,
+          "width": 16,
+          "height": 31,
+          "confidence": 91.985939
+        },
+        {
+          "text": "大",
+          "left": 718,
+          "top": 125,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.956917
+        },
+        {
+          "text": "道生",
+          "left": 752,
+          "top": 125,
+          "width": 49,
+          "height": 31,
+          "confidence": 96.271477
+        },
+        {
+          "text": ".txt",
+          "left": 805,
+          "top": 131,
+          "width": 51,
+          "height": 22,
+          "confidence": 92.182632
+        }
+      ]
+    },
+    {
+      "text": "4A 第一百回径回东土五圣成真.txt",
+      "left": 188,
+      "top": 169,
+      "right": 693,
+      "bottom": 217,
+      "height": 48,
+      "confidence": 87.97798264285714,
+      "words": [
+        {
+          "text": "4A",
+          "left": 188,
+          "top": 176,
+          "width": 25,
+          "height": 35,
+          "confidence": 66.258018
+        },
+        {
+          "text": "第",
+          "left": 230,
+          "top": 176,
+          "width": 126,
+          "height": 31,
+          "confidence": 96.977051
+        },
+        {
+          "text": "一",
+          "left": 277,
+          "top": 169,
+          "width": 30,
+          "height": 48,
+          "confidence": 93.295769
+        },
+        {
+          "text": "百",
+          "left": 307,
+          "top": 176,
+          "width": 36,
+          "height": 31,
+          "confidence": 92.950783
+        },
+        {
+          "text": "回",
+          "left": 343,
+          "top": 169,
+          "width": 21,
+          "height": 48,
+          "confidence": 92.560417
+        },
+        {
+          "text": "径",
+          "left": 370,
+          "top": 176,
+          "width": 128,
+          "height": 31,
+          "confidence": 91.69622
+        },
+        {
+          "text": "回",
+          "left": 415,
+          "top": 169,
+          "width": 30,
+          "height": 48,
+          "confidence": 92.8666
+        },
+        {
+          "text": "东",
+          "left": 445,
+          "top": 176,
+          "width": 33,
+          "height": 31,
+          "confidence": 93.152985
+        },
+        {
+          "text": "土",
+          "left": 478,
+          "top": 169,
+          "width": 27,
+          "height": 48,
+          "confidence": 55.791466
+        },
+        {
+          "text": "五",
+          "left": 523,
+          "top": 178,
+          "width": 18,
+          "height": 28,
+          "confidence": 92.931335
+        },
+        {
+          "text": "圣",
+          "left": 556,
+          "top": 176,
+          "width": 36,
+          "height": 31,
+          "confidence": 93.109322
+        },
+        {
+          "text": "成",
+          "left": 608,
+          "top": 176,
+          "width": 17,
+          "height": 31,
+          "confidence": 93.26223
+        },
+        {
+          "text": "真",
+          "left": 642,
+          "top": 199,
+          "width": 5,
+          "height": 5,
+          "confidence": 93.167427
+        },
+        {
+          "text": ".txt",
+          "left": 649,
+          "top": 169,
+          "width": 44,
+          "height": 48,
+          "confidence": 83.672134
+        }
+      ]
+    },
+    {
+      "text": "6 第七十一回行者假名降怪狐观音现象伏妖王.txt",
+      "left": 188,
+      "top": 222,
+      "right": 921,
+      "bottom": 268,
+      "height": 46,
+      "confidence": 88.95895717647056,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 226,
+          "width": 25,
+          "height": 36,
+          "confidence": 20.234379
+        },
+        {
+          "text": "第",
+          "left": 241,
+          "top": 227,
+          "width": 20,
+          "height": 31,
+          "confidence": 96.736549
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 227,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.730354
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 222,
+          "width": 33,
+          "height": 46,
+          "confidence": 96.505821
+        },
+        {
+          "text": "一",
+          "left": 342,
+          "top": 240,
+          "width": 16,
+          "height": 4,
+          "confidence": 93.190079
+        },
+        {
+          "text": "回",
+          "left": 373,
+          "top": 229,
+          "width": 16,
+          "height": 28,
+          "confidence": 93.055916
+        },
+        {
+          "text": "行者",
+          "left": 416,
+          "top": 227,
+          "width": 60,
+          "height": 31,
+          "confidence": 95.467125
+        },
+        {
+          "text": "假名",
+          "left": 485,
+          "top": 227,
+          "width": 43,
+          "height": 31,
+          "confidence": 93.246925
+        },
+        {
+          "text": "降",
+          "left": 543,
+          "top": 227,
+          "width": 20,
+          "height": 31,
+          "confidence": 93.126091
+        },
+        {
+          "text": "怪",
+          "left": 577,
+          "top": 227,
+          "width": 33,
+          "height": 31,
+          "confidence": 92.800575
+        },
+        {
+          "text": "狐",
+          "left": 620,
+          "top": 228,
+          "width": 8,
+          "height": 29,
+          "confidence": 92.374588
+        },
+        {
+          "text": "观音",
+          "left": 652,
+          "top": 227,
+          "width": 51,
+          "height": 31,
+          "confidence": 96.510933
+        },
+        {
+          "text": "现象",
+          "left": 718,
+          "top": 227,
+          "width": 70,
+          "height": 31,
+          "confidence": 92.970474
+        },
+        {
+          "text": "伏",
+          "left": 787,
+          "top": 222,
+          "width": 30,
+          "height": 46,
+          "confidence": 92.596184
+        },
+        {
+          "text": "妖",
+          "left": 816,
+          "top": 227,
+          "width": 18,
+          "height": 31,
+          "confidence": 90.381882
+        },
+        {
+          "text": "王",
+          "left": 848,
+          "top": 229,
+          "width": 17,
+          "height": 27,
+          "confidence": 89.844688
+        },
+        {
+          "text": ".txt",
+          "left": 871,
+          "top": 233,
+          "width": 50,
+          "height": 22,
+          "confidence": 86.529709
+        }
+      ]
+    },
+    {
+      "text": "6 第七十七回群魔欺本性一体拜真如.txt",
+      "left": 188,
+      "top": 273,
+      "right": 791,
+      "bottom": 318,
+      "height": 45,
+      "confidence": 83.2639974375,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 277,
+          "width": 25,
+          "height": 35,
+          "confidence": 20.705772
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 277,
+          "width": 21,
+          "height": 32,
+          "confidence": 96.951385
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 278,
+          "width": 17,
+          "height": 30,
+          "confidence": 96.925049
+        },
+        {
+          "text": "十",
+          "left": 307,
+          "top": 278,
+          "width": 19,
+          "height": 31,
+          "confidence": 96.962936
+        },
+        {
+          "text": "七",
+          "left": 341,
+          "top": 278,
+          "width": 35,
+          "height": 30,
+          "confidence": 92.51825
+        },
+        {
+          "text": "回",
+          "left": 375,
+          "top": 273,
+          "width": 20,
+          "height": 45,
+          "confidence": 92.661087
+        },
+        {
+          "text": "群",
+          "left": 420,
+          "top": 277,
+          "width": 34,
+          "height": 32,
+          "confidence": 88.273186
+        },
+        {
+          "text": "魔",
+          "left": 468,
+          "top": 278,
+          "width": 20,
+          "height": 31,
+          "confidence": 89.683723
+        },
+        {
+          "text": "欺",
+          "left": 487,
+          "top": 273,
+          "width": 27,
+          "height": 45,
+          "confidence": 2.014236
+        },
+        {
+          "text": "本",
+          "left": 513,
+          "top": 278,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.992706
+        },
+        {
+          "text": "性",
+          "left": 543,
+          "top": 278,
+          "width": 20,
+          "height": 30,
+          "confidence": 96.503372
+        },
+        {
+          "text": "一",
+          "left": 588,
+          "top": 291,
+          "width": 18,
+          "height": 4,
+          "confidence": 92.087372
+        },
+        {
+          "text": "体",
+          "left": 622,
+          "top": 277,
+          "width": 35,
+          "height": 32,
+          "confidence": 92.608055
+        },
+        {
+          "text": "拜",
+          "left": 673,
+          "top": 277,
+          "width": 21,
+          "height": 32,
+          "confidence": 91.1483
+        },
+        {
+          "text": "真如",
+          "left": 705,
+          "top": 273,
+          "width": 34,
+          "height": 45,
+          "confidence": 96.843903
+        },
+        {
+          "text": ".txt",
+          "left": 740,
+          "top": 284,
+          "width": 51,
+          "height": 22,
+          "confidence": 89.344627
+        }
+      ]
+    },
+    {
+      "text": "由第七十三回情因旧恨生灾毒心主遭魔幸破光.txt",
+      "left": 188,
+      "top": 324,
+      "right": 921,
+      "bottom": 369,
+      "height": 45,
+      "confidence": 87.56184423809525,
+      "words": [
+        {
+          "text": "由",
+          "left": 188,
+          "top": 328,
+          "width": 25,
+          "height": 35,
+          "confidence": 45.288773
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 328,
+          "width": 21,
+          "height": 31,
+          "confidence": 96.171234
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 328,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.597351
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 324,
+          "width": 32,
+          "height": 45,
+          "confidence": 96.963402
+        },
+        {
+          "text": "三",
+          "left": 341,
+          "top": 331,
+          "width": 17,
+          "height": 27,
+          "confidence": 93.238716
+        },
+        {
+          "text": "回",
+          "left": 372,
+          "top": 330,
+          "width": 17,
+          "height": 29,
+          "confidence": 90.280045
+        },
+        {
+          "text": "情",
+          "left": 417,
+          "top": 328,
+          "width": 16,
+          "height": 31,
+          "confidence": 92.148422
+        },
+        {
+          "text": "因",
+          "left": 445,
+          "top": 328,
+          "width": 29,
+          "height": 31,
+          "confidence": 92.905357
+        },
+        {
+          "text": "旧",
+          "left": 479,
+          "top": 330,
+          "width": 17,
+          "height": 29,
+          "confidence": 65.293213
+        },
+        {
+          "text": "恨",
+          "left": 510,
+          "top": 328,
+          "width": 21,
+          "height": 31,
+          "confidence": 91.710136
+        },
+        {
+          "text": "生",
+          "left": 543,
+          "top": 328,
+          "width": 20,
+          "height": 30,
+          "confidence": 92.39563
+        },
+        {
+          "text": "灾",
+          "left": 572,
+          "top": 328,
+          "width": 23,
+          "height": 31,
+          "confidence": 91.811928
+        },
+        {
+          "text": "毒",
+          "left": 608,
+          "top": 328,
+          "width": 20,
+          "height": 31,
+          "confidence": 80.978592
+        },
+        {
+          "text": "心",
+          "left": 656,
+          "top": 328,
+          "width": 35,
+          "height": 30,
+          "confidence": 92.79451
+        },
+        {
+          "text": "主",
+          "left": 705,
+          "top": 328,
+          "width": 17,
+          "height": 31,
+          "confidence": 91.60714
+        },
+        {
+          "text": "遭",
+          "left": 738,
+          "top": 328,
+          "width": 17,
+          "height": 31,
+          "confidence": 67.35569
+        },
+        {
+          "text": "魔",
+          "left": 771,
+          "top": 328,
+          "width": 15,
+          "height": 31,
+          "confidence": 92.296669
+        },
+        {
+          "text": "幸",
+          "left": 785,
+          "top": 324,
+          "width": 32,
+          "height": 45,
+          "confidence": 90.211868
+        },
+        {
+          "text": "破",
+          "left": 816,
+          "top": 328,
+          "width": 17,
+          "height": 31,
+          "confidence": 93.223526
+        },
+        {
+          "text": "光",
+          "left": 844,
+          "top": 328,
+          "width": 22,
+          "height": 31,
+          "confidence": 93.196304
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 334,
+          "width": 51,
+          "height": 23,
+          "confidence": 92.330223
+        }
+      ]
+    },
+    {
+      "text": "B 第七十九回寻洞擒妖因老寿当朝正主救婴儿.txt",
+      "left": 188,
+      "top": 375,
+      "right": 921,
+      "bottom": 420,
+      "height": 45,
+      "confidence": 74.2673027142857,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 379,
+          "width": 25,
+          "height": 35,
+          "confidence": 65.9123
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 379,
+          "width": 21,
+          "height": 31,
+          "confidence": 96.99958
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 379,
+          "width": 38,
+          "height": 31,
+          "confidence": 96.867577
+        },
+        {
+          "text": "十",
+          "left": 328,
+          "top": 379,
+          "width": 17,
+          "height": 31,
+          "confidence": 92.779823
+        },
+        {
+          "text": "九",
+          "left": 362,
+          "top": 381,
+          "width": 14,
+          "height": 29,
+          "confidence": 91.824615
+        },
+        {
+          "text": "回",
+          "left": 375,
+          "top": 375,
+          "width": 20,
+          "height": 45,
+          "confidence": 93.049072
+        },
+        {
+          "text": "寻",
+          "left": 411,
+          "top": 380,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.049072
+        },
+        {
+          "text": "洞",
+          "left": 445,
+          "top": 379,
+          "width": 40,
+          "height": 31,
+          "confidence": 39.186115
+        },
+        {
+          "text": "擒",
+          "left": 484,
+          "top": 375,
+          "width": 30,
+          "height": 45,
+          "confidence": 52.899841
+        },
+        {
+          "text": "妖",
+          "left": 513,
+          "top": 379,
+          "width": 18,
+          "height": 31,
+          "confidence": 65.087395
+        },
+        {
+          "text": "因",
+          "left": 538,
+          "top": 379,
+          "width": 25,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "老",
+          "left": 572,
+          "top": 379,
+          "width": 24,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "寿",
+          "left": 611,
+          "top": 379,
+          "width": 16,
+          "height": 31,
+          "confidence": 90.483406
+        },
+        {
+          "text": "当",
+          "left": 653,
+          "top": 379,
+          "width": 16,
+          "height": 31,
+          "confidence": 92.782219
+        },
+        {
+          "text": "朝",
+          "left": 684,
+          "top": 379,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.889763
+        },
+        {
+          "text": "正",
+          "left": 718,
+          "top": 381,
+          "width": 18,
+          "height": 28,
+          "confidence": 93.164986
+        },
+        {
+          "text": "主",
+          "left": 752,
+          "top": 379,
+          "width": 34,
+          "height": 31,
+          "confidence": 92.866249
+        },
+        {
+          "text": "救",
+          "left": 785,
+          "top": 375,
+          "width": 32,
+          "height": 45,
+          "confidence": 91.904785
+        },
+        {
+          "text": "婴",
+          "left": 816,
+          "top": 380,
+          "width": 29,
+          "height": 30,
+          "confidence": 43.759289
+        },
+        {
+          "text": "儿",
+          "left": 853,
+          "top": 380,
+          "width": 13,
+          "height": 29,
+          "confidence": 92.235413
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 385,
+          "width": 51,
+          "height": 22,
+          "confidence": 81.871857
+        }
+      ]
+    },
+    {
+      "text": "6 第七十二回盘丝洞七情迷本潜垢泉八戒忘形.txt",
+      "left": 188,
+      "top": 425,
+      "right": 921,
+      "bottom": 471,
+      "height": 46,
+      "confidence": 77.71321328571429,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 429,
+          "width": 25,
+          "height": 36,
+          "confidence": 48.150208
+        },
+        {
+          "text": "第",
+          "left": 241,
+          "top": 430,
+          "width": 20,
+          "height": 31,
+          "confidence": 96.825775
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 430,
+          "width": 38,
+          "height": 31,
+          "confidence": 96.843636
+        },
+        {
+          "text": "十",
+          "left": 313,
+          "top": 425,
+          "width": 30,
+          "height": 46,
+          "confidence": 96.547386
+        },
+        {
+          "text": "二",
+          "left": 342,
+          "top": 434,
+          "width": 16,
+          "height": 23,
+          "confidence": 92.329468
+        },
+        {
+          "text": "回",
+          "left": 370,
+          "top": 432,
+          "width": 19,
+          "height": 28,
+          "confidence": 91.511696
+        },
+        {
+          "text": "盘",
+          "left": 416,
+          "top": 430,
+          "width": 17,
+          "height": 30,
+          "confidence": 89.3508
+        },
+        {
+          "text": "丝",
+          "left": 448,
+          "top": 431,
+          "width": 35,
+          "height": 30,
+          "confidence": 92.499962
+        },
+        {
+          "text": "洞",
+          "left": 483,
+          "top": 425,
+          "width": 32,
+          "height": 46,
+          "confidence": 86.404716
+        },
+        {
+          "text": "七",
+          "left": 514,
+          "top": 430,
+          "width": 17,
+          "height": 30,
+          "confidence": 89.497925
+        },
+        {
+          "text": "情",
+          "left": 546,
+          "top": 430,
+          "width": 17,
+          "height": 31,
+          "confidence": 91.800194
+        },
+        {
+          "text": "迷",
+          "left": 575,
+          "top": 430,
+          "width": 21,
+          "height": 31,
+          "confidence": 64.422676
+        },
+        {
+          "text": "本",
+          "left": 603,
+          "top": 430,
+          "width": 24,
+          "height": 31,
+          "confidence": 92.934326
+        },
+        {
+          "text": "潜",
+          "left": 649,
+          "top": 431,
+          "width": 22,
+          "height": 30,
+          "confidence": 0.0
+        },
+        {
+          "text": "垢",
+          "left": 681,
+          "top": 430,
+          "width": 22,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "泉",
+          "left": 718,
+          "top": 430,
+          "width": 32,
+          "height": 30,
+          "confidence": 86.150238
+        },
+        {
+          "text": "八",
+          "left": 755,
+          "top": 431,
+          "width": 13,
+          "height": 29,
+          "confidence": 92.113068
+        },
+        {
+          "text": "戒",
+          "left": 784,
+          "top": 430,
+          "width": 36,
+          "height": 31,
+          "confidence": 88.354362
+        },
+        {
+          "text": "忘",
+          "left": 835,
+          "top": 430,
+          "width": 16,
+          "height": 30,
+          "confidence": 64.373482
+        },
+        {
+          "text": "形",
+          "left": 851,
+          "top": 425,
+          "width": 21,
+          "height": 46,
+          "confidence": 92.57608
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 436,
+          "width": 51,
+          "height": 22,
+          "confidence": 79.291481
+        }
+      ]
+    },
+    {
+      "text": "6B 第七十五回心猿钻透阴阳穿魔王还归大道真.txt",
+      "left": 188,
+      "top": 476,
+      "right": 921,
+      "bottom": 522,
+      "height": 46,
+      "confidence": 82.63926094736841,
+      "words": [
+        {
+          "text": "6B",
+          "left": 188,
+          "top": 480,
+          "width": 25,
+          "height": 35,
+          "confidence": 32.005661
+        },
+        {
+          "text": "第",
+          "left": 241,
+          "top": 480,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.954842
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 481,
+          "width": 17,
+          "height": 30,
+          "confidence": 96.846649
+        },
+        {
+          "text": "十",
+          "left": 307,
+          "top": 481,
+          "width": 19,
+          "height": 31,
+          "confidence": 96.602615
+        },
+        {
+          "text": "五",
+          "left": 342,
+          "top": 483,
+          "width": 16,
+          "height": 27,
+          "confidence": 93.200287
+        },
+        {
+          "text": "回",
+          "left": 373,
+          "top": 483,
+          "width": 16,
+          "height": 28,
+          "confidence": 89.313324
+        },
+        {
+          "text": "心",
+          "left": 416,
+          "top": 481,
+          "width": 36,
+          "height": 30,
+          "confidence": 89.313324
+        },
+        {
+          "text": "猿",
+          "left": 451,
+          "top": 476,
+          "width": 30,
+          "height": 46,
+          "confidence": 22.313801
+        },
+        {
+          "text": "钻",
+          "left": 480,
+          "top": 481,
+          "width": 19,
+          "height": 31,
+          "confidence": 54.79002
+        },
+        {
+          "text": "透",
+          "left": 514,
+          "top": 481,
+          "width": 36,
+          "height": 31,
+          "confidence": 92.022392
+        },
+        {
+          "text": "阴",
+          "left": 549,
+          "top": 476,
+          "width": 26,
+          "height": 46,
+          "confidence": 90.464272
+        },
+        {
+          "text": "阳",
+          "left": 575,
+          "top": 482,
+          "width": 20,
+          "height": 30,
+          "confidence": 92.921364
+        },
+        {
+          "text": "穿",
+          "left": 609,
+          "top": 480,
+          "width": 18,
+          "height": 31,
+          "confidence": 64.969406
+        },
+        {
+          "text": "魔王",
+          "left": 658,
+          "top": 481,
+          "width": 64,
+          "height": 30,
+          "confidence": 92.349777
+        },
+        {
+          "text": "还",
+          "left": 739,
+          "top": 481,
+          "width": 10,
+          "height": 30,
+          "confidence": 93.27948
+        },
+        {
+          "text": "归",
+          "left": 750,
+          "top": 483,
+          "width": 17,
+          "height": 28,
+          "confidence": 92.57299
+        },
+        {
+          "text": "大",
+          "left": 779,
+          "top": 481,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.686325
+        },
+        {
+          "text": "道真",
+          "left": 816,
+          "top": 481,
+          "width": 58,
+          "height": 31,
+          "confidence": 96.129837
+        },
+        {
+          "text": ".txt",
+          "left": 874,
+          "top": 476,
+          "width": 47,
+          "height": 46,
+          "confidence": 91.409592
+        }
+      ]
+    },
+    {
+      "text": "6 第七十八回 KER Fie 金典识魔谈道德.txt",
+      "left": 188,
+      "top": 527,
+      "right": 921,
+      "bottom": 573,
+      "height": 46,
+      "confidence": 75.4105115,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 531,
+          "width": 25,
+          "height": 35,
+          "confidence": 42.880024
+        },
+        {
+          "text": "第",
+          "left": 241,
+          "top": 531,
+          "width": 38,
+          "height": 32,
+          "confidence": 96.738304
+        },
+        {
+          "text": "七",
+          "left": 295,
+          "top": 531,
+          "width": 22,
+          "height": 31,
+          "confidence": 96.902237
+        },
+        {
+          "text": "十",
+          "left": 328,
+          "top": 534,
+          "width": 12,
+          "height": 28,
+          "confidence": 93.223427
+        },
+        {
+          "text": "八",
+          "left": 345,
+          "top": 533,
+          "width": 13,
+          "height": 29,
+          "confidence": 93.034874
+        },
+        {
+          "text": "回",
+          "left": 373,
+          "top": 533,
+          "width": 16,
+          "height": 29,
+          "confidence": 92.662422
+        },
+        {
+          "text": "KER",
+          "left": 414,
+          "top": 531,
+          "width": 81,
+          "height": 31,
+          "confidence": 15.339174
+        },
+        {
+          "text": "Fie",
+          "left": 509,
+          "top": 531,
+          "width": 116,
+          "height": 32,
+          "confidence": 15.339174
+        },
+        {
+          "text": "金典",
+          "left": 655,
+          "top": 531,
+          "width": 62,
+          "height": 31,
+          "confidence": 47.967545
+        },
+        {
+          "text": "识",
+          "left": 718,
+          "top": 531,
+          "width": 36,
+          "height": 31,
+          "confidence": 93.247238
+        },
+        {
+          "text": "魔",
+          "left": 753,
+          "top": 527,
+          "width": 32,
+          "height": 46,
+          "confidence": 91.809387
+        },
+        {
+          "text": "谈",
+          "left": 784,
+          "top": 531,
+          "width": 17,
+          "height": 31,
+          "confidence": 90.765396
+        },
+        {
+          "text": "道德",
+          "left": 816,
+          "top": 531,
+          "width": 58,
+          "height": 31,
+          "confidence": 95.067436
+        },
+        {
+          "text": ".txt",
+          "left": 874,
+          "top": 527,
+          "width": 47,
+          "height": 46,
+          "confidence": 90.770523
+        }
+      ]
+    },
+    {
+      "text": "B 第七十六回心神居舍魔归性木母同降怪体真.txt",
+      "left": 188,
+      "top": 578,
+      "right": 921,
+      "bottom": 623,
+      "height": 45,
+      "confidence": 91.45837215000002,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 582,
+          "width": 25,
+          "height": 35,
+          "confidence": 74.80835
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 582,
+          "width": 21,
+          "height": 31,
+          "confidence": 96.997902
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 582,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.719254
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 578,
+          "width": 29,
+          "height": 45,
+          "confidence": 96.812012
+        },
+        {
+          "text": "六",
+          "left": 338,
+          "top": 583,
+          "width": 20,
+          "height": 30,
+          "confidence": 93.151253
+        },
+        {
+          "text": "回",
+          "left": 369,
+          "top": 584,
+          "width": 20,
+          "height": 29,
+          "confidence": 88.124069
+        },
+        {
+          "text": "心神",
+          "left": 403,
+          "top": 582,
+          "width": 225,
+          "height": 31,
+          "confidence": 93.197571
+        },
+        {
+          "text": "居",
+          "left": 476,
+          "top": 578,
+          "width": 32,
+          "height": 45,
+          "confidence": 93.158577
+        },
+        {
+          "text": "舍",
+          "left": 507,
+          "top": 578,
+          "width": 40,
+          "height": 45,
+          "confidence": 86.934196
+        },
+        {
+          "text": "魔",
+          "left": 546,
+          "top": 578,
+          "width": 32,
+          "height": 45,
+          "confidence": 88.070267
+        },
+        {
+          "text": "归",
+          "left": 577,
+          "top": 578,
+          "width": 32,
+          "height": 45,
+          "confidence": 88.965309
+        },
+        {
+          "text": "性",
+          "left": 608,
+          "top": 578,
+          "width": 26,
+          "height": 45,
+          "confidence": 92.207977
+        },
+        {
+          "text": "木",
+          "left": 659,
+          "top": 582,
+          "width": 32,
+          "height": 31,
+          "confidence": 91.166161
+        },
+        {
+          "text": "母",
+          "left": 707,
+          "top": 583,
+          "width": 15,
+          "height": 30,
+          "confidence": 93.250778
+        },
+        {
+          "text": "同",
+          "left": 721,
+          "top": 578,
+          "width": 32,
+          "height": 45,
+          "confidence": 93.033974
+        },
+        {
+          "text": "降",
+          "left": 752,
+          "top": 582,
+          "width": 16,
+          "height": 31,
+          "confidence": 93.206627
+        },
+        {
+          "text": "怪",
+          "left": 783,
+          "top": 582,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.979095
+        },
+        {
+          "text": "体",
+          "left": 816,
+          "top": 582,
+          "width": 17,
+          "height": 31,
+          "confidence": 92.919975
+        },
+        {
+          "text": "真",
+          "left": 850,
+          "top": 582,
+          "width": 24,
+          "height": 31,
+          "confidence": 92.067009
+        },
+        {
+          "text": ".txt",
+          "left": 873,
+          "top": 578,
+          "width": 48,
+          "height": 45,
+          "confidence": 91.397087
+        }
+      ]
+    },
+    {
+      "text": "6 第七十四回长庚传报魔头狠行者施为变化能.txt",
+      "left": 188,
+      "top": 628,
+      "right": 921,
+      "bottom": 674,
+      "height": 46,
+      "confidence": 90.927088,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 632,
+          "width": 25,
+          "height": 36,
+          "confidence": 40.680168
+        },
+        {
+          "text": "第",
+          "left": 241,
+          "top": 633,
+          "width": 20,
+          "height": 31,
+          "confidence": 96.777084
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 633,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.756226
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 628,
+          "width": 30,
+          "height": 46,
+          "confidence": 96.813477
+        },
+        {
+          "text": "四",
+          "left": 339,
+          "top": 635,
+          "width": 18,
+          "height": 28,
+          "confidence": 93.188065
+        },
+        {
+          "text": "回",
+          "left": 368,
+          "top": 635,
+          "width": 21,
+          "height": 28,
+          "confidence": 91.87471
+        },
+        {
+          "text": "长",
+          "left": 416,
+          "top": 633,
+          "width": 17,
+          "height": 30,
+          "confidence": 93.000122
+        },
+        {
+          "text": "庚",
+          "left": 448,
+          "top": 633,
+          "width": 18,
+          "height": 31,
+          "confidence": 90.720749
+        },
+        {
+          "text": "传",
+          "left": 483,
+          "top": 633,
+          "width": 15,
+          "height": 31,
+          "confidence": 92.700745
+        },
+        {
+          "text": "报",
+          "left": 514,
+          "top": 633,
+          "width": 36,
+          "height": 31,
+          "confidence": 93.170761
+        },
+        {
+          "text": "魔",
+          "left": 566,
+          "top": 633,
+          "width": 15,
+          "height": 31,
+          "confidence": 90.821907
+        },
+        {
+          "text": "头",
+          "left": 580,
+          "top": 628,
+          "width": 30,
+          "height": 46,
+          "confidence": 92.833855
+        },
+        {
+          "text": "狠",
+          "left": 609,
+          "top": 634,
+          "width": 19,
+          "height": 29,
+          "confidence": 92.75901
+        },
+        {
+          "text": "行者",
+          "left": 655,
+          "top": 633,
+          "width": 48,
+          "height": 31,
+          "confidence": 93.240479
+        },
+        {
+          "text": "施",
+          "left": 715,
+          "top": 633,
+          "width": 39,
+          "height": 30,
+          "confidence": 93.120552
+        },
+        {
+          "text": "为",
+          "left": 753,
+          "top": 628,
+          "width": 32,
+          "height": 46,
+          "confidence": 96.33532
+        },
+        {
+          "text": "变化",
+          "left": 784,
+          "top": 633,
+          "width": 49,
+          "height": 31,
+          "confidence": 96.505745
+        },
+        {
+          "text": "能",
+          "left": 848,
+          "top": 633,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.888054
+        },
+        {
+          "text": ".txt",
+          "left": 871,
+          "top": 639,
+          "width": 50,
+          "height": 22,
+          "confidence": 89.427643
+        }
+      ]
+    },
+    {
+      "text": "和赴第七十回妖魔宝放烟沙火司空计盗紫侈欠 t",
+      "left": 85,
+      "top": 670,
+      "right": 909,
+      "bottom": 739,
+      "height": 69,
+      "confidence": 62.58879626315789,
+      "words": [
+        {
+          "text": "和",
+          "left": 85,
+          "top": 670,
+          "width": 117,
+          "height": 69,
+          "confidence": 21.143608
+        },
+        {
+          "text": "赴",
+          "left": 201,
+          "top": 670,
+          "width": 40,
+          "height": 69,
+          "confidence": 0.0
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 670,
+          "width": 40,
+          "height": 69,
+          "confidence": 96.717186
+        },
+        {
+          "text": "七",
+          "left": 279,
+          "top": 670,
+          "width": 35,
+          "height": 69,
+          "confidence": 96.867767
+        },
+        {
+          "text": "十",
+          "left": 313,
+          "top": 670,
+          "width": 31,
+          "height": 69,
+          "confidence": 93.189026
+        },
+        {
+          "text": "回",
+          "left": 343,
+          "top": 670,
+          "width": 23,
+          "height": 69,
+          "confidence": 93.148689
+        },
+        {
+          "text": "妖魔",
+          "left": 382,
+          "top": 670,
+          "width": 70,
+          "height": 69,
+          "confidence": 58.400368
+        },
+        {
+          "text": "宝",
+          "left": 451,
+          "top": 670,
+          "width": 27,
+          "height": 69,
+          "confidence": 93.18502
+        },
+        {
+          "text": "放",
+          "left": 477,
+          "top": 670,
+          "width": 35,
+          "height": 69,
+          "confidence": 93.053185
+        },
+        {
+          "text": "烟",
+          "left": 511,
+          "top": 670,
+          "width": 40,
+          "height": 69,
+          "confidence": 82.043373
+        },
+        {
+          "text": "沙",
+          "left": 550,
+          "top": 670,
+          "width": 31,
+          "height": 69,
+          "confidence": 91.623398
+        },
+        {
+          "text": "火",
+          "left": 580,
+          "top": 670,
+          "width": 23,
+          "height": 69,
+          "confidence": 83.407959
+        },
+        {
+          "text": "司空",
+          "left": 624,
+          "top": 670,
+          "width": 65,
+          "height": 69,
+          "confidence": 15.337629
+        },
+        {
+          "text": "计",
+          "left": 688,
+          "top": 670,
+          "width": 36,
+          "height": 69,
+          "confidence": 91.856995
+        },
+        {
+          "text": "盗",
+          "left": 723,
+          "top": 674,
+          "width": 31,
+          "height": 51,
+          "confidence": 75.578636
+        },
+        {
+          "text": "紫",
+          "left": 753,
+          "top": 670,
+          "width": 35,
+          "height": 69,
+          "confidence": 2.239542
+        },
+        {
+          "text": "侈",
+          "left": 787,
+          "top": 670,
+          "width": 27,
+          "height": 69,
+          "confidence": 67.366966
+        },
+        {
+          "text": "欠",
+          "left": 813,
+          "top": 670,
+          "width": 49,
+          "height": 69,
+          "confidence": 34.027782
+        },
+        {
+          "text": "t",
+          "left": 861,
+          "top": 670,
+          "width": 48,
+          "height": 69,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "由第七回八卦炉中逃大圣五行山下定心猿.txt",
+      "left": 188,
+      "top": 730,
+      "right": 856,
+      "bottom": 775,
+      "height": 45,
+      "confidence": 87.19746549999999,
+      "words": [
+        {
+          "text": "由",
+          "left": 188,
+          "top": 734,
+          "width": 25,
+          "height": 35,
+          "confidence": 34.72261
+        },
+        {
+          "text": "第",
+          "left": 240,
+          "top": 734,
+          "width": 21,
+          "height": 32,
+          "confidence": 96.196991
+        },
+        {
+          "text": "七",
+          "left": 276,
+          "top": 734,
+          "width": 38,
+          "height": 31,
+          "confidence": 93.014114
+        },
+        {
+          "text": "回",
+          "left": 313,
+          "top": 730,
+          "width": 23,
+          "height": 45,
+          "confidence": 92.426476
+        },
+        {
+          "text": "八卦",
+          "left": 355,
+          "top": 734,
+          "width": 208,
+          "height": 32,
+          "confidence": 93.012299
+        },
+        {
+          "text": "炉",
+          "left": 420,
+          "top": 730,
+          "width": 29,
+          "height": 45,
+          "confidence": 91.495461
+        },
+        {
+          "text": "中",
+          "left": 448,
+          "top": 730,
+          "width": 37,
+          "height": 45,
+          "confidence": 91.226379
+        },
+        {
+          "text": "逃",
+          "left": 484,
+          "top": 730,
+          "width": 32,
+          "height": 45,
+          "confidence": 56.054478
+        },
+        {
+          "text": "大",
+          "left": 515,
+          "top": 730,
+          "width": 27,
+          "height": 45,
+          "confidence": 93.163147
+        },
+        {
+          "text": "圣",
+          "left": 541,
+          "top": 730,
+          "width": 23,
+          "height": 45,
+          "confidence": 93.086403
+        },
+        {
+          "text": "五",
+          "left": 588,
+          "top": 735,
+          "width": 38,
+          "height": 31,
+          "confidence": 93.121582
+        },
+        {
+          "text": "行",
+          "left": 642,
+          "top": 734,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.216095
+        },
+        {
+          "text": "山",
+          "left": 659,
+          "top": 730,
+          "width": 29,
+          "height": 45,
+          "confidence": 93.016159
+        },
+        {
+          "text": "下",
+          "left": 687,
+          "top": 736,
+          "width": 16,
+          "height": 30,
+          "confidence": 93.084969
+        },
+        {
+          "text": "定",
+          "left": 715,
+          "top": 734,
+          "width": 30,
+          "height": 31,
+          "confidence": 92.538719
+        },
+        {
+          "text": "心",
+          "left": 749,
+          "top": 734,
+          "width": 37,
+          "height": 31,
+          "confidence": 90.692688
+        },
+        {
+          "text": "猿",
+          "left": 785,
+          "top": 730,
+          "width": 21,
+          "height": 45,
+          "confidence": 89.80117
+        },
+        {
+          "text": ".txt",
+          "left": 805,
+          "top": 740,
+          "width": 51,
+          "height": 23,
+          "confidence": 90.684639
+        }
+      ]
+    },
+    {
+      "text": "B 第三十一回猪八戒义激猴王孙行者智降妖怪.txt",
+      "left": 188,
+      "top": 781,
+      "right": 921,
+      "bottom": 826,
+      "height": 45,
+      "confidence": 86.6497496842105,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 785,
+          "width": 25,
+          "height": 35,
+          "confidence": 54.759659
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 785,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.498795
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 785,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.916306
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 781,
+          "width": 32,
+          "height": 45,
+          "confidence": 96.964035
+        },
+        {
+          "text": "一",
+          "left": 341,
+          "top": 799,
+          "width": 17,
+          "height": 3,
+          "confidence": 93.206146
+        },
+        {
+          "text": "回",
+          "left": 372,
+          "top": 787,
+          "width": 17,
+          "height": 29,
+          "confidence": 91.09594
+        },
+        {
+          "text": "猪八戒",
+          "left": 403,
+          "top": 785,
+          "width": 225,
+          "height": 31,
+          "confidence": 94.432091
+        },
+        {
+          "text": "义",
+          "left": 513,
+          "top": 781,
+          "width": 31,
+          "height": 45,
+          "confidence": 41.496525
+        },
+        {
+          "text": "激",
+          "left": 543,
+          "top": 781,
+          "width": 35,
+          "height": 45,
+          "confidence": 90.238838
+        },
+        {
+          "text": "猴",
+          "left": 577,
+          "top": 781,
+          "width": 32,
+          "height": 45,
+          "confidence": 83.31913
+        },
+        {
+          "text": "王",
+          "left": 608,
+          "top": 781,
+          "width": 24,
+          "height": 45,
+          "confidence": 91.27581
+        },
+        {
+          "text": "孙",
+          "left": 648,
+          "top": 786,
+          "width": 23,
+          "height": 30,
+          "confidence": 93.181648
+        },
+        {
+          "text": "行",
+          "left": 684,
+          "top": 785,
+          "width": 38,
+          "height": 31,
+          "confidence": 92.89666
+        },
+        {
+          "text": "者",
+          "left": 738,
+          "top": 785,
+          "width": 15,
+          "height": 31,
+          "confidence": 93.076881
+        },
+        {
+          "text": "智",
+          "left": 752,
+          "top": 781,
+          "width": 34,
+          "height": 45,
+          "confidence": 92.922318
+        },
+        {
+          "text": "降",
+          "left": 785,
+          "top": 785,
+          "width": 16,
+          "height": 31,
+          "confidence": 93.130898
+        },
+        {
+          "text": "妖",
+          "left": 813,
+          "top": 785,
+          "width": 20,
+          "height": 31,
+          "confidence": 78.449547
+        },
+        {
+          "text": "怪",
+          "left": 844,
+          "top": 785,
+          "width": 22,
+          "height": 31,
+          "confidence": 81.630608
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 791,
+          "width": 51,
+          "height": 22,
+          "confidence": 91.853409
+        }
+      ]
+    },
+    {
+      "text": "B 第三十七回鬼王夜刘唐三藏悟空神化引婴儿.txt",
+      "left": 188,
+      "top": 832,
+      "right": 921,
+      "bottom": 877,
+      "height": 45,
+      "confidence": 79.78476022222225,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 836,
+          "width": 25,
+          "height": 35,
+          "confidence": 46.533184
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 836,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.53463
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 839,
+          "width": 17,
+          "height": 26,
+          "confidence": 96.711159
+        },
+        {
+          "text": "十",
+          "left": 307,
+          "top": 836,
+          "width": 19,
+          "height": 31,
+          "confidence": 96.328682
+        },
+        {
+          "text": "七",
+          "left": 341,
+          "top": 836,
+          "width": 35,
+          "height": 30,
+          "confidence": 93.117203
+        },
+        {
+          "text": "回",
+          "left": 375,
+          "top": 832,
+          "width": 23,
+          "height": 45,
+          "confidence": 93.043343
+        },
+        {
+          "text": "鬼王",
+          "left": 403,
+          "top": 836,
+          "width": 225,
+          "height": 31,
+          "confidence": 89.944069
+        },
+        {
+          "text": "夜",
+          "left": 484,
+          "top": 832,
+          "width": 27,
+          "height": 45,
+          "confidence": 93.098274
+        },
+        {
+          "text": "刘",
+          "left": 510,
+          "top": 832,
+          "width": 32,
+          "height": 45,
+          "confidence": 92.907959
+        },
+        {
+          "text": "唐",
+          "left": 541,
+          "top": 832,
+          "width": 37,
+          "height": 45,
+          "confidence": 0.0
+        },
+        {
+          "text": "三",
+          "left": 577,
+          "top": 832,
+          "width": 38,
+          "height": 45,
+          "confidence": 93.302414
+        },
+        {
+          "text": "藏",
+          "left": 614,
+          "top": 832,
+          "width": 26,
+          "height": 45,
+          "confidence": 91.976868
+        },
+        {
+          "text": "悟空",
+          "left": 659,
+          "top": 836,
+          "width": 63,
+          "height": 31,
+          "confidence": 93.539459
+        },
+        {
+          "text": "神化",
+          "left": 738,
+          "top": 836,
+          "width": 48,
+          "height": 31,
+          "confidence": 93.095383
+        },
+        {
+          "text": "引",
+          "left": 794,
+          "top": 836,
+          "width": 4,
+          "height": 31,
+          "confidence": 92.406433
+        },
+        {
+          "text": "婴",
+          "left": 813,
+          "top": 837,
+          "width": 32,
+          "height": 30,
+          "confidence": 0.0
+        },
+        {
+          "text": "儿",
+          "left": 853,
+          "top": 837,
+          "width": 12,
+          "height": 29,
+          "confidence": 92.98053
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 842,
+          "width": 51,
+          "height": 22,
+          "confidence": 80.606094
+        }
+      ]
+    },
+    {
+      "text": "B 第三十三回外道迷真性元神助本心.txt",
+      "left": 188,
+      "top": 882,
+      "right": 794,
+      "bottom": 928,
+      "height": 46,
+      "confidence": 91.42903333333334,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 886,
+          "width": 25,
+          "height": 36,
+          "confidence": 53.638374
+        },
+        {
+          "text": "第",
+          "left": 244,
+          "top": 887,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.810631
+        },
+        {
+          "text": "三",
+          "left": 295,
+          "top": 887,
+          "width": 16,
+          "height": 31,
+          "confidence": 96.96936
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 882,
+          "width": 33,
+          "height": 46,
+          "confidence": 96.96949
+        },
+        {
+          "text": "三",
+          "left": 342,
+          "top": 889,
+          "width": 16,
+          "height": 27,
+          "confidence": 93.29361
+        },
+        {
+          "text": "回",
+          "left": 373,
+          "top": 889,
+          "width": 16,
+          "height": 28,
+          "confidence": 92.611343
+        },
+        {
+          "text": "外",
+          "left": 416,
+          "top": 887,
+          "width": 17,
+          "height": 31,
+          "confidence": 93.138763
+        },
+        {
+          "text": "道",
+          "left": 448,
+          "top": 887,
+          "width": 18,
+          "height": 30,
+          "confidence": 90.379112
+        },
+        {
+          "text": "迷",
+          "left": 480,
+          "top": 887,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.430687
+        },
+        {
+          "text": "真性",
+          "left": 500,
+          "top": 887,
+          "width": 63,
+          "height": 31,
+          "confidence": 95.907097
+        },
+        {
+          "text": "元",
+          "left": 589,
+          "top": 889,
+          "width": 17,
+          "height": 29,
+          "confidence": 96.594337
+        },
+        {
+          "text": "神助",
+          "left": 608,
+          "top": 887,
+          "width": 183,
+          "height": 31,
+          "confidence": 95.67971
+        },
+        {
+          "text": "本",
+          "left": 690,
+          "top": 882,
+          "width": 29,
+          "height": 46,
+          "confidence": 93.229134
+        },
+        {
+          "text": "心",
+          "left": 718,
+          "top": 882,
+          "width": 27,
+          "height": 46,
+          "confidence": 93.088585
+        },
+        {
+          "text": ".txt",
+          "left": 744,
+          "top": 882,
+          "width": 50,
+          "height": 46,
+          "confidence": 90.695267
+        }
+      ]
+    },
+    {
+      "text": "6 第三十九回一粒金丹天上得三年故主世间生.txt",
+      "left": 188,
+      "top": 933,
+      "right": 921,
+      "bottom": 978,
+      "height": 45,
+      "confidence": 87.98427769999999,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 937,
+          "width": 25,
+          "height": 35,
+          "confidence": 11.47541
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 937,
+          "width": 18,
+          "height": 32,
+          "confidence": 94.969498
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 937,
+          "width": 35,
+          "height": 32,
+          "confidence": 96.966873
+        },
+        {
+          "text": "十",
+          "left": 328,
+          "top": 937,
+          "width": 17,
+          "height": 31,
+          "confidence": 92.60334
+        },
+        {
+          "text": "九",
+          "left": 362,
+          "top": 939,
+          "width": 14,
+          "height": 29,
+          "confidence": 92.22435
+        },
+        {
+          "text": "回",
+          "left": 375,
+          "top": 933,
+          "width": 20,
+          "height": 45,
+          "confidence": 92.264015
+        },
+        {
+          "text": "一",
+          "left": 414,
+          "top": 951,
+          "width": 19,
+          "height": 4,
+          "confidence": 93.200096
+        },
+        {
+          "text": "粒",
+          "left": 448,
+          "top": 937,
+          "width": 37,
+          "height": 32,
+          "confidence": 92.472633
+        },
+        {
+          "text": "金",
+          "left": 500,
+          "top": 939,
+          "width": 22,
+          "height": 29,
+          "confidence": 92.788727
+        },
+        {
+          "text": "丹",
+          "left": 533,
+          "top": 939,
+          "width": 17,
+          "height": 29,
+          "confidence": 86.979752
+        },
+        {
+          "text": "天",
+          "left": 549,
+          "top": 933,
+          "width": 26,
+          "height": 45,
+          "confidence": 92.951866
+        },
+        {
+          "text": "上",
+          "left": 574,
+          "top": 937,
+          "width": 30,
+          "height": 32,
+          "confidence": 97.017517
+        },
+        {
+          "text": "得",
+          "left": 607,
+          "top": 938,
+          "width": 21,
+          "height": 30,
+          "confidence": 96.119728
+        },
+        {
+          "text": "三",
+          "left": 650,
+          "top": 940,
+          "width": 21,
+          "height": 27,
+          "confidence": 96.194298
+        },
+        {
+          "text": "年",
+          "left": 687,
+          "top": 937,
+          "width": 35,
+          "height": 32,
+          "confidence": 93.221397
+        },
+        {
+          "text": "故",
+          "left": 721,
+          "top": 933,
+          "width": 32,
+          "height": 45,
+          "confidence": 92.985329
+        },
+        {
+          "text": "主",
+          "left": 752,
+          "top": 937,
+          "width": 16,
+          "height": 30,
+          "confidence": 93.105499
+        },
+        {
+          "text": "世间",
+          "left": 783,
+          "top": 937,
+          "width": 48,
+          "height": 32,
+          "confidence": 81.166573
+        },
+        {
+          "text": "生",
+          "left": 842,
+          "top": 938,
+          "width": 23,
+          "height": 29,
+          "confidence": 82.709656
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 943,
+          "width": 51,
+          "height": 23,
+          "confidence": 88.268997
+        }
+      ]
+    },
+    {
+      "text": "B 第三十二回平顶山功曹传信 SCARIER. txt",
+      "left": 188,
+      "top": 984,
+      "right": 923,
+      "bottom": 1029,
+      "height": 45,
+      "confidence": 75.03143123076924,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 988,
+          "width": 25,
+          "height": 35,
+          "confidence": 68.038002
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 988,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.827232
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 988,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.936958
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 984,
+          "width": 32,
+          "height": 45,
+          "confidence": 96.683868
+        },
+        {
+          "text": "二",
+          "left": 341,
+          "top": 992,
+          "width": 17,
+          "height": 24,
+          "confidence": 92.31749
+        },
+        {
+          "text": "回",
+          "left": 369,
+          "top": 990,
+          "width": 20,
+          "height": 29,
+          "confidence": 85.377617
+        },
+        {
+          "text": "平顶山",
+          "left": 403,
+          "top": 988,
+          "width": 225,
+          "height": 31,
+          "confidence": 93.244087
+        },
+        {
+          "text": "功",
+          "left": 515,
+          "top": 984,
+          "width": 32,
+          "height": 45,
+          "confidence": 91.446175
+        },
+        {
+          "text": "曹",
+          "left": 546,
+          "top": 984,
+          "width": 38,
+          "height": 45,
+          "confidence": 68.728622
+        },
+        {
+          "text": "传",
+          "left": 583,
+          "top": 984,
+          "width": 29,
+          "height": 45,
+          "confidence": 92.616859
+        },
+        {
+          "text": "信",
+          "left": 611,
+          "top": 984,
+          "width": 15,
+          "height": 45,
+          "confidence": 93.191696
+        },
+        {
+          "text": "SCARIER.",
+          "left": 641,
+          "top": 988,
+          "width": 280,
+          "height": 32,
+          "confidence": 0.0
+        },
+        {
+          "text": "txt",
+          "left": 877,
+          "top": 984,
+          "width": 46,
+          "height": 45,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "B 第三十五回外道施威欺正性 WRI RAAB. txt",
+      "left": 188,
+      "top": 1035,
+      "right": 921,
+      "bottom": 1080,
+      "height": 45,
+      "confidence": 76.2120091875,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 1039,
+          "width": 25,
+          "height": 35,
+          "confidence": 60.144913
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1039,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.574661
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 1042,
+          "width": 17,
+          "height": 26,
+          "confidence": 96.907448
+        },
+        {
+          "text": "十",
+          "left": 307,
+          "top": 1039,
+          "width": 19,
+          "height": 31,
+          "confidence": 96.742027
+        },
+        {
+          "text": "五",
+          "left": 341,
+          "top": 1041,
+          "width": 38,
+          "height": 28,
+          "confidence": 93.151932
+        },
+        {
+          "text": "回",
+          "left": 378,
+          "top": 1035,
+          "width": 20,
+          "height": 45,
+          "confidence": 93.193832
+        },
+        {
+          "text": "外",
+          "left": 417,
+          "top": 1039,
+          "width": 16,
+          "height": 31,
+          "confidence": 93.030258
+        },
+        {
+          "text": "道",
+          "left": 448,
+          "top": 1039,
+          "width": 18,
+          "height": 31,
+          "confidence": 91.720123
+        },
+        {
+          "text": "施",
+          "left": 482,
+          "top": 1039,
+          "width": 34,
+          "height": 31,
+          "confidence": 93.217941
+        },
+        {
+          "text": "威",
+          "left": 533,
+          "top": 1039,
+          "width": 17,
+          "height": 31,
+          "confidence": 92.918564
+        },
+        {
+          "text": "欺",
+          "left": 565,
+          "top": 1041,
+          "width": 16,
+          "height": 27,
+          "confidence": 77.990517
+        },
+        {
+          "text": "正",
+          "left": 580,
+          "top": 1035,
+          "width": 32,
+          "height": 45,
+          "confidence": 93.244766
+        },
+        {
+          "text": "性",
+          "left": 611,
+          "top": 1039,
+          "width": 17,
+          "height": 31,
+          "confidence": 93.303391
+        },
+        {
+          "text": "WRI",
+          "left": 649,
+          "top": 1039,
+          "width": 79,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "RAAB.",
+          "left": 746,
+          "top": 1035,
+          "width": 128,
+          "height": 45,
+          "confidence": 0.0
+        },
+        {
+          "text": "txt",
+          "left": 878,
+          "top": 1045,
+          "width": 43,
+          "height": 22,
+          "confidence": 47.251774
+        }
+      ]
+    },
+    {
+      "text": "由第三十八回婴儿问母知收正金木参玄见假真.txt",
+      "left": 188,
+      "top": 1085,
+      "right": 921,
+      "bottom": 1130,
+      "height": 45,
+      "confidence": 81.53697185000001,
+      "words": [
+        {
+          "text": "由",
+          "left": 188,
+          "top": 1089,
+          "width": 25,
+          "height": 36,
+          "confidence": 52.032463
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1090,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.589401
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 1090,
+          "width": 38,
+          "height": 31,
+          "confidence": 96.854805
+        },
+        {
+          "text": "十",
+          "left": 328,
+          "top": 1092,
+          "width": 12,
+          "height": 28,
+          "confidence": 93.154556
+        },
+        {
+          "text": "八",
+          "left": 347,
+          "top": 1091,
+          "width": 32,
+          "height": 29,
+          "confidence": 91.601517
+        },
+        {
+          "text": "回",
+          "left": 378,
+          "top": 1085,
+          "width": 20,
+          "height": 45,
+          "confidence": 93.16301
+        },
+        {
+          "text": "婴儿",
+          "left": 403,
+          "top": 1090,
+          "width": 225,
+          "height": 31,
+          "confidence": 76.748932
+        },
+        {
+          "text": "问",
+          "left": 476,
+          "top": 1085,
+          "width": 38,
+          "height": 45,
+          "confidence": 92.251564
+        },
+        {
+          "text": "母",
+          "left": 513,
+          "top": 1085,
+          "width": 37,
+          "height": 45,
+          "confidence": 92.261658
+        },
+        {
+          "text": "知",
+          "left": 549,
+          "top": 1085,
+          "width": 29,
+          "height": 45,
+          "confidence": 92.934578
+        },
+        {
+          "text": "收",
+          "left": 577,
+          "top": 1085,
+          "width": 32,
+          "height": 45,
+          "confidence": 39.67432
+        },
+        {
+          "text": "正",
+          "left": 608,
+          "top": 1085,
+          "width": 26,
+          "height": 45,
+          "confidence": 0.0
+        },
+        {
+          "text": "金",
+          "left": 659,
+          "top": 1090,
+          "width": 35,
+          "height": 31,
+          "confidence": 91.997414
+        },
+        {
+          "text": "木",
+          "left": 705,
+          "top": 1090,
+          "width": 19,
+          "height": 31,
+          "confidence": 90.466652
+        },
+        {
+          "text": "参",
+          "left": 738,
+          "top": 1090,
+          "width": 17,
+          "height": 31,
+          "confidence": 92.787628
+        },
+        {
+          "text": "玄",
+          "left": 771,
+          "top": 1091,
+          "width": 15,
+          "height": 30,
+          "confidence": 70.917656
+        },
+        {
+          "text": "见",
+          "left": 803,
+          "top": 1090,
+          "width": 8,
+          "height": 31,
+          "confidence": 92.934372
+        },
+        {
+          "text": "假",
+          "left": 819,
+          "top": 1091,
+          "width": 15,
+          "height": 30,
+          "confidence": 92.481544
+        },
+        {
+          "text": "真",
+          "left": 850,
+          "top": 1090,
+          "width": 24,
+          "height": 31,
+          "confidence": 93.238106
+        },
+        {
+          "text": ".txt",
+          "left": 873,
+          "top": 1085,
+          "width": 48,
+          "height": 45,
+          "confidence": 89.649261
+        }
+      ]
+    },
+    {
+      "text": "由第三十六回心猿正处诸缘伏 BRST ABA. txt",
+      "left": 188,
+      "top": 1136,
+      "right": 923,
+      "bottom": 1181,
+      "height": 45,
+      "confidence": 76.93799175,
+      "words": [
+        {
+          "text": "由",
+          "left": 188,
+          "top": 1140,
+          "width": 25,
+          "height": 35,
+          "confidence": 41.522808
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1140,
+          "width": 18,
+          "height": 32,
+          "confidence": 95.711243
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 1140,
+          "width": 35,
+          "height": 32,
+          "confidence": 96.961761
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 1136,
+          "width": 29,
+          "height": 45,
+          "confidence": 96.470703
+        },
+        {
+          "text": "六",
+          "left": 338,
+          "top": 1141,
+          "width": 20,
+          "height": 30,
+          "confidence": 93.204315
+        },
+        {
+          "text": "回",
+          "left": 369,
+          "top": 1142,
+          "width": 20,
+          "height": 29,
+          "confidence": 88.21331
+        },
+        {
+          "text": "心",
+          "left": 417,
+          "top": 1141,
+          "width": 35,
+          "height": 30,
+          "confidence": 92.34687
+        },
+        {
+          "text": "猿",
+          "left": 451,
+          "top": 1136,
+          "width": 32,
+          "height": 45,
+          "confidence": 85.279129
+        },
+        {
+          "text": "正",
+          "left": 482,
+          "top": 1141,
+          "width": 34,
+          "height": 30,
+          "confidence": 91.621201
+        },
+        {
+          "text": "处",
+          "left": 533,
+          "top": 1141,
+          "width": 11,
+          "height": 29,
+          "confidence": 93.279243
+        },
+        {
+          "text": "诸",
+          "left": 546,
+          "top": 1140,
+          "width": 17,
+          "height": 32,
+          "confidence": 92.541199
+        },
+        {
+          "text": "缘",
+          "left": 577,
+          "top": 1140,
+          "width": 19,
+          "height": 31,
+          "confidence": 91.06485
+        },
+        {
+          "text": "伏",
+          "left": 608,
+          "top": 1140,
+          "width": 20,
+          "height": 32,
+          "confidence": 89.748184
+        },
+        {
+          "text": "BRST",
+          "left": 640,
+          "top": 1140,
+          "width": 281,
+          "height": 32,
+          "confidence": 29.214354
+        },
+        {
+          "text": "ABA.",
+          "left": 806,
+          "top": 1136,
+          "width": 68,
+          "height": 45,
+          "confidence": 26.914349
+        },
+        {
+          "text": "txt",
+          "left": 877,
+          "top": 1136,
+          "width": 46,
+          "height": 45,
+          "confidence": 26.914349
+        }
+      ]
+    },
+    {
+      "text": "6 第三十四回魔王巧算困心猿大圣腾那骗宝贝.txt",
+      "left": 188,
+      "top": 1186,
+      "right": 921,
+      "bottom": 1231,
+      "height": 45,
+      "confidence": 87.10612968421052,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 1191,
+          "width": 25,
+          "height": 35,
+          "confidence": 53.742035
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1191,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.612419
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 1191,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.945633
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 1186,
+          "width": 29,
+          "height": 45,
+          "confidence": 96.340858
+        },
+        {
+          "text": "四",
+          "left": 338,
+          "top": 1193,
+          "width": 19,
+          "height": 29,
+          "confidence": 93.278023
+        },
+        {
+          "text": "回",
+          "left": 369,
+          "top": 1193,
+          "width": 20,
+          "height": 29,
+          "confidence": 82.897163
+        },
+        {
+          "text": "魔王",
+          "left": 403,
+          "top": 1191,
+          "width": 225,
+          "height": 31,
+          "confidence": 92.814178
+        },
+        {
+          "text": "巧",
+          "left": 482,
+          "top": 1186,
+          "width": 32,
+          "height": 45,
+          "confidence": 92.643074
+        },
+        {
+          "text": "算",
+          "left": 513,
+          "top": 1186,
+          "width": 29,
+          "height": 45,
+          "confidence": 92.797012
+        },
+        {
+          "text": "困",
+          "left": 541,
+          "top": 1186,
+          "width": 37,
+          "height": 45,
+          "confidence": 93.181389
+        },
+        {
+          "text": "心",
+          "left": 577,
+          "top": 1186,
+          "width": 38,
+          "height": 45,
+          "confidence": 92.143204
+        },
+        {
+          "text": "猿",
+          "left": 614,
+          "top": 1186,
+          "width": 23,
+          "height": 45,
+          "confidence": 38.656891
+        },
+        {
+          "text": "大",
+          "left": 653,
+          "top": 1191,
+          "width": 18,
+          "height": 31,
+          "confidence": 93.127945
+        },
+        {
+          "text": "圣",
+          "left": 681,
+          "top": 1193,
+          "width": 22,
+          "height": 28,
+          "confidence": 93.053726
+        },
+        {
+          "text": "腾",
+          "left": 715,
+          "top": 1191,
+          "width": 35,
+          "height": 31,
+          "confidence": 88.17392
+        },
+        {
+          "text": "那",
+          "left": 755,
+          "top": 1191,
+          "width": 34,
+          "height": 31,
+          "confidence": 80.06765
+        },
+        {
+          "text": "骗",
+          "left": 804,
+          "top": 1191,
+          "width": 19,
+          "height": 31,
+          "confidence": 93.010056
+        },
+        {
+          "text": "宝贝",
+          "left": 837,
+          "top": 1193,
+          "width": 38,
+          "height": 29,
+          "confidence": 96.159584
+        },
+        {
+          "text": ".txt",
+          "left": 875,
+          "top": 1186,
+          "width": 46,
+          "height": 45,
+          "confidence": 90.371704
+        }
+      ]
+    },
+    {
+      "text": "B 第三十回 PRR 意马忆心猿.txt",
+      "left": 188,
+      "top": 1238,
+      "right": 758,
+      "bottom": 1283,
+      "height": 45,
+      "confidence": 82.51300299999998,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 1242,
+          "width": 25,
+          "height": 35,
+          "confidence": 44.078426
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1242,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.880775
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 1242,
+          "width": 35,
+          "height": 31,
+          "confidence": 96.96286
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 1238,
+          "width": 32,
+          "height": 45,
+          "confidence": 93.217842
+        },
+        {
+          "text": "回",
+          "left": 341,
+          "top": 1244,
+          "width": 15,
+          "height": 29,
+          "confidence": 92.891663
+        },
+        {
+          "text": "PRR",
+          "left": 370,
+          "top": 1242,
+          "width": 161,
+          "height": 31,
+          "confidence": 23.258915
+        },
+        {
+          "text": "意",
+          "left": 555,
+          "top": 1242,
+          "width": 18,
+          "height": 31,
+          "confidence": 92.498787
+        },
+        {
+          "text": "马",
+          "left": 588,
+          "top": 1242,
+          "width": 30,
+          "height": 31,
+          "confidence": 92.2547
+        },
+        {
+          "text": "忆",
+          "left": 619,
+          "top": 1244,
+          "width": 28,
+          "height": 28,
+          "confidence": 92.522392
+        },
+        {
+          "text": "心",
+          "left": 650,
+          "top": 1242,
+          "width": 41,
+          "height": 31,
+          "confidence": 92.526131
+        },
+        {
+          "text": "猿",
+          "left": 690,
+          "top": 1238,
+          "width": 18,
+          "height": 45,
+          "confidence": 82.47316
+        },
+        {
+          "text": ".txt",
+          "left": 707,
+          "top": 1248,
+          "width": 51,
+          "height": 22,
+          "confidence": 90.590385
+        }
+      ]
+    },
+    {
+      "text": "6 第三回 Gs +s AMAR. tt",
+      "left": 188,
+      "top": 1288,
+      "right": 859,
+      "bottom": 1334,
+      "height": 46,
+      "confidence": 45.17690525,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 1292,
+          "width": 25,
+          "height": 36,
+          "confidence": 38.647247
+        },
+        {
+          "text": "第",
+          "left": 241,
+          "top": 1293,
+          "width": 20,
+          "height": 31,
+          "confidence": 97.001877
+        },
+        {
+          "text": "三",
+          "left": 276,
+          "top": 1295,
+          "width": 35,
+          "height": 28,
+          "confidence": 92.629539
+        },
+        {
+          "text": "回",
+          "left": 310,
+          "top": 1288,
+          "width": 21,
+          "height": 46,
+          "confidence": 91.360191
+        },
+        {
+          "text": "Gs",
+          "left": 348,
+          "top": 1293,
+          "width": 51,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "+s",
+          "left": 403,
+          "top": 1293,
+          "width": 160,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "AMAR.",
+          "left": 576,
+          "top": 1293,
+          "width": 280,
+          "height": 31,
+          "confidence": 1.803617
+        },
+        {
+          "text": "tt",
+          "left": 816,
+          "top": 1288,
+          "width": 43,
+          "height": 46,
+          "confidence": 39.972771
+        }
+      ]
+    },
+    {
+      "text": "6 第九十一回 SEAR ZR SRK. txt",
+      "left": 188,
+      "top": 1339,
+      "right": 921,
+      "bottom": 1384,
+      "height": 45,
+      "confidence": 61.586428200000014,
+      "words": [
+        {
+          "text": "6",
+          "left": 188,
+          "top": 1343,
+          "width": 25,
+          "height": 35,
+          "confidence": 30.771818
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1343,
+          "width": 18,
+          "height": 32,
+          "confidence": 93.296883
+        },
+        {
+          "text": "九",
+          "left": 276,
+          "top": 1344,
+          "width": 35,
+          "height": 31,
+          "confidence": 93.266609
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 1339,
+          "width": 32,
+          "height": 45,
+          "confidence": 73.542908
+        },
+        {
+          "text": "一",
+          "left": 341,
+          "top": 1357,
+          "width": 17,
+          "height": 4,
+          "confidence": 93.215591
+        },
+        {
+          "text": "回",
+          "left": 372,
+          "top": 1346,
+          "width": 17,
+          "height": 28,
+          "confidence": 90.39399
+        },
+        {
+          "text": "SEAR",
+          "left": 403,
+          "top": 1343,
+          "width": 225,
+          "height": 32,
+          "confidence": 37.123108
+        },
+        {
+          "text": "ZR",
+          "left": 652,
+          "top": 1343,
+          "width": 76,
+          "height": 32,
+          "confidence": 46.973415
+        },
+        {
+          "text": "SRK.",
+          "left": 780,
+          "top": 1343,
+          "width": 94,
+          "height": 32,
+          "confidence": 28.63998
+        },
+        {
+          "text": "txt",
+          "left": 878,
+          "top": 1350,
+          "width": 43,
+          "height": 22,
+          "confidence": 28.63998
+        }
+      ]
+    },
+    {
+      "text": "B 第九十七回金酬外护遭魔毒圣显幽魂救本原.txt",
+      "left": 188,
+      "top": 1390,
+      "right": 921,
+      "bottom": 1435,
+      "height": 45,
+      "confidence": 79.98472275,
+      "words": [
+        {
+          "text": "B",
+          "left": 188,
+          "top": 1394,
+          "width": 25,
+          "height": 35,
+          "confidence": 42.310238
+        },
+        {
+          "text": "第",
+          "left": 243,
+          "top": 1394,
+          "width": 18,
+          "height": 32,
+          "confidence": 93.283554
+        },
+        {
+          "text": "九",
+          "left": 276,
+          "top": 1394,
+          "width": 17,
+          "height": 31,
+          "confidence": 89.787407
+        },
+        {
+          "text": "十",
+          "left": 307,
+          "top": 1394,
+          "width": 19,
+          "height": 31,
+          "confidence": 92.154556
+        },
+        {
+          "text": "七",
+          "left": 341,
+          "top": 1394,
+          "width": 35,
+          "height": 31,
+          "confidence": 92.321846
+        },
+        {
+          "text": "回",
+          "left": 375,
+          "top": 1390,
+          "width": 20,
+          "height": 45,
+          "confidence": 91.789871
+        },
+        {
+          "text": "金",
+          "left": 417,
+          "top": 1394,
+          "width": 37,
+          "height": 31,
+          "confidence": 92.561676
+        },
+        {
+          "text": "酬",
+          "left": 468,
+          "top": 1394,
+          "width": 17,
+          "height": 31,
+          "confidence": 10.580549
+        },
+        {
+          "text": "外",
+          "left": 487,
+          "top": 1394,
+          "width": 11,
+          "height": 31,
+          "confidence": 92.277618
+        },
+        {
+          "text": "护",
+          "left": 510,
+          "top": 1394,
+          "width": 20,
+          "height": 31,
+          "confidence": 92.745239
+        },
+        {
+          "text": "遭",
+          "left": 546,
+          "top": 1394,
+          "width": 38,
+          "height": 31,
+          "confidence": 5.189457
+        },
+        {
+          "text": "魔",
+          "left": 598,
+          "top": 1394,
+          "width": 17,
+          "height": 31,
+          "confidence": 91.88813
+        },
+        {
+          "text": "毒",
+          "left": 614,
+          "top": 1390,
+          "width": 23,
+          "height": 45,
+          "confidence": 90.727089
+        },
+        {
+          "text": "圣",
+          "left": 656,
+          "top": 1396,
+          "width": 15,
+          "height": 28,
+          "confidence": 90.727089
+        },
+        {
+          "text": "显",
+          "left": 687,
+          "top": 1394,
+          "width": 37,
+          "height": 32,
+          "confidence": 93.215576
+        },
+        {
+          "text": "幽魂",
+          "left": 738,
+          "top": 1394,
+          "width": 51,
+          "height": 31,
+          "confidence": 72.681084
+        },
+        {
+          "text": "救",
+          "left": 803,
+          "top": 1394,
+          "width": 17,
+          "height": 31,
+          "confidence": 93.131927
+        },
+        {
+          "text": "本",
+          "left": 819,
+          "top": 1390,
+          "width": 29,
+          "height": 45,
+          "confidence": 89.494408
+        },
+        {
+          "text": "原",
+          "left": 847,
+          "top": 1396,
+          "width": 18,
+          "height": 29,
+          "confidence": 92.45948
+        },
+        {
+          "text": ".txt",
+          "left": 870,
+          "top": 1400,
+          "width": 51,
+          "height": 23,
+          "confidence": 90.367661
+        }
+      ]
+    },
+    {
+      "text": "直第九十三回给孤园问古谈因天竺国朝王遇偶.txt",
+      "left": 188,
+      "top": 1439,
+      "right": 921,
+      "bottom": 1487,
+      "height": 48,
+      "confidence": 88.31613738095237,
+      "words": [
+        {
+          "text": "直",
+          "left": 188,
+          "top": 1445,
+          "width": 25,
+          "height": 35,
+          "confidence": 53.51741
+        },
+        {
+          "text": "第",
+          "left": 244,
+          "top": 1445,
+          "width": 36,
+          "height": 31,
+          "confidence": 93.179497
+        },
+        {
+          "text": "九",
+          "left": 280,
+          "top": 1439,
+          "width": 30,
+          "height": 48,
+          "confidence": 77.335403
+        },
+        {
+          "text": "十",
+          "left": 310,
+          "top": 1445,
+          "width": 16,
+          "height": 31,
+          "confidence": 89.896103
+        },
+        {
+          "text": "三",
+          "left": 343,
+          "top": 1448,
+          "width": 15,
+          "height": 27,
+          "confidence": 93.289459
+        },
+        {
+          "text": "回",
+          "left": 373,
+          "top": 1447,
+          "width": 16,
+          "height": 29,
+          "confidence": 92.544472
+        },
+        {
+          "text": "给",
+          "left": 415,
+          "top": 1445,
+          "width": 19,
+          "height": 31,
+          "confidence": 93.268219
+        },
+        {
+          "text": "孤",
+          "left": 448,
+          "top": 1445,
+          "width": 18,
+          "height": 31,
+          "confidence": 74.061783
+        },
+        {
+          "text": "园",
+          "left": 481,
+          "top": 1445,
+          "width": 30,
+          "height": 31,
+          "confidence": 90.700439
+        },
+        {
+          "text": "问",
+          "left": 511,
+          "top": 1447,
+          "width": 18,
+          "height": 29,
+          "confidence": 90.145119
+        },
+        {
+          "text": "古",
+          "left": 544,
+          "top": 1445,
+          "width": 19,
+          "height": 31,
+          "confidence": 93.058174
+        },
+        {
+          "text": "谈",
+          "left": 580,
+          "top": 1445,
+          "width": 16,
+          "height": 31,
+          "confidence": 92.245087
+        },
+        {
+          "text": "因",
+          "left": 610,
+          "top": 1447,
+          "width": 17,
+          "height": 29,
+          "confidence": 92.138176
+        },
+        {
+          "text": "天",
+          "left": 652,
+          "top": 1447,
+          "width": 19,
+          "height": 29,
+          "confidence": 93.131447
+        },
+        {
+          "text": "竺",
+          "left": 682,
+          "top": 1445,
+          "width": 21,
+          "height": 30,
+          "confidence": 88.869354
+        },
+        {
+          "text": "国",
+          "left": 718,
+          "top": 1445,
+          "width": 36,
+          "height": 31,
+          "confidence": 92.43132
+        },
+        {
+          "text": "朝",
+          "left": 771,
+          "top": 1447,
+          "width": 16,
+          "height": 28,
+          "confidence": 92.178406
+        },
+        {
+          "text": "王",
+          "left": 787,
+          "top": 1439,
+          "width": 24,
+          "height": 48,
+          "confidence": 92.78347
+        },
+        {
+          "text": "遇",
+          "left": 811,
+          "top": 1446,
+          "width": 22,
+          "height": 30,
+          "confidence": 88.588249
+        },
+        {
+          "text": "偶",
+          "left": 844,
+          "top": 1445,
+          "width": 21,
+          "height": 31,
+          "confidence": 89.251862
+        },
+        {
+          "text": ".txt",
+          "left": 871,
+          "top": 1451,
+          "width": 50,
+          "height": 22,
+          "confidence": 92.025436
+        }
+      ]
+    }
+  ]
+}

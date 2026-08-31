@@ -1,0 +1,1537 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/selenium-operations/page-4.png",
+  "lines": [
+    {
+      "text": "BF Ake!",
+      "left": 173,
+      "top": 214,
+      "right": 267,
+      "bottom": 272,
+      "height": 58,
+      "confidence": 58.0645885,
+      "words": [
+        {
+          "text": "BF",
+          "left": 173,
+          "top": 214,
+          "width": 30,
+          "height": 58,
+          "confidence": 54.248196
+        },
+        {
+          "text": "Ake!",
+          "left": 193,
+          "top": 218,
+          "width": 74,
+          "height": 41,
+          "confidence": 61.880981
+        }
+      ]
+    },
+    {
+      "text": "3. 搜索 python",
+      "left": 110,
+      "top": 402,
+      "right": 393,
+      "bottom": 447,
+      "height": 45,
+      "confidence": 93.46084333333333,
+      "words": [
+        {
+          "text": "3.",
+          "left": 110,
+          "top": 407,
+          "width": 32,
+          "height": 32,
+          "confidence": 93.138275
+        },
+        {
+          "text": "搜索",
+          "left": 187,
+          "top": 402,
+          "width": 69,
+          "height": 40,
+          "confidence": 95.887474
+        },
+        {
+          "text": "python",
+          "left": 271,
+          "top": 406,
+          "width": 122,
+          "height": 41,
+          "confidence": 91.356781
+        }
+      ]
+    },
+    {
+      "text": "人的过程: 找到文本框输入 python, 上点击\" 搜索\" 按钮.",
+      "left": 173,
+      "top": 489,
+      "right": 1189,
+      "bottom": 547,
+      "height": 58,
+      "confidence": 81.43832093333334,
+      "words": [
+        {
+          "text": "人",
+          "left": 173,
+          "top": 494,
+          "width": 40,
+          "height": 40,
+          "confidence": 94.730484
+        },
+        {
+          "text": "的",
+          "left": 223,
+          "top": 494,
+          "width": 33,
+          "height": 40,
+          "confidence": 95.335892
+        },
+        {
+          "text": "过",
+          "left": 270,
+          "top": 494,
+          "width": 51,
+          "height": 40,
+          "confidence": 92.45105
+        },
+        {
+          "text": "程",
+          "left": 321,
+          "top": 496,
+          "width": 33,
+          "height": 37,
+          "confidence": 92.179161
+        },
+        {
+          "text": ":",
+          "left": 353,
+          "top": 489,
+          "width": 12,
+          "height": 58,
+          "confidence": 92.712906
+        },
+        {
+          "text": "找到",
+          "left": 393,
+          "top": 494,
+          "width": 63,
+          "height": 40,
+          "confidence": 96.736641
+        },
+        {
+          "text": "文本",
+          "left": 480,
+          "top": 494,
+          "width": 85,
+          "height": 40,
+          "confidence": 93.255402
+        },
+        {
+          "text": "框",
+          "left": 567,
+          "top": 494,
+          "width": 42,
+          "height": 40,
+          "confidence": 93.048782
+        },
+        {
+          "text": "输入",
+          "left": 618,
+          "top": 494,
+          "width": 70,
+          "height": 40,
+          "confidence": 96.718605
+        },
+        {
+          "text": "python,",
+          "left": 691,
+          "top": 498,
+          "width": 172,
+          "height": 41,
+          "confidence": 41.194618
+        },
+        {
+          "text": "上",
+          "left": 883,
+          "top": 523,
+          "width": 5,
+          "height": 11,
+          "confidence": 87.36557
+        },
+        {
+          "text": "点击\"",
+          "left": 901,
+          "top": 494,
+          "width": 99,
+          "height": 41,
+          "confidence": 0.0
+        },
+        {
+          "text": "搜索\"",
+          "left": 1002,
+          "top": 494,
+          "width": 103,
+          "height": 40,
+          "confidence": 65.246162
+        },
+        {
+          "text": "按钮",
+          "left": 1106,
+          "top": 494,
+          "width": 72,
+          "height": 40,
+          "confidence": 90.031075
+        },
+        {
+          "text": ".",
+          "left": 1184,
+          "top": 525,
+          "width": 5,
+          "height": 5,
+          "confidence": 90.568466
+        }
+      ]
+    },
+    {
+      "text": "机器的过程: 找到文本框输入 python', 上点击\" 搜索\" 按钮.",
+      "left": 173,
+      "top": 582,
+      "right": 1233,
+      "bottom": 640,
+      "height": 58,
+      "confidence": 82.46066562499999,
+      "words": [
+        {
+          "text": "机",
+          "left": 173,
+          "top": 587,
+          "width": 227,
+          "height": 41,
+          "confidence": 96.776306
+        },
+        {
+          "text": "器",
+          "left": 230,
+          "top": 582,
+          "width": 52,
+          "height": 58,
+          "confidence": 94.894501
+        },
+        {
+          "text": "的",
+          "left": 281,
+          "top": 582,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.685211
+        },
+        {
+          "text": "过",
+          "left": 321,
+          "top": 582,
+          "width": 44,
+          "height": 58,
+          "confidence": 93.1166
+        },
+        {
+          "text": "程",
+          "left": 364,
+          "top": 582,
+          "width": 34,
+          "height": 58,
+          "confidence": 92.802574
+        },
+        {
+          "text": ":",
+          "left": 397,
+          "top": 582,
+          "width": 12,
+          "height": 58,
+          "confidence": 92.628517
+        },
+        {
+          "text": "找到",
+          "left": 437,
+          "top": 587,
+          "width": 63,
+          "height": 40,
+          "confidence": 95.526878
+        },
+        {
+          "text": "文本",
+          "left": 524,
+          "top": 587,
+          "width": 85,
+          "height": 40,
+          "confidence": 91.621147
+        },
+        {
+          "text": "框",
+          "left": 614,
+          "top": 587,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.064102
+        },
+        {
+          "text": "输入",
+          "left": 662,
+          "top": 587,
+          "width": 69,
+          "height": 40,
+          "confidence": 96.605843
+        },
+        {
+          "text": "python',",
+          "left": 735,
+          "top": 591,
+          "width": 172,
+          "height": 41,
+          "confidence": 45.245186
+        },
+        {
+          "text": "上",
+          "left": 926,
+          "top": 616,
+          "width": 6,
+          "height": 11,
+          "confidence": 75.675056
+        },
+        {
+          "text": "点击\"",
+          "left": 944,
+          "top": 587,
+          "width": 100,
+          "height": 41,
+          "confidence": 12.651978
+        },
+        {
+          "text": "搜索\"",
+          "left": 1046,
+          "top": 587,
+          "width": 105,
+          "height": 40,
+          "confidence": 92.65686
+        },
+        {
+          "text": "按钮",
+          "left": 1151,
+          "top": 587,
+          "width": 71,
+          "height": 40,
+          "confidence": 57.448753
+        },
+        {
+          "text": ".",
+          "left": 1228,
+          "top": 618,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.971138
+        }
+      ]
+    },
+    {
+      "text": "发现没, 用 selenium 最更的地方就是这里. 人是怎么操作的. 机器",
+      "left": 173,
+      "top": 675,
+      "right": 1387,
+      "bottom": 732,
+      "height": 57,
+      "confidence": 86.92916154166669,
+      "words": [
+        {
+          "text": "发",
+          "left": 173,
+          "top": 679,
+          "width": 59,
+          "height": 40,
+          "confidence": 93.280151
+        },
+        {
+          "text": "现",
+          "left": 236,
+          "top": 680,
+          "width": 36,
+          "height": 39,
+          "confidence": 93.068741
+        },
+        {
+          "text": "没",
+          "left": 279,
+          "top": 681,
+          "width": 33,
+          "height": 40,
+          "confidence": 92.807281
+        },
+        {
+          "text": ",",
+          "left": 311,
+          "top": 675,
+          "width": 15,
+          "height": 57,
+          "confidence": 91.708801
+        },
+        {
+          "text": "用",
+          "left": 350,
+          "top": 681,
+          "width": 17,
+          "height": 38,
+          "confidence": 96.28933
+        },
+        {
+          "text": "selenium",
+          "left": 373,
+          "top": 679,
+          "width": 580,
+          "height": 41,
+          "confidence": 92.371956
+        },
+        {
+          "text": "最",
+          "left": 560,
+          "top": 675,
+          "width": 48,
+          "height": 57,
+          "confidence": 90.736687
+        },
+        {
+          "text": "更",
+          "left": 607,
+          "top": 675,
+          "width": 43,
+          "height": 57,
+          "confidence": 25.669241
+        },
+        {
+          "text": "的",
+          "left": 649,
+          "top": 675,
+          "width": 44,
+          "height": 57,
+          "confidence": 7.203388
+        },
+        {
+          "text": "地",
+          "left": 692,
+          "top": 675,
+          "width": 47,
+          "height": 57,
+          "confidence": 93.198616
+        },
+        {
+          "text": "方",
+          "left": 739,
+          "top": 675,
+          "width": 54,
+          "height": 57,
+          "confidence": 92.886238
+        },
+        {
+          "text": "就",
+          "left": 792,
+          "top": 675,
+          "width": 47,
+          "height": 57,
+          "confidence": 96.290886
+        },
+        {
+          "text": "是",
+          "left": 838,
+          "top": 675,
+          "width": 40,
+          "height": 57,
+          "confidence": 96.292519
+        },
+        {
+          "text": "这",
+          "left": 877,
+          "top": 675,
+          "width": 41,
+          "height": 57,
+          "confidence": 96.034363
+        },
+        {
+          "text": "里",
+          "left": 917,
+          "top": 675,
+          "width": 40,
+          "height": 57,
+          "confidence": 93.214966
+        },
+        {
+          "text": ".",
+          "left": 956,
+          "top": 675,
+          "width": 19,
+          "height": 57,
+          "confidence": 92.213341
+        },
+        {
+          "text": "人",
+          "left": 991,
+          "top": 679,
+          "width": 19,
+          "height": 40,
+          "confidence": 95.786171
+        },
+        {
+          "text": "是",
+          "left": 1027,
+          "top": 679,
+          "width": 54,
+          "height": 40,
+          "confidence": 95.174355
+        },
+        {
+          "text": "怎么",
+          "left": 1102,
+          "top": 679,
+          "width": 57,
+          "height": 40,
+          "confidence": 96.911499
+        },
+        {
+          "text": "操作",
+          "left": 1162,
+          "top": 679,
+          "width": 83,
+          "height": 41,
+          "confidence": 96.723274
+        },
+        {
+          "text": "的",
+          "left": 1251,
+          "top": 679,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.285004
+        },
+        {
+          "text": ".",
+          "left": 1280,
+          "top": 710,
+          "width": 5,
+          "height": 5,
+          "confidence": 90.81942
+        },
+        {
+          "text": "机",
+          "left": 1319,
+          "top": 679,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.900063
+        },
+        {
+          "text": "器",
+          "left": 1355,
+          "top": 681,
+          "width": 32,
+          "height": 39,
+          "confidence": 77.433586
+        }
+      ]
+    },
+    {
+      "text": "就怎么操作. EVRA",
+      "left": 173,
+      "top": 749,
+      "right": 590,
+      "bottom": 790,
+      "height": 41,
+      "confidence": 78.9751274,
+      "words": [
+        {
+          "text": "就",
+          "left": 173,
+          "top": 749,
+          "width": 73,
+          "height": 40,
+          "confidence": 96.657982
+        },
+        {
+          "text": "怎么",
+          "left": 261,
+          "top": 749,
+          "width": 57,
+          "height": 40,
+          "confidence": 95.772636
+        },
+        {
+          "text": "操作",
+          "left": 324,
+          "top": 749,
+          "width": 65,
+          "height": 41,
+          "confidence": 93.191948
+        },
+        {
+          "text": ".",
+          "left": 395,
+          "top": 780,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.098564
+        },
+        {
+          "text": "EVRA",
+          "left": 419,
+          "top": 749,
+          "width": 171,
+          "height": 40,
+          "confidence": 18.154507
+        }
+      ]
+    },
+    {
+      "text": "1 # 找到文本框输入 python， 训击搜索按钮",
+      "left": 189,
+      "top": 860,
+      "right": 1001,
+      "bottom": 912,
+      "height": 52,
+      "confidence": 74.98207154545456,
+      "words": [
+        {
+          "text": "1",
+          "left": 189,
+          "top": 867,
+          "width": 18,
+          "height": 30,
+          "confidence": 88.312614
+        },
+        {
+          "text": "#",
+          "left": 242,
+          "top": 867,
+          "width": 22,
+          "height": 30,
+          "confidence": 83.15773
+        },
+        {
+          "text": "找到",
+          "left": 302,
+          "top": 864,
+          "width": 65,
+          "height": 37,
+          "confidence": 96.013557
+        },
+        {
+          "text": "文本",
+          "left": 386,
+          "top": 864,
+          "width": 79,
+          "height": 37,
+          "confidence": 93.21756
+        },
+        {
+          "text": "框",
+          "left": 467,
+          "top": 864,
+          "width": 39,
+          "height": 37,
+          "confidence": 92.768555
+        },
+        {
+          "text": "输入",
+          "left": 513,
+          "top": 860,
+          "width": 69,
+          "height": 52,
+          "confidence": 96.764984
+        },
+        {
+          "text": "python，",
+          "left": 573,
+          "top": 865,
+          "width": 157,
+          "height": 41,
+          "confidence": 89.635811
+        },
+        {
+          "text": "训",
+          "left": 764,
+          "top": 864,
+          "width": 36,
+          "height": 37,
+          "confidence": 0.0
+        },
+        {
+          "text": "击",
+          "left": 809,
+          "top": 864,
+          "width": 47,
+          "height": 37,
+          "confidence": 0.0
+        },
+        {
+          "text": "搜索",
+          "left": 857,
+          "top": 864,
+          "width": 79,
+          "height": 37,
+          "confidence": 96.233543
+        },
+        {
+          "text": "按钮",
+          "left": 935,
+          "top": 864,
+          "width": 66,
+          "height": 37,
+          "confidence": 88.698433
+        }
+      ]
+    },
+    {
+      "text": "2 web.find_element_by_xpathC AL",
+      "left": 188,
+      "top": 935,
+      "right": 959,
+      "bottom": 976,
+      "height": 41,
+      "confidence": 59.059824666666664,
+      "words": [
+        {
+          "text": "2",
+          "left": 188,
+          "top": 936,
+          "width": 18,
+          "height": 31,
+          "confidence": 93.094734
+        },
+        {
+          "text": "web.find_element_by_xpathC",
+          "left": 242,
+          "top": 935,
+          "width": 621,
+          "height": 41,
+          "confidence": 50.046013
+        },
+        {
+          "text": "AL",
+          "left": 891,
+          "top": 936,
+          "width": 68,
+          "height": 32,
+          "confidence": 34.038727
+        }
+      ]
+    },
+    {
+      "text": "[@id=\"search_input\"]').send_keysC\"python\")",
+      "left": 248,
+      "top": 1005,
+      "right": 1246,
+      "bottom": 1046,
+      "height": 41,
+      "confidence": 61.078255,
+      "words": [
+        {
+          "text": "[@id=\"search_input\"]').send_keysC\"python\")",
+          "left": 248,
+          "top": 1005,
+          "width": 998,
+          "height": 41,
+          "confidence": 61.078255
+        }
+      ]
+    },
+    {
+      "text": "3 web.find_element_by_xpathC '//*",
+      "left": 188,
+      "top": 1075,
+      "right": 959,
+      "bottom": 1116,
+      "height": 41,
+      "confidence": 51.406872666666665,
+      "words": [
+        {
+          "text": "3",
+          "left": 188,
+          "top": 1076,
+          "width": 18,
+          "height": 32,
+          "confidence": 90.029556
+        },
+        {
+          "text": "web.find_element_by_xpathC",
+          "left": 242,
+          "top": 1075,
+          "width": 621,
+          "height": 41,
+          "confidence": 32.095531
+        },
+        {
+          "text": "'//*",
+          "left": 875,
+          "top": 1075,
+          "width": 84,
+          "height": 33,
+          "confidence": 32.095531
+        }
+      ]
+    },
+    {
+      "text": "[@id=\"search_button\"]').clickQ)",
+      "left": 248,
+      "top": 1145,
+      "right": 982,
+      "bottom": 1184,
+      "height": 39,
+      "confidence": 67.221352,
+      "words": [
+        {
+          "text": "[@id=\"search_button\"]').clickQ)",
+          "left": 248,
+          "top": 1145,
+          "width": 734,
+          "height": 39,
+          "confidence": 67.221352
+        }
+      ]
+    },
+    {
+      "text": "send_keys() 这里要说一下. 如果我们给出的是一个字符串. 就是",
+      "left": 172,
+      "top": 1267,
+      "right": 1389,
+      "bottom": 1322,
+      "height": 55,
+      "confidence": 93.69630400000001,
+      "words": [
+        {
+          "text": "send_keys()",
+          "left": 172,
+          "top": 1275,
+          "width": 228,
+          "height": 41,
+          "confidence": 76.302193
+        },
+        {
+          "text": "这",
+          "left": 429,
+          "top": 1271,
+          "width": 28,
+          "height": 40,
+          "confidence": 96.292892
+        },
+        {
+          "text": "里",
+          "left": 473,
+          "top": 1273,
+          "width": 27,
+          "height": 37,
+          "confidence": 96.752937
+        },
+        {
+          "text": "要",
+          "left": 518,
+          "top": 1272,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.59742
+        },
+        {
+          "text": "说",
+          "left": 563,
+          "top": 1271,
+          "width": 27,
+          "height": 40,
+          "confidence": 95.907501
+        },
+        {
+          "text": "一",
+          "left": 611,
+          "top": 1289,
+          "width": 22,
+          "height": 3,
+          "confidence": 96.348076
+        },
+        {
+          "text": "下",
+          "left": 656,
+          "top": 1273,
+          "width": 21,
+          "height": 39,
+          "confidence": 93.108589
+        },
+        {
+          "text": ".",
+          "left": 683,
+          "top": 1302,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.82357
+        },
+        {
+          "text": "如",
+          "left": 724,
+          "top": 1271,
+          "width": 20,
+          "height": 40,
+          "confidence": 92.56575
+        },
+        {
+          "text": "果",
+          "left": 759,
+          "top": 1273,
+          "width": 31,
+          "height": 38,
+          "confidence": 92.698479
+        },
+        {
+          "text": "我",
+          "left": 810,
+          "top": 1271,
+          "width": 41,
+          "height": 41,
+          "confidence": 90.706566
+        },
+        {
+          "text": "们",
+          "left": 855,
+          "top": 1271,
+          "width": 42,
+          "height": 40,
+          "confidence": 93.26973
+        },
+        {
+          "text": "给",
+          "left": 897,
+          "top": 1271,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.809807
+        },
+        {
+          "text": "出",
+          "left": 941,
+          "top": 1271,
+          "width": 45,
+          "height": 40,
+          "confidence": 90.894699
+        },
+        {
+          "text": "的",
+          "left": 987,
+          "top": 1271,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.816315
+        },
+        {
+          "text": "是",
+          "left": 1030,
+          "top": 1272,
+          "width": 24,
+          "height": 39,
+          "confidence": 96.717331
+        },
+        {
+          "text": "一",
+          "left": 1075,
+          "top": 1289,
+          "width": 23,
+          "height": 3,
+          "confidence": 95.969666
+        },
+        {
+          "text": "个",
+          "left": 1120,
+          "top": 1271,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.14283
+        },
+        {
+          "text": "字符",
+          "left": 1158,
+          "top": 1271,
+          "width": 72,
+          "height": 40,
+          "confidence": 92.097008
+        },
+        {
+          "text": "串",
+          "left": 1247,
+          "top": 1271,
+          "width": 24,
+          "height": 40,
+          "confidence": 91.191116
+        },
+        {
+          "text": ".",
+          "left": 1280,
+          "top": 1302,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.085182
+        },
+        {
+          "text": "就",
+          "left": 1303,
+          "top": 1271,
+          "width": 84,
+          "height": 40,
+          "confidence": 95.957962
+        },
+        {
+          "text": "是",
+          "left": 1360,
+          "top": 1267,
+          "width": 29,
+          "height": 55,
+          "confidence": 96.959373
+        }
+      ]
+    },
+    {
+      "text": "输入文本. 但是, 如果给出的是一个键盘指令, 那就按下键盘. 比",
+      "left": 173,
+      "top": 1337,
+      "right": 1367,
+      "bottom": 1395,
+      "height": 58,
+      "confidence": 93.92416920833335,
+      "words": [
+        {
+          "text": "输入",
+          "left": 173,
+          "top": 1341,
+          "width": 84,
+          "height": 40,
+          "confidence": 96.694977
+        },
+        {
+          "text": "文本",
+          "left": 277,
+          "top": 1341,
+          "width": 68,
+          "height": 40,
+          "confidence": 92.757454
+        },
+        {
+          "text": ".",
+          "left": 351,
+          "top": 1372,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.834625
+        },
+        {
+          "text": "但",
+          "left": 374,
+          "top": 1341,
+          "width": 95,
+          "height": 42,
+          "confidence": 96.879158
+        },
+        {
+          "text": "是",
+          "left": 437,
+          "top": 1337,
+          "width": 30,
+          "height": 58,
+          "confidence": 93.159233
+        },
+        {
+          "text": ",",
+          "left": 466,
+          "top": 1337,
+          "width": 15,
+          "height": 58,
+          "confidence": 92.89257
+        },
+        {
+          "text": "如",
+          "left": 506,
+          "top": 1341,
+          "width": 18,
+          "height": 40,
+          "confidence": 93.288116
+        },
+        {
+          "text": "果",
+          "left": 542,
+          "top": 1341,
+          "width": 44,
+          "height": 40,
+          "confidence": 92.781258
+        },
+        {
+          "text": "给",
+          "left": 589,
+          "top": 1341,
+          "width": 25,
+          "height": 40,
+          "confidence": 93.134735
+        },
+        {
+          "text": "出",
+          "left": 633,
+          "top": 1341,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.531456
+        },
+        {
+          "text": "的",
+          "left": 680,
+          "top": 1341,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.614624
+        },
+        {
+          "text": "是",
+          "left": 723,
+          "top": 1342,
+          "width": 24,
+          "height": 39,
+          "confidence": 96.999458
+        },
+        {
+          "text": "一",
+          "left": 767,
+          "top": 1359,
+          "width": 24,
+          "height": 3,
+          "confidence": 96.973183
+        },
+        {
+          "text": "个",
+          "left": 810,
+          "top": 1341,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.958954
+        },
+        {
+          "text": "键盘",
+          "left": 857,
+          "top": 1341,
+          "width": 85,
+          "height": 40,
+          "confidence": 96.180824
+        },
+        {
+          "text": "指令",
+          "left": 944,
+          "top": 1341,
+          "width": 67,
+          "height": 40,
+          "confidence": 92.709312
+        },
+        {
+          "text": ",",
+          "left": 1017,
+          "top": 1372,
+          "width": 5,
+          "height": 11,
+          "confidence": 88.870888
+        },
+        {
+          "text": "那",
+          "left": 1057,
+          "top": 1341,
+          "width": 47,
+          "height": 41,
+          "confidence": 88.870888
+        },
+        {
+          "text": "就",
+          "left": 1104,
+          "top": 1341,
+          "width": 37,
+          "height": 40,
+          "confidence": 92.72332
+        },
+        {
+          "text": "按",
+          "left": 1151,
+          "top": 1341,
+          "width": 17,
+          "height": 40,
+          "confidence": 93.161835
+        },
+        {
+          "text": "下",
+          "left": 1187,
+          "top": 1343,
+          "width": 25,
+          "height": 39,
+          "confidence": 96.880623
+        },
+        {
+          "text": "键盘",
+          "left": 1216,
+          "top": 1341,
+          "width": 95,
+          "height": 40,
+          "confidence": 93.083099
+        },
+        {
+          "text": ".",
+          "left": 1303,
+          "top": 1337,
+          "width": 16,
+          "height": 58,
+          "confidence": 92.548607
+        },
+        {
+          "text": "比",
+          "left": 1331,
+          "top": 1341,
+          "width": 36,
+          "height": 40,
+          "confidence": 90.650864
+        }
+      ]
+    },
+    {
+      "text": "如, 我想要按回车按钮. 就是这样的",
+      "left": 173,
+      "top": 1407,
+      "right": 834,
+      "bottom": 1465,
+      "height": 58,
+      "confidence": 93.33590853333334,
+      "words": [
+        {
+          "text": "如",
+          "left": 173,
+          "top": 1411,
+          "width": 51,
+          "height": 42,
+          "confidence": 93.011406
+        },
+        {
+          "text": ",",
+          "left": 212,
+          "top": 1407,
+          "width": 15,
+          "height": 58,
+          "confidence": 89.485405
+        },
+        {
+          "text": "我",
+          "left": 263,
+          "top": 1411,
+          "width": 41,
+          "height": 40,
+          "confidence": 93.17659
+        },
+        {
+          "text": "想",
+          "left": 310,
+          "top": 1413,
+          "width": 16,
+          "height": 38,
+          "confidence": 92.935158
+        },
+        {
+          "text": "要",
+          "left": 346,
+          "top": 1411,
+          "width": 41,
+          "height": 41,
+          "confidence": 91.277115
+        },
+        {
+          "text": "按",
+          "left": 386,
+          "top": 1411,
+          "width": 28,
+          "height": 40,
+          "confidence": 93.045845
+        },
+        {
+          "text": "回",
+          "left": 433,
+          "top": 1414,
+          "width": 23,
+          "height": 37,
+          "confidence": 87.83004
+        },
+        {
+          "text": "车",
+          "left": 480,
+          "top": 1411,
+          "width": 39,
+          "height": 41,
+          "confidence": 96.113869
+        },
+        {
+          "text": "按钮",
+          "left": 520,
+          "top": 1411,
+          "width": 81,
+          "height": 40,
+          "confidence": 93.147652
+        },
+        {
+          "text": ".",
+          "left": 600,
+          "top": 1407,
+          "width": 15,
+          "height": 58,
+          "confidence": 93.087639
+        },
+        {
+          "text": "就",
+          "left": 643,
+          "top": 1411,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.735611
+        },
+        {
+          "text": "是",
+          "left": 687,
+          "top": 1407,
+          "width": 37,
+          "height": 58,
+          "confidence": 96.92057
+        },
+        {
+          "text": "这",
+          "left": 723,
+          "top": 1411,
+          "width": 43,
+          "height": 41,
+          "confidence": 93.14064
+        },
+        {
+          "text": "样",
+          "left": 767,
+          "top": 1411,
+          "width": 44,
+          "height": 41,
+          "confidence": 93.162872
+        },
+        {
+          "text": "的",
+          "left": 812,
+          "top": 1411,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.968216
+        }
+      ]
+    },
+    {
+      "text": "1 from selenium.webdriver import Chrome",
+      "left": 213,
+      "top": 1528,
+      "right": 1152,
+      "bottom": 1569,
+      "height": 41,
+      "confidence": 93.77393199999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 213,
+          "top": 1530,
+          "width": 18,
+          "height": 30,
+          "confidence": 94.956856
+        },
+        {
+          "text": "from",
+          "left": 268,
+          "top": 1528,
+          "width": 92,
+          "height": 33,
+          "confidence": 91.849503
+        },
+        {
+          "text": "selenium.webdriver",
+          "left": 388,
+          "top": 1528,
+          "width": 427,
+          "height": 33,
+          "confidence": 89.704689
+        },
+        {
+          "text": "import",
+          "left": 845,
+          "top": 1528,
+          "width": 138,
+          "height": 41,
+          "confidence": 96.179306
+        },
+        {
+          "text": "Chrome",
+          "left": 1012,
+          "top": 1528,
+          "width": 140,
+          "height": 33,
+          "confidence": 96.179306
+        }
+      ]
+    },
+    {
+      "text": "2 from selenium.webdriver.common.keys import",
+      "left": 212,
+      "top": 1598,
+      "right": 1271,
+      "bottom": 1639,
+      "height": 41,
+      "confidence": 94.1302795,
+      "words": [
+        {
+          "text": "2",
+          "left": 212,
+          "top": 1599,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.505669
+        },
+        {
+          "text": "from",
+          "left": 268,
+          "top": 1598,
+          "width": 92,
+          "height": 33,
+          "confidence": 93.301987
+        },
+        {
+          "text": "selenium.webdriver.common.keys",
+          "left": 388,
+          "top": 1598,
+          "width": 715,
+          "height": 41,
+          "confidence": 89.796844
+        },
+        {
+          "text": "import",
+          "left": 1133,
+          "top": 1598,
+          "width": 138,
+          "height": 41,
+          "confidence": 96.916618
+        }
+      ]
+    },
+    {
+      "text": "Keys",
+      "left": 268,
+      "top": 1670,
+      "right": 358,
+      "bottom": 1709,
+      "height": 39,
+      "confidence": 96.638199,
+      "words": [
+        {
+          "text": "Keys",
+          "left": 268,
+          "top": 1670,
+          "width": 90,
+          "height": 39,
+          "confidence": 96.638199
+        }
+      ]
+    },
+    {
+      "text": "3 import time",
+      "left": 212,
+      "top": 1738,
+      "right": 528,
+      "bottom": 1779,
+      "height": 41,
+      "confidence": 93.11759966666666,
+      "words": [
+        {
+          "text": "3",
+          "left": 212,
+          "top": 1739,
+          "width": 18,
+          "height": 32,
+          "confidence": 91.251381
+        },
+        {
+          "text": "import",
+          "left": 268,
+          "top": 1738,
+          "width": 138,
+          "height": 41,
+          "confidence": 91.251381
+        },
+        {
+          "text": "time",
+          "left": 435,
+          "top": 1738,
+          "width": 93,
+          "height": 33,
+          "confidence": 96.850037
+        }
+      ]
+    },
+    {
+      "text": "4 web = Chrome()",
+      "left": 210,
+      "top": 1808,
+      "right": 598,
+      "bottom": 1847,
+      "height": 39,
+      "confidence": 92.61222099999999,
+      "words": [
+        {
+          "text": "4",
+          "left": 210,
+          "top": 1810,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.392876
+        },
+        {
+          "text": "web",
+          "left": 266,
+          "top": 1808,
+          "width": 69,
+          "height": 33,
+          "confidence": 96.221283
+        },
+        {
+          "text": "=",
+          "left": 362,
+          "top": 1824,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.735924
+        },
+        {
+          "text": "Chrome()",
+          "left": 411,
+          "top": 1808,
+          "width": 187,
+          "height": 39,
+          "confidence": 85.098801
+        }
+      ]
+    },
+    {
+      "text": "5",
+      "left": 212,
+      "top": 1880,
+      "right": 230,
+      "bottom": 1911,
+      "height": 31,
+      "confidence": 96.916733,
+      "words": [
+        {
+          "text": "5",
+          "left": 212,
+          "top": 1880,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.916733
+        }
+      ]
+    }
+  ]
+}

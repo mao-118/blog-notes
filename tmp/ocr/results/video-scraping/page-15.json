@@ -1,0 +1,525 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/video-scraping/page-15.png",
+  "lines": [
+    {
+      "text": "132",
+      "left": 107,
+      "top": 131,
+      "right": 172,
+      "bottom": 163,
+      "height": 32,
+      "confidence": 92.018715,
+      "words": [
+        {
+          "text": "132",
+          "left": 107,
+          "top": 131,
+          "width": 65,
+          "height": 32,
+          "confidence": 92.018715
+        }
+      ]
+    },
+    {
+      "text": "133",
+      "left": 107,
+      "top": 201,
+      "right": 172,
+      "bottom": 233,
+      "height": 32,
+      "confidence": 91.585258,
+      "words": [
+        {
+          "text": "133",
+          "left": 107,
+          "top": 201,
+          "width": 65,
+          "height": 32,
+          "confidence": 91.585258
+        }
+      ]
+    },
+    {
+      "text": "134 if __name__ == '__main__':",
+      "left": 107,
+      "top": 270,
+      "right": 824,
+      "bottom": 305,
+      "height": 35,
+      "confidence": 83.718396,
+      "words": [
+        {
+          "text": "134",
+          "left": 107,
+          "top": 271,
+          "width": 67,
+          "height": 32,
+          "confidence": 95.119514
+        },
+        {
+          "text": "if",
+          "left": 212,
+          "top": 270,
+          "width": 44,
+          "height": 32,
+          "confidence": 75.402191
+        },
+        {
+          "text": "__name__",
+          "left": 282,
+          "top": 280,
+          "width": 190,
+          "height": 25,
+          "confidence": 76.890015
+        },
+        {
+          "text": "==",
+          "left": 498,
+          "top": 286,
+          "width": 46,
+          "height": 10,
+          "confidence": 93.208626
+        },
+        {
+          "text": "'__main__':",
+          "left": 578,
+          "top": 270,
+          "width": 246,
+          "height": 35,
+          "confidence": 77.971634
+        }
+      ]
+    },
+    {
+      "text": "135 url = “https://ww.91kanju.com/vod-pLlay/541-",
+      "left": 107,
+      "top": 340,
+      "right": 1358,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 80.75600049999998,
+      "words": [
+        {
+          "text": "135",
+          "left": 107,
+          "top": 341,
+          "width": 65,
+          "height": 32,
+          "confidence": 96.412209
+        },
+        {
+          "text": "url",
+          "left": 308,
+          "top": 340,
+          "width": 64,
+          "height": 33,
+          "confidence": 90.458809
+        },
+        {
+          "text": "=",
+          "left": 402,
+          "top": 356,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.283943
+        },
+        {
+          "text": "“https://ww.91kanju.com/vod-pLlay/541-",
+          "left": 454,
+          "top": 340,
+          "width": 904,
+          "height": 41,
+          "confidence": 42.869041
+        }
+      ]
+    },
+    {
+      "text": "2-1.htmL\"",
+      "left": 212,
+      "top": 410,
+      "right": 420,
+      "bottom": 443,
+      "height": 33,
+      "confidence": 12.43247,
+      "words": [
+        {
+          "text": "2-1.htmL\"",
+          "left": 212,
+          "top": 410,
+          "width": 208,
+          "height": 33,
+          "confidence": 12.43247
+        }
+      ]
+    },
+    {
+      "text": "136 maincur1)",
+      "left": 107,
+      "top": 480,
+      "right": 517,
+      "bottom": 519,
+      "height": 39,
+      "confidence": 55.449194,
+      "words": [
+        {
+          "text": "136",
+          "left": 107,
+          "top": 481,
+          "width": 66,
+          "height": 32,
+          "confidence": 96.848457
+        },
+        {
+          "text": "maincur1)",
+          "left": 306,
+          "top": 480,
+          "width": 211,
+          "height": 39,
+          "confidence": 14.049931
+        }
+      ]
+    },
+    {
+      "text": "备注: 不是所有的视频网站都是这样的. 例如, bilibili, BAAS, 必须",
+      "left": 91,
+      "top": 739,
+      "right": 1377,
+      "bottom": 798,
+      "height": 59,
+      "confidence": 92.4646362857143,
+      "words": [
+        {
+          "text": "备注",
+          "left": 91,
+          "top": 743,
+          "width": 95,
+          "height": 40,
+          "confidence": 93.219971
+        },
+        {
+          "text": ":",
+          "left": 179,
+          "top": 739,
+          "width": 15,
+          "height": 59,
+          "confidence": 92.007187
+        },
+        {
+          "text": "不",
+          "left": 223,
+          "top": 744,
+          "width": 49,
+          "height": 40,
+          "confidence": 96.238968
+        },
+        {
+          "text": "是",
+          "left": 291,
+          "top": 743,
+          "width": 17,
+          "height": 40,
+          "confidence": 95.81646
+        },
+        {
+          "text": "所",
+          "left": 315,
+          "top": 743,
+          "width": 16,
+          "height": 40,
+          "confidence": 96.882866
+        },
+        {
+          "text": "有",
+          "left": 348,
+          "top": 743,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.846336
+        },
+        {
+          "text": "的",
+          "left": 396,
+          "top": 743,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.133759
+        },
+        {
+          "text": "视频",
+          "left": 437,
+          "top": 743,
+          "width": 70,
+          "height": 41,
+          "confidence": 96.927155
+        },
+        {
+          "text": "网",
+          "left": 529,
+          "top": 743,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.607658
+        },
+        {
+          "text": "站",
+          "left": 575,
+          "top": 743,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.53952
+        },
+        {
+          "text": "都",
+          "left": 624,
+          "top": 744,
+          "width": 42,
+          "height": 39,
+          "confidence": 96.342262
+        },
+        {
+          "text": "是",
+          "left": 665,
+          "top": 739,
+          "width": 38,
+          "height": 59,
+          "confidence": 96.959908
+        },
+        {
+          "text": "这",
+          "left": 702,
+          "top": 743,
+          "width": 45,
+          "height": 41,
+          "confidence": 93.175056
+        },
+        {
+          "text": "样",
+          "left": 747,
+          "top": 743,
+          "width": 45,
+          "height": 41,
+          "confidence": 92.807281
+        },
+        {
+          "text": "的",
+          "left": 798,
+          "top": 743,
+          "width": 27,
+          "height": 40,
+          "confidence": 93.233154
+        },
+        {
+          "text": ".",
+          "left": 824,
+          "top": 739,
+          "width": 16,
+          "height": 59,
+          "confidence": 88.053604
+        },
+        {
+          "text": "例如",
+          "left": 844,
+          "top": 743,
+          "width": 95,
+          "height": 42,
+          "confidence": 93.166336
+        },
+        {
+          "text": ",",
+          "left": 931,
+          "top": 739,
+          "width": 19,
+          "height": 59,
+          "confidence": 91.341179
+        },
+        {
+          "text": "bilibili,",
+          "left": 958,
+          "top": 747,
+          "width": 117,
+          "height": 38,
+          "confidence": 85.563873
+        },
+        {
+          "text": "BAAS,",
+          "left": 1093,
+          "top": 743,
+          "width": 182,
+          "height": 42,
+          "confidence": 57.1922
+        },
+        {
+          "text": "必须",
+          "left": 1293,
+          "top": 744,
+          "width": 84,
+          "height": 39,
+          "confidence": 96.702629
+        }
+      ]
+    },
+    {
+      "text": "得单独想其他办法. 原因我就不讲了. 稍显复杂.",
+      "left": 91,
+      "top": 809,
+      "right": 987,
+      "bottom": 868,
+      "height": 59,
+      "confidence": 89.77856210526316,
+      "words": [
+        {
+          "text": "得",
+          "left": 91,
+          "top": 813,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.983612
+        },
+        {
+          "text": "单独",
+          "left": 153,
+          "top": 813,
+          "width": 88,
+          "height": 41,
+          "confidence": 93.162888
+        },
+        {
+          "text": "想",
+          "left": 241,
+          "top": 815,
+          "width": 22,
+          "height": 38,
+          "confidence": 92.862694
+        },
+        {
+          "text": "其",
+          "left": 286,
+          "top": 813,
+          "width": 37,
+          "height": 41,
+          "confidence": 81.602859
+        },
+        {
+          "text": "他",
+          "left": 326,
+          "top": 813,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.895615
+        },
+        {
+          "text": "办",
+          "left": 363,
+          "top": 813,
+          "width": 47,
+          "height": 40,
+          "confidence": 96.50177
+        },
+        {
+          "text": "法",
+          "left": 411,
+          "top": 813,
+          "width": 28,
+          "height": 40,
+          "confidence": 93.144073
+        },
+        {
+          "text": ".",
+          "left": 445,
+          "top": 844,
+          "width": 5,
+          "height": 5,
+          "confidence": 93.100853
+        },
+        {
+          "text": "原因",
+          "left": 467,
+          "top": 813,
+          "width": 316,
+          "height": 41,
+          "confidence": 96.581467
+        },
+        {
+          "text": "我",
+          "left": 570,
+          "top": 809,
+          "width": 52,
+          "height": 59,
+          "confidence": 96.851524
+        },
+        {
+          "text": "就",
+          "left": 621,
+          "top": 809,
+          "width": 49,
+          "height": 59,
+          "confidence": 96.595551
+        },
+        {
+          "text": "不",
+          "left": 669,
+          "top": 809,
+          "width": 45,
+          "height": 59,
+          "confidence": 92.73111
+        },
+        {
+          "text": "讲",
+          "left": 713,
+          "top": 809,
+          "width": 38,
+          "height": 59,
+          "confidence": 53.292885
+        },
+        {
+          "text": "了",
+          "left": 750,
+          "top": 809,
+          "width": 23,
+          "height": 59,
+          "confidence": 93.231903
+        },
+        {
+          "text": ".",
+          "left": 772,
+          "top": 809,
+          "width": 16,
+          "height": 59,
+          "confidence": 88.665176
+        },
+        {
+          "text": "稍",
+          "left": 817,
+          "top": 813,
+          "width": 37,
+          "height": 40,
+          "confidence": 92.683281
+        },
+        {
+          "text": "显",
+          "left": 861,
+          "top": 815,
+          "width": 22,
+          "height": 37,
+          "confidence": 93.104271
+        },
+        {
+          "text": "复杂",
+          "left": 889,
+          "top": 813,
+          "width": 94,
+          "height": 40,
+          "confidence": 93.286446
+        },
+        {
+          "text": ".",
+          "left": 968,
+          "top": 809,
+          "width": 19,
+          "height": 59,
+          "confidence": 64.514702
+        }
+      ]
+    }
+  ]
+}

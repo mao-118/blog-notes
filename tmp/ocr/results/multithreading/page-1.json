@@ -1,0 +1,623 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/multithreading/page-1.png",
+  "lines": [
+    {
+      "text": "多线程",
+      "left": 100,
+      "top": 346,
+      "right": 401,
+      "bottom": 447,
+      "height": 101,
+      "confidence": 94.5450405,
+      "words": [
+        {
+          "text": "多",
+          "left": 100,
+          "top": 346,
+          "width": 76,
+          "height": 52,
+          "confidence": 96.812775
+        },
+        {
+          "text": "线程",
+          "left": 239,
+          "top": 346,
+          "width": 162,
+          "height": 101,
+          "confidence": 92.277306
+        }
+      ]
+    },
+    {
+      "text": "多线程",
+      "left": 100,
+      "top": 346,
+      "right": 408,
+      "bottom": 445,
+      "height": 99,
+      "confidence": 96.06118000000001,
+      "words": [
+        {
+          "text": "多",
+          "left": 100,
+          "top": 346,
+          "width": 140,
+          "height": 99,
+          "confidence": 95.695801
+        },
+        {
+          "text": "线程",
+          "left": 346,
+          "top": 392,
+          "width": 62,
+          "height": 51,
+          "confidence": 96.426559
+        }
+      ]
+    },
+    {
+      "text": "python 中实现多线程非常简单. 我们要借助 Thread 类来完成.",
+      "left": 92,
+      "top": 530,
+      "right": 1232,
+      "bottom": 585,
+      "height": 55,
+      "confidence": 94.07667352941175,
+      "words": [
+        {
+          "text": "python",
+          "left": 92,
+          "top": 540,
+          "width": 130,
+          "height": 41,
+          "confidence": 90.906464
+        },
+        {
+          "text": "中",
+          "left": 235,
+          "top": 536,
+          "width": 30,
+          "height": 41,
+          "confidence": 92.374977
+        },
+        {
+          "text": "实现",
+          "left": 283,
+          "top": 536,
+          "width": 72,
+          "height": 40,
+          "confidence": 96.234062
+        },
+        {
+          "text": "多",
+          "left": 373,
+          "top": 536,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.749367
+        },
+        {
+          "text": "线程",
+          "left": 418,
+          "top": 536,
+          "width": 90,
+          "height": 40,
+          "confidence": 96.837257
+        },
+        {
+          "text": "非常",
+          "left": 514,
+          "top": 536,
+          "width": 59,
+          "height": 41,
+          "confidence": 96.359657
+        },
+        {
+          "text": "简单",
+          "left": 596,
+          "top": 536,
+          "width": 77,
+          "height": 41,
+          "confidence": 93.188461
+        },
+        {
+          "text": ".",
+          "left": 672,
+          "top": 530,
+          "width": 11,
+          "height": 55,
+          "confidence": 93.109932
+        },
+        {
+          "text": "我",
+          "left": 717,
+          "top": 536,
+          "width": 42,
+          "height": 41,
+          "confidence": 93.020874
+        },
+        {
+          "text": "们",
+          "left": 761,
+          "top": 539,
+          "width": 13,
+          "height": 37,
+          "confidence": 91.186157
+        },
+        {
+          "text": "要",
+          "left": 792,
+          "top": 536,
+          "width": 44,
+          "height": 41,
+          "confidence": 96.814323
+        },
+        {
+          "text": "借助",
+          "left": 837,
+          "top": 536,
+          "width": 94,
+          "height": 40,
+          "confidence": 96.554817
+        },
+        {
+          "text": "Thread",
+          "left": 930,
+          "top": 530,
+          "width": 114,
+          "height": 55,
+          "confidence": 92.941948
+        },
+        {
+          "text": "类",
+          "left": 1057,
+          "top": 536,
+          "width": 31,
+          "height": 40,
+          "confidence": 92.165237
+        },
+        {
+          "text": "来",
+          "left": 1108,
+          "top": 536,
+          "width": 50,
+          "height": 41,
+          "confidence": 96.209763
+        },
+        {
+          "text": "完成",
+          "left": 1157,
+          "top": 530,
+          "width": 64,
+          "height": 55,
+          "confidence": 93.249756
+        },
+        {
+          "text": ".",
+          "left": 1227,
+          "top": 567,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.400398
+        }
+      ]
+    },
+    {
+      "text": "先看单线程效果 ~",
+      "left": 92,
+      "top": 669,
+      "right": 425,
+      "bottom": 724,
+      "height": 55,
+      "confidence": 92.61951342857142,
+      "words": [
+        {
+          "text": "先",
+          "left": 92,
+          "top": 673,
+          "width": 39,
+          "height": 40,
+          "confidence": 91.162506
+        },
+        {
+          "text": "看",
+          "left": 149,
+          "top": 673,
+          "width": 25,
+          "height": 40,
+          "confidence": 92.866592
+        },
+        {
+          "text": "单线",
+          "left": 179,
+          "top": 673,
+          "width": 242,
+          "height": 41,
+          "confidence": 93.271187
+        },
+        {
+          "text": "程",
+          "left": 287,
+          "top": 669,
+          "width": 46,
+          "height": 55,
+          "confidence": 92.366524
+        },
+        {
+          "text": "效",
+          "left": 332,
+          "top": 669,
+          "width": 38,
+          "height": 55,
+          "confidence": 93.094559
+        },
+        {
+          "text": "果",
+          "left": 369,
+          "top": 669,
+          "width": 32,
+          "height": 55,
+          "confidence": 92.964409
+        },
+        {
+          "text": "~",
+          "left": 400,
+          "top": 669,
+          "width": 25,
+          "height": 55,
+          "confidence": 92.610817
+        }
+      ]
+    },
+    {
+      "text": "1 def func(D):",
+      "left": 131,
+      "top": 829,
+      "right": 442,
+      "bottom": 876,
+      "height": 47,
+      "confidence": 65.53863575,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 835,
+          "width": 18,
+          "height": 30,
+          "confidence": 96.365692
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 833,
+          "width": 69,
+          "height": 33,
+          "confidence": 96.65609
+        },
+        {
+          "text": "func(D)",
+          "left": 282,
+          "top": 833,
+          "width": 156,
+          "height": 39,
+          "confidence": 6.559801
+        },
+        {
+          "text": ":",
+          "left": 426,
+          "top": 829,
+          "width": 16,
+          "height": 47,
+          "confidence": 62.57296
+        }
+      ]
+    },
+    {
+      "text": "2 for i in range(1000):",
+      "left": 130,
+      "top": 903,
+      "right": 774,
+      "bottom": 944,
+      "height": 41,
+      "confidence": 79.1113786,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 904,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.683914
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 903,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 903,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 903,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 903,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "3 printC\"func\", i)",
+      "left": 130,
+      "top": 973,
+      "right": 755,
+      "bottom": 1014,
+      "height": 41,
+      "confidence": 76.48521933333333,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 974,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.587616
+        },
+        {
+          "text": "printC\"func\",",
+          "left": 378,
+          "top": 973,
+          "width": 301,
+          "height": 41,
+          "confidence": 38.353745
+        },
+        {
+          "text": "i)",
+          "left": 714,
+          "top": 973,
+          "width": 41,
+          "height": 39,
+          "confidence": 94.514297
+        }
+      ]
+    },
+    {
+      "text": "4",
+      "left": 128,
+      "top": 1045,
+      "right": 150,
+      "bottom": 1075,
+      "height": 30,
+      "confidence": 93.675514,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 1045,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.675514
+        }
+      ]
+    },
+    {
+      "text": "5",
+      "left": 130,
+      "top": 1115,
+      "right": 148,
+      "bottom": 1146,
+      "height": 31,
+      "confidence": 95.553703,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 1115,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.553703
+        }
+      ]
+    },
+    {
+      "text": "6 1f __name__ == '__main__':",
+      "left": 129,
+      "top": 1183,
+      "right": 798,
+      "bottom": 1218,
+      "height": 35,
+      "confidence": 89.83179479999998,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 1184,
+          "width": 20,
+          "height": 32,
+          "confidence": 92.803429
+        },
+        {
+          "text": "1f",
+          "left": 186,
+          "top": 1183,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.03273
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 1193,
+          "width": 190,
+          "height": 25,
+          "confidence": 88.683609
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 1200,
+          "width": 46,
+          "height": 9,
+          "confidence": 90.571564
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 1183,
+          "width": 246,
+          "height": 35,
+          "confidence": 85.067642
+        }
+      ]
+    },
+    {
+      "text": "7 funcd)",
+      "left": 130,
+      "top": 1253,
+      "right": 419,
+      "bottom": 1292,
+      "height": 39,
+      "confidence": 61.974827,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 1255,
+          "width": 19,
+          "height": 30,
+          "confidence": 87.517281
+        },
+        {
+          "text": "funcd)",
+          "left": 282,
+          "top": 1253,
+          "width": 137,
+          "height": 39,
+          "confidence": 36.432373
+        }
+      ]
+    },
+    {
+      "text": "8 for i in range(1000):",
+      "left": 130,
+      "top": 1323,
+      "right": 774,
+      "bottom": 1364,
+      "height": 41,
+      "confidence": 78.8157502,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 1324,
+          "width": 19,
+          "height": 32,
+          "confidence": 95.205772
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 1323,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 1323,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 1323,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 1323,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "9 printC\"main\", i)",
+      "left": 129,
+      "top": 1393,
+      "right": 755,
+      "bottom": 1434,
+      "height": 41,
+      "confidence": 76.29647033333333,
+      "words": [
+        {
+          "text": "9",
+          "left": 129,
+          "top": 1394,
+          "width": 20,
+          "height": 32,
+          "confidence": 90.514259
+        },
+        {
+          "text": "printC\"main\",",
+          "left": 378,
+          "top": 1393,
+          "width": 301,
+          "height": 41,
+          "confidence": 45.432571
+        },
+        {
+          "text": "i)",
+          "left": 714,
+          "top": 1393,
+          "width": 41,
+          "height": 39,
+          "confidence": 92.942581
+        }
+      ]
+    },
+    {
+      "text": "10",
+      "left": 107,
+      "top": 1464,
+      "right": 149,
+      "bottom": 1496,
+      "height": 32,
+      "confidence": 93.247467,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 1464,
+          "width": 42,
+          "height": 32,
+          "confidence": 93.247467
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1067 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/video-scraping/page-05.png",
+  "lines": [
+    {
+      "text": "16 resp2 = requests.getCurl, headers=headers)",
+      "left": 107,
+      "top": 130,
+      "right": 1188,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 85.24881439999999,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 131,
+          "width": 43,
+          "height": 32,
+          "confidence": 93.059486
+        },
+        {
+          "text": "resp2",
+          "left": 188,
+          "top": 131,
+          "width": 112,
+          "height": 40,
+          "confidence": 92.965431
+        },
+        {
+          "text": "=",
+          "left": 328,
+          "top": 146,
+          "width": 22,
+          "height": 10,
+          "confidence": 95.705811
+        },
+        {
+          "text": "requests.getCurl,",
+          "left": 380,
+          "top": 130,
+          "width": 395,
+          "height": 41,
+          "confidence": 73.311203
+        },
+        {
+          "text": "headers=headers)",
+          "left": 810,
+          "top": 130,
+          "width": 378,
+          "height": 39,
+          "confidence": 71.202141
+        }
+      ]
+    },
+    {
+      "text": "17 f = open(\"#4(—+/e.m3u8\", mode=\"wb\")",
+      "left": 107,
+      "top": 195,
+      "right": 1013,
+      "bottom": 246,
+      "height": 51,
+      "confidence": 73.9330775,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 202,
+          "width": 42,
+          "height": 30,
+          "confidence": 91.194839
+        },
+        {
+          "text": "f",
+          "left": 186,
+          "top": 200,
+          "width": 20,
+          "height": 32,
+          "confidence": 91.194839
+        },
+        {
+          "text": "=",
+          "left": 232,
+          "top": 216,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.18708
+        },
+        {
+          "text": "open(\"#4(—+/e.m3u8\",",
+          "left": 281,
+          "top": 199,
+          "width": 462,
+          "height": 42,
+          "confidence": 20.264139
+        },
+        {
+          "text": "mode=\"wb\"",
+          "left": 776,
+          "top": 200,
+          "width": 236,
+          "height": 39,
+          "confidence": 73.878784
+        },
+        {
+          "text": ")",
+          "left": 995,
+          "top": 195,
+          "width": 18,
+          "height": 51,
+          "confidence": 73.878784
+        }
+      ]
+    },
+    {
+      "text": "18 f.writeCresp2.content)",
+      "left": 107,
+      "top": 270,
+      "right": 707,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 86.748413,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 271,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.346428
+        },
+        {
+          "text": "f.writeCresp2.content)",
+          "left": 186,
+          "top": 270,
+          "width": 521,
+          "height": 41,
+          "confidence": 81.150398
+        }
+      ]
+    },
+    {
+      "text": "19 resp2.close()",
+      "left": 107,
+      "top": 340,
+      "right": 491,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 81.18128999999999,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 341,
+          "width": 42,
+          "height": 32,
+          "confidence": 90.526581
+        },
+        {
+          "text": "resp2.close()",
+          "left": 188,
+          "top": 340,
+          "width": 303,
+          "height": 41,
+          "confidence": 71.835999
+        }
+      ]
+    },
+    {
+      "text": "20 f.close()",
+      "left": 106,
+      "top": 410,
+      "right": 395,
+      "bottom": 449,
+      "height": 39,
+      "confidence": 45.56863,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 411,
+          "width": 44,
+          "height": 32,
+          "confidence": 91.13726
+        },
+        {
+          "text": "f.close()",
+          "left": 186,
+          "top": 410,
+          "width": 209,
+          "height": 39,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "21",
+      "left": 106,
+      "top": 481,
+      "right": 149,
+      "bottom": 512,
+      "height": 31,
+      "confidence": 96.27829,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 481,
+          "width": 43,
+          "height": 31,
+          "confidence": 96.27829
+        }
+      ]
+    },
+    {
+      "text": "22 # 读取 m3u8 视频文件",
+      "left": 106,
+      "top": 546,
+      "right": 570,
+      "bottom": 598,
+      "height": 52,
+      "confidence": 90.706950125,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 552,
+          "width": 42,
+          "height": 31,
+          "confidence": 89.114632
+        },
+        {
+          "text": "#",
+          "left": 184,
+          "top": 553,
+          "width": 22,
+          "height": 30,
+          "confidence": 89.114632
+        },
+        {
+          "text": "读",
+          "left": 245,
+          "top": 550,
+          "width": 24,
+          "height": 37,
+          "confidence": 85.516838
+        },
+        {
+          "text": "取",
+          "left": 287,
+          "top": 552,
+          "width": 23,
+          "height": 35,
+          "confidence": 93.249397
+        },
+        {
+          "text": "m3u8",
+          "left": 312,
+          "top": 550,
+          "width": 254,
+          "height": 37,
+          "confidence": 91.547676
+        },
+        {
+          "text": "视",
+          "left": 420,
+          "top": 546,
+          "width": 43,
+          "height": 52,
+          "confidence": 87.437843
+        },
+        {
+          "text": "频",
+          "left": 462,
+          "top": 546,
+          "width": 43,
+          "height": 52,
+          "confidence": 93.077774
+        },
+        {
+          "text": "文件",
+          "left": 505,
+          "top": 546,
+          "width": 65,
+          "height": 52,
+          "confidence": 96.596809
+        }
+      ]
+    },
+    {
+      "text": "23 with open(\"#4(-2/a.m3u8\", mode=\"r\",",
+      "left": 106,
+      "top": 620,
+      "right": 1008,
+      "bottom": 662,
+      "height": 42,
+      "confidence": 68.80470825,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 622,
+          "width": 42,
+          "height": 32,
+          "confidence": 93.019325
+        },
+        {
+          "text": "with",
+          "left": 183,
+          "top": 621,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.019325
+        },
+        {
+          "text": "open(\"#4(-2/a.m3u8\",",
+          "left": 305,
+          "top": 620,
+          "width": 462,
+          "height": 42,
+          "confidence": 0.0
+        },
+        {
+          "text": "mode=\"r\",",
+          "left": 800,
+          "top": 621,
+          "width": 208,
+          "height": 40,
+          "confidence": 89.180183
+        }
+      ]
+    },
+    {
+      "text": "encoding=\"utf-8\") as f:",
+      "left": 185,
+      "top": 691,
+      "right": 726,
+      "bottom": 732,
+      "height": 41,
+      "confidence": 91.58917233333334,
+      "words": [
+        {
+          "text": "encoding=\"utf-8\")",
+          "left": 185,
+          "top": 691,
+          "width": 402,
+          "height": 41,
+          "confidence": 90.499908
+        },
+        {
+          "text": "as",
+          "left": 617,
+          "top": 701,
+          "width": 43,
+          "height": 23,
+          "confidence": 93.157822
+        },
+        {
+          "text": "f:",
+          "left": 690,
+          "top": 691,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.109787
+        }
+      ]
+    },
+    {
+      "text": "24 count = 1",
+      "left": 106,
+      "top": 762,
+      "right": 493,
+      "bottom": 794,
+      "height": 32,
+      "confidence": 95.86452875,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 762,
+          "width": 44,
+          "height": 31,
+          "confidence": 96.708061
+        },
+        {
+          "text": "count",
+          "left": 282,
+          "top": 764,
+          "width": 114,
+          "height": 30,
+          "confidence": 96.513283
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 777,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.307152
+        },
+        {
+          "text": "1",
+          "left": 475,
+          "top": 763,
+          "width": 18,
+          "height": 30,
+          "confidence": 93.929619
+        }
+      ]
+    },
+    {
+      "text": "25 for line in f:",
+      "left": 106,
+      "top": 831,
+      "right": 606,
+      "bottom": 864,
+      "height": 33,
+      "confidence": 87.95226420000002,
+      "words": [
+        {
+          "text": "25",
+          "left": 106,
+          "top": 832,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.961784
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 831,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.512764
+        },
+        {
+          "text": "line",
+          "left": 377,
+          "top": 831,
+          "width": 92,
+          "height": 33,
+          "confidence": 63.954071
+        },
+        {
+          "text": "in",
+          "left": 498,
+          "top": 831,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.166351
+        },
+        {
+          "text": "f:",
+          "left": 570,
+          "top": 831,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.166351
+        }
+      ]
+    },
+    {
+      "text": "26 Line = Line.strip()",
+      "left": 106,
+      "top": 901,
+      "right": 827,
+      "bottom": 942,
+      "height": 41,
+      "confidence": 80.61758625000002,
+      "words": [
+        {
+          "text": "26",
+          "left": 106,
+          "top": 902,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.627892
+        },
+        {
+          "text": "Line",
+          "left": 377,
+          "top": 901,
+          "width": 92,
+          "height": 33,
+          "confidence": 88.184616
+        },
+        {
+          "text": "=",
+          "left": 496,
+          "top": 917,
+          "width": 22,
+          "height": 10,
+          "confidence": 91.846878
+        },
+        {
+          "text": "Line.strip()",
+          "left": 545,
+          "top": 901,
+          "width": 282,
+          "height": 41,
+          "confidence": 46.810959
+        }
+      ]
+    },
+    {
+      "text": "27 if line.startswith(\"#\"):",
+      "left": 106,
+      "top": 971,
+      "right": 943,
+      "bottom": 1010,
+      "height": 39,
+      "confidence": 76.63136533333333,
+      "words": [
+        {
+          "text": "27",
+          "left": 106,
+          "top": 972,
+          "width": 43,
+          "height": 31,
+          "confidence": 92.228401
+        },
+        {
+          "text": "if",
+          "left": 378,
+          "top": 971,
+          "width": 44,
+          "height": 32,
+          "confidence": 91.795456
+        },
+        {
+          "text": "line.startswith(\"#\"):",
+          "left": 449,
+          "top": 971,
+          "width": 494,
+          "height": 39,
+          "confidence": 45.870239
+        }
+      ]
+    },
+    {
+      "text": "28 continue",
+      "left": 106,
+      "top": 1041,
+      "right": 661,
+      "bottom": 1074,
+      "height": 33,
+      "confidence": 96.853481,
+      "words": [
+        {
+          "text": "28",
+          "left": 106,
+          "top": 1042,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.921379
+        },
+        {
+          "text": "continue",
+          "left": 474,
+          "top": 1041,
+          "width": 187,
+          "height": 33,
+          "confidence": 96.785583
+        }
+      ]
+    },
+    {
+      "text": "29",
+      "left": 106,
+      "top": 1112,
+      "right": 149,
+      "bottom": 1144,
+      "height": 32,
+      "confidence": 96.844597,
+      "words": [
+        {
+          "text": "29",
+          "left": 106,
+          "top": 1112,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.844597
+        }
+      ]
+    },
+    {
+      "text": "30 resp3 = requests.get(Line,",
+      "left": 106,
+      "top": 1181,
+      "right": 992,
+      "bottom": 1222,
+      "height": 41,
+      "confidence": 83.21041575000001,
+      "words": [
+        {
+          "text": "30",
+          "left": 106,
+          "top": 1182,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.633789
+        },
+        {
+          "text": "resp3",
+          "left": 380,
+          "top": 1182,
+          "width": 113,
+          "height": 40,
+          "confidence": 92.580612
+        },
+        {
+          "text": "=",
+          "left": 520,
+          "top": 1197,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.294395
+        },
+        {
+          "text": "requests.get(Line,",
+          "left": 572,
+          "top": 1181,
+          "width": 420,
+          "height": 41,
+          "confidence": 50.332867
+        }
+      ]
+    },
+    {
+      "text": "headers=headers)",
+      "left": 186,
+      "top": 1247,
+      "right": 566,
+      "bottom": 1297,
+      "height": 50,
+      "confidence": 78.27803,
+      "words": [
+        {
+          "text": "headers=headers",
+          "left": 186,
+          "top": 1251,
+          "width": 377,
+          "height": 39,
+          "confidence": 78.27803
+        },
+        {
+          "text": ")",
+          "left": 544,
+          "top": 1247,
+          "width": 22,
+          "height": 50,
+          "confidence": 78.27803
+        }
+      ]
+    },
+    {
+      "text": "31 with open(f\"video2/{count}.ts\",",
+      "left": 106,
+      "top": 1321,
+      "right": 1112,
+      "bottom": 1362,
+      "height": 41,
+      "confidence": 77.03432966666666,
+      "words": [
+        {
+          "text": "31",
+          "left": 106,
+          "top": 1322,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.271042
+        },
+        {
+          "text": "with",
+          "left": 375,
+          "top": 1321,
+          "width": 93,
+          "height": 33,
+          "confidence": 91.725685
+        },
+        {
+          "text": "open(f\"video2/{count}.ts\",",
+          "left": 497,
+          "top": 1321,
+          "width": 615,
+          "height": 41,
+          "confidence": 43.106262
+        }
+      ]
+    },
+    {
+      "text": "mode=\"wb\") as ff:",
+      "left": 184,
+      "top": 1391,
+      "right": 582,
+      "bottom": 1430,
+      "height": 39,
+      "confidence": 91.00158700000001,
+      "words": [
+        {
+          "text": "mode=\"wb\")",
+          "left": 184,
+          "top": 1391,
+          "width": 235,
+          "height": 39,
+          "confidence": 83.009949
+        },
+        {
+          "text": "as",
+          "left": 449,
+          "top": 1401,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.725449
+        },
+        {
+          "text": "ff:",
+          "left": 522,
+          "top": 1391,
+          "width": 60,
+          "height": 33,
+          "confidence": 93.269363
+        }
+      ]
+    },
+    {
+      "text": "32 ff.writeCresp3.content)",
+      "left": 106,
+      "top": 1461,
+      "right": 1020,
+      "bottom": 1502,
+      "height": 41,
+      "confidence": 81.10336333333333,
+      "words": [
+        {
+          "text": "32",
+          "left": 106,
+          "top": 1462,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.902634
+        },
+        {
+          "text": "ff",
+          "left": 474,
+          "top": 1461,
+          "width": 44,
+          "height": 32,
+          "confidence": 73.203728
+        },
+        {
+          "text": ".writeCresp3.content)",
+          "left": 528,
+          "top": 1461,
+          "width": 492,
+          "height": 41,
+          "confidence": 73.203728
+        }
+      ]
+    },
+    {
+      "text": "33 resp3.close()",
+      "left": 106,
+      "top": 1532,
+      "right": 683,
+      "bottom": 1573,
+      "height": 41,
+      "confidence": 90.698151,
+      "words": [
+        {
+          "text": "33",
+          "left": 106,
+          "top": 1533,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.648743
+        },
+        {
+          "text": "resp3.close()",
+          "left": 380,
+          "top": 1532,
+          "width": 303,
+          "height": 41,
+          "confidence": 84.747559
+        }
+      ]
+    },
+    {
+      "text": "34 count += 1",
+      "left": 106,
+      "top": 1603,
+      "right": 613,
+      "bottom": 1635,
+      "height": 32,
+      "confidence": 95.70378674999999,
+      "words": [
+        {
+          "text": "34",
+          "left": 106,
+          "top": 1603,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.441956
+        },
+        {
+          "text": "count",
+          "left": 378,
+          "top": 1605,
+          "width": 114,
+          "height": 30,
+          "confidence": 96.330467
+        },
+        {
+          "text": "+=",
+          "left": 520,
+          "top": 1613,
+          "width": 46,
+          "height": 21,
+          "confidence": 95.394798
+        },
+        {
+          "text": "1",
+          "left": 595,
+          "top": 1604,
+          "width": 18,
+          "height": 30,
+          "confidence": 94.647926
+        }
+      ]
+    },
+    {
+      "text": "35 print(\" 完事儿 1 个 ”7",
+      "left": 106,
+      "top": 1666,
+      "right": 775,
+      "bottom": 1719,
+      "height": 53,
+      "confidence": 81.727646375,
+      "words": [
+        {
+          "text": "35",
+          "left": 106,
+          "top": 1673,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.65834
+        },
+        {
+          "text": "print(\"",
+          "left": 378,
+          "top": 1671,
+          "width": 393,
+          "height": 42,
+          "confidence": 38.782669
+        },
+        {
+          "text": "完",
+          "left": 556,
+          "top": 1666,
+          "width": 47,
+          "height": 53,
+          "confidence": 92.27887
+        },
+        {
+          "text": "事",
+          "left": 602,
+          "top": 1666,
+          "width": 37,
+          "height": 53,
+          "confidence": 89.77269
+        },
+        {
+          "text": "儿",
+          "left": 639,
+          "top": 1666,
+          "width": 30,
+          "height": 53,
+          "confidence": 93.106644
+        },
+        {
+          "text": "1",
+          "left": 668,
+          "top": 1666,
+          "width": 38,
+          "height": 53,
+          "confidence": 96.097244
+        },
+        {
+          "text": "个",
+          "left": 705,
+          "top": 1666,
+          "width": 34,
+          "height": 53,
+          "confidence": 96.412491
+        },
+        {
+          "text": "”7",
+          "left": 738,
+          "top": 1666,
+          "width": 37,
+          "height": 53,
+          "confidence": 50.712223
+        }
+      ]
+    },
+    {
+      "text": "36 if count>= 10: # 测试. 别整太过分",
+      "left": 106,
+      "top": 1735,
+      "right": 1161,
+      "bottom": 1789,
+      "height": 54,
+      "confidence": 87.201426,
+      "words": [
+        {
+          "text": "36",
+          "left": 106,
+          "top": 1743,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.914185
+        },
+        {
+          "text": "if",
+          "left": 378,
+          "top": 1742,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.575378
+        },
+        {
+          "text": "count",
+          "left": 450,
+          "top": 1745,
+          "width": 114,
+          "height": 30,
+          "confidence": 95.805557
+        },
+        {
+          "text": ">=",
+          "left": 592,
+          "top": 1753,
+          "width": 46,
+          "height": 21,
+          "confidence": 96.528954
+        },
+        {
+          "text": "10:",
+          "left": 667,
+          "top": 1743,
+          "width": 59,
+          "height": 32,
+          "confidence": 89.349808
+        },
+        {
+          "text": "#",
+          "left": 784,
+          "top": 1744,
+          "width": 22,
+          "height": 30,
+          "confidence": 89.349808
+        },
+        {
+          "text": "测试",
+          "left": 834,
+          "top": 1741,
+          "width": 93,
+          "height": 37,
+          "confidence": 92.542076
+        },
+        {
+          "text": ".",
+          "left": 962,
+          "top": 1743,
+          "width": 10,
+          "height": 35,
+          "confidence": 20.6595
+        },
+        {
+          "text": "别",
+          "left": 985,
+          "top": 1741,
+          "width": 173,
+          "height": 37,
+          "confidence": 85.924187
+        },
+        {
+          "text": "整",
+          "left": 1022,
+          "top": 1735,
+          "width": 41,
+          "height": 54,
+          "confidence": 91.565544
+        },
+        {
+          "text": "太",
+          "left": 1062,
+          "top": 1735,
+          "width": 31,
+          "height": 54,
+          "confidence": 92.477348
+        },
+        {
+          "text": "过",
+          "left": 1092,
+          "top": 1735,
+          "width": 38,
+          "height": 54,
+          "confidence": 93.075813
+        },
+        {
+          "text": "分",
+          "left": 1130,
+          "top": 1735,
+          "width": 31,
+          "height": 54,
+          "confidence": 96.85038
+        }
+      ]
+    },
+    {
+      "text": "37 break",
+      "left": 106,
+      "top": 1812,
+      "right": 590,
+      "bottom": 1845,
+      "height": 33,
+      "confidence": 94.6512295,
+      "words": [
+        {
+          "text": "37",
+          "left": 106,
+          "top": 1813,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.726524
+        },
+        {
+          "text": "break",
+          "left": 474,
+          "top": 1812,
+          "width": 116,
+          "height": 33,
+          "confidence": 96.575935
+        }
+      ]
+    },
+    {
+      "text": "38",
+      "left": 106,
+      "top": 1883,
+      "right": 149,
+      "bottom": 1915,
+      "height": 32,
+      "confidence": 96.802765,
+      "words": [
+        {
+          "text": "38",
+          "left": 106,
+          "top": 1883,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.802765
+        }
+      ]
+    }
+  ]
+}

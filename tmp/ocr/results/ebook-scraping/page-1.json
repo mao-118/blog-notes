@@ -1,0 +1,661 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/ebook-scraping/page-1.png",
+  "lines": [
+    {
+      "text": "扒 2 一本电子书",
+      "left": 94,
+      "top": 341,
+      "right": 839,
+      "bottom": 474,
+      "height": 133,
+      "confidence": 61.196271333333335,
+      "words": [
+        {
+          "text": "扒",
+          "left": 94,
+          "top": 346,
+          "width": 53,
+          "height": 101,
+          "confidence": 85.169388
+        },
+        {
+          "text": "2",
+          "left": 206,
+          "top": 346,
+          "width": 95,
+          "height": 101,
+          "confidence": 0.0
+        },
+        {
+          "text": "一",
+          "left": 314,
+          "top": 392,
+          "width": 94,
+          "height": 8,
+          "confidence": 0.0
+        },
+        {
+          "text": "本",
+          "left": 455,
+          "top": 346,
+          "width": 60,
+          "height": 101,
+          "confidence": 96.573967
+        },
+        {
+          "text": "电子",
+          "left": 531,
+          "top": 345,
+          "width": 303,
+          "height": 102,
+          "confidence": 93.232231
+        },
+        {
+          "text": "书",
+          "left": 763,
+          "top": 341,
+          "width": 76,
+          "height": 133,
+          "confidence": 92.202042
+        }
+      ]
+    },
+    {
+      "text": "ARJ/LF, 早点儿散. 直接上.",
+      "left": 91,
+      "top": 532,
+      "right": 635,
+      "bottom": 590,
+      "height": 58,
+      "confidence": 84.55760575,
+      "words": [
+        {
+          "text": "ARJ/LF,",
+          "left": 91,
+          "top": 536,
+          "width": 183,
+          "height": 42,
+          "confidence": 47.340515
+        },
+        {
+          "text": "早点",
+          "left": 292,
+          "top": 536,
+          "width": 182,
+          "height": 40,
+          "confidence": 93.299934
+        },
+        {
+          "text": "儿",
+          "left": 395,
+          "top": 532,
+          "width": 40,
+          "height": 58,
+          "confidence": 92.793541
+        },
+        {
+          "text": "散",
+          "left": 435,
+          "top": 532,
+          "width": 33,
+          "height": 58,
+          "confidence": 84.126762
+        },
+        {
+          "text": ".",
+          "left": 467,
+          "top": 532,
+          "width": 16,
+          "height": 58,
+          "confidence": 92.906937
+        },
+        {
+          "text": "直接",
+          "left": 492,
+          "top": 536,
+          "width": 139,
+          "height": 40,
+          "confidence": 95.378571
+        },
+        {
+          "text": "上",
+          "left": 594,
+          "top": 532,
+          "width": 23,
+          "height": 58,
+          "confidence": 92.344406
+        },
+        {
+          "text": ".",
+          "left": 616,
+          "top": 532,
+          "width": 19,
+          "height": 58,
+          "confidence": 78.27018
+        }
+      ]
+    },
+    {
+      "text": "目标: 百度小说 -> 西游记",
+      "left": 96,
+      "top": 668,
+      "right": 578,
+      "bottom": 726,
+      "height": 58,
+      "confidence": 94.23219387500001,
+      "words": [
+        {
+          "text": "目标",
+          "left": 96,
+          "top": 673,
+          "width": 90,
+          "height": 40,
+          "confidence": 93.065102
+        },
+        {
+          "text": ":",
+          "left": 179,
+          "top": 668,
+          "width": 15,
+          "height": 58,
+          "confidence": 90.480629
+        },
+        {
+          "text": "百度",
+          "left": 218,
+          "top": 673,
+          "width": 92,
+          "height": 40,
+          "confidence": 96.268646
+        },
+        {
+          "text": "小",
+          "left": 321,
+          "top": 674,
+          "width": 29,
+          "height": 37,
+          "confidence": 96.944885
+        },
+        {
+          "text": "说",
+          "left": 353,
+          "top": 673,
+          "width": 23,
+          "height": 40,
+          "confidence": 95.314224
+        },
+        {
+          "text": "->",
+          "left": 392,
+          "top": 687,
+          "width": 39,
+          "height": 22,
+          "confidence": 95.314224
+        },
+        {
+          "text": "西游",
+          "left": 447,
+          "top": 673,
+          "width": 129,
+          "height": 40,
+          "confidence": 93.278664
+        },
+        {
+          "text": "记",
+          "left": 548,
+          "top": 668,
+          "width": 30,
+          "height": 58,
+          "confidence": 93.191177
+        }
+      ]
+    },
+    {
+      "text": "代码:",
+      "left": 91,
+      "top": 804,
+      "right": 191,
+      "bottom": 861,
+      "height": 57,
+      "confidence": 86.54348,
+      "words": [
+        {
+          "text": "代码",
+          "left": 91,
+          "top": 809,
+          "width": 95,
+          "height": 41,
+          "confidence": 84.056633
+        },
+        {
+          "text": ":",
+          "left": 172,
+          "top": 804,
+          "width": 19,
+          "height": 57,
+          "confidence": 89.030327
+        }
+      ]
+    },
+    {
+      "text": "1 import asyncio",
+      "left": 131,
+      "top": 969,
+      "right": 517,
+      "bottom": 1010,
+      "height": 41,
+      "confidence": 92.97856633333333,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 971,
+          "width": 18,
+          "height": 30,
+          "confidence": 94.517601
+        },
+        {
+          "text": "import",
+          "left": 186,
+          "top": 969,
+          "width": 138,
+          "height": 41,
+          "confidence": 93.242401
+        },
+        {
+          "text": "asyncio",
+          "left": 353,
+          "top": 969,
+          "width": 164,
+          "height": 41,
+          "confidence": 91.175697
+        }
+      ]
+    },
+    {
+      "text": "2 import aiohttp",
+      "left": 130,
+      "top": 1039,
+      "right": 517,
+      "bottom": 1080,
+      "height": 41,
+      "confidence": 92.13129699999998,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 1040,
+          "width": 18,
+          "height": 31,
+          "confidence": 94.575211
+        },
+        {
+          "text": "import",
+          "left": 186,
+          "top": 1039,
+          "width": 138,
+          "height": 41,
+          "confidence": 93.281067
+        },
+        {
+          "text": "aiohttp",
+          "left": 353,
+          "top": 1039,
+          "width": 164,
+          "height": 41,
+          "confidence": 88.537613
+        }
+      ]
+    },
+    {
+      "text": "3 import requests",
+      "left": 130,
+      "top": 1109,
+      "right": 540,
+      "bottom": 1150,
+      "height": 41,
+      "confidence": 93.84078466666666,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 1110,
+          "width": 18,
+          "height": 32,
+          "confidence": 92.403839
+        },
+        {
+          "text": "import",
+          "left": 186,
+          "top": 1109,
+          "width": 138,
+          "height": 41,
+          "confidence": 92.403839
+        },
+        {
+          "text": "requests",
+          "left": 356,
+          "top": 1112,
+          "width": 184,
+          "height": 38,
+          "confidence": 96.714676
+        }
+      ]
+    },
+    {
+      "text": "4 import json",
+      "left": 128,
+      "top": 1179,
+      "right": 444,
+      "bottom": 1220,
+      "height": 41,
+      "confidence": 95.988368,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 1181,
+          "width": 22,
+          "height": 30,
+          "confidence": 95.663422
+        },
+        {
+          "text": "import",
+          "left": 186,
+          "top": 1179,
+          "width": 138,
+          "height": 41,
+          "confidence": 95.663422
+        },
+        {
+          "text": "json",
+          "left": 354,
+          "top": 1179,
+          "width": 90,
+          "height": 41,
+          "confidence": 96.63826
+        }
+      ]
+    },
+    {
+      "text": "5",
+      "left": 130,
+      "top": 1251,
+      "right": 148,
+      "bottom": 1282,
+      "height": 31,
+      "confidence": 96.205978,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 1251,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.205978
+        }
+      ]
+    },
+    {
+      "text": "6",
+      "left": 129,
+      "top": 1320,
+      "right": 149,
+      "bottom": 1352,
+      "height": 32,
+      "confidence": 96.983116,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 1320,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.983116
+        }
+      ]
+    },
+    {
+      "text": "7 async def download(gid, cid, title, session):",
+      "left": 130,
+      "top": 1389,
+      "right": 1255,
+      "bottom": 1430,
+      "height": 41,
+      "confidence": 83.07423285714286,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 1391,
+          "width": 19,
+          "height": 30,
+          "confidence": 94.544746
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 1399,
+          "width": 115,
+          "height": 31,
+          "confidence": 94.544746
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 1389,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.174576
+        },
+        {
+          "text": "download(gid,",
+          "left": 425,
+          "top": 1389,
+          "width": 302,
+          "height": 41,
+          "confidence": 10.00515
+        },
+        {
+          "text": "cid,",
+          "left": 762,
+          "top": 1389,
+          "width": 85,
+          "height": 40,
+          "confidence": 96.922707
+        },
+        {
+          "text": "title,",
+          "left": 882,
+          "top": 1389,
+          "width": 134,
+          "height": 40,
+          "confidence": 96.723587
+        },
+        {
+          "text": "session):",
+          "left": 1051,
+          "top": 1389,
+          "width": 204,
+          "height": 39,
+          "confidence": 95.604118
+        }
+      ]
+    },
+    {
+      "text": "8 params = {",
+      "left": 130,
+      "top": 1459,
+      "right": 517,
+      "bottom": 1500,
+      "height": 41,
+      "confidence": 94.490217,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 1460,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.467926
+        },
+        {
+          "text": "params",
+          "left": 282,
+          "top": 1469,
+          "width": 138,
+          "height": 31,
+          "confidence": 96.667419
+        },
+        {
+          "text": "=",
+          "left": 448,
+          "top": 1476,
+          "width": 22,
+          "height": 9,
+          "confidence": 91.876358
+        },
+        {
+          "text": "{",
+          "left": 499,
+          "top": 1459,
+          "width": 18,
+          "height": 39,
+          "confidence": 92.949165
+        }
+      ]
+    },
+    {
+      "text": "| book_id: gid,",
+      "left": 129,
+      "top": 1530,
+      "right": 727,
+      "bottom": 1571,
+      "height": 41,
+      "confidence": 61.03654866666667,
+      "words": [
+        {
+          "text": "|",
+          "left": 129,
+          "top": 1531,
+          "width": 20,
+          "height": 32,
+          "confidence": 23.047638
+        },
+        {
+          "text": "book_id:",
+          "left": 380,
+          "top": 1530,
+          "width": 226,
+          "height": 35,
+          "confidence": 63.46426
+        },
+        {
+          "text": "gid,",
+          "left": 641,
+          "top": 1530,
+          "width": 86,
+          "height": 41,
+          "confidence": 96.597748
+        }
+      ]
+    },
+    {
+      "text": "10 cid: f\"{gid}l{cid}\",",
+      "left": 107,
+      "top": 1600,
+      "right": 896,
+      "bottom": 1641,
+      "height": 41,
+      "confidence": 88.21666966666668,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 1601,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.555588
+        },
+        {
+          "text": "cid:",
+          "left": 380,
+          "top": 1600,
+          "width": 130,
+          "height": 33,
+          "confidence": 92.716789
+        },
+        {
+          "text": "f\"{gid}l{cid}\",",
+          "left": 546,
+          "top": 1600,
+          "width": 350,
+          "height": 41,
+          "confidence": 75.377632
+        }
+      ]
+    },
+    {
+      "text": "11 need_bookinfo: 1",
+      "left": 107,
+      "top": 1670,
+      "right": 805,
+      "bottom": 1705,
+      "height": 35,
+      "confidence": 90.77333333333333,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 1672,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.798073
+        },
+        {
+          "text": "need_bookinfo:",
+          "left": 380,
+          "top": 1670,
+          "width": 370,
+          "height": 35,
+          "confidence": 79.206268
+        },
+        {
+          "text": "1",
+          "left": 787,
+          "top": 1672,
+          "width": 18,
+          "height": 30,
+          "confidence": 96.315659
+        }
+      ]
+    },
+    {
+      "text": "12 了",
+      "left": 107,
+      "top": 1740,
+      "right": 299,
+      "bottom": 1779,
+      "height": 39,
+      "confidence": 74.3795565,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 1741,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.959793
+        },
+        {
+          "text": "了",
+          "left": 281,
+          "top": 1740,
+          "width": 18,
+          "height": 39,
+          "confidence": 51.79932
+        }
+      ]
+    }
+  ]
+}

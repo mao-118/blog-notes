@@ -1,0 +1,2094 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/video-scraping/page-07.png",
+  "lines": [
+    {
+      "text": "=",
+      "left": 784,
+      "top": 177,
+      "right": 990,
+      "bottom": 189,
+      "height": 12,
+      "confidence": 29.404249,
+      "words": [
+        {
+          "text": "=",
+          "left": 784,
+          "top": 177,
+          "width": 206,
+          "height": 12,
+          "confidence": 29.404249
+        }
+      ]
+    },
+    {
+      "text": "div d-\"e1\" class~\"dplayer dplayer=no-danmaku dplayer-playing éplayer-hide-controUter\"> =f",
+      "left": 799,
+      "top": 258,
+      "right": 1399,
+      "bottom": 285,
+      "height": 27,
+      "confidence": 21.39916057142857,
+      "words": [
+        {
+          "text": "div",
+          "left": 799,
+          "top": 267,
+          "width": 31,
+          "height": 8,
+          "confidence": 1.949053
+        },
+        {
+          "text": "d-\"e1\"",
+          "left": 837,
+          "top": 267,
+          "width": 39,
+          "height": 8,
+          "confidence": 54.390812
+        },
+        {
+          "text": "class~\"dplayer",
+          "left": 883,
+          "top": 258,
+          "width": 81,
+          "height": 27,
+          "confidence": 56.601318
+        },
+        {
+          "text": "dplayer=no-danmaku",
+          "left": 970,
+          "top": 258,
+          "width": 104,
+          "height": 27,
+          "confidence": 5.280504
+        },
+        {
+          "text": "dplayer-playing",
+          "left": 1080,
+          "top": 258,
+          "width": 89,
+          "height": 27,
+          "confidence": 5.280504
+        },
+        {
+          "text": "éplayer-hide-controUter\">",
+          "left": 1173,
+          "top": 266,
+          "width": 146,
+          "height": 11,
+          "confidence": 12.601299
+        },
+        {
+          "text": "=f",
+          "left": 1389,
+          "top": 271,
+          "width": 10,
+          "height": 7,
+          "confidence": 13.690634
+        }
+      ]
+    },
+    {
+      "text": "<div class=\"dpNayer=mask\"></div> ad",
+      "left": 817,
+      "top": 280,
+      "right": 1399,
+      "bottom": 291,
+      "height": 11,
+      "confidence": 43.201998333333336,
+      "words": [
+        {
+          "text": "<div",
+          "left": 817,
+          "top": 281,
+          "width": 22,
+          "height": 8,
+          "confidence": 87.5028
+        },
+        {
+          "text": "class=\"dpNayer=mask\"></div>",
+          "left": 846,
+          "top": 280,
+          "width": 156,
+          "height": 11,
+          "confidence": 0.0
+        },
+        {
+          "text": "ad",
+          "left": 1389,
+          "top": 282,
+          "width": 10,
+          "height": 8,
+          "confidence": 42.103195
+        }
+      ]
+    },
+    {
+      "text": "ps://boba. S2kuyun. com/20170906/Moh2192V/1. jpg\" preload=\"metadata\" src=\"blob:httos://bob: kt ad",
+      "left": 827,
+      "top": 317,
+      "right": 1399,
+      "bottom": 337,
+      "height": 20,
+      "confidence": 60.279272,
+      "words": [
+        {
+          "text": "ps://boba.",
+          "left": 827,
+          "top": 323,
+          "width": 10,
+          "height": 8,
+          "confidence": 79.276817
+        },
+        {
+          "text": "S2kuyun.",
+          "left": 886,
+          "top": 317,
+          "width": 42,
+          "height": 20,
+          "confidence": 49.138836
+        },
+        {
+          "text": "com/20170906/Moh2192V/1.",
+          "left": 931,
+          "top": 321,
+          "width": 162,
+          "height": 10,
+          "confidence": 47.788544
+        },
+        {
+          "text": "jpg\"",
+          "left": 1071,
+          "top": 317,
+          "width": 22,
+          "height": 20,
+          "confidence": 61.593643
+        },
+        {
+          "text": "preload=\"metadata\"",
+          "left": 1100,
+          "top": 321,
+          "width": 103,
+          "height": 10,
+          "confidence": 62.796566
+        },
+        {
+          "text": "src=\"blob:httos://bob:",
+          "left": 1210,
+          "top": 321,
+          "width": 120,
+          "height": 9,
+          "confidence": 52.359482
+        },
+        {
+          "text": "kt",
+          "left": 1355,
+          "top": 317,
+          "width": 6,
+          "height": 20,
+          "confidence": 73.099632
+        },
+        {
+          "text": "ad",
+          "left": 1389,
+          "top": 323,
+          "width": 10,
+          "height": 8,
+          "confidence": 56.180656
+        }
+      ]
+    },
+    {
+      "text": "‘yun. con/236667¢3-Ccaf—4caa-a1.c6-34745fal76ea\"></video> 一 $0 ——— co",
+      "left": 826,
+      "top": 328,
+      "right": 1399,
+      "bottom": 355,
+      "height": 27,
+      "confidence": 51.85819833333334,
+      "words": [
+        {
+          "text": "‘yun.",
+          "left": 826,
+          "top": 336,
+          "width": 17,
+          "height": 8,
+          "confidence": 75.432953
+        },
+        {
+          "text": "con/236667¢3-Ccaf—4caa-a1.c6-34745fal76ea\"></video>",
+          "left": 850,
+          "top": 334,
+          "width": 290,
+          "height": 10,
+          "confidence": 0.0
+        },
+        {
+          "text": "一",
+          "left": 1146,
+          "top": 337,
+          "width": 12,
+          "height": 3,
+          "confidence": 94.414513
+        },
+        {
+          "text": "$0",
+          "left": 1163,
+          "top": 334,
+          "width": 12,
+          "height": 10,
+          "confidence": 91.916634
+        },
+        {
+          "text": "———",
+          "left": 1231,
+          "top": 328,
+          "width": 93,
+          "height": 27,
+          "confidence": 17.988596
+        },
+        {
+          "text": "co",
+          "left": 1389,
+          "top": 334,
+          "width": 10,
+          "height": 8,
+          "confidence": 31.396494
+        }
+      ]
+    },
+    {
+      "text": "- beret Teale",
+      "left": 885,
+      "top": 369,
+      "right": 1315,
+      "bottom": 380,
+      "height": 11,
+      "confidence": 16.133902333333335,
+      "words": [
+        {
+          "text": "-",
+          "left": 885,
+          "top": 375,
+          "width": 10,
+          "height": 4,
+          "confidence": 3.636837
+        },
+        {
+          "text": "beret",
+          "left": 937,
+          "top": 376,
+          "width": 39,
+          "height": 4,
+          "confidence": 0.0
+        },
+        {
+          "text": "Teale",
+          "left": 1290,
+          "top": 369,
+          "width": 25,
+          "height": 10,
+          "confidence": 44.76487
+        }
+      ]
+    },
+    {
+      "text": "peat asleT Ah",
+      "left": 817,
+      "top": 370,
+      "right": 1399,
+      "bottom": 406,
+      "height": 36,
+      "confidence": 27.276236,
+      "words": [
+        {
+          "text": "peat",
+          "left": 817,
+          "top": 377,
+          "width": 108,
+          "height": 20,
+          "confidence": 22.581396
+        },
+        {
+          "text": "asleT",
+          "left": 1231,
+          "top": 370,
+          "width": 142,
+          "height": 26,
+          "confidence": 6.552
+        },
+        {
+          "text": "Ah",
+          "left": 1389,
+          "top": 380,
+          "width": 10,
+          "height": 26,
+          "confidence": 52.695312
+        }
+      ]
+    },
+    {
+      "text": "> <div class=\"dplayer-controtler\">-</div> blob:xxxx]",
+      "left": 809,
+      "top": 406,
+      "right": 1393,
+      "bottom": 431,
+      "height": 25,
+      "confidence": 56.539433599999995,
+      "words": [
+        {
+          "text": ">",
+          "left": 809,
+          "top": 417,
+          "width": 3,
+          "height": 5,
+          "confidence": 59.760246
+        },
+        {
+          "text": "<div",
+          "left": 817,
+          "top": 416,
+          "width": 22,
+          "height": 8,
+          "confidence": 67.863792
+        },
+        {
+          "text": "class=\"dplayer-controtler\">-</div>",
+          "left": 847,
+          "top": 416,
+          "width": 196,
+          "height": 10,
+          "confidence": 28.418646
+        },
+        {
+          "text": "blob:xxxx",
+          "left": 1231,
+          "top": 406,
+          "width": 115,
+          "height": 21,
+          "confidence": 92.332298
+        },
+        {
+          "text": "]",
+          "left": 1389,
+          "top": 421,
+          "width": 4,
+          "height": 10,
+          "confidence": 34.322186
+        }
+      ]
+    },
+    {
+      "text": "<div class=\"dplayer-menu dplayer-menu-show\" style=\"left: 618px; right: initial; top: 74px; bott *",
+      "left": 817,
+      "top": 441,
+      "right": 1394,
+      "bottom": 453,
+      "height": 12,
+      "confidence": 89.102064,
+      "words": [
+        {
+          "text": "<div",
+          "left": 817,
+          "top": 444,
+          "width": 22,
+          "height": 7,
+          "confidence": 92.794289
+        },
+        {
+          "text": "class=\"dplayer-menu",
+          "left": 846,
+          "top": 444,
+          "width": 109,
+          "height": 9,
+          "confidence": 89.317459
+        },
+        {
+          "text": "dplayer-menu-show\"",
+          "left": 962,
+          "top": 444,
+          "width": 103,
+          "height": 9,
+          "confidence": 81.812157
+        },
+        {
+          "text": "style=\"left:",
+          "left": 1073,
+          "top": 444,
+          "width": 67,
+          "height": 9,
+          "confidence": 92.565048
+        },
+        {
+          "text": "618px;",
+          "left": 1148,
+          "top": 444,
+          "width": 33,
+          "height": 9,
+          "confidence": 92.569664
+        },
+        {
+          "text": "right:",
+          "left": 1190,
+          "top": 444,
+          "width": 27,
+          "height": 9,
+          "confidence": 96.921455
+        },
+        {
+          "text": "initial;",
+          "left": 1231,
+          "top": 444,
+          "width": 43,
+          "height": 9,
+          "confidence": 96.38324
+        },
+        {
+          "text": "top:",
+          "left": 1282,
+          "top": 445,
+          "width": 21,
+          "height": 8,
+          "confidence": 93.224594
+        },
+        {
+          "text": "74px;",
+          "left": 1311,
+          "top": 444,
+          "width": 27,
+          "height": 9,
+          "confidence": 86.683899
+        },
+        {
+          "text": "bott",
+          "left": 1346,
+          "top": 444,
+          "width": 22,
+          "height": 8,
+          "confidence": 92.845261
+        },
+        {
+          "text": "*",
+          "left": 1388,
+          "top": 441,
+          "width": 6,
+          "height": 5,
+          "confidence": 65.005638
+        }
+      ]
+    },
+    {
+      "text": "<div class=\"dplayer-notice\"></div> 好",
+      "left": 817,
+      "top": 491,
+      "right": 1399,
+      "bottom": 506,
+      "height": 15,
+      "confidence": 79.49961366666666,
+      "words": [
+        {
+          "text": "<div",
+          "left": 817,
+          "top": 496,
+          "width": 22,
+          "height": 8,
+          "confidence": 90.998299
+        },
+        {
+          "text": "class=\"dplayer-notice\"></div>",
+          "left": 846,
+          "top": 496,
+          "width": 168,
+          "height": 10,
+          "confidence": 76.432564
+        },
+        {
+          "text": "好",
+          "left": 1388,
+          "top": 491,
+          "width": 11,
+          "height": 8,
+          "confidence": 71.067978
+        }
+      ]
+    },
+    {
+      "text": "<div style=\"display:none\" name=\"sizeview\" vatue=-\"392824811\"></div> Int",
+      "left": 807,
+      "top": 534,
+      "right": 1399,
+      "bottom": 547,
+      "height": 13,
+      "confidence": 70.480867,
+      "words": [
+        {
+          "text": "<div",
+          "left": 807,
+          "top": 537,
+          "width": 22,
+          "height": 8,
+          "confidence": 84.557732
+        },
+        {
+          "text": "style=\"display:none\"",
+          "left": 836,
+          "top": 537,
+          "width": 115,
+          "height": 10,
+          "confidence": 63.273617
+        },
+        {
+          "text": "name=\"sizeview\"",
+          "left": 959,
+          "top": 537,
+          "width": 85,
+          "height": 8,
+          "confidence": 89.039268
+        },
+        {
+          "text": "vatue=-\"392824811\"></div>",
+          "left": 1051,
+          "top": 537,
+          "width": 139,
+          "height": 9,
+          "confidence": 38.607769
+        },
+        {
+          "text": "Int",
+          "left": 1389,
+          "top": 534,
+          "width": 10,
+          "height": 8,
+          "confidence": 76.925949
+        }
+      ]
+    },
+    {
+      "text": "a» Splayer-no-danmaku.dplayer-playing.dplayer-hide-controtier div.dplayer-video-wrap _ video.dplayer-video.dplayer-video-current om",
+      "left": 782,
+      "top": 648,
+      "right": 1399,
+      "bottom": 667,
+      "height": 19,
+      "confidence": 27.5136435,
+      "words": [
+        {
+          "text": "a»",
+          "left": 782,
+          "top": 660,
+          "width": 10,
+          "height": 2,
+          "confidence": 26.332502
+        },
+        {
+          "text": "Splayer-no-danmaku.dplayer-playing.dplayer-hide-controtier",
+          "left": 798,
+          "top": 654,
+          "width": 257,
+          "height": 9,
+          "confidence": 17.820377
+        },
+        {
+          "text": "div.dplayer-video-wrap",
+          "left": 1066,
+          "top": 654,
+          "width": 98,
+          "height": 9,
+          "confidence": 25.443802
+        },
+        {
+          "text": "_",
+          "left": 1169,
+          "top": 648,
+          "width": 5,
+          "height": 19,
+          "confidence": 21.871595
+        },
+        {
+          "text": "video.dplayer-video.dplayer-video-current",
+          "left": 1176,
+          "top": 654,
+          "width": 180,
+          "height": 9,
+          "confidence": 45.386246
+        },
+        {
+          "text": "om",
+          "left": 1389,
+          "top": 651,
+          "width": 10,
+          "height": 5,
+          "confidence": 28.227339
+        }
+      ]
+    },
+    {
+      "text": "= Console What's New:",
+      "left": 788,
+      "top": 669,
+      "right": 914,
+      "bottom": 688,
+      "height": 19,
+      "confidence": 58.26499199999999,
+      "words": [
+        {
+          "text": "=",
+          "left": 788,
+          "top": 674,
+          "width": 2,
+          "height": 10,
+          "confidence": 46.892365
+        },
+        {
+          "text": "Console",
+          "left": 806,
+          "top": 674,
+          "width": 36,
+          "height": 8,
+          "confidence": 81.729668
+        },
+        {
+          "text": "What's",
+          "left": 855,
+          "top": 669,
+          "width": 33,
+          "height": 19,
+          "confidence": 53.233467
+        },
+        {
+          "text": "New:",
+          "left": 893,
+          "top": 669,
+          "width": 21,
+          "height": 19,
+          "confidence": 51.204468
+        }
+      ]
+    },
+    {
+      "text": "‘A DevTools failed to load SourceMap: Could not load content for https://boba.52kuyun.com/DPlayer/DPlayer.i",
+      "left": 782,
+      "top": 835,
+      "right": 1399,
+      "bottom": 845,
+      "height": 10,
+      "confidence": 82.54306991666667,
+      "words": [
+        {
+          "text": "‘A",
+          "left": 782,
+          "top": 835,
+          "width": 8,
+          "height": 8,
+          "confidence": 31.688633
+        },
+        {
+          "text": "DevTools",
+          "left": 796,
+          "top": 835,
+          "width": 45,
+          "height": 8,
+          "confidence": 88.092796
+        },
+        {
+          "text": "failed",
+          "left": 849,
+          "top": 835,
+          "width": 33,
+          "height": 8,
+          "confidence": 95.623726
+        },
+        {
+          "text": "to",
+          "left": 889,
+          "top": 836,
+          "width": 11,
+          "height": 7,
+          "confidence": 95.623726
+        },
+        {
+          "text": "load",
+          "left": 907,
+          "top": 835,
+          "width": 22,
+          "height": 8,
+          "confidence": 93.304085
+        },
+        {
+          "text": "SourceMap:",
+          "left": 935,
+          "top": 835,
+          "width": 56,
+          "height": 10,
+          "confidence": 91.603531
+        },
+        {
+          "text": "Could",
+          "left": 999,
+          "top": 835,
+          "width": 29,
+          "height": 8,
+          "confidence": 96.971817
+        },
+        {
+          "text": "not",
+          "left": 1034,
+          "top": 836,
+          "width": 17,
+          "height": 7,
+          "confidence": 96.815002
+        },
+        {
+          "text": "load",
+          "left": 1058,
+          "top": 835,
+          "width": 22,
+          "height": 8,
+          "confidence": 94.998375
+        },
+        {
+          "text": "content",
+          "left": 1087,
+          "top": 836,
+          "width": 39,
+          "height": 7,
+          "confidence": 96.757935
+        },
+        {
+          "text": "for",
+          "left": 1134,
+          "top": 835,
+          "width": 16,
+          "height": 8,
+          "confidence": 93.23111
+        },
+        {
+          "text": "https://boba.52kuyun.com/DPlayer/DPlayer.i",
+          "left": 1156,
+          "top": 835,
+          "width": 243,
+          "height": 10,
+          "confidence": 15.806103
+        }
+      ]
+    },
+    {
+      "text": "而这个播放器中的视频地址是一个 blob:xxxx, 这是个什么鬼",
+      "left": 91,
+      "top": 936,
+      "right": 1227,
+      "bottom": 989,
+      "height": 53,
+      "confidence": 92.6623199473684,
+      "words": [
+        {
+          "text": "而",
+          "left": 91,
+          "top": 942,
+          "width": 55,
+          "height": 39,
+          "confidence": 95.628647
+        },
+        {
+          "text": "这",
+          "left": 148,
+          "top": 941,
+          "width": 26,
+          "height": 34,
+          "confidence": 95.088737
+        },
+        {
+          "text": "个",
+          "left": 189,
+          "top": 941,
+          "width": 30,
+          "height": 19,
+          "confidence": 96.087852
+        },
+        {
+          "text": "播放",
+          "left": 242,
+          "top": 941,
+          "width": 65,
+          "height": 41,
+          "confidence": 96.580559
+        },
+        {
+          "text": "器",
+          "left": 325,
+          "top": 942,
+          "width": 26,
+          "height": 40,
+          "confidence": 96.673248
+        },
+        {
+          "text": "中",
+          "left": 368,
+          "top": 941,
+          "width": 44,
+          "height": 41,
+          "confidence": 96.689316
+        },
+        {
+          "text": "的",
+          "left": 416,
+          "top": 941,
+          "width": 42,
+          "height": 41,
+          "confidence": 96.153114
+        },
+        {
+          "text": "视频",
+          "left": 458,
+          "top": 941,
+          "width": 87,
+          "height": 41,
+          "confidence": 96.317017
+        },
+        {
+          "text": "地",
+          "left": 544,
+          "top": 941,
+          "width": 46,
+          "height": 40,
+          "confidence": 92.425011
+        },
+        {
+          "text": "址",
+          "left": 590,
+          "top": 941,
+          "width": 25,
+          "height": 39,
+          "confidence": 92.160797
+        },
+        {
+          "text": "是",
+          "left": 626,
+          "top": 942,
+          "width": 27,
+          "height": 16,
+          "confidence": 96.626076
+        },
+        {
+          "text": "一",
+          "left": 679,
+          "top": 941,
+          "width": 51,
+          "height": 22,
+          "confidence": 95.709122
+        },
+        {
+          "text": "个",
+          "left": 729,
+          "top": 936,
+          "width": 34,
+          "height": 53,
+          "confidence": 94.788742
+        },
+        {
+          "text": "blob:xxxx,",
+          "left": 752,
+          "top": 941,
+          "width": 187,
+          "height": 37,
+          "confidence": 88.822212
+        },
+        {
+          "text": "这",
+          "left": 969,
+          "top": 941,
+          "width": 37,
+          "height": 34,
+          "confidence": 96.201744
+        },
+        {
+          "text": "是",
+          "left": 1018,
+          "top": 942,
+          "width": 27,
+          "height": 16,
+          "confidence": 96.156052
+        },
+        {
+          "text": "个",
+          "left": 1074,
+          "top": 941,
+          "width": 38,
+          "height": 41,
+          "confidence": 96.718971
+        },
+        {
+          "text": "什么",
+          "left": 1120,
+          "top": 936,
+          "width": 84,
+          "height": 53,
+          "confidence": 93.024162
+        },
+        {
+          "text": "鬼",
+          "left": 1203,
+          "top": 941,
+          "width": 24,
+          "height": 40,
+          "confidence": 48.7327
+        }
+      ]
+    },
+    {
+      "text": "IA\" | wi FE | 5 » IXZE™| 5",
+      "left": 135,
+      "top": 950,
+      "right": 1238,
+      "bottom": 990,
+      "height": 40,
+      "confidence": 42.53807944444444,
+      "words": [
+        {
+          "text": "IA\"",
+          "left": 135,
+          "top": 956,
+          "width": 40,
+          "height": 25,
+          "confidence": 14.241934
+        },
+        {
+          "text": "|",
+          "left": 197,
+          "top": 954,
+          "width": 4,
+          "height": 28,
+          "confidence": 14.241934
+        },
+        {
+          "text": "wi",
+          "left": 487,
+          "top": 956,
+          "width": 40,
+          "height": 25,
+          "confidence": 49.190083
+        },
+        {
+          "text": "FE",
+          "left": 615,
+          "top": 950,
+          "width": 44,
+          "height": 40,
+          "confidence": 16.537695
+        },
+        {
+          "text": "|",
+          "left": 725,
+          "top": 954,
+          "width": 4,
+          "height": 28,
+          "confidence": 91.823723
+        },
+        {
+          "text": "5",
+          "left": 840,
+          "top": 972,
+          "width": 6,
+          "height": 5,
+          "confidence": 57.162876
+        },
+        {
+          "text": "»",
+          "left": 943,
+          "top": 972,
+          "width": 6,
+          "height": 11,
+          "confidence": 71.738899
+        },
+        {
+          "text": "IXZE™|",
+          "left": 967,
+          "top": 954,
+          "width": 110,
+          "height": 28,
+          "confidence": 0.0
+        },
+        {
+          "text": "5",
+          "left": 1232,
+          "top": 972,
+          "width": 6,
+          "height": 5,
+          "confidence": 67.905571
+        }
+      ]
+    },
+    {
+      "text": "并不是 iv 是 html5 中 bloby 起给 video 标签",
+      "left": 290,
+      "top": 1006,
+      "right": 1384,
+      "bottom": 1058,
+      "height": 52,
+      "confidence": 80.9155923846154,
+      "words": [
+        {
+          "text": "并",
+          "left": 290,
+          "top": 1011,
+          "width": 67,
+          "height": 41,
+          "confidence": 96.455246
+        },
+        {
+          "text": "不",
+          "left": 346,
+          "top": 1006,
+          "width": 42,
+          "height": 51,
+          "confidence": 93.311752
+        },
+        {
+          "text": "是",
+          "left": 386,
+          "top": 1012,
+          "width": 27,
+          "height": 16,
+          "confidence": 96.654602
+        },
+        {
+          "text": "iv",
+          "left": 558,
+          "top": 1011,
+          "width": 26,
+          "height": 11,
+          "confidence": 43.428379
+        },
+        {
+          "text": "是",
+          "left": 694,
+          "top": 1012,
+          "width": 27,
+          "height": 16,
+          "confidence": 95.948631
+        },
+        {
+          "text": "html5",
+          "left": 741,
+          "top": 1007,
+          "width": 97,
+          "height": 51,
+          "confidence": 90.745987
+        },
+        {
+          "text": "中",
+          "left": 852,
+          "top": 1007,
+          "width": 36,
+          "height": 51,
+          "confidence": 91.754036
+        },
+        {
+          "text": "bloby",
+          "left": 886,
+          "top": 1015,
+          "width": 104,
+          "height": 33,
+          "confidence": 36.967163
+        },
+        {
+          "text": "起",
+          "left": 1123,
+          "top": 1014,
+          "width": 9,
+          "height": 3,
+          "confidence": 38.18401
+        },
+        {
+          "text": "给",
+          "left": 1149,
+          "top": 1011,
+          "width": 40,
+          "height": 29,
+          "confidence": 94.223289
+        },
+        {
+          "text": "video",
+          "left": 1216,
+          "top": 1015,
+          "width": 30,
+          "height": 33,
+          "confidence": 91.348114
+        },
+        {
+          "text": "标",
+          "left": 1318,
+          "top": 1011,
+          "width": 41,
+          "height": 13,
+          "confidence": 92.558662
+        },
+        {
+          "text": "签",
+          "left": 1358,
+          "top": 1011,
+          "width": 26,
+          "height": 24,
+          "confidence": 90.32283
+        }
+      ]
+    },
+    {
+      "text": "blob:https 和并不是 MX, Me obX} REM Za videotns",
+      "left": 92,
+      "top": 1011,
+      "right": 1383,
+      "bottom": 1060,
+      "height": 49,
+      "confidence": 43.25154254545455,
+      "words": [
+        {
+          "text": "blob:https",
+          "left": 92,
+          "top": 1015,
+          "width": 195,
+          "height": 41,
+          "confidence": 81.899704
+        },
+        {
+          "text": "和",
+          "left": 290,
+          "top": 1011,
+          "width": 16,
+          "height": 49,
+          "confidence": 0.0
+        },
+        {
+          "text": "并",
+          "left": 305,
+          "top": 1011,
+          "width": 38,
+          "height": 49,
+          "confidence": 8.381901
+        },
+        {
+          "text": "不",
+          "left": 360,
+          "top": 1025,
+          "width": 15,
+          "height": 15,
+          "confidence": 70.531448
+        },
+        {
+          "text": "是",
+          "left": 391,
+          "top": 1031,
+          "width": 28,
+          "height": 20,
+          "confidence": 96.4142
+        },
+        {
+          "text": "MX,",
+          "left": 522,
+          "top": 1024,
+          "width": 87,
+          "height": 30,
+          "confidence": 70.331787
+        },
+        {
+          "text": "Me",
+          "left": 687,
+          "top": 1031,
+          "width": 40,
+          "height": 20,
+          "confidence": 17.728109
+        },
+        {
+          "text": "obX}",
+          "left": 920,
+          "top": 1024,
+          "width": 80,
+          "height": 24,
+          "confidence": 33.508549
+        },
+        {
+          "text": "REM",
+          "left": 1073,
+          "top": 1013,
+          "width": 62,
+          "height": 38,
+          "confidence": 8.427153
+        },
+        {
+          "text": "Za",
+          "left": 1149,
+          "top": 1024,
+          "width": 71,
+          "height": 27,
+          "confidence": 51.073494
+        },
+        {
+          "text": "videotns",
+          "left": 1250,
+          "top": 1023,
+          "width": 133,
+          "height": 28,
+          "confidence": 37.470623
+        }
+      ]
+    },
+    {
+      "text": "= 一 C. 说简单点儿. web 已见频",
+      "left": 91,
+      "top": 1077,
+      "right": 1281,
+      "bottom": 1133,
+      "height": 56,
+      "confidence": 76.23874783333333,
+      "words": [
+        {
+          "text": "=",
+          "left": 91,
+          "top": 1081,
+          "width": 40,
+          "height": 40,
+          "confidence": 69.33699
+        },
+        {
+          "text": "一",
+          "left": 244,
+          "top": 1099,
+          "width": 63,
+          "height": 11,
+          "confidence": 67.416763
+        },
+        {
+          "text": "C.",
+          "left": 415,
+          "top": 1083,
+          "width": 25,
+          "height": 37,
+          "confidence": 64.77639
+        },
+        {
+          "text": "说",
+          "left": 479,
+          "top": 1081,
+          "width": 29,
+          "height": 40,
+          "confidence": 96.993324
+        },
+        {
+          "text": "简单",
+          "left": 556,
+          "top": 1081,
+          "width": 40,
+          "height": 41,
+          "confidence": 91.971939
+        },
+        {
+          "text": "点",
+          "left": 645,
+          "top": 1082,
+          "width": 13,
+          "height": 39,
+          "confidence": 92.035316
+        },
+        {
+          "text": "儿",
+          "left": 667,
+          "top": 1082,
+          "width": 17,
+          "height": 38,
+          "confidence": 93.111008
+        },
+        {
+          "text": ".",
+          "left": 684,
+          "top": 1077,
+          "width": 14,
+          "height": 56,
+          "confidence": 85.380486
+        },
+        {
+          "text": "web",
+          "left": 714,
+          "top": 1081,
+          "width": 101,
+          "height": 41,
+          "confidence": 47.09766
+        },
+        {
+          "text": "已",
+          "left": 910,
+          "top": 1083,
+          "width": 18,
+          "height": 29,
+          "confidence": 38.259052
+        },
+        {
+          "text": "见",
+          "left": 1211,
+          "top": 1089,
+          "width": 27,
+          "height": 33,
+          "confidence": 88.154778
+        },
+        {
+          "text": "频",
+          "left": 1260,
+          "top": 1083,
+          "width": 21,
+          "height": 29,
+          "confidence": 80.331268
+        }
+      ]
+    },
+    {
+      "text": "百生成的一串标记. 说简单点儿. 就是能直接拿到人钢闫下",
+      "left": 103,
+      "top": 1077,
+      "right": 1322,
+      "bottom": 1131,
+      "height": 54,
+      "confidence": 88.54886595833334,
+      "words": [
+        {
+          "text": "百",
+          "left": 103,
+          "top": 1103,
+          "width": 24,
+          "height": 19,
+          "confidence": 91.74321
+        },
+        {
+          "text": "生",
+          "left": 148,
+          "top": 1081,
+          "width": 27,
+          "height": 39,
+          "confidence": 92.895386
+        },
+        {
+          "text": "成",
+          "left": 195,
+          "top": 1081,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.86953
+        },
+        {
+          "text": "的",
+          "left": 241,
+          "top": 1081,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.896217
+        },
+        {
+          "text": "一",
+          "left": 284,
+          "top": 1077,
+          "width": 44,
+          "height": 53,
+          "confidence": 92.890419
+        },
+        {
+          "text": "串",
+          "left": 314,
+          "top": 1081,
+          "width": 101,
+          "height": 41,
+          "confidence": 85.850266
+        },
+        {
+          "text": "标",
+          "left": 370,
+          "top": 1077,
+          "width": 41,
+          "height": 53,
+          "confidence": 92.330093
+        },
+        {
+          "text": "记",
+          "left": 410,
+          "top": 1077,
+          "width": 31,
+          "height": 53,
+          "confidence": 92.872047
+        },
+        {
+          "text": ".",
+          "left": 444,
+          "top": 1112,
+          "width": 6,
+          "height": 5,
+          "confidence": 92.850159
+        },
+        {
+          "text": "说",
+          "left": 483,
+          "top": 1094,
+          "width": 35,
+          "height": 28,
+          "confidence": 96.431465
+        },
+        {
+          "text": "简单",
+          "left": 523,
+          "top": 1093,
+          "width": 95,
+          "height": 28,
+          "confidence": 95.447914
+        },
+        {
+          "text": "点",
+          "left": 622,
+          "top": 1110,
+          "width": 18,
+          "height": 11,
+          "confidence": 93.237549
+        },
+        {
+          "text": "儿",
+          "left": 658,
+          "top": 1077,
+          "width": 28,
+          "height": 53,
+          "confidence": 92.218658
+        },
+        {
+          "text": ".",
+          "left": 689,
+          "top": 1112,
+          "width": 6,
+          "height": 5,
+          "confidence": 89.411095
+        },
+        {
+          "text": "就",
+          "left": 731,
+          "top": 1105,
+          "width": 1,
+          "height": 12,
+          "confidence": 96.169975
+        },
+        {
+          "text": "是",
+          "left": 756,
+          "top": 1101,
+          "width": 40,
+          "height": 20,
+          "confidence": 96.717781
+        },
+        {
+          "text": "能",
+          "left": 979,
+          "top": 1096,
+          "width": 37,
+          "height": 26,
+          "confidence": 96.468689
+        },
+        {
+          "text": "直接",
+          "left": 1030,
+          "top": 1079,
+          "width": 101,
+          "height": 52,
+          "confidence": 78.431442
+        },
+        {
+          "text": "拿",
+          "left": 1153,
+          "top": 1100,
+          "width": 21,
+          "height": 21,
+          "confidence": 89.721001
+        },
+        {
+          "text": "到",
+          "left": 1179,
+          "top": 1085,
+          "width": 4,
+          "height": 28,
+          "confidence": 96.547318
+        },
+        {
+          "text": "人",
+          "left": 1199,
+          "top": 1079,
+          "width": 20,
+          "height": 52,
+          "confidence": 68.722061
+        },
+        {
+          "text": "钢",
+          "left": 1241,
+          "top": 1099,
+          "width": 17,
+          "height": 22,
+          "confidence": 44.668266
+        },
+        {
+          "text": "闫",
+          "left": 1259,
+          "top": 1096,
+          "width": 22,
+          "height": 25,
+          "confidence": 67.859291
+        },
+        {
+          "text": "下",
+          "left": 1302,
+          "top": 1083,
+          "width": 20,
+          "height": 39,
+          "confidence": 87.922951
+        }
+      ]
+    },
+    {
+      "text": "一、 33 Ae 占 = 小 — 4b ew i\"",
+      "left": 373,
+      "top": 1081,
+      "right": 1367,
+      "bottom": 1108,
+      "height": 27,
+      "confidence": 53.27018018181818,
+      "words": [
+        {
+          "text": "一",
+          "left": 373,
+          "top": 1083,
+          "width": 20,
+          "height": 4,
+          "confidence": 93.036858
+        },
+        {
+          "text": "、",
+          "left": 402,
+          "top": 1082,
+          "width": 10,
+          "height": 8,
+          "confidence": 73.584816
+        },
+        {
+          "text": "33",
+          "left": 470,
+          "top": 1081,
+          "width": 21,
+          "height": 9,
+          "confidence": 6.059036
+        },
+        {
+          "text": "Ae",
+          "left": 511,
+          "top": 1081,
+          "width": 40,
+          "height": 11,
+          "confidence": 39.713272
+        },
+        {
+          "text": "占",
+          "left": 606,
+          "top": 1081,
+          "width": 32,
+          "height": 27,
+          "confidence": 91.175346
+        },
+        {
+          "text": "=",
+          "left": 712,
+          "top": 1081,
+          "width": 20,
+          "height": 8,
+          "confidence": 43.197876
+        },
+        {
+          "text": "小",
+          "left": 743,
+          "top": 1082,
+          "width": 7,
+          "height": 8,
+          "confidence": 87.263008
+        },
+        {
+          "text": "—",
+          "left": 769,
+          "top": 1082,
+          "width": 21,
+          "height": 16,
+          "confidence": 51.809864
+        },
+        {
+          "text": "4b",
+          "left": 976,
+          "top": 1081,
+          "width": 40,
+          "height": 19,
+          "confidence": 76.531204
+        },
+        {
+          "text": "ew",
+          "left": 1079,
+          "top": 1081,
+          "width": 98,
+          "height": 19,
+          "confidence": 0.457449
+        },
+        {
+          "text": "i\"",
+          "left": 1359,
+          "top": 1081,
+          "width": 8,
+          "height": 8,
+          "confidence": 23.143253
+        }
+      ]
+    },
+    {
+      "text": "‘ 会",
+      "left": 517,
+      "top": 1091,
+      "right": 1142,
+      "bottom": 1100,
+      "height": 9,
+      "confidence": 46.378536,
+      "words": [
+        {
+          "text": "‘",
+          "left": 517,
+          "top": 1091,
+          "width": 7,
+          "height": 7,
+          "confidence": 0.0
+        },
+        {
+          "text": "会",
+          "left": 1116,
+          "top": 1092,
+          "width": 26,
+          "height": 8,
+          "confidence": 92.757072
+        }
+      ]
+    },
+    {
+      "text": "地址, 中间倒了一手而已",
+      "left": 91,
+      "top": 1147,
+      "right": 551,
+      "bottom": 1202,
+      "height": 55,
+      "confidence": 93.55610218181818,
+      "words": [
+        {
+          "text": "地",
+          "left": 91,
+          "top": 1151,
+          "width": 84,
+          "height": 40,
+          "confidence": 92.233459
+        },
+        {
+          "text": "址",
+          "left": 148,
+          "top": 1147,
+          "width": 36,
+          "height": 55,
+          "confidence": 92.585449
+        },
+        {
+          "text": ",",
+          "left": 183,
+          "top": 1147,
+          "width": 14,
+          "height": 55,
+          "confidence": 91.792686
+        },
+        {
+          "text": "中",
+          "left": 221,
+          "top": 1151,
+          "width": 32,
+          "height": 41,
+          "confidence": 92.601341
+        },
+        {
+          "text": "间",
+          "left": 258,
+          "top": 1151,
+          "width": 72,
+          "height": 41,
+          "confidence": 92.274857
+        },
+        {
+          "text": "倒",
+          "left": 307,
+          "top": 1147,
+          "width": 45,
+          "height": 55,
+          "confidence": 91.707214
+        },
+        {
+          "text": "了",
+          "left": 345,
+          "top": 1153,
+          "width": 19,
+          "height": 38,
+          "confidence": 96.976196
+        },
+        {
+          "text": "一",
+          "left": 389,
+          "top": 1169,
+          "width": 30,
+          "height": 4,
+          "confidence": 93.056503
+        },
+        {
+          "text": "手",
+          "left": 437,
+          "top": 1151,
+          "width": 26,
+          "height": 40,
+          "confidence": 93.048141
+        },
+        {
+          "text": "而",
+          "left": 482,
+          "top": 1154,
+          "width": 25,
+          "height": 37,
+          "confidence": 96.788368
+        },
+        {
+          "text": "已",
+          "left": 523,
+          "top": 1153,
+          "width": 28,
+          "height": 37,
+          "confidence": 96.05291
+        }
+      ]
+    },
+    {
+      "text": "、",
+      "left": 253,
+      "top": 1151,
+      "right": 261,
+      "bottom": 1160,
+      "height": 9,
+      "confidence": 93.03701,
+      "words": [
+        {
+          "text": "、",
+          "left": 253,
+          "top": 1151,
+          "width": 8,
+          "height": 9,
+          "confidence": 93.03701
+        }
+      ]
+    },
+    {
+      "text": "5 Fy;",
+      "left": 180,
+      "top": 1156,
+      "right": 563,
+      "bottom": 1203,
+      "height": 47,
+      "confidence": 29.321906333333335,
+      "words": [
+        {
+          "text": "5",
+          "left": 180,
+          "top": 1182,
+          "width": 6,
+          "height": 11,
+          "confidence": 42.43985
+        },
+        {
+          "text": "Fy",
+          "left": 297,
+          "top": 1156,
+          "width": 20,
+          "height": 47,
+          "confidence": 42.236389
+        },
+        {
+          "text": ";",
+          "left": 557,
+          "top": 1182,
+          "width": 6,
+          "height": 5,
+          "confidence": 3.28948
+        }
+      ]
+    },
+    {
+      "text": "此路不通， a 这个页页面源代码.",
+      "left": 90,
+      "top": 1283,
+      "right": 1091,
+      "bottom": 1337,
+      "height": 54,
+      "confidence": 88.41930653333334,
+      "words": [
+        {
+          "text": "此",
+          "left": 90,
+          "top": 1287,
+          "width": 41,
+          "height": 39,
+          "confidence": 96.869659
+        },
+        {
+          "text": "路",
+          "left": 146,
+          "top": 1287,
+          "width": 48,
+          "height": 41,
+          "confidence": 96.796967
+        },
+        {
+          "text": "不",
+          "left": 194,
+          "top": 1283,
+          "width": 44,
+          "height": 54,
+          "confidence": 92.838547
+        },
+        {
+          "text": "通",
+          "left": 237,
+          "top": 1302,
+          "width": 25,
+          "height": 25,
+          "confidence": 92.396286
+        },
+        {
+          "text": "，",
+          "left": 268,
+          "top": 1318,
+          "width": 6,
+          "height": 11,
+          "confidence": 82.447586
+        },
+        {
+          "text": "a",
+          "left": 512,
+          "top": 1318,
+          "width": 37,
+          "height": 9,
+          "confidence": 52.646904
+        },
+        {
+          "text": "这",
+          "left": 644,
+          "top": 1302,
+          "width": 40,
+          "height": 25,
+          "confidence": 73.890373
+        },
+        {
+          "text": "个",
+          "left": 706,
+          "top": 1300,
+          "width": 4,
+          "height": 28,
+          "confidence": 96.479988
+        },
+        {
+          "text": "页",
+          "left": 733,
+          "top": 1289,
+          "width": 37,
+          "height": 39,
+          "confidence": 96.449875
+        },
+        {
+          "text": "页",
+          "left": 865,
+          "top": 1289,
+          "width": 37,
+          "height": 39,
+          "confidence": 93.289864
+        },
+        {
+          "text": "面",
+          "left": 953,
+          "top": 1289,
+          "width": 39,
+          "height": 38,
+          "confidence": 90.427193
+        },
+        {
+          "text": "源",
+          "left": 973,
+          "top": 1283,
+          "width": 38,
+          "height": 53,
+          "confidence": 92.07193
+        },
+        {
+          "text": "代",
+          "left": 1007,
+          "top": 1287,
+          "width": 29,
+          "height": 40,
+          "confidence": 92.438057
+        },
+        {
+          "text": "码",
+          "left": 1057,
+          "top": 1315,
+          "width": 16,
+          "height": 3,
+          "confidence": 84.787865
+        },
+        {
+          "text": ".",
+          "left": 1085,
+          "top": 1318,
+          "width": 6,
+          "height": 5,
+          "confidence": 92.458504
+        }
+      ]
+    },
+    {
+      "text": "S38, 我们再去观察一下这面的页面源代码",
+      "left": 204,
+      "top": 1283,
+      "right": 1079,
+      "bottom": 1338,
+      "height": 55,
+      "confidence": 89.66563599999998,
+      "words": [
+        {
+          "text": "S38,",
+          "left": 204,
+          "top": 1288,
+          "width": 57,
+          "height": 33,
+          "confidence": 48.843536
+        },
+        {
+          "text": "我",
+          "left": 314,
+          "top": 1287,
+          "width": 38,
+          "height": 41,
+          "confidence": 93.264755
+        },
+        {
+          "text": "们",
+          "left": 359,
+          "top": 1290,
+          "width": 15,
+          "height": 37,
+          "confidence": 90.984459
+        },
+        {
+          "text": "再",
+          "left": 395,
+          "top": 1289,
+          "width": 24,
+          "height": 39,
+          "confidence": 87.881844
+        },
+        {
+          "text": "去",
+          "left": 439,
+          "top": 1287,
+          "width": 45,
+          "height": 41,
+          "confidence": 96.957886
+        },
+        {
+          "text": "观察",
+          "left": 480,
+          "top": 1287,
+          "width": 116,
+          "height": 41,
+          "confidence": 96.46714
+        },
+        {
+          "text": "一",
+          "left": 578,
+          "top": 1283,
+          "width": 41,
+          "height": 54,
+          "confidence": 96.634109
+        },
+        {
+          "text": "下",
+          "left": 617,
+          "top": 1289,
+          "width": 20,
+          "height": 39,
+          "confidence": 96.492538
+        },
+        {
+          "text": "这",
+          "left": 657,
+          "top": 1287,
+          "width": 26,
+          "height": 34,
+          "confidence": 93.111557
+        },
+        {
+          "text": "面",
+          "left": 776,
+          "top": 1287,
+          "width": 83,
+          "height": 41,
+          "confidence": 89.689819
+        },
+        {
+          "text": "的",
+          "left": 837,
+          "top": 1283,
+          "width": 42,
+          "height": 55,
+          "confidence": 88.370613
+        },
+        {
+          "text": "页",
+          "left": 878,
+          "top": 1283,
+          "width": 49,
+          "height": 55,
+          "confidence": 92.203423
+        },
+        {
+          "text": "面",
+          "left": 908,
+          "top": 1289,
+          "width": 54,
+          "height": 39,
+          "confidence": 91.965965
+        },
+        {
+          "text": "源",
+          "left": 995,
+          "top": 1287,
+          "width": 14,
+          "height": 41,
+          "confidence": 88.768173
+        },
+        {
+          "text": "代",
+          "left": 1040,
+          "top": 1289,
+          "width": 11,
+          "height": 37,
+          "confidence": 92.320511
+        },
+        {
+          "text": "码",
+          "left": 1058,
+          "top": 1289,
+          "width": 21,
+          "height": 38,
+          "confidence": 90.693848
+        }
+      ]
+    }
+  ]
+}

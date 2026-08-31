@@ -1,0 +1,774 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/12306-login/page-1.png",
+  "lines": [
+    {
+      "text": "此十 |",
+      "left": 127,
+      "top": 342,
+      "right": 274,
+      "bottom": 406,
+      "height": 64,
+      "confidence": 54.15672033333334,
+      "words": [
+        {
+          "text": "此",
+          "left": 127,
+          "top": 346,
+          "width": 66,
+          "height": 25,
+          "confidence": 33.946564
+        },
+        {
+          "text": "十",
+          "left": 199,
+          "top": 342,
+          "width": 40,
+          "height": 64,
+          "confidence": 68.39669
+        },
+        {
+          "text": "|",
+          "left": 255,
+          "top": 359,
+          "width": 19,
+          "height": 31,
+          "confidence": 60.126907
+        }
+      ]
+    },
+    {
+      "text": "模拟 12306 登录",
+      "left": 93,
+      "top": 346,
+      "right": 845,
+      "bottom": 447,
+      "height": 101,
+      "confidence": 88.11004424999999,
+      "words": [
+        {
+          "text": "模拟",
+          "left": 93,
+          "top": 346,
+          "width": 209,
+          "height": 101,
+          "confidence": 92.549438
+        },
+        {
+          "text": "12306",
+          "left": 319,
+          "top": 354,
+          "width": 312,
+          "height": 84,
+          "confidence": 90.663467
+        },
+        {
+          "text": "登",
+          "left": 678,
+          "top": 347,
+          "width": 65,
+          "height": 97,
+          "confidence": 76.500504
+        },
+        {
+          "text": "录",
+          "left": 784,
+          "top": 350,
+          "width": 61,
+          "height": 97,
+          "confidence": 92.726768
+        }
+      ]
+    },
+    {
+      "text": "首先, 我们通过 selenium 打开 12306 的登录页面. 并进入到账号登录",
+      "left": 91,
+      "top": 530,
+      "right": 1359,
+      "bottom": 587,
+      "height": 57,
+      "confidence": 93.77788384210525,
+      "words": [
+        {
+          "text": "首先",
+          "left": 91,
+          "top": 536,
+          "width": 95,
+          "height": 42,
+          "confidence": 93.265923
+        },
+        {
+          "text": ",",
+          "left": 176,
+          "top": 530,
+          "width": 15,
+          "height": 57,
+          "confidence": 92.928009
+        },
+        {
+          "text": "我",
+          "left": 225,
+          "top": 536,
+          "width": 44,
+          "height": 41,
+          "confidence": 92.909576
+        },
+        {
+          "text": "们",
+          "left": 272,
+          "top": 539,
+          "width": 13,
+          "height": 37,
+          "confidence": 91.865639
+        },
+        {
+          "text": "通过",
+          "left": 307,
+          "top": 536,
+          "width": 68,
+          "height": 40,
+          "confidence": 96.774124
+        },
+        {
+          "text": "selenium",
+          "left": 382,
+          "top": 536,
+          "width": 183,
+          "height": 40,
+          "confidence": 91.508629
+        },
+        {
+          "text": "打",
+          "left": 573,
+          "top": 539,
+          "width": 22,
+          "height": 37,
+          "confidence": 92.168312
+        },
+        {
+          "text": "开",
+          "left": 614,
+          "top": 539,
+          "width": 25,
+          "height": 37,
+          "confidence": 90.614792
+        },
+        {
+          "text": "12306",
+          "left": 646,
+          "top": 536,
+          "width": 129,
+          "height": 39,
+          "confidence": 92.610252
+        },
+        {
+          "text": "的",
+          "left": 782,
+          "top": 536,
+          "width": 22,
+          "height": 40,
+          "confidence": 89.792465
+        },
+        {
+          "text": "登录",
+          "left": 828,
+          "top": 537,
+          "width": 64,
+          "height": 39,
+          "confidence": 96.719299
+        },
+        {
+          "text": "页",
+          "left": 909,
+          "top": 538,
+          "width": 27,
+          "height": 38,
+          "confidence": 92.677025
+        },
+        {
+          "text": "面",
+          "left": 959,
+          "top": 538,
+          "width": 33,
+          "height": 39,
+          "confidence": 92.810738
+        },
+        {
+          "text": ".",
+          "left": 991,
+          "top": 530,
+          "width": 16,
+          "height": 57,
+          "confidence": 92.864365
+        },
+        {
+          "text": "并",
+          "left": 1027,
+          "top": 536,
+          "width": 23,
+          "height": 40,
+          "confidence": 96.965927
+        },
+        {
+          "text": "进入",
+          "left": 1073,
+          "top": 536,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.579247
+        },
+        {
+          "text": "到",
+          "left": 1152,
+          "top": 536,
+          "width": 51,
+          "height": 40,
+          "confidence": 95.256126
+        },
+        {
+          "text": "账号",
+          "left": 1205,
+          "top": 536,
+          "width": 152,
+          "height": 40,
+          "confidence": 96.526459
+        },
+        {
+          "text": "登录",
+          "left": 1294,
+          "top": 530,
+          "width": 65,
+          "height": 57,
+          "confidence": 96.942886
+        }
+      ]
+    },
+    {
+      "text": "模块",
+      "left": 91,
+      "top": 607,
+      "right": 175,
+      "bottom": 647,
+      "height": 40,
+      "confidence": 95.641235,
+      "words": [
+        {
+          "text": "模块",
+          "left": 91,
+          "top": 607,
+          "width": 84,
+          "height": 40,
+          "confidence": 95.641235
+        }
+      ]
+    },
+    {
+      "text": "1 web = Chrome()",
+      "left": 107,
+      "top": 767,
+      "right": 491,
+      "bottom": 806,
+      "height": 39,
+      "confidence": 90.652872,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 769,
+          "width": 18,
+          "height": 30,
+          "confidence": 95.368774
+        },
+        {
+          "text": "web",
+          "left": 160,
+          "top": 767,
+          "width": 69,
+          "height": 33,
+          "confidence": 96.309944
+        },
+        {
+          "text": "=",
+          "left": 256,
+          "top": 784,
+          "width": 22,
+          "height": 9,
+          "confidence": 96.108467
+        },
+        {
+          "text": "Chrome()",
+          "left": 305,
+          "top": 767,
+          "width": 186,
+          "height": 39,
+          "confidence": 74.824303
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "left": 106,
+      "top": 838,
+      "right": 124,
+      "bottom": 869,
+      "height": 31,
+      "confidence": 96.385414,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 838,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.385414
+        }
+      ]
+    },
+    {
+      "text": "3 web.getC\"https://kyfw. 12306. cn/otn/resources/Login",
+      "left": 106,
+      "top": 903,
+      "right": 1357,
+      "bottom": 952,
+      "height": 49,
+      "confidence": 52.21016875000001,
+      "words": [
+        {
+          "text": "3",
+          "left": 106,
+          "top": 908,
+          "width": 18,
+          "height": 32,
+          "confidence": 95.26564
+        },
+        {
+          "text": "web.getC\"https://kyfw.",
+          "left": 160,
+          "top": 907,
+          "width": 1197,
+          "height": 41,
+          "confidence": 88.866173
+        },
+        {
+          "text": "12306.",
+          "left": 694,
+          "top": 903,
+          "width": 135,
+          "height": 49,
+          "confidence": 12.354431
+        },
+        {
+          "text": "cn/otn/resources/Login",
+          "left": 837,
+          "top": 907,
+          "width": 520,
+          "height": 41,
+          "confidence": 12.354431
+        }
+      ]
+    },
+    {
+      "text": ".htmL”)",
+      "left": 168,
+      "top": 977,
+      "right": 323,
+      "bottom": 1016,
+      "height": 39,
+      "confidence": 31.894535,
+      "words": [
+        {
+          "text": ".htmL”)",
+          "left": 168,
+          "top": 977,
+          "width": 155,
+          "height": 39,
+          "confidence": 31.894535
+        }
+      ]
+    },
+    {
+      "text": "4",
+      "left": 104,
+      "top": 1049,
+      "right": 126,
+      "bottom": 1079,
+      "height": 30,
+      "confidence": 96.48912,
+      "words": [
+        {
+          "text": "4",
+          "left": 104,
+          "top": 1049,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.48912
+        }
+      ]
+    },
+    {
+      "text": "5 time.sleep(1)",
+      "left": 106,
+      "top": 1117,
+      "right": 467,
+      "bottom": 1157,
+      "height": 40,
+      "confidence": 71.6986885,
+      "words": [
+        {
+          "text": "5",
+          "left": 106,
+          "top": 1119,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.319366
+        },
+        {
+          "text": "time.sleep(1)",
+          "left": 161,
+          "top": 1117,
+          "width": 306,
+          "height": 40,
+          "confidence": 47.078011
+        }
+      ]
+    },
+    {
+      "text": "6 web.find_element_by_xpathC'/html/body/div[2]/div[2",
+      "left": 105,
+      "top": 1187,
+      "right": 1357,
+      "bottom": 1228,
+      "height": 41,
+      "confidence": 71.243002,
+      "words": [
+        {
+          "text": "6",
+          "left": 105,
+          "top": 1188,
+          "width": 20,
+          "height": 32,
+          "confidence": 94.83786
+        },
+        {
+          "text": "web.find_element_by_xpathC'/html/body/div[2]/div[2",
+          "left": 160,
+          "top": 1187,
+          "width": 1197,
+          "height": 41,
+          "confidence": 47.648144
+        }
+      ]
+    },
+    {
+      "text": "J/ul/1i[2]/a\").clickQ",
+      "left": 160,
+      "top": 1257,
+      "right": 683,
+      "bottom": 1296,
+      "height": 39,
+      "confidence": 39.758053,
+      "words": [
+        {
+          "text": "J/ul/1i[2]/a\").clickQ",
+          "left": 160,
+          "top": 1257,
+          "width": 523,
+          "height": 39,
+          "confidence": 39.758053
+        }
+      ]
+    },
+    {
+      "text": "7 time.sleep(i1)",
+      "left": 106,
+      "top": 1327,
+      "right": 467,
+      "bottom": 1367,
+      "height": 40,
+      "confidence": 53.037143,
+      "words": [
+        {
+          "text": "7",
+          "left": 106,
+          "top": 1329,
+          "width": 19,
+          "height": 30,
+          "confidence": 92.042809
+        },
+        {
+          "text": "time.sleep(i1)",
+          "left": 161,
+          "top": 1327,
+          "width": 306,
+          "height": 40,
+          "confidence": 14.031477
+        }
+      ]
+    },
+    {
+      "text": "找到验证码位置, 并截图, 对验证码进行解析.",
+      "left": 91,
+      "top": 1449,
+      "right": 943,
+      "bottom": 1508,
+      "height": 59,
+      "confidence": 91.46185033333333,
+      "words": [
+        {
+          "text": "找到",
+          "left": 91,
+          "top": 1453,
+          "width": 103,
+          "height": 40,
+          "confidence": 95.79686
+        },
+        {
+          "text": "验证",
+          "left": 194,
+          "top": 1453,
+          "width": 89,
+          "height": 39,
+          "confidence": 93.266876
+        },
+        {
+          "text": "码",
+          "left": 284,
+          "top": 1453,
+          "width": 40,
+          "height": 41,
+          "confidence": 92.10923
+        },
+        {
+          "text": "位",
+          "left": 330,
+          "top": 1453,
+          "width": 21,
+          "height": 38,
+          "confidence": 71.068451
+        },
+        {
+          "text": "置",
+          "left": 374,
+          "top": 1455,
+          "width": 31,
+          "height": 40,
+          "confidence": 92.205902
+        },
+        {
+          "text": ",",
+          "left": 404,
+          "top": 1449,
+          "width": 12,
+          "height": 59,
+          "confidence": 90.239967
+        },
+        {
+          "text": "并",
+          "left": 437,
+          "top": 1453,
+          "width": 26,
+          "height": 40,
+          "confidence": 97.00444
+        },
+        {
+          "text": "截图",
+          "left": 481,
+          "top": 1453,
+          "width": 68,
+          "height": 40,
+          "confidence": 93.168045
+        },
+        {
+          "text": ",",
+          "left": 559,
+          "top": 1484,
+          "width": 4,
+          "height": 11,
+          "confidence": 92.162346
+        },
+        {
+          "text": "对",
+          "left": 599,
+          "top": 1453,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.736404
+        },
+        {
+          "text": "验证",
+          "left": 640,
+          "top": 1453,
+          "width": 88,
+          "height": 39,
+          "confidence": 93.199501
+        },
+        {
+          "text": "码",
+          "left": 729,
+          "top": 1455,
+          "width": 22,
+          "height": 38,
+          "confidence": 92.47422
+        },
+        {
+          "text": "进行",
+          "left": 757,
+          "top": 1453,
+          "width": 182,
+          "height": 41,
+          "confidence": 95.485809
+        },
+        {
+          "text": "解析",
+          "left": 865,
+          "top": 1449,
+          "width": 60,
+          "height": 59,
+          "confidence": 92.465591
+        },
+        {
+          "text": ".",
+          "left": 924,
+          "top": 1449,
+          "width": 19,
+          "height": 59,
+          "confidence": 84.544113
+        }
+      ]
+    },
+    {
+      "text": "1 verify_img = web.find_element_by_xpathC'//*",
+      "left": 107,
+      "top": 1614,
+      "right": 1189,
+      "bottom": 1655,
+      "height": 41,
+      "confidence": 80.85807025,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 1616,
+          "width": 18,
+          "height": 30,
+          "confidence": 92.981293
+        },
+        {
+          "text": "verify_img",
+          "left": 160,
+          "top": 1614,
+          "width": 236,
+          "height": 41,
+          "confidence": 91.100494
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 1631,
+          "width": 22,
+          "height": 9,
+          "confidence": 96.065544
+        },
+        {
+          "text": "web.find_element_by_xpathC'//*",
+          "left": 472,
+          "top": 1614,
+          "width": 717,
+          "height": 41,
+          "confidence": 43.28495
+        }
+      ]
+    },
+    {
+      "text": "[@id=\"J-LoginImg\"]')",
+      "left": 166,
+      "top": 1684,
+      "right": 635,
+      "bottom": 1725,
+      "height": 41,
+      "confidence": 70.967346,
+      "words": [
+        {
+          "text": "[@id=\"J-LoginImg\"]')",
+          "left": 166,
+          "top": 1684,
+          "width": 469,
+          "height": 41,
+          "confidence": 70.967346
+        }
+      ]
+    },
+    {
+      "text": "2 result =",
+      "left": 106,
+      "top": 1754,
+      "right": 350,
+      "bottom": 1787,
+      "height": 33,
+      "confidence": 96.22584,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 1755,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.02198
+        },
+        {
+          "text": "result",
+          "left": 164,
+          "top": 1754,
+          "width": 136,
+          "height": 33,
+          "confidence": 95.906311
+        },
+        {
+          "text": "=",
+          "left": 328,
+          "top": 1771,
+          "width": 22,
+          "height": 9,
+          "confidence": 96.749229
+        }
+      ]
+    },
+    {
+      "text": "chaojiying.PostPic(verify_img.screenshot_as_png,",
+      "left": 162,
+      "top": 1824,
+      "right": 1304,
+      "bottom": 1865,
+      "height": 41,
+      "confidence": 60.551029,
+      "words": [
+        {
+          "text": "chaojiying.PostPic(verify_img.screenshot_as_png,",
+          "left": 162,
+          "top": 1824,
+          "width": 1142,
+          "height": 41,
+          "confidence": 60.551029
+        }
+      ]
+    },
+    {
+      "text": "9004)",
+      "left": 160,
+      "top": 1894,
+      "right": 275,
+      "bottom": 1933,
+      "height": 39,
+      "confidence": 95.318497,
+      "words": [
+        {
+          "text": "9004)",
+          "left": 160,
+          "top": 1894,
+          "width": 115,
+          "height": 39,
+          "confidence": 95.318497
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/multithreading/page-3.png",
+  "lines": [
+    {
+      "text": "1 from threading import Thread",
+      "left": 131,
+      "top": 150,
+      "right": 852,
+      "bottom": 191,
+      "height": 41,
+      "confidence": 95.87535079999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 152,
+          "width": 18,
+          "height": 30,
+          "confidence": 93.742897
+        },
+        {
+          "text": "from",
+          "left": 186,
+          "top": 150,
+          "width": 92,
+          "height": 33,
+          "confidence": 95.574745
+        },
+        {
+          "text": "threading",
+          "left": 305,
+          "top": 150,
+          "width": 211,
+          "height": 41,
+          "confidence": 96.585205
+        },
+        {
+          "text": "import",
+          "left": 546,
+          "top": 150,
+          "width": 138,
+          "height": 41,
+          "confidence": 96.688484
+        },
+        {
+          "text": "Thread",
+          "left": 712,
+          "top": 150,
+          "width": 140,
+          "height": 33,
+          "confidence": 96.785423
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "left": 130,
+      "top": 221,
+      "right": 148,
+      "bottom": 252,
+      "height": 31,
+      "confidence": 96.69812,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 221,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.69812
+        }
+      ]
+    },
+    {
+      "text": "3",
+      "left": 130,
+      "top": 291,
+      "right": 148,
+      "bottom": 323,
+      "height": 32,
+      "confidence": 96.797783,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 291,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.797783
+        }
+      ]
+    },
+    {
+      "text": "4 def func():",
+      "left": 128,
+      "top": 360,
+      "right": 438,
+      "bottom": 399,
+      "height": 39,
+      "confidence": 79.92729433333334,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 362,
+          "width": 22,
+          "height": 30,
+          "confidence": 95.971733
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 360,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.302986
+        },
+        {
+          "text": "func():",
+          "left": 282,
+          "top": 360,
+          "width": 156,
+          "height": 39,
+          "confidence": 50.507164
+        }
+      ]
+    },
+    {
+      "text": "5 for i in range(1000):",
+      "left": 130,
+      "top": 430,
+      "right": 774,
+      "bottom": 471,
+      "height": 41,
+      "confidence": 78.9862078,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 432,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.05806
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 430,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 430,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 430,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 430,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "6 printC\"func\", 1)",
+      "left": 129,
+      "top": 500,
+      "right": 755,
+      "bottom": 541,
+      "height": 41,
+      "confidence": 65.38102400000001,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 501,
+          "width": 21,
+          "height": 32,
+          "confidence": 96.912422
+        },
+        {
+          "text": "printC\"func\",",
+          "left": 378,
+          "top": 500,
+          "width": 301,
+          "height": 41,
+          "confidence": 10.403166
+        },
+        {
+          "text": "1)",
+          "left": 714,
+          "top": 500,
+          "width": 41,
+          "height": 39,
+          "confidence": 88.827484
+        }
+      ]
+    },
+    {
+      "text": "7",
+      "left": 130,
+      "top": 573,
+      "right": 149,
+      "bottom": 603,
+      "height": 30,
+      "confidence": 94.928879,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 573,
+          "width": 19,
+          "height": 30,
+          "confidence": 94.928879
+        }
+      ]
+    },
+    {
+      "text": "8",
+      "left": 130,
+      "top": 642,
+      "right": 149,
+      "bottom": 674,
+      "height": 32,
+      "confidence": 96.566376,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 642,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.566376
+        }
+      ]
+    },
+    {
+      "text": "9 if __name__ == '__main__':",
+      "left": 128,
+      "top": 711,
+      "right": 798,
+      "bottom": 746,
+      "height": 35,
+      "confidence": 81.62575900000002,
+      "words": [
+        {
+          "text": "9",
+          "left": 128,
+          "top": 712,
+          "width": 21,
+          "height": 32,
+          "confidence": 94.549637
+        },
+        {
+          "text": "if",
+          "left": 186,
+          "top": 711,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.352325
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 721,
+          "width": 190,
+          "height": 25,
+          "confidence": 87.335464
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 727,
+          "width": 46,
+          "height": 10,
+          "confidence": 93.278671
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 711,
+          "width": 246,
+          "height": 35,
+          "confidence": 40.612698
+        }
+      ]
+    },
+    {
+      "text": "10 t = ThreadCtarget=func)",
+      "left": 107,
+      "top": 781,
+      "right": 827,
+      "bottom": 822,
+      "height": 41,
+      "confidence": 77.60193125,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 782,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.258629
+        },
+        {
+          "text": "t",
+          "left": 281,
+          "top": 784,
+          "width": 19,
+          "height": 30,
+          "confidence": 90.968399
+        },
+        {
+          "text": "=",
+          "left": 328,
+          "top": 797,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.225182
+        },
+        {
+          "text": "ThreadCtarget=func)",
+          "left": 376,
+          "top": 781,
+          "width": 451,
+          "height": 41,
+          "confidence": 30.955515
+        }
+      ]
+    },
+    {
+      "text": "11 t.startQ",
+      "left": 107,
+      "top": 851,
+      "right": 491,
+      "bottom": 890,
+      "height": 39,
+      "confidence": 80.17459099999999,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 853,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.520012
+        },
+        {
+          "text": "t.startQ",
+          "left": 281,
+          "top": 851,
+          "width": 210,
+          "height": 39,
+          "confidence": 63.82917
+        }
+      ]
+    },
+    {
+      "text": "12 for i in range(1000):",
+      "left": 107,
+      "top": 921,
+      "right": 774,
+      "bottom": 962,
+      "height": 41,
+      "confidence": 79.1206164,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 922,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.730103
+        },
+        {
+          "text": "for",
+          "left": 282,
+          "top": 921,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.236443
+        },
+        {
+          "text": "i",
+          "left": 378,
+          "top": 921,
+          "width": 16,
+          "height": 32,
+          "confidence": 93.335991
+        },
+        {
+          "text": "in",
+          "left": 426,
+          "top": 921,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.904343
+        },
+        {
+          "text": "range(1000):",
+          "left": 500,
+          "top": 921,
+          "width": 274,
+          "height": 41,
+          "confidence": 17.396202
+        }
+      ]
+    },
+    {
+      "text": "13 printC\"main\", i)",
+      "left": 107,
+      "top": 991,
+      "right": 755,
+      "bottom": 1032,
+      "height": 41,
+      "confidence": 78.21782933333333,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 992,
+          "width": 41,
+          "height": 32,
+          "confidence": 96.278336
+        },
+        {
+          "text": "printC\"main\",",
+          "left": 378,
+          "top": 991,
+          "width": 301,
+          "height": 41,
+          "confidence": 45.432571
+        },
+        {
+          "text": "i)",
+          "left": 714,
+          "top": 991,
+          "width": 41,
+          "height": 39,
+          "confidence": 92.942581
+        }
+      ]
+    }
+  ]
+}

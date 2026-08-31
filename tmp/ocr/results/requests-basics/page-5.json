@@ -1,0 +1,1031 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/requests-basics/page-5.png",
+  "lines": [
+    {
+      "text": "1 # 案例 3: MPG",
+      "left": 131,
+      "top": 145,
+      "right": 622,
+      "bottom": 198,
+      "height": 53,
+      "confidence": 59.908383400000005,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 152,
+          "width": 18,
+          "height": 30,
+          "confidence": 78.991913
+        },
+        {
+          "text": "#",
+          "left": 184,
+          "top": 152,
+          "width": 22,
+          "height": 30,
+          "confidence": 78.991913
+        },
+        {
+          "text": "案例",
+          "left": 242,
+          "top": 149,
+          "width": 84,
+          "height": 37,
+          "confidence": 93.774651
+        },
+        {
+          "text": "3:",
+          "left": 325,
+          "top": 145,
+          "width": 25,
+          "height": 53,
+          "confidence": 47.78344
+        },
+        {
+          "text": "MPG",
+          "left": 385,
+          "top": 149,
+          "width": 237,
+          "height": 37,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "2 url = ‘https://movie.douban.com/j/chart/top_list'",
+      "left": 130,
+      "top": 220,
+      "right": 1351,
+      "bottom": 261,
+      "height": 41,
+      "confidence": 87.00044824999999,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 221,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.880974
+        },
+        {
+          "text": "url",
+          "left": 186,
+          "top": 220,
+          "width": 65,
+          "height": 33,
+          "confidence": 94.745964
+        },
+        {
+          "text": "=",
+          "left": 280,
+          "top": 236,
+          "width": 22,
+          "height": 11,
+          "confidence": 92.68454
+        },
+        {
+          "text": "‘https://movie.douban.com/j/chart/top_list'",
+          "left": 336,
+          "top": 220,
+          "width": 1015,
+          "height": 41,
+          "confidence": 64.690315
+        }
+      ]
+    },
+    {
+      "text": "3 param = {",
+      "left": 130,
+      "top": 290,
+      "right": 397,
+      "bottom": 331,
+      "height": 41,
+      "confidence": 93.135246,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 291,
+          "width": 18,
+          "height": 32,
+          "confidence": 94.119781
+        },
+        {
+          "text": "param",
+          "left": 186,
+          "top": 299,
+          "width": 116,
+          "height": 32,
+          "confidence": 94.119781
+        },
+        {
+          "text": "=",
+          "left": 328,
+          "top": 306,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.297455
+        },
+        {
+          "text": "{",
+          "left": 379,
+          "top": 290,
+          "width": 18,
+          "height": 39,
+          "confidence": 91.003967
+        }
+      ]
+    },
+    {
+      "text": "4 type':\n5\t1\t1\t3\t1\t3\t480\t360\t103\t40\t53.612450\t'24,",
+      "left": 128,
+      "top": 360,
+      "right": 438,
+      "bottom": 401,
+      "height": 41,
+      "confidence": 91.912182,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 362,
+          "width": 22,
+          "height": 30,
+          "confidence": 97.004257
+        },
+        {
+          "text": "type':\n5\t1\t1\t3\t1\t3\t480\t360\t103\t40\t53.612450\t'24,",
+          "left": 288,
+          "top": 360,
+          "width": 150,
+          "height": 41,
+          "confidence": 86.820107
+        }
+      ]
+    },
+    {
+      "text": "5 interval_id':\n5\t1\t1\t4\t1\t3\t648\t430\t199\t40\t85.529785\t'100:90',\n3\t1\t1\t5\t0\t0\t129\t500\t430\t40\t-1\t\n4\t1\t1\t5\t1\t0\t129\t500\t430\t40\t-1\t\n5\t1\t1\t5\t1\t1\t129\t501\t21\t32\t96.912422\t6\n5\t1\t1\t5\t1\t2\t288\t500\t271\t40\t32.262482\t‘action':'',\n3\t1\t1\t6\t0\t0\t130\t570\t924\t41\t-1\t\n4\t1\t1\t6\t1\t0\t130\t570\t924\t41\t-1\t\n5\t1\t1\t6\t1\t1\t130\t573\t19\t30\t96.594185\t7\n5\t1\t1\t6\t1\t2\t288\t571\t174\t33\t65.446533\tstart':",
+      "left": 130,
+      "top": 430,
+      "right": 606,
+      "bottom": 465,
+      "height": 35,
+      "confidence": 86.32771299999999,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 432,
+          "width": 19,
+          "height": 31,
+          "confidence": 95.246529
+        },
+        {
+          "text": "interval_id':\n5\t1\t1\t4\t1\t3\t648\t430\t199\t40\t85.529785\t'100:90',\n3\t1\t1\t5\t0\t0\t129\t500\t430\t40\t-1\t\n4\t1\t1\t5\t1\t0\t129\t500\t430\t40\t-1\t\n5\t1\t1\t5\t1\t1\t129\t501\t21\t32\t96.912422\t6\n5\t1\t1\t5\t1\t2\t288\t500\t271\t40\t32.262482\t‘action':'',\n3\t1\t1\t6\t0\t0\t130\t570\t924\t41\t-1\t\n4\t1\t1\t6\t1\t0\t130\t570\t924\t41\t-1\t\n5\t1\t1\t6\t1\t1\t130\t573\t19\t30\t96.594185\t7\n5\t1\t1\t6\t1\t2\t288\t571\t174\t33\t65.446533\tstart':",
+          "left": 288,
+          "top": 430,
+          "width": 318,
+          "height": 35,
+          "confidence": 77.408897
+        }
+      ]
+    },
+    {
+      "text": "'Q',# 从库中的第几部电影去取",
+      "left": 504,
+      "top": 565,
+      "right": 1054,
+      "bottom": 616,
+      "height": 51,
+      "confidence": 85.83644266666666,
+      "words": [
+        {
+          "text": "'Q'",
+          "left": 504,
+          "top": 571,
+          "width": 54,
+          "height": 33,
+          "confidence": 29.193684
+        },
+        {
+          "text": ",#",
+          "left": 575,
+          "top": 573,
+          "width": 39,
+          "height": 38,
+          "confidence": 87.495422
+        },
+        {
+          "text": "从",
+          "left": 625,
+          "top": 570,
+          "width": 29,
+          "height": 36,
+          "confidence": 92.079834
+        },
+        {
+          "text": "库",
+          "left": 669,
+          "top": 570,
+          "width": 25,
+          "height": 37,
+          "confidence": 91.652603
+        },
+        {
+          "text": "中",
+          "left": 711,
+          "top": 570,
+          "width": 39,
+          "height": 37,
+          "confidence": 78.337372
+        },
+        {
+          "text": "的",
+          "left": 753,
+          "top": 570,
+          "width": 20,
+          "height": 37,
+          "confidence": 96.446373
+        },
+        {
+          "text": "第",
+          "left": 790,
+          "top": 570,
+          "width": 24,
+          "height": 37,
+          "confidence": 93.297318
+        },
+        {
+          "text": "几",
+          "left": 829,
+          "top": 570,
+          "width": 42,
+          "height": 37,
+          "confidence": 90.932678
+        },
+        {
+          "text": "部",
+          "left": 880,
+          "top": 572,
+          "width": 13,
+          "height": 35,
+          "confidence": 90.372429
+        },
+        {
+          "text": "电影",
+          "left": 911,
+          "top": 570,
+          "width": 87,
+          "height": 37,
+          "confidence": 94.364014
+        },
+        {
+          "text": "去",
+          "left": 998,
+          "top": 565,
+          "width": 32,
+          "height": 51,
+          "confidence": 93.254768
+        },
+        {
+          "text": "取",
+          "left": 1029,
+          "top": 572,
+          "width": 25,
+          "height": 35,
+          "confidence": 92.610817
+        }
+      ]
+    },
+    {
+      "text": "8 Limit':\n5\t1\t1\t7\t1\t3\t504\t641\t78\t33\t63.198349\t'20'\n5\t1\t1\t7\t1\t4\t599\t643\t39\t38\t72.587631\t,#\n5\t1\t1\t7\t1\t5\t651\t642\t40\t34\t91.779976\t一\n5\t1\t1\t7\t1\t6\t700\t640\t18\t37\t96.440407\t次\n5\t1\t1\t7\t1\t7\t722\t640\t196\t37\t96.820900\t取出\n5\t1\t1\t7\t1\t8\t817\t636\t39\t52\t96.654037\t的\n5\t1\t1\t7\t1\t9\t856\t636\t39\t52\t93.224289\t个\n5\t1\t1\t7\t1\t10\t895\t636\t26\t52\t92.873245\t数\n3\t1\t1\t8\t0\t0\t128\t711\t75\t39\t-1\t\n4\t1\t1\t8\t1\t0\t128\t711\t75\t39\t-1\t\n5\t1\t1\t8\t1\t1\t128\t712\t21\t32\t91.786453\t9\n5\t1\t1\t8\t1\t2\t185\t711\t18\t39\t79.986267\t}\n3\t1\t1\t9\t0\t0\t107\t781\t338\t39\t-1\t\n4\t1\t1\t9\t1\t0\t107\t781\t338\t39\t-1\t\n5\t1\t1\t9\t1\t1\t107\t782\t43\t32\t92.679649\t10\n5\t1\t1\t9\t1\t2\t186\t781\t162\t33\t96.060760\theaders\n5\t1\t1\t9\t1\t3\t376\t797\t22\t11\t92.424721\t=\n5\t1\t1\t9\t1\t4\t427\t781\t18\t39\t90.577187\t{\n3\t1\t1\t10\t0\t0\t107\t851\t1251\t179\t-1\t\n4\t1\t1\t10\t1\t0\t107\t851\t1224\t41\t-1\t\n5\t1\t1\t10\t1\t1\t107\t853\t42\t30\t96.926651\t11\n5\t1\t1\t10\t1\t2\t288\t851\t294\t41\t85.826111\tUser-Agent':",
+      "left": 130,
+      "top": 641,
+      "right": 462,
+      "bottom": 674,
+      "height": 33,
+      "confidence": 82.577278,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 642,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.760727
+        },
+        {
+          "text": "Limit':\n5\t1\t1\t7\t1\t3\t504\t641\t78\t33\t63.198349\t'20'\n5\t1\t1\t7\t1\t4\t599\t643\t39\t38\t72.587631\t,#\n5\t1\t1\t7\t1\t5\t651\t642\t40\t34\t91.779976\t一\n5\t1\t1\t7\t1\t6\t700\t640\t18\t37\t96.440407\t次\n5\t1\t1\t7\t1\t7\t722\t640\t196\t37\t96.820900\t取出\n5\t1\t1\t7\t1\t8\t817\t636\t39\t52\t96.654037\t的\n5\t1\t1\t7\t1\t9\t856\t636\t39\t52\t93.224289\t个\n5\t1\t1\t7\t1\t10\t895\t636\t26\t52\t92.873245\t数\n3\t1\t1\t8\t0\t0\t128\t711\t75\t39\t-1\t\n4\t1\t1\t8\t1\t0\t128\t711\t75\t39\t-1\t\n5\t1\t1\t8\t1\t1\t128\t712\t21\t32\t91.786453\t9\n5\t1\t1\t8\t1\t2\t185\t711\t18\t39\t79.986267\t}\n3\t1\t1\t9\t0\t0\t107\t781\t338\t39\t-1\t\n4\t1\t1\t9\t1\t0\t107\t781\t338\t39\t-1\t\n5\t1\t1\t9\t1\t1\t107\t782\t43\t32\t92.679649\t10\n5\t1\t1\t9\t1\t2\t186\t781\t162\t33\t96.060760\theaders\n5\t1\t1\t9\t1\t3\t376\t797\t22\t11\t92.424721\t=\n5\t1\t1\t9\t1\t4\t427\t781\t18\t39\t90.577187\t{\n3\t1\t1\t10\t0\t0\t107\t851\t1251\t179\t-1\t\n4\t1\t1\t10\t1\t0\t107\t851\t1224\t41\t-1\t\n5\t1\t1\t10\t1\t1\t107\t853\t42\t30\t96.926651\t11\n5\t1\t1\t10\t1\t2\t288\t851\t294\t41\t85.826111\tUser-Agent':",
+          "left": 288,
+          "top": 641,
+          "width": 174,
+          "height": 33,
+          "confidence": 68.393829
+        }
+      ]
+    },
+    {
+      "text": "'Mozilla/5.Q@ (Macintosh; Intel",
+      "left": 624,
+      "top": 851,
+      "right": 1331,
+      "bottom": 891,
+      "height": 40,
+      "confidence": 56.59198466666667,
+      "words": [
+        {
+          "text": "'Mozilla/5.Q@",
+          "left": 624,
+          "top": 851,
+          "width": 279,
+          "height": 33,
+          "confidence": 42.979126
+        },
+        {
+          "text": "(Macintosh;",
+          "left": 932,
+          "top": 851,
+          "width": 252,
+          "height": 40,
+          "confidence": 31.681433
+        },
+        {
+          "text": "Intel",
+          "left": 1219,
+          "top": 851,
+          "width": 112,
+          "height": 33,
+          "confidence": 95.115395
+        }
+      ]
+    },
+    {
+      "text": "Mac OS X 10_12_0) AppleWebKit/537.36 CKHTML, Like",
+      "left": 184,
+      "top": 921,
+      "right": 1358,
+      "bottom": 962,
+      "height": 41,
+      "confidence": 85.61428671428571,
+      "words": [
+        {
+          "text": "Mac",
+          "left": 184,
+          "top": 923,
+          "width": 68,
+          "height": 31,
+          "confidence": 95.894226
+        },
+        {
+          "text": "OS",
+          "left": 280,
+          "top": 922,
+          "width": 45,
+          "height": 32,
+          "confidence": 92.536781
+        },
+        {
+          "text": "X",
+          "left": 352,
+          "top": 923,
+          "width": 22,
+          "height": 30,
+          "confidence": 91.965187
+        },
+        {
+          "text": "10_12_0)",
+          "left": 403,
+          "top": 921,
+          "width": 184,
+          "height": 39,
+          "confidence": 63.046841
+        },
+        {
+          "text": "AppleWebKit/537.36",
+          "left": 616,
+          "top": 921,
+          "width": 431,
+          "height": 41,
+          "confidence": 87.229446
+        },
+        {
+          "text": "CKHTML,",
+          "left": 1076,
+          "top": 921,
+          "width": 156,
+          "height": 40,
+          "confidence": 92.10833
+        },
+        {
+          "text": "Like",
+          "left": 1266,
+          "top": 921,
+          "width": 92,
+          "height": 33,
+          "confidence": 76.519196
+        }
+      ]
+    },
+    {
+      "text": "Gecko) Chrome/72.0.3626.121 Safari/537.36'",
+      "left": 185,
+      "top": 991,
+      "right": 1183,
+      "bottom": 1030,
+      "height": 39,
+      "confidence": 87.86736033333334,
+      "words": [
+        {
+          "text": "Gecko)",
+          "left": 185,
+          "top": 991,
+          "width": 138,
+          "height": 39,
+          "confidence": 93.164543
+        },
+        {
+          "text": "Chrome/72.0.3626.121",
+          "left": 353,
+          "top": 991,
+          "width": 476,
+          "height": 33,
+          "confidence": 81.526237
+        },
+        {
+          "text": "Safari/537.36'",
+          "left": 858,
+          "top": 991,
+          "width": 325,
+          "height": 33,
+          "confidence": 88.911301
+        }
+      ]
+    },
+    {
+      "text": "12",
+      "left": 107,
+      "top": 1062,
+      "right": 148,
+      "bottom": 1093,
+      "height": 31,
+      "confidence": 96.594666,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 1062,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.594666
+        }
+      ]
+    },
+    {
+      "text": "13}",
+      "left": 107,
+      "top": 1131,
+      "right": 203,
+      "bottom": 1170,
+      "height": 39,
+      "confidence": 90.188339,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 1132,
+          "width": 41,
+          "height": 32,
+          "confidence": 90.188339
+        },
+        {
+          "text": "}",
+          "left": 185,
+          "top": 1131,
+          "width": 18,
+          "height": 39,
+          "confidence": 90.188339
+        }
+      ]
+    },
+    {
+      "text": "14 response =",
+      "left": 107,
+      "top": 1203,
+      "right": 422,
+      "bottom": 1242,
+      "height": 39,
+      "confidence": 95.13379133333332,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 1203,
+          "width": 43,
+          "height": 30,
+          "confidence": 94.218719
+        },
+        {
+          "text": "response",
+          "left": 188,
+          "top": 1210,
+          "width": 185,
+          "height": 32,
+          "confidence": 94.218719
+        },
+        {
+          "text": "=",
+          "left": 400,
+          "top": 1217,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.963936
+        }
+      ]
+    },
+    {
+      "text": "requests.get(Curl=url, params=param,headers=headers",
+      "left": 188,
+      "top": 1267,
+      "right": 1357,
+      "bottom": 1317,
+      "height": 50,
+      "confidence": 59.53418466666667,
+      "words": [
+        {
+          "text": "requests.get(Curl=url",
+          "left": 188,
+          "top": 1271,
+          "width": 1169,
+          "height": 41,
+          "confidence": 12.248764
+        },
+        {
+          "text": ",",
+          "left": 671,
+          "top": 1267,
+          "width": 18,
+          "height": 50,
+          "confidence": 83.176895
+        },
+        {
+          "text": "params=param,headers=headers",
+          "left": 704,
+          "top": 1271,
+          "width": 653,
+          "height": 41,
+          "confidence": 83.176895
+        }
+      ]
+    },
+    {
+      "text": ")",
+      "left": 186,
+      "top": 1341,
+      "right": 203,
+      "bottom": 1380,
+      "height": 39,
+      "confidence": 82.797569,
+      "words": [
+        {
+          "text": ")",
+          "left": 186,
+          "top": 1341,
+          "width": 17,
+          "height": 39,
+          "confidence": 82.797569
+        }
+      ]
+    },
+    {
+      "text": "15",
+      "left": 107,
+      "top": 1413,
+      "right": 149,
+      "bottom": 1444,
+      "height": 31,
+      "confidence": 96.853302,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 1413,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.853302
+        }
+      ]
+    },
+    {
+      "text": "16 List_data = response. json()",
+      "left": 107,
+      "top": 1481,
+      "right": 827,
+      "bottom": 1522,
+      "height": 41,
+      "confidence": 61.429028200000005,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 1482,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.275284
+        },
+        {
+          "text": "List_data",
+          "left": 185,
+          "top": 1481,
+          "width": 212,
+          "height": 35,
+          "confidence": 74.798645
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 1497,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.903946
+        },
+        {
+          "text": "response.",
+          "left": 476,
+          "top": 1490,
+          "width": 202,
+          "height": 32,
+          "confidence": 21.583633
+        },
+        {
+          "text": "json()",
+          "left": 691,
+          "top": 1481,
+          "width": 136,
+          "height": 41,
+          "confidence": 21.583633
+        }
+      ]
+    },
+    {
+      "text": "17",
+      "left": 107,
+      "top": 1554,
+      "right": 149,
+      "bottom": 1584,
+      "height": 30,
+      "confidence": 96.696381,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 1554,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.696381
+        }
+      ]
+    },
+    {
+      "text": "18 fp = openC'./douban. json\", 'w',encoding='utf-8\")",
+      "left": 107,
+      "top": 1618,
+      "right": 1312,
+      "bottom": 1668,
+      "height": 50,
+      "confidence": 70.23310137499999,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 1623,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.111877
+        },
+        {
+          "text": "fp",
+          "left": 186,
+          "top": 1622,
+          "width": 43,
+          "height": 41,
+          "confidence": 95.111877
+        },
+        {
+          "text": "=",
+          "left": 256,
+          "top": 1638,
+          "width": 22,
+          "height": 11,
+          "confidence": 88.877693
+        },
+        {
+          "text": "openC'./douban.",
+          "left": 305,
+          "top": 1622,
+          "width": 1003,
+          "height": 41,
+          "confidence": 47.069305
+        },
+        {
+          "text": "json\",",
+          "left": 665,
+          "top": 1618,
+          "width": 134,
+          "height": 50,
+          "confidence": 56.559071
+        },
+        {
+          "text": "'w'",
+          "left": 815,
+          "top": 1618,
+          "width": 59,
+          "height": 50,
+          "confidence": 90.389908
+        },
+        {
+          "text": ",encoding='utf-8\"",
+          "left": 890,
+          "top": 1622,
+          "width": 384,
+          "height": 41,
+          "confidence": 44.37254
+        },
+        {
+          "text": ")",
+          "left": 1290,
+          "top": 1618,
+          "width": 22,
+          "height": 50,
+          "confidence": 44.37254
+        }
+      ]
+    },
+    {
+      "text": "19 json.dump(list_data, fp=fp,ensure_ascii=False)",
+      "left": 107,
+      "top": 1688,
+      "right": 1260,
+      "bottom": 1737,
+      "height": 49,
+      "confidence": 71.64553566666667,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 1693,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.780632
+        },
+        {
+          "text": "json.dump(list_data,",
+          "left": 186,
+          "top": 1688,
+          "width": 465,
+          "height": 49,
+          "confidence": 60.416954
+        },
+        {
+          "text": "fp=fp,ensure_ascii=False)",
+          "left": 670,
+          "top": 1692,
+          "width": 590,
+          "height": 41,
+          "confidence": 62.739021
+        }
+      ]
+    },
+    {
+      "text": "20 printC'over!!!\")",
+      "left": 106,
+      "top": 1762,
+      "right": 563,
+      "bottom": 1803,
+      "height": 41,
+      "confidence": 71.1086995,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 1763,
+          "width": 44,
+          "height": 32,
+          "confidence": 88.251785
+        },
+        {
+          "text": "printC'over!!!\")",
+          "left": 186,
+          "top": 1762,
+          "width": 377,
+          "height": 41,
+          "confidence": 53.965614
+        }
+      ]
+    },
+    {
+      "text": "OK~ 本章和本小节的内容就这么多了. 简单回顾一下本章内容",
+      "left": 90,
+      "top": 1884,
+      "right": 1270,
+      "bottom": 1943,
+      "height": 59,
+      "confidence": 92.73784950000002,
+      "words": [
+        {
+          "text": "OK~",
+          "left": 90,
+          "top": 1892,
+          "width": 85,
+          "height": 33,
+          "confidence": 87.557922
+        },
+        {
+          "text": "本",
+          "left": 204,
+          "top": 1888,
+          "width": 28,
+          "height": 41,
+          "confidence": 91.598846
+        },
+        {
+          "text": "章",
+          "left": 255,
+          "top": 1888,
+          "width": 42,
+          "height": 40,
+          "confidence": 84.530006
+        },
+        {
+          "text": "和",
+          "left": 301,
+          "top": 1891,
+          "width": 17,
+          "height": 36,
+          "confidence": 93.042816
+        },
+        {
+          "text": "本",
+          "left": 329,
+          "top": 1888,
+          "width": 50,
+          "height": 41,
+          "confidence": 96.39312
+        },
+        {
+          "text": "小",
+          "left": 381,
+          "top": 1888,
+          "width": 27,
+          "height": 40,
+          "confidence": 93.150742
+        },
+        {
+          "text": "节",
+          "left": 425,
+          "top": 1888,
+          "width": 45,
+          "height": 40,
+          "confidence": 85.919426
+        },
+        {
+          "text": "的",
+          "left": 473,
+          "top": 1888,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.953224
+        },
+        {
+          "text": "内",
+          "left": 510,
+          "top": 1888,
+          "width": 28,
+          "height": 41,
+          "confidence": 93.281387
+        },
+        {
+          "text": "容",
+          "left": 554,
+          "top": 1888,
+          "width": 56,
+          "height": 41,
+          "confidence": 91.759239
+        },
+        {
+          "text": "就",
+          "left": 613,
+          "top": 1888,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.82386
+        },
+        {
+          "text": "这",
+          "left": 677,
+          "top": 1888,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.166489
+        },
+        {
+          "text": "么",
+          "left": 723,
+          "top": 1888,
+          "width": 24,
+          "height": 40,
+          "confidence": 91.225319
+        },
+        {
+          "text": "多",
+          "left": 746,
+          "top": 1884,
+          "width": 34,
+          "height": 59,
+          "confidence": 96.924103
+        },
+        {
+          "text": "了",
+          "left": 779,
+          "top": 1890,
+          "width": 22,
+          "height": 38,
+          "confidence": 93.293785
+        },
+        {
+          "text": ".",
+          "left": 810,
+          "top": 1919,
+          "width": 6,
+          "height": 5,
+          "confidence": 92.050766
+        },
+        {
+          "text": "简单",
+          "left": 845,
+          "top": 1888,
+          "width": 97,
+          "height": 41,
+          "confidence": 95.907272
+        },
+        {
+          "text": "回顾",
+          "left": 965,
+          "top": 1890,
+          "width": 66,
+          "height": 39,
+          "confidence": 96.809769
+        },
+        {
+          "text": "一",
+          "left": 1053,
+          "top": 1890,
+          "width": 22,
+          "height": 39,
+          "confidence": 96.640182
+        },
+        {
+          "text": "下",
+          "left": 1074,
+          "top": 1884,
+          "width": 38,
+          "height": 59,
+          "confidence": 96.632515
+        },
+        {
+          "text": "本",
+          "left": 1111,
+          "top": 1888,
+          "width": 27,
+          "height": 41,
+          "confidence": 92.846817
+        },
+        {
+          "text": "章",
+          "left": 1155,
+          "top": 1888,
+          "width": 27,
+          "height": 40,
+          "confidence": 88.016449
+        },
+        {
+          "text": "内",
+          "left": 1199,
+          "top": 1888,
+          "width": 25,
+          "height": 41,
+          "confidence": 93.172928
+        },
+        {
+          "text": "容",
+          "left": 1236,
+          "top": 1888,
+          "width": 34,
+          "height": 41,
+          "confidence": 92.011406
+        }
+      ]
+    }
+  ]
+}

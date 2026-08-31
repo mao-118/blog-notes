@@ -1,0 +1,3201 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/http-protocol/page-2.png",
+  "lines": [
+    {
+      "text": "响应:",
+      "left": 92,
+      "top": 122,
+      "right": 190,
+      "bottom": 182,
+      "height": 60,
+      "confidence": 91.9169005,
+      "words": [
+        {
+          "text": "响应",
+          "left": 92,
+          "top": 126,
+          "width": 94,
+          "height": 40,
+          "confidence": 93.04232
+        },
+        {
+          "text": ":",
+          "left": 174,
+          "top": 122,
+          "width": 16,
+          "height": 60,
+          "confidence": 90.791481
+        }
+      ]
+    },
+    {
+      "text": "1 状态行 -> th TS",
+      "left": 107,
+      "top": 281,
+      "right": 591,
+      "bottom": 333,
+      "height": 52,
+      "confidence": 75.202767,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 288,
+          "width": 18,
+          "height": 30,
+          "confidence": 90.85363
+        },
+        {
+          "text": "状态",
+          "left": 161,
+          "top": 285,
+          "width": 116,
+          "height": 37,
+          "confidence": 85.902855
+        },
+        {
+          "text": "行",
+          "left": 265,
+          "top": 281,
+          "width": 33,
+          "height": 52,
+          "confidence": 92.359055
+        },
+        {
+          "text": "->",
+          "left": 307,
+          "top": 297,
+          "width": 42,
+          "height": 21,
+          "confidence": 81.448967
+        },
+        {
+          "text": "th",
+          "left": 387,
+          "top": 298,
+          "width": 43,
+          "height": 22,
+          "confidence": 48.993114
+        },
+        {
+          "text": "TS",
+          "left": 522,
+          "top": 307,
+          "width": 69,
+          "height": 14,
+          "confidence": 51.658981
+        }
+      ]
+    },
+    {
+      "text": "状态行协议状态码",
+      "left": 161,
+      "top": 281,
+      "right": 601,
+      "bottom": 337,
+      "height": 56,
+      "confidence": 93.64387959999999,
+      "words": [
+        {
+          "text": "状态",
+          "left": 161,
+          "top": 290,
+          "width": 91,
+          "height": 11,
+          "confidence": 93.220062
+        },
+        {
+          "text": "行",
+          "left": 256,
+          "top": 288,
+          "width": 19,
+          "height": 3,
+          "confidence": 92.745384
+        },
+        {
+          "text": "协议",
+          "left": 377,
+          "top": 286,
+          "width": 77,
+          "height": 36,
+          "confidence": 96.090935
+        },
+        {
+          "text": "状态",
+          "left": 481,
+          "top": 285,
+          "width": 116,
+          "height": 37,
+          "confidence": 93.26326
+        },
+        {
+          "text": "码",
+          "left": 572,
+          "top": 281,
+          "width": 29,
+          "height": 56,
+          "confidence": 92.899757
+        }
+      ]
+    },
+    {
+      "text": "2 响应头 -> 放一些客户端 9 一些附加信息",
+      "left": 106,
+      "top": 351,
+      "right": 1014,
+      "bottom": 405,
+      "height": 54,
+      "confidence": 90.00583793333332,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 357,
+          "width": 18,
+          "height": 31,
+          "confidence": 94.262329
+        },
+        {
+          "text": "响应",
+          "left": 162,
+          "top": 355,
+          "width": 115,
+          "height": 37,
+          "confidence": 92.795914
+        },
+        {
+          "text": "头",
+          "left": 264,
+          "top": 351,
+          "width": 31,
+          "height": 54,
+          "confidence": 92.516426
+        },
+        {
+          "text": "->",
+          "left": 328,
+          "top": 367,
+          "width": 21,
+          "height": 21,
+          "confidence": 91.617401
+        },
+        {
+          "text": "放",
+          "left": 377,
+          "top": 355,
+          "width": 36,
+          "height": 37,
+          "confidence": 91.405334
+        },
+        {
+          "text": "一",
+          "left": 429,
+          "top": 351,
+          "width": 45,
+          "height": 54,
+          "confidence": 92.733063
+        },
+        {
+          "text": "些",
+          "left": 473,
+          "top": 380,
+          "width": 15,
+          "height": 3,
+          "confidence": 92.383606
+        },
+        {
+          "text": "客户",
+          "left": 513,
+          "top": 355,
+          "width": 77,
+          "height": 37,
+          "confidence": 69.985031
+        },
+        {
+          "text": "端",
+          "left": 594,
+          "top": 369,
+          "width": 20,
+          "height": 23,
+          "confidence": 87.281784
+        },
+        {
+          "text": "9",
+          "left": 757,
+          "top": 372,
+          "width": 8,
+          "height": 10,
+          "confidence": 75.057487
+        },
+        {
+          "text": "一",
+          "left": 790,
+          "top": 351,
+          "width": 44,
+          "height": 54,
+          "confidence": 92.593246
+        },
+        {
+          "text": "些",
+          "left": 834,
+          "top": 380,
+          "width": 15,
+          "height": 3,
+          "confidence": 93.08828
+        },
+        {
+          "text": "附",
+          "left": 879,
+          "top": 371,
+          "width": 6,
+          "height": 11,
+          "confidence": 91.650696
+        },
+        {
+          "text": "加",
+          "left": 911,
+          "top": 351,
+          "width": 35,
+          "height": 54,
+          "confidence": 96.403732
+        },
+        {
+          "text": "信息",
+          "left": 951,
+          "top": 378,
+          "width": 63,
+          "height": 14,
+          "confidence": 96.31324
+        }
+      ]
+    },
+    {
+      "text": "头 -> 放一些客户端要使用的一些附加信息",
+      "left": 244,
+      "top": 351,
+      "right": 1009,
+      "bottom": 407,
+      "height": 56,
+      "confidence": 90.5995824,
+      "words": [
+        {
+          "text": "头",
+          "left": 244,
+          "top": 358,
+          "width": 13,
+          "height": 13,
+          "confidence": 93.078552
+        },
+        {
+          "text": "->",
+          "left": 307,
+          "top": 374,
+          "width": 16,
+          "height": 3,
+          "confidence": 92.981873
+        },
+        {
+          "text": "放",
+          "left": 383,
+          "top": 351,
+          "width": 46,
+          "height": 56,
+          "confidence": 92.60775
+        },
+        {
+          "text": "一",
+          "left": 417,
+          "top": 355,
+          "width": 76,
+          "height": 36,
+          "confidence": 93.078346
+        },
+        {
+          "text": "些",
+          "left": 471,
+          "top": 351,
+          "width": 42,
+          "height": 56,
+          "confidence": 90.690186
+        },
+        {
+          "text": "客户",
+          "left": 513,
+          "top": 351,
+          "width": 77,
+          "height": 56,
+          "confidence": 76.847168
+        },
+        {
+          "text": "端",
+          "left": 593,
+          "top": 355,
+          "width": 19,
+          "height": 11,
+          "confidence": 90.892136
+        },
+        {
+          "text": "要",
+          "left": 632,
+          "top": 355,
+          "width": 36,
+          "height": 37,
+          "confidence": 73.581024
+        },
+        {
+          "text": "使",
+          "left": 677,
+          "top": 355,
+          "width": 39,
+          "height": 37,
+          "confidence": 96.588272
+        },
+        {
+          "text": "用",
+          "left": 739,
+          "top": 355,
+          "width": 12,
+          "height": 36,
+          "confidence": 96.999786
+        },
+        {
+          "text": "的",
+          "left": 753,
+          "top": 355,
+          "width": 20,
+          "height": 36,
+          "confidence": 96.962067
+        },
+        {
+          "text": "一",
+          "left": 793,
+          "top": 355,
+          "width": 42,
+          "height": 22,
+          "confidence": 93.221214
+        },
+        {
+          "text": "些",
+          "left": 835,
+          "top": 355,
+          "width": 42,
+          "height": 37,
+          "confidence": 92.648651
+        },
+        {
+          "text": "附加",
+          "left": 878,
+          "top": 355,
+          "width": 96,
+          "height": 37,
+          "confidence": 82.149963
+        },
+        {
+          "text": "信息",
+          "left": 984,
+          "top": 355,
+          "width": 25,
+          "height": 23,
+          "confidence": 96.666748
+        }
+      ]
+    },
+    {
+      "text": "应务器返客户端要用的内容 (HTML, json) 等",
+      "left": 201,
+      "top": 473,
+      "right": 1318,
+      "bottom": 542,
+      "height": 69,
+      "confidence": 87.1657532,
+      "words": [
+        {
+          "text": "应",
+          "left": 201,
+          "top": 495,
+          "width": 36,
+          "height": 36,
+          "confidence": 96.677338
+        },
+        {
+          "text": "务",
+          "left": 417,
+          "top": 495,
+          "width": 36,
+          "height": 20,
+          "confidence": 93.108589
+        },
+        {
+          "text": "器",
+          "left": 499,
+          "top": 496,
+          "width": 8,
+          "height": 8,
+          "confidence": 93.159843
+        },
+        {
+          "text": "返",
+          "left": 508,
+          "top": 496,
+          "width": 25,
+          "height": 30,
+          "confidence": 92.455811
+        },
+        {
+          "text": "客户",
+          "left": 697,
+          "top": 495,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.051468
+        },
+        {
+          "text": "端",
+          "left": 796,
+          "top": 473,
+          "width": 40,
+          "height": 69,
+          "confidence": 92.448769
+        },
+        {
+          "text": "要",
+          "left": 835,
+          "top": 473,
+          "width": 31,
+          "height": 69,
+          "confidence": 96.970932
+        },
+        {
+          "text": "用",
+          "left": 899,
+          "top": 495,
+          "width": 10,
+          "height": 36,
+          "confidence": 96.997635
+        },
+        {
+          "text": "的",
+          "left": 913,
+          "top": 495,
+          "width": 20,
+          "height": 36,
+          "confidence": 96.782173
+        },
+        {
+          "text": "内",
+          "left": 951,
+          "top": 495,
+          "width": 21,
+          "height": 37,
+          "confidence": 93.187294
+        },
+        {
+          "text": "容",
+          "left": 994,
+          "top": 495,
+          "width": 19,
+          "height": 17,
+          "confidence": 91.774246
+        },
+        {
+          "text": "(HTML",
+          "left": 1042,
+          "top": 498,
+          "width": 91,
+          "height": 30,
+          "confidence": 33.300606
+        },
+        {
+          "text": ",",
+          "left": 1145,
+          "top": 473,
+          "width": 14,
+          "height": 69,
+          "confidence": 84.734261
+        },
+        {
+          "text": "json)",
+          "left": 1176,
+          "top": 473,
+          "width": 117,
+          "height": 69,
+          "confidence": 66.940521
+        },
+        {
+          "text": "等",
+          "left": 1282,
+          "top": 495,
+          "width": 36,
+          "height": 37,
+          "confidence": 85.896812
+        }
+      ]
+    },
+    {
+      "text": "4 响应体 -> 服务器返回的真正客户端要用的内容 (,]jSony) 科",
+      "left": 104,
+      "top": 488,
+      "right": 1299,
+      "bottom": 541,
+      "height": 53,
+      "confidence": 81.62192194999999,
+      "words": [
+        {
+          "text": "4",
+          "left": 104,
+          "top": 498,
+          "width": 22,
+          "height": 30,
+          "confidence": 95.386635
+        },
+        {
+          "text": "响应",
+          "left": 162,
+          "top": 495,
+          "width": 115,
+          "height": 37,
+          "confidence": 73.851456
+        },
+        {
+          "text": "体",
+          "left": 262,
+          "top": 489,
+          "width": 33,
+          "height": 52,
+          "confidence": 89.531212
+        },
+        {
+          "text": "->",
+          "left": 307,
+          "top": 507,
+          "width": 42,
+          "height": 21,
+          "confidence": 93.325783
+        },
+        {
+          "text": "服务",
+          "left": 389,
+          "top": 497,
+          "width": 60,
+          "height": 35,
+          "confidence": 95.812836
+        },
+        {
+          "text": "器",
+          "left": 473,
+          "top": 497,
+          "width": 20,
+          "height": 35,
+          "confidence": 96.861282
+        },
+        {
+          "text": "返回",
+          "left": 512,
+          "top": 495,
+          "width": 79,
+          "height": 37,
+          "confidence": 96.68026
+        },
+        {
+          "text": "的",
+          "left": 593,
+          "top": 495,
+          "width": 44,
+          "height": 37,
+          "confidence": 96.847015
+        },
+        {
+          "text": "真正",
+          "left": 658,
+          "top": 489,
+          "width": 57,
+          "height": 52,
+          "confidence": 95.487282
+        },
+        {
+          "text": "客户",
+          "left": 714,
+          "top": 507,
+          "width": 76,
+          "height": 25,
+          "confidence": 93.243088
+        },
+        {
+          "text": "端",
+          "left": 791,
+          "top": 497,
+          "width": 100,
+          "height": 35,
+          "confidence": 90.629555
+        },
+        {
+          "text": "要",
+          "left": 834,
+          "top": 489,
+          "width": 33,
+          "height": 52,
+          "confidence": 93.221207
+        },
+        {
+          "text": "用",
+          "left": 867,
+          "top": 489,
+          "width": 43,
+          "height": 52,
+          "confidence": 96.932907
+        },
+        {
+          "text": "的",
+          "left": 917,
+          "top": 512,
+          "width": 8,
+          "height": 10,
+          "confidence": 96.514969
+        },
+        {
+          "text": "内",
+          "left": 948,
+          "top": 489,
+          "width": 40,
+          "height": 52,
+          "confidence": 93.284424
+        },
+        {
+          "text": "容",
+          "left": 978,
+          "top": 496,
+          "width": 59,
+          "height": 39,
+          "confidence": 91.042908
+        },
+        {
+          "text": "(",
+          "left": 1019,
+          "top": 489,
+          "width": 21,
+          "height": 52,
+          "confidence": 75.706161
+        },
+        {
+          "text": ",",
+          "left": 1144,
+          "top": 522,
+          "width": 8,
+          "height": 14,
+          "confidence": 31.918446
+        },
+        {
+          "text": "]jSony)",
+          "left": 1163,
+          "top": 496,
+          "width": 133,
+          "height": 41,
+          "confidence": 12.347813
+        },
+        {
+          "text": "科",
+          "left": 1279,
+          "top": 488,
+          "width": 20,
+          "height": 53,
+          "confidence": 23.8132
+        }
+      ]
+    },
+    {
+      "text": "FBS MBM RR RINE RS KAA MOK. 这两个地方一",
+      "left": 91,
+      "top": 755,
+      "right": 1388,
+      "bottom": 817,
+      "height": 62,
+      "confidence": 52.23570384615385,
+      "words": [
+        {
+          "text": "FBS",
+          "left": 91,
+          "top": 759,
+          "width": 255,
+          "height": 41,
+          "confidence": 29.718285
+        },
+        {
+          "text": "MBM",
+          "left": 355,
+          "top": 759,
+          "width": 127,
+          "height": 40,
+          "confidence": 13.146429
+        },
+        {
+          "text": "RR",
+          "left": 546,
+          "top": 759,
+          "width": 69,
+          "height": 41,
+          "confidence": 16.71114
+        },
+        {
+          "text": "RINE",
+          "left": 634,
+          "top": 759,
+          "width": 110,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "RS",
+          "left": 757,
+          "top": 773,
+          "width": 28,
+          "height": 13,
+          "confidence": 35.874668
+        },
+        {
+          "text": "KAA",
+          "left": 843,
+          "top": 760,
+          "width": 141,
+          "height": 39,
+          "confidence": 5.289888
+        },
+        {
+          "text": "MOK.",
+          "left": 993,
+          "top": 769,
+          "width": 81,
+          "height": 29,
+          "confidence": 5.289888
+        },
+        {
+          "text": "这",
+          "left": 1144,
+          "top": 774,
+          "width": 24,
+          "height": 25,
+          "confidence": 96.890236
+        },
+        {
+          "text": "两",
+          "left": 1187,
+          "top": 759,
+          "width": 51,
+          "height": 40,
+          "confidence": 96.398071
+        },
+        {
+          "text": "个",
+          "left": 1237,
+          "top": 755,
+          "width": 36,
+          "height": 62,
+          "confidence": 96.945389
+        },
+        {
+          "text": "地",
+          "left": 1272,
+          "top": 755,
+          "width": 44,
+          "height": 62,
+          "confidence": 93.288925
+        },
+        {
+          "text": "方",
+          "left": 1315,
+          "top": 755,
+          "width": 47,
+          "height": 62,
+          "confidence": 92.53624
+        },
+        {
+          "text": "一",
+          "left": 1361,
+          "top": 777,
+          "width": 27,
+          "height": 3,
+          "confidence": 96.974991
+        }
+      ]
+    },
+    {
+      "text": "is = 也 4-4 se> <..",
+      "left": 252,
+      "top": 759,
+      "right": 1139,
+      "bottom": 776,
+      "height": 17,
+      "confidence": 40.090933,
+      "words": [
+        {
+          "text": "is",
+          "left": 252,
+          "top": 759,
+          "width": 38,
+          "height": 9,
+          "confidence": 50.240749
+        },
+        {
+          "text": "=",
+          "left": 313,
+          "top": 761,
+          "width": 36,
+          "height": 9,
+          "confidence": 46.696457
+        },
+        {
+          "text": "也",
+          "left": 547,
+          "top": 761,
+          "width": 23,
+          "height": 11,
+          "confidence": 26.248955
+        },
+        {
+          "text": "4-4",
+          "left": 709,
+          "top": 759,
+          "width": 81,
+          "height": 12,
+          "confidence": 7.082396
+        },
+        {
+          "text": "se",
+          "left": 798,
+          "top": 759,
+          "width": 37,
+          "height": 17,
+          "confidence": 38.668804
+        },
+        {
+          "text": ">",
+          "left": 891,
+          "top": 762,
+          "width": 10,
+          "height": 7,
+          "confidence": 84.160759
+        },
+        {
+          "text": "<",
+          "left": 1068,
+          "top": 762,
+          "width": 10,
+          "height": 7,
+          "confidence": 37.824409
+        },
+        {
+          "text": "..",
+          "left": 1130,
+          "top": 760,
+          "width": 9,
+          "height": 8,
+          "confidence": 29.804935
+        }
+      ]
+    },
+    {
+      "text": "rey 2",
+      "left": 751,
+      "top": 787,
+      "right": 1111,
+      "bottom": 799,
+      "height": 12,
+      "confidence": 40.656158500000004,
+      "words": [
+        {
+          "text": "rey",
+          "left": 751,
+          "top": 787,
+          "width": 40,
+          "height": 12,
+          "confidence": 41.091263
+        },
+        {
+          "text": "2",
+          "left": 1106,
+          "top": 790,
+          "width": 5,
+          "height": 5,
+          "confidence": 40.221054
+        }
+      ]
+    },
+    {
+      "text": "oS oo",
+      "left": 460,
+      "top": 816,
+      "right": 701,
+      "bottom": 848,
+      "height": 32,
+      "confidence": 34.982794999999996,
+      "words": [
+        {
+          "text": "oS",
+          "left": 460,
+          "top": 816,
+          "width": 26,
+          "height": 32,
+          "confidence": 6.860838
+        },
+        {
+          "text": "oo",
+          "left": 665,
+          "top": 829,
+          "width": 36,
+          "height": 12,
+          "confidence": 63.104752
+        }
+      ]
+    },
+    {
+      "text": "般都隐含着一些比较重要的内容",
+      "left": 91,
+      "top": 824,
+      "right": 705,
+      "bottom": 885,
+      "height": 61,
+      "confidence": 93.39113991666669,
+      "words": [
+        {
+          "text": "般",
+          "left": 91,
+          "top": 829,
+          "width": 83,
+          "height": 40,
+          "confidence": 88.88134
+        },
+        {
+          "text": "都",
+          "left": 185,
+          "top": 831,
+          "width": 7,
+          "height": 31,
+          "confidence": 92.261642
+        },
+        {
+          "text": "隐",
+          "left": 193,
+          "top": 829,
+          "width": 23,
+          "height": 26,
+          "confidence": 93.283058
+        },
+        {
+          "text": "含",
+          "left": 239,
+          "top": 828,
+          "width": 51,
+          "height": 41,
+          "confidence": 89.669128
+        },
+        {
+          "text": "着",
+          "left": 289,
+          "top": 824,
+          "width": 42,
+          "height": 61,
+          "confidence": 96.82872
+        },
+        {
+          "text": "一",
+          "left": 331,
+          "top": 829,
+          "width": 42,
+          "height": 24,
+          "confidence": 93.301285
+        },
+        {
+          "text": "些",
+          "left": 378,
+          "top": 829,
+          "width": 40,
+          "height": 40,
+          "confidence": 93.222832
+        },
+        {
+          "text": "比较",
+          "left": 420,
+          "top": 829,
+          "width": 63,
+          "height": 40,
+          "confidence": 96.973831
+        },
+        {
+          "text": "重要",
+          "left": 502,
+          "top": 829,
+          "width": 85,
+          "height": 40,
+          "confidence": 95.919975
+        },
+        {
+          "text": "的",
+          "left": 592,
+          "top": 829,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.72905
+        },
+        {
+          "text": "内",
+          "left": 627,
+          "top": 829,
+          "width": 75,
+          "height": 40,
+          "confidence": 92.829308
+        },
+        {
+          "text": "容",
+          "left": 670,
+          "top": 824,
+          "width": 35,
+          "height": 61,
+          "confidence": 90.79351
+        }
+      ]
+    },
+    {
+      "text": "I iT A —",
+      "left": 99,
+      "top": 846,
+      "right": 394,
+      "bottom": 870,
+      "height": 24,
+      "confidence": 55.817116750000004,
+      "words": [
+        {
+          "text": "I",
+          "left": 99,
+          "top": 848,
+          "width": 32,
+          "height": 21,
+          "confidence": 59.592892
+        },
+        {
+          "text": "iT",
+          "left": 192,
+          "top": 856,
+          "width": 27,
+          "height": 13,
+          "confidence": 36.683235
+        },
+        {
+          "text": "A",
+          "left": 229,
+          "top": 846,
+          "width": 28,
+          "height": 24,
+          "confidence": 65.443672
+        },
+        {
+          "text": "—",
+          "left": 356,
+          "top": 856,
+          "width": 38,
+          "height": 12,
+          "confidence": 61.548668
+        }
+      ]
+    },
+    {
+      "text": "Name Headers Preview Response Initiator Timing Cookies",
+      "left": 111,
+      "top": 973,
+      "right": 828,
+      "bottom": 1005,
+      "height": 32,
+      "confidence": 75.96456042857143,
+      "words": [
+        {
+          "text": "Name",
+          "left": 111,
+          "top": 973,
+          "width": 35,
+          "height": 32,
+          "confidence": 94.39888
+        },
+        {
+          "text": "Headers",
+          "left": 425,
+          "top": 986,
+          "width": 49,
+          "height": 11,
+          "confidence": 89.389458
+        },
+        {
+          "text": "Preview",
+          "left": 498,
+          "top": 986,
+          "width": 46,
+          "height": 11,
+          "confidence": 81.521011
+        },
+        {
+          "text": "Response",
+          "left": 568,
+          "top": 986,
+          "width": 59,
+          "height": 13,
+          "confidence": 77.556137
+        },
+        {
+          "text": "Initiator",
+          "left": 650,
+          "top": 986,
+          "width": 44,
+          "height": 11,
+          "confidence": 49.759224
+        },
+        {
+          "text": "Timing",
+          "left": 716,
+          "top": 986,
+          "width": 40,
+          "height": 13,
+          "confidence": 63.444031
+        },
+        {
+          "text": "Cookies",
+          "left": 779,
+          "top": 986,
+          "width": 49,
+          "height": 11,
+          "confidence": 75.683182
+        }
+      ]
+    },
+    {
+      "text": ", wwjdeom Via: B]-Y-NX-116(EXPIRED)，http/1.1 ORI-CLOUD-HB-MIX-29 (jcs [cRs f]), http/1.1 HB-CT-7-MIX-25 (ics [cRs f 1)",
+      "left": 89,
+      "top": 1012,
+      "right": 1295,
+      "bottom": 1031,
+      "height": 19,
+      "confidence": 70.183644,
+      "words": [
+        {
+          "text": ",",
+          "left": 89,
+          "top": 1028,
+          "width": 2,
+          "height": 2,
+          "confidence": 18.83728
+        },
+        {
+          "text": "wwjdeom",
+          "left": 150,
+          "top": 1018,
+          "width": 74,
+          "height": 13,
+          "confidence": 17.509232
+        },
+        {
+          "text": "Via:",
+          "left": 414,
+          "top": 1013,
+          "width": 23,
+          "height": 11,
+          "confidence": 93.302902
+        },
+        {
+          "text": "B]-Y-NX-116(EXPIRED)",
+          "left": 446,
+          "top": 1012,
+          "width": 166,
+          "height": 14,
+          "confidence": 0.0
+        },
+        {
+          "text": "，http/1.1",
+          "left": 624,
+          "top": 1013,
+          "width": 64,
+          "height": 13,
+          "confidence": 29.307346
+        },
+        {
+          "text": "ORI-CLOUD-HB-MIX-29",
+          "left": 697,
+          "top": 1013,
+          "width": 153,
+          "height": 11,
+          "confidence": 75.213394
+        },
+        {
+          "text": "(jcs",
+          "left": 861,
+          "top": 1012,
+          "width": 29,
+          "height": 14,
+          "confidence": 89.294777
+        },
+        {
+          "text": "[cRs",
+          "left": 903,
+          "top": 1012,
+          "width": 28,
+          "height": 13,
+          "confidence": 90.207268
+        },
+        {
+          "text": "f",
+          "left": 941,
+          "top": 1013,
+          "width": 6,
+          "height": 11,
+          "confidence": 88.435425
+        },
+        {
+          "text": "]),",
+          "left": 958,
+          "top": 1012,
+          "width": 20,
+          "height": 14,
+          "confidence": 88.435425
+        },
+        {
+          "text": "http/1.1",
+          "left": 990,
+          "top": 1013,
+          "width": 63,
+          "height": 13,
+          "confidence": 91.180817
+        },
+        {
+          "text": "HB-CT-7-MIX-25",
+          "left": 1063,
+          "top": 1013,
+          "width": 112,
+          "height": 11,
+          "confidence": 89.207008
+        },
+        {
+          "text": "(ics",
+          "left": 1186,
+          "top": 1012,
+          "width": 29,
+          "height": 14,
+          "confidence": 81.577026
+        },
+        {
+          "text": "[cRs",
+          "left": 1228,
+          "top": 1012,
+          "width": 28,
+          "height": 13,
+          "confidence": 91.108131
+        },
+        {
+          "text": "f",
+          "left": 1266,
+          "top": 1013,
+          "width": 6,
+          "height": 11,
+          "confidence": 90.354706
+        },
+        {
+          "text": "1)",
+          "left": 1283,
+          "top": 1012,
+          "width": 12,
+          "height": 13,
+          "confidence": 88.967567
+        }
+      ]
+    },
+    {
+      "text": "国 X-Content-Type-Options: nosniff",
+      "left": 116,
+      "top": 1018,
+      "right": 638,
+      "bottom": 1050,
+      "height": 32,
+      "confidence": 87.98306766666667,
+      "words": [
+        {
+          "text": "国",
+          "left": 116,
+          "top": 1018,
+          "width": 25,
+          "height": 28,
+          "confidence": 91.580162
+        },
+        {
+          "text": "X-Content-Type-Options:",
+          "left": 414,
+          "top": 1037,
+          "width": 161,
+          "height": 13,
+          "confidence": 91.397781
+        },
+        {
+          "text": "nosniff",
+          "left": 583,
+          "top": 1037,
+          "width": 55,
+          "height": 10,
+          "confidence": 80.97126
+        }
+      ]
+    },
+    {
+      "text": "| SS X-Frame-Options: SAMEORIGIN",
+      "left": 112,
+      "top": 1050,
+      "right": 617,
+      "bottom": 1094,
+      "height": 44,
+      "confidence": 69.34331399999999,
+      "words": [
+        {
+          "text": "|",
+          "left": 112,
+          "top": 1050,
+          "width": 15,
+          "height": 44,
+          "confidence": 61.037647
+        },
+        {
+          "text": "SS",
+          "left": 150,
+          "top": 1062,
+          "width": 139,
+          "height": 13,
+          "confidence": 32.917587
+        },
+        {
+          "text": "X-Frame-Options:",
+          "left": 414,
+          "top": 1060,
+          "width": 115,
+          "height": 13,
+          "confidence": 92.018677
+        },
+        {
+          "text": "SAMEORIGIN",
+          "left": 537,
+          "top": 1060,
+          "width": 80,
+          "height": 11,
+          "confidence": 91.399345
+        }
+      ]
+    },
+    {
+      "text": "m.360buyimg.com/babel/fs/t1/300. X-Trace: 200; 200-1608028623078-0-0-0-1-1; 200-1608028629403-0-0-0-1-1",
+      "left": 151,
+      "top": 1082,
+      "right": 954,
+      "bottom": 1096,
+      "height": 14,
+      "confidence": 75.0772094,
+      "words": [
+        {
+          "text": "m.360buyimg.com/babel/fs/t1/300.",
+          "left": 151,
+          "top": 1082,
+          "width": 214,
+          "height": 13,
+          "confidence": 60.469604
+        },
+        {
+          "text": "X-Trace:",
+          "left": 414,
+          "top": 1084,
+          "width": 53,
+          "height": 11,
+          "confidence": 90.468323
+        },
+        {
+          "text": "200;",
+          "left": 476,
+          "top": 1084,
+          "width": 29,
+          "height": 12,
+          "confidence": 69.650879
+        },
+        {
+          "text": "200-1608028623078-0-0-0-1-1;",
+          "left": 508,
+          "top": 1084,
+          "width": 224,
+          "height": 12,
+          "confidence": 69.650879
+        },
+        {
+          "text": "200-1608028629403-0-0-0-1-1",
+          "left": 736,
+          "top": 1084,
+          "width": 218,
+          "height": 11,
+          "confidence": 85.146362
+        }
+      ]
+    },
+    {
+      "text": "可区 X-Xss-Protection: 1; mode=block",
+      "left": 89,
+      "top": 1107,
+      "right": 641,
+      "bottom": 1128,
+      "height": 21,
+      "confidence": 65.4001542,
+      "words": [
+        {
+          "text": "可",
+          "left": 89,
+          "top": 1114,
+          "width": 15,
+          "height": 14,
+          "confidence": 72.770576
+        },
+        {
+          "text": "区",
+          "left": 150,
+          "top": 1108,
+          "width": 137,
+          "height": 13,
+          "confidence": 6.522264
+        },
+        {
+          "text": "X-Xss-Protection:",
+          "left": 414,
+          "top": 1108,
+          "width": 114,
+          "height": 10,
+          "confidence": 83.496956
+        },
+        {
+          "text": "1;",
+          "left": 537,
+          "top": 1108,
+          "width": 12,
+          "height": 10,
+          "confidence": 83.804031
+        },
+        {
+          "text": "mode=block",
+          "left": 561,
+          "top": 1107,
+          "width": 80,
+          "height": 11,
+          "confidence": 80.406944
+        }
+      ]
+    },
+    {
+      "text": "ES m360buyimgcombabellfstl/454-",
+      "left": 89,
+      "top": 1128,
+      "right": 365,
+      "bottom": 1149,
+      "height": 21,
+      "confidence": 11.8504505,
+      "words": [
+        {
+          "text": "ES",
+          "left": 89,
+          "top": 1130,
+          "width": 15,
+          "height": 19,
+          "confidence": 23.700901
+        },
+        {
+          "text": "m360buyimgcombabellfstl/454-",
+          "left": 151,
+          "top": 1128,
+          "width": 214,
+          "height": 13,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "ae Request Headers。 view source",
+      "left": 150,
+      "top": 1129,
+      "right": 621,
+      "bottom": 1164,
+      "height": 35,
+      "confidence": 49.38040933333334,
+      "words": [
+        {
+          "text": "ae",
+          "left": 150,
+          "top": 1154,
+          "width": 113,
+          "height": 10,
+          "confidence": 40.401821
+        },
+        {
+          "text": "Request",
+          "left": 393,
+          "top": 1141,
+          "width": 65,
+          "height": 12,
+          "confidence": 10.70364
+        },
+        {
+          "text": "Headers",
+          "left": 462,
+          "top": 1141,
+          "width": 53,
+          "height": 10,
+          "confidence": 10.70364
+        },
+        {
+          "text": "。",
+          "left": 529,
+          "top": 1129,
+          "width": 10,
+          "height": 32,
+          "confidence": 60.905247
+        },
+        {
+          "text": "view",
+          "left": 549,
+          "top": 1143,
+          "width": 27,
+          "height": 8,
+          "confidence": 90.679741
+        },
+        {
+          "text": "source",
+          "left": 580,
+          "top": 1143,
+          "width": 41,
+          "height": 8,
+          "confidence": 82.888367
+        }
+      ]
+    },
+    {
+      "text": "Bo mm.d¢0buyimg.com/oabel/fa/t1/264. Accept: text/html, appLication/xhtml+xmL, application/xml;q=0.9, image/avif, image/webp, image/apng, */*;q=0.8, application/ sign",
+      "left": 89,
+      "top": 1154,
+      "right": 1388,
+      "bottom": 1191,
+      "height": 37,
+      "confidence": 59.678866666666664,
+      "words": [
+        {
+          "text": "Bo",
+          "left": 89,
+          "top": 1154,
+          "width": 52,
+          "height": 28,
+          "confidence": 32.073059
+        },
+        {
+          "text": "mm.d¢0buyimg.com/oabel/fa/t1/264.",
+          "left": 147,
+          "top": 1156,
+          "width": 218,
+          "height": 35,
+          "confidence": 0.0
+        },
+        {
+          "text": "Accept:",
+          "left": 414,
+          "top": 1168,
+          "width": 49,
+          "height": 12,
+          "confidence": 93.497849
+        },
+        {
+          "text": "text/html,",
+          "left": 474,
+          "top": 1156,
+          "width": 75,
+          "height": 32,
+          "confidence": 89.329132
+        },
+        {
+          "text": "appLication/xhtml+xmL,",
+          "left": 554,
+          "top": 1156,
+          "width": 174,
+          "height": 32,
+          "confidence": 45.881191
+        },
+        {
+          "text": "application/xml;q=0.9,",
+          "left": 735,
+          "top": 1156,
+          "width": 171,
+          "height": 32,
+          "confidence": 59.710876
+        },
+        {
+          "text": "image/avif,",
+          "left": 914,
+          "top": 1167,
+          "width": 82,
+          "height": 14,
+          "confidence": 87.854904
+        },
+        {
+          "text": "image/webp,",
+          "left": 1004,
+          "top": 1156,
+          "width": 81,
+          "height": 32,
+          "confidence": 91.881493
+        },
+        {
+          "text": "image/apng,",
+          "left": 1092,
+          "top": 1168,
+          "width": 83,
+          "height": 13,
+          "confidence": 44.64241
+        },
+        {
+          "text": "*/*;q=0.8,",
+          "left": 1180,
+          "top": 1167,
+          "width": 76,
+          "height": 14,
+          "confidence": 44.64241
+        },
+        {
+          "text": "application/",
+          "left": 1263,
+          "top": 1167,
+          "width": 91,
+          "height": 14,
+          "confidence": 40.215649
+        },
+        {
+          "text": "sign",
+          "left": 1366,
+          "top": 1167,
+          "width": 22,
+          "height": 14,
+          "confidence": 86.417427
+        }
+      ]
+    },
+    {
+      "text": "png",
+      "left": 264,
+      "top": 1157,
+      "right": 290,
+      "bottom": 1167,
+      "height": 10,
+      "confidence": 51.934277,
+      "words": [
+        {
+          "text": "png",
+          "left": 264,
+          "top": 1157,
+          "width": 26,
+          "height": 10,
+          "confidence": 51.934277
+        }
+      ]
+    },
+    {
+      "text": "引 ed-exchange;v=b3;q=0.9",
+      "left": 96,
+      "top": 1189,
+      "right": 592,
+      "bottom": 1203,
+      "height": 14,
+      "confidence": 49.942711,
+      "words": [
+        {
+          "text": "引",
+          "left": 96,
+          "top": 1189,
+          "width": 8,
+          "height": 5,
+          "confidence": 35.149666
+        },
+        {
+          "text": "ed-exchange;v=b3;q=0.9",
+          "left": 415,
+          "top": 1190,
+          "width": 177,
+          "height": 13,
+          "confidence": 64.735756
+        }
+      ]
+    },
+    {
+      "text": "8f3f63ae04ff1gaf png",
+      "left": 150,
+      "top": 1189,
+      "right": 282,
+      "bottom": 1221,
+      "height": 32,
+      "confidence": 59.524379499999995,
+      "words": [
+        {
+          "text": "8f3f63ae04ff1gaf",
+          "left": 150,
+          "top": 1200,
+          "width": 128,
+          "height": 13,
+          "confidence": 49.621727
+        },
+        {
+          "text": "png",
+          "left": 260,
+          "top": 1189,
+          "width": 22,
+          "height": 32,
+          "confidence": 69.427032
+        }
+      ]
+    },
+    {
+      "text": "图 m.360buyimg.com/babel/fs/t1/342. Accept Encoding: ae ee uP as",
+      "left": 116,
+      "top": 1200,
+      "right": 726,
+      "bottom": 1248,
+      "height": 48,
+      "confidence": 53.601122624999995,
+      "words": [
+        {
+          "text": "图",
+          "left": 116,
+          "top": 1200,
+          "width": 25,
+          "height": 29,
+          "confidence": 91.124451
+        },
+        {
+          "text": "m.360buyimg.com/babel/fs/t1/342.",
+          "left": 151,
+          "top": 1209,
+          "width": 214,
+          "height": 32,
+          "confidence": 63.321262
+        },
+        {
+          "text": "Accept",
+          "left": 414,
+          "top": 1209,
+          "width": 46,
+          "height": 32,
+          "confidence": 85.1091
+        },
+        {
+          "text": "Encoding:",
+          "left": 468,
+          "top": 1209,
+          "width": 61,
+          "height": 32,
+          "confidence": 46.220795
+        },
+        {
+          "text": "ae",
+          "left": 538,
+          "top": 1216,
+          "width": 42,
+          "height": 32,
+          "confidence": 22.960386
+        },
+        {
+          "text": "ee",
+          "left": 586,
+          "top": 1213,
+          "width": 67,
+          "height": 35,
+          "confidence": 20.919876
+        },
+        {
+          "text": "uP",
+          "left": 660,
+          "top": 1213,
+          "width": 14,
+          "height": 11,
+          "confidence": 38.090111
+        },
+        {
+          "text": "as",
+          "left": 703,
+          "top": 1237,
+          "width": 23,
+          "height": 11,
+          "confidence": 61.063
+        }
+      ]
+    },
+    {
+      "text": "‘Accept-Language: zh-CN, 2h; q=0.9,en;q=0.",
+      "left": 414,
+      "top": 1226,
+      "right": 715,
+      "bottom": 1258,
+      "height": 32,
+      "confidence": 52.175438,
+      "words": [
+        {
+          "text": "‘Accept-Language:",
+          "left": 414,
+          "top": 1238,
+          "width": 118,
+          "height": 12,
+          "confidence": 37.084366
+        },
+        {
+          "text": "zh-CN,",
+          "left": 541,
+          "top": 1240,
+          "width": 23,
+          "height": 8,
+          "confidence": 76.827515
+        },
+        {
+          "text": "2h;",
+          "left": 591,
+          "top": 1226,
+          "width": 19,
+          "height": 32,
+          "confidence": 57.541725
+        },
+        {
+          "text": "q=0.9,en;q=0.",
+          "left": 614,
+          "top": 1239,
+          "width": 101,
+          "height": 11,
+          "confidence": 37.248146
+        }
+      ]
+    },
+    {
+      "text": "| 回 m.360buyimg.com/babel/jis/t1/310. Cache-Control: max-age=0",
+      "left": 89,
+      "top": 1236,
+      "right": 592,
+      "bottom": 1287,
+      "height": 51,
+      "confidence": 65.6426964,
+      "words": [
+        {
+          "text": "|",
+          "left": 89,
+          "top": 1236,
+          "width": 15,
+          "height": 51,
+          "confidence": 53.40741
+        },
+        {
+          "text": "回",
+          "left": 116,
+          "top": 1246,
+          "width": 25,
+          "height": 29,
+          "confidence": 91.613289
+        },
+        {
+          "text": "m.360buyimg.com/babel/jis/t1/310.",
+          "left": 151,
+          "top": 1258,
+          "width": 214,
+          "height": 27,
+          "confidence": 42.470226
+        },
+        {
+          "text": "Cache-Control:",
+          "left": 415,
+          "top": 1261,
+          "width": 97,
+          "height": 10,
+          "confidence": 66.58007
+        },
+        {
+          "text": "max-age=0",
+          "left": 520,
+          "top": 1261,
+          "width": 72,
+          "height": 13,
+          "confidence": 74.142487
+        }
+      ]
+    },
+    {
+      "text": "5fee386254dd2ebc.png",
+      "left": 150,
+      "top": 1247,
+      "right": 294,
+      "bottom": 1259,
+      "height": 12,
+      "confidence": 81.203827,
+      "words": [
+        {
+          "text": "5fee386254dd2ebc.png",
+          "left": 150,
+          "top": 1247,
+          "width": 144,
+          "height": 12,
+          "confidence": 81.203827
+        }
+      ]
+    },
+    {
+      "text": "Connection: keep-alive",
+      "left": 415,
+      "top": 1284,
+      "right": 580,
+      "bottom": 1298,
+      "height": 14,
+      "confidence": 88.3108405,
+      "words": [
+        {
+          "text": "Connection:",
+          "left": 415,
+          "top": 1284,
+          "width": 77,
+          "height": 11,
+          "confidence": 93.287216
+        },
+        {
+          "text": "keep-alive",
+          "left": 501,
+          "top": 1284,
+          "width": 79,
+          "height": 14,
+          "confidence": 83.334465
+        }
+      ]
+    },
+    {
+      "text": "回 m.360buyimg.com/babel/fs/t1/446. Cookie: _jdu=1596775675054234805991; shshshfpa=4b699145-8edb-8126-ba9f-8429cc09912d-1596775677; shshshfpb=tLGL7xri03| ywg",
+      "left": 116,
+      "top": 1292,
+      "right": 1388,
+      "bottom": 1330,
+      "height": 38,
+      "confidence": 67.36696357142857,
+      "words": [
+        {
+          "text": "回",
+          "left": 116,
+          "top": 1292,
+          "width": 25,
+          "height": 29,
+          "confidence": 82.481712
+        },
+        {
+          "text": "m.360buyimg.com/babel/fs/t1/446.",
+          "left": 151,
+          "top": 1298,
+          "width": 214,
+          "height": 32,
+          "confidence": 80.646759
+        },
+        {
+          "text": "Cookie:",
+          "left": 415,
+          "top": 1308,
+          "width": 48,
+          "height": 11,
+          "confidence": 75.776573
+        },
+        {
+          "text": "_jdu=1596775675054234805991;",
+          "left": 471,
+          "top": 1308,
+          "width": 232,
+          "height": 13,
+          "confidence": 30.798336
+        },
+        {
+          "text": "shshshfpa=4b699145-8edb-8126-ba9f-8429cc09912d-1596775677;",
+          "left": 715,
+          "top": 1308,
+          "width": 467,
+          "height": 13,
+          "confidence": 26.40667
+        },
+        {
+          "text": "shshshfpb=tLGL7xri03|",
+          "left": 1195,
+          "top": 1308,
+          "width": 160,
+          "height": 13,
+          "confidence": 89.438164
+        },
+        {
+          "text": "ywg",
+          "left": 1365,
+          "top": 1311,
+          "width": 23,
+          "height": 10,
+          "confidence": 86.020531
+        }
+      ]
+    },
+    {
+      "text": "b611083872a7a1de.png",
+      "left": 151,
+      "top": 1293,
+      "right": 293,
+      "bottom": 1306,
+      "height": 13,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "b611083872a7a1de.png",
+          "left": 151,
+          "top": 1293,
+          "width": 142,
+          "height": 13,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "Ee S@aleTNpQ%3D%3D; TrackID=1pBXi-LpgYMVLaIsVC9ob81vz2nsXo3 fde LE4WOxwHFt f 1 VXp4PKASeHZRc iVapxEtSNwQ6yRCb-FKT1S72XFPSRt shHP",
+      "left": 150,
+      "top": 1319,
+      "right": 1389,
+      "bottom": 1352,
+      "height": 33,
+      "confidence": 29.488842599999998,
+      "words": [
+        {
+          "text": "Ee",
+          "left": 150,
+          "top": 1339,
+          "width": 146,
+          "height": 13,
+          "confidence": 31.997551
+        },
+        {
+          "text": "S@aleTNpQ%3D%3D;",
+          "left": 415,
+          "top": 1331,
+          "width": 127,
+          "height": 13,
+          "confidence": 18.701077
+        },
+        {
+          "text": "TrackID=1pBXi-LpgYMVLaIsVC9ob81vz2nsXo3",
+          "left": 552,
+          "top": 1330,
+          "width": 804,
+          "height": 14,
+          "confidence": 2.190208
+        },
+        {
+          "text": "fde",
+          "left": 872,
+          "top": 1319,
+          "width": 22,
+          "height": 32,
+          "confidence": 44.078049
+        },
+        {
+          "text": "LE4WOxwHFt",
+          "left": 899,
+          "top": 1319,
+          "width": 72,
+          "height": 32,
+          "confidence": 36.147354
+        },
+        {
+          "text": "f",
+          "left": 979,
+          "top": 1319,
+          "width": 3,
+          "height": 32,
+          "confidence": 68.801445
+        },
+        {
+          "text": "1",
+          "left": 987,
+          "top": 1319,
+          "width": 6,
+          "height": 32,
+          "confidence": 50.037186
+        },
+        {
+          "text": "VXp4PKASeHZRc",
+          "left": 997,
+          "top": 1319,
+          "width": 105,
+          "height": 32,
+          "confidence": 34.889511
+        },
+        {
+          "text": "iVapxEtSNwQ6yRCb-FKT1S72XFPSRt",
+          "left": 1107,
+          "top": 1330,
+          "width": 248,
+          "height": 14,
+          "confidence": 8.046045
+        },
+        {
+          "text": "shHP",
+          "left": 1361,
+          "top": 1330,
+          "width": 28,
+          "height": 11,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "B m.360buyimg.com/babelfs/t1/324. WSNenXIUVtyCAXQOqw_aE89PzvQwozq5pE; pinId-HisxDptaWEFKmqfagsSCcLV9-x-f3wj7} o2State={%22webp¥22: trues2C%22lastvisit%?2:1",
+      "left": 116,
+      "top": 1338,
+      "right": 1388,
+      "bottom": 1376,
+      "height": 38,
+      "confidence": 20.772740666666667,
+      "words": [
+        {
+          "text": "B",
+          "left": 116,
+          "top": 1338,
+          "width": 25,
+          "height": 29,
+          "confidence": 83.323082
+        },
+        {
+          "text": "m.360buyimg.com/babelfs/t1/324.",
+          "left": 151,
+          "top": 1342,
+          "width": 214,
+          "height": 34,
+          "confidence": 8.369675
+        },
+        {
+          "text": "WSNenXIUVtyCAXQOqw_aE89PzvQwozq5pE;",
+          "left": 414,
+          "top": 1353,
+          "width": 282,
+          "height": 13,
+          "confidence": 27.651863
+        },
+        {
+          "text": "pinId-HisxDptaWEFKmqfagsSCcLV9-x-f3wj7}",
+          "left": 708,
+          "top": 1353,
+          "width": 313,
+          "height": 13,
+          "confidence": 5.291824
+        },
+        {
+          "text": "o2State={%22webp¥22:",
+          "left": 1034,
+          "top": 1352,
+          "width": 157,
+          "height": 14,
+          "confidence": 0.0
+        },
+        {
+          "text": "trues2C%22lastvisit%?2:1",
+          "left": 1196,
+          "top": 1353,
+          "width": 192,
+          "height": 11,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "Cee 605154600561}; unpt=V2_ZzzNtbRZWE9UhDkNdKEkMBWICEVoRV8cRcgBFVywRC1ZmUxNccLRCFnQURURnGVoUZATZXERcRhBFCEdkeRtVB20GFL5KZSNtd",
+      "left": 151,
+      "top": 1374,
+      "right": 1388,
+      "bottom": 1398,
+      "height": 24,
+      "confidence": 37.858443,
+      "words": [
+        {
+          "text": "Cee",
+          "left": 151,
+          "top": 1385,
+          "width": 145,
+          "height": 13,
+          "confidence": 15.944357
+        },
+        {
+          "text": "605154600561};",
+          "left": 415,
+          "top": 1374,
+          "width": 110,
+          "height": 14,
+          "confidence": 83.86145
+        },
+        {
+          "text": "unpt=V2_ZzzNtbRZWE9UhDkNdKEkMBWICEVoRV8cRcgBFVywRC1ZmUxNccLRCFnQURURnGVoUZATZXERcRhBFCEdkeRtVB20GFL5KZSNtd",
+          "left": 537,
+          "top": 1375,
+          "width": 851,
+          "height": 14,
+          "confidence": 13.769522
+        }
+      ]
+    },
+    {
+      "text": "回 rm 360buyimg,com/babel/i/t1/575. gh2VHopxAFVBBRDR LBFEXQM01d5HFUEYwsaXXJ nRBV8OHZkexFZBWQFE11 BUXMURQtHV3keVQ1gBhNtCT LCWHUMT INSH1gCYQcTWUdUQRBBCUJccx1sB cA;",
+      "left": 116,
+      "top": 1385,
+      "right": 1386,
+      "bottom": 1422,
+      "height": 37,
+      "confidence": 30.1375016,
+      "words": [
+        {
+          "text": "回",
+          "left": 116,
+          "top": 1385,
+          "width": 25,
+          "height": 28,
+          "confidence": 91.14225
+        },
+        {
+          "text": "rm",
+          "left": 147,
+          "top": 1387,
+          "width": 12,
+          "height": 35,
+          "confidence": 10.08153
+        },
+        {
+          "text": "360buyimg,com/babel/i/t1/575.",
+          "left": 167,
+          "top": 1387,
+          "width": 198,
+          "height": 35,
+          "confidence": 7.744427
+        },
+        {
+          "text": "gh2VHopxAFVBBRDR",
+          "left": 415,
+          "top": 1387,
+          "width": 127,
+          "height": 32,
+          "confidence": 21.138039
+        },
+        {
+          "text": "LBFEXQM01d5HFUEYwsaXXJ",
+          "left": 547,
+          "top": 1387,
+          "width": 174,
+          "height": 32,
+          "confidence": 21.138039
+        },
+        {
+          "text": "nRBV8OHZkexFZBWQFE11",
+          "left": 725,
+          "top": 1387,
+          "width": 160,
+          "height": 32,
+          "confidence": 57.374504
+        },
+        {
+          "text": "BUXMURQtHV3keVQ1gBhNtCT",
+          "left": 891,
+          "top": 1387,
+          "width": 179,
+          "height": 32,
+          "confidence": 35.209217
+        },
+        {
+          "text": "LCWHUMT",
+          "left": 1077,
+          "top": 1387,
+          "width": 52,
+          "height": 32,
+          "confidence": 41.620029
+        },
+        {
+          "text": "INSH1gCYQcTWUdUQRBBCUJccx1sB",
+          "left": 1133,
+          "top": 1387,
+          "width": 222,
+          "height": 32,
+          "confidence": 0.0
+        },
+        {
+          "text": "cA;",
+          "left": 1366,
+          "top": 1398,
+          "width": 20,
+          "height": 13,
+          "confidence": 15.926981
+        }
+      ]
+    },
+    {
+      "text": "Gm __jdv=76161171 | direct |-|none|~|1608025719279; areaId=1; ipLoc-djd=1-2901-0-0; PCSYCityID=CN_110000_110100_110114; us?r-k",
+      "left": 150,
+      "top": 1409,
+      "right": 1389,
+      "bottom": 1444,
+      "height": 35,
+      "confidence": 35.181172,
+      "words": [
+        {
+          "text": "Gm",
+          "left": 150,
+          "top": 1431,
+          "width": 136,
+          "height": 13,
+          "confidence": 26.835133
+        },
+        {
+          "text": "__jdv=76161171",
+          "left": 414,
+          "top": 1420,
+          "width": 363,
+          "height": 15,
+          "confidence": 39.335228
+        },
+        {
+          "text": "|",
+          "left": 530,
+          "top": 1409,
+          "width": 6,
+          "height": 32,
+          "confidence": 8.17873
+        },
+        {
+          "text": "direct",
+          "left": 538,
+          "top": 1409,
+          "width": 46,
+          "height": 32,
+          "confidence": 8.17873
+        },
+        {
+          "text": "|-|none|~|1608025719279;",
+          "left": 588,
+          "top": 1420,
+          "width": 189,
+          "height": 15,
+          "confidence": 56.289234
+        },
+        {
+          "text": "areaId=1;",
+          "left": 788,
+          "top": 1421,
+          "width": 70,
+          "height": 12,
+          "confidence": 39.903458
+        },
+        {
+          "text": "ipLoc-djd=1-2901-0-0;",
+          "left": 871,
+          "top": 1421,
+          "width": 166,
+          "height": 13,
+          "confidence": 42.824589
+        },
+        {
+          "text": "PCSYCityID=CN_110000_110100_110114;",
+          "left": 1049,
+          "top": 1421,
+          "width": 280,
+          "height": 13,
+          "confidence": 34.931801
+        },
+        {
+          "text": "us?r-k",
+          "left": 1342,
+          "top": 1421,
+          "width": 47,
+          "height": 10,
+          "confidence": 60.153645
+        }
+      ]
+    },
+    {
+      "text": "回 mm.a60buyima,com/oabel{iss1/718. ey=0147f6ac-a125~442d-9467-3084e5052d13; cn=0; shshshfp=3a1e26c999401eb272d0c23dact3bb5; __jda=76161171. 15967756750 5423",
+      "left": 116,
+      "top": 1431,
+      "right": 1388,
+      "bottom": 1464,
+      "height": 33,
+      "confidence": 29.711553999999996,
+      "words": [
+        {
+          "text": "回",
+          "left": 116,
+          "top": 1431,
+          "width": 25,
+          "height": 28,
+          "confidence": 57.468929
+        },
+        {
+          "text": "mm.a60buyima,com/oabel{iss1/718.",
+          "left": 151,
+          "top": 1451,
+          "width": 211,
+          "height": 13,
+          "confidence": 0.0
+        },
+        {
+          "text": "ey=0147f6ac-a125~442d-9467-3084e5052d13;",
+          "left": 415,
+          "top": 1443,
+          "width": 321,
+          "height": 14,
+          "confidence": 0.0
+        },
+        {
+          "text": "cn=0;",
+          "left": 748,
+          "top": 1443,
+          "width": 37,
+          "height": 13,
+          "confidence": 80.802742
+        },
+        {
+          "text": "shshshfp=3a1e26c999401eb272d0c23dact3bb5;",
+          "left": 797,
+          "top": 1443,
+          "width": 337,
+          "height": 14,
+          "confidence": 31.435646
+        },
+        {
+          "text": "__jda=76161171.",
+          "left": 1147,
+          "top": 1432,
+          "width": 117,
+          "height": 32,
+          "confidence": 20.803251
+        },
+        {
+          "text": "15967756750",
+          "left": 1269,
+          "top": 1443,
+          "width": 86,
+          "height": 11,
+          "confidence": 20.803251
+        },
+        {
+          "text": "5423",
+          "left": 1365,
+          "top": 1443,
+          "width": 23,
+          "height": 11,
+          "confidence": 26.378613
+        }
+      ]
+    },
+    {
+      "text": "os7oradé6ecda76 4805991. 1596775675. 1605614864. 1608025719.13; __jdb=76161171.9.1596775675054234805991 |13. 1608025719; __jdc=76161171; shsh",
+      "left": 150,
+      "top": 1454,
+      "right": 1388,
+      "bottom": 1492,
+      "height": 38,
+      "confidence": 44.3517313,
+      "words": [
+        {
+          "text": "os7oradé6ecda76",
+          "left": 150,
+          "top": 1454,
+          "width": 117,
+          "height": 38,
+          "confidence": 3.204422
+        },
+        {
+          "text": "4805991.",
+          "left": 415,
+          "top": 1466,
+          "width": 61,
+          "height": 10,
+          "confidence": 34.838406
+        },
+        {
+          "text": "1596775675.",
+          "left": 480,
+          "top": 1466,
+          "width": 289,
+          "height": 12,
+          "confidence": 34.838406
+        },
+        {
+          "text": "1605614864.",
+          "left": 571,
+          "top": 1454,
+          "width": 86,
+          "height": 32,
+          "confidence": 44.604889
+        },
+        {
+          "text": "1608025719.13;",
+          "left": 661,
+          "top": 1466,
+          "width": 108,
+          "height": 12,
+          "confidence": 44.604889
+        },
+        {
+          "text": "__jdb=76161171.9.1596775675054234805991",
+          "left": 779,
+          "top": 1466,
+          "width": 437,
+          "height": 13,
+          "confidence": 66.245361
+        },
+        {
+          "text": "|13.",
+          "left": 1099,
+          "top": 1454,
+          "width": 30,
+          "height": 32,
+          "confidence": 39.982529
+        },
+        {
+          "text": "1608025719;",
+          "left": 1131,
+          "top": 1454,
+          "width": 88,
+          "height": 32,
+          "confidence": 39.982529
+        },
+        {
+          "text": "__jdc=76161171;",
+          "left": 1226,
+          "top": 1466,
+          "width": 120,
+          "height": 13,
+          "confidence": 67.607941
+        },
+        {
+          "text": "shsh",
+          "left": 1366,
+          "top": 1466,
+          "width": 22,
+          "height": 10,
+          "confidence": 67.607941
+        }
+      ]
+    },
+    {
+      "text": "四 ACE EER shsID=f8733133912650ee5197bd4708dc01e6_7_1608028613248",
+      "left": 116,
+      "top": 1477,
+      "right": 852,
+      "bottom": 1511,
+      "height": 34,
+      "confidence": 30.258328500000005,
+      "words": [
+        {
+          "text": "四",
+          "left": 116,
+          "top": 1477,
+          "width": 25,
+          "height": 29,
+          "confidence": 44.317917
+        },
+        {
+          "text": "ACE",
+          "left": 151,
+          "top": 1498,
+          "width": 139,
+          "height": 13,
+          "confidence": 18.23617
+        },
+        {
+          "text": "EER",
+          "left": 291,
+          "top": 1498,
+          "width": 74,
+          "height": 12,
+          "confidence": 19.843435
+        },
+        {
+          "text": "shsID=f8733133912650ee5197bd4708dc01e6_7_1608028613248",
+          "left": 415,
+          "top": 1488,
+          "width": 437,
+          "height": 13,
+          "confidence": 38.635792
+        }
+      ]
+    },
+    {
+      "text": "png -",
+      "left": 268,
+      "top": 1480,
+      "right": 463,
+      "bottom": 1493,
+      "height": 13,
+      "confidence": 21.5928305,
+      "words": [
+        {
+          "text": "png",
+          "left": 268,
+          "top": 1480,
+          "width": 26,
+          "height": 10,
+          "confidence": 43.185661
+        },
+        {
+          "text": "-",
+          "left": 455,
+          "top": 1492,
+          "width": 8,
+          "height": 1,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "DNT: 1",
+      "left": 415,
+      "top": 1512,
+      "right": 459,
+      "bottom": 1522,
+      "height": 10,
+      "confidence": 84.18801500000001,
+      "words": [
+        {
+          "text": "DNT:",
+          "left": 415,
+          "top": 1512,
+          "width": 29,
+          "height": 10,
+          "confidence": 81.347992
+        },
+        {
+          "text": "1",
+          "left": 453,
+          "top": 1512,
+          "width": 6,
+          "height": 10,
+          "confidence": 87.028038
+        }
+      ]
+    },
+    {
+      "text": "[| cesar:",
+      "left": 116,
+      "top": 1523,
+      "right": 448,
+      "bottom": 1552,
+      "height": 29,
+      "confidence": 19.112606,
+      "words": [
+        {
+          "text": "[|",
+          "left": 116,
+          "top": 1523,
+          "width": 25,
+          "height": 29,
+          "confidence": 39.483948
+        },
+        {
+          "text": "cesar",
+          "left": 150,
+          "top": 1524,
+          "width": 141,
+          "height": 13,
+          "confidence": 17.85387
+        },
+        {
+          "text": ":",
+          "left": 445,
+          "top": 1539,
+          "width": 3,
+          "height": 2,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "m.360buyimg.con/babel/fs/t1/457. Hosb wu- jd com",
+      "left": 151,
+      "top": 1531,
+      "right": 536,
+      "bottom": 1561,
+      "height": 30,
+      "confidence": 40.6760798,
+      "words": [
+        {
+          "text": "m.360buyimg.con/babel/fs/t1/457.",
+          "left": 151,
+          "top": 1544,
+          "width": 214,
+          "height": 13,
+          "confidence": 25.05084
+        },
+        {
+          "text": "Hosb",
+          "left": 415,
+          "top": 1536,
+          "width": 33,
+          "height": 10,
+          "confidence": 65.005623
+        },
+        {
+          "text": "wu-",
+          "left": 456,
+          "top": 1535,
+          "width": 80,
+          "height": 14,
+          "confidence": 42.900162
+        },
+        {
+          "text": "jd",
+          "left": 489,
+          "top": 1531,
+          "width": 16,
+          "height": 30,
+          "confidence": 35.211887
+        },
+        {
+          "text": "com",
+          "left": 512,
+          "top": 1535,
+          "width": 24,
+          "height": 14,
+          "confidence": 35.211887
+        }
+      ]
+    },
+    {
+      "text": "GEREN Sec-Fetch-Dest: document",
+      "left": 150,
+      "top": 1559,
+      "right": 590,
+      "bottom": 1583,
+      "height": 24,
+      "confidence": 50.653404333333334,
+      "words": [
+        {
+          "text": "GEREN",
+          "left": 150,
+          "top": 1570,
+          "width": 140,
+          "height": 13,
+          "confidence": 7.647858
+        },
+        {
+          "text": "Sec-Fetch-Dest:",
+          "left": 414,
+          "top": 1559,
+          "width": 105,
+          "height": 11,
+          "confidence": 49.950142
+        },
+        {
+          "text": "document",
+          "left": 527,
+          "top": 1559,
+          "width": 63,
+          "height": 11,
+          "confidence": 94.362213
+        }
+      ]
+    },
+    {
+      "text": "Bo m.360buyimg.com/babel/jfs/t1/588. ‘Sec-Fetch-Mode: navigate",
+      "left": 112,
+      "top": 1565,
+      "right": 598,
+      "bottom": 1607,
+      "height": 42,
+      "confidence": 67.76407125,
+      "words": [
+        {
+          "text": "Bo",
+          "left": 112,
+          "top": 1565,
+          "width": 29,
+          "height": 42,
+          "confidence": 36.992065
+        },
+        {
+          "text": "m.360buyimg.com/babel/jfs/t1/588.",
+          "left": 147,
+          "top": 1579,
+          "width": 218,
+          "height": 28,
+          "confidence": 74.002357
+        },
+        {
+          "text": "‘Sec-Fetch-Mode:",
+          "left": 414,
+          "top": 1583,
+          "width": 111,
+          "height": 11,
+          "confidence": 63.402988
+        },
+        {
+          "text": "navigate",
+          "left": 534,
+          "top": 1583,
+          "width": 64,
+          "height": 13,
+          "confidence": 96.658875
+        }
+      ]
+    },
+    {
+      "text": "图 1d0957d7t2ae01a2.png Sec Fetch slte none",
+      "left": 116,
+      "top": 1602,
+      "right": 553,
+      "bottom": 1644,
+      "height": 42,
+      "confidence": 66.106308,
+      "words": [
+        {
+          "text": "图",
+          "left": 116,
+          "top": 1615,
+          "width": 25,
+          "height": 29,
+          "confidence": 93.687973
+        },
+        {
+          "text": "1d0957d7t2ae01a2.png",
+          "left": 151,
+          "top": 1605,
+          "width": 142,
+          "height": 28,
+          "confidence": 48.213676
+        },
+        {
+          "text": "Sec",
+          "left": 415,
+          "top": 1602,
+          "width": 23,
+          "height": 31,
+          "confidence": 81.674057
+        },
+        {
+          "text": "Fetch",
+          "left": 445,
+          "top": 1602,
+          "width": 34,
+          "height": 31,
+          "confidence": 84.732178
+        },
+        {
+          "text": "slte",
+          "left": 488,
+          "top": 1602,
+          "width": 26,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "none",
+          "left": 522,
+          "top": 1609,
+          "width": 31,
+          "height": 8,
+          "confidence": 88.329964
+        }
+      ]
+    },
+    {
+      "text": "m.360buyimg.com/babel/jfs/t1/515. ‘Sec-Fetch-User: 71",
+      "left": 151,
+      "top": 1630,
+      "right": 542,
+      "bottom": 1649,
+      "height": 19,
+      "confidence": 80.49600500000001,
+      "words": [
+        {
+          "text": "m.360buyimg.com/babel/jfs/t1/515.",
+          "left": 151,
+          "top": 1636,
+          "width": 214,
+          "height": 13,
+          "confidence": 77.162003
+        },
+        {
+          "text": "‘Sec-Fetch-User:",
+          "left": 414,
+          "top": 1630,
+          "width": 105,
+          "height": 11,
+          "confidence": 75.067047
+        },
+        {
+          "text": "71",
+          "left": 528,
+          "top": 1630,
+          "width": 14,
+          "height": 11,
+          "confidence": 89.258965
+        }
+      ]
+    },
+    {
+      "text": "cebbff76b25dc22e png",
+      "left": 150,
+      "top": 1650,
+      "right": 290,
+      "bottom": 1682,
+      "height": 32,
+      "confidence": 72.1729735,
+      "words": [
+        {
+          "text": "cebbff76b25dc22e",
+          "left": 150,
+          "top": 1662,
+          "width": 140,
+          "height": 13,
+          "confidence": 51.841011
+        },
+        {
+          "text": "png",
+          "left": 270,
+          "top": 1650,
+          "width": 20,
+          "height": 32,
+          "confidence": 92.504936
+        }
+      ]
+    },
+    {
+      "text": "Upgrade-Insecure-Requests: 1",
+      "left": 415,
+      "top": 1654,
+      "right": 615,
+      "bottom": 1667,
+      "height": 13,
+      "confidence": 80.97019599999999,
+      "words": [
+        {
+          "text": "Upgrade-Insecure-Requests:",
+          "left": 415,
+          "top": 1654,
+          "width": 185,
+          "height": 13,
+          "confidence": 68.211548
+        },
+        {
+          "text": "1",
+          "left": 609,
+          "top": 1654,
+          "width": 6,
+          "height": 10,
+          "confidence": 93.728844
+        }
+      ]
+    },
+    {
+      "text": "图 m.360buyimg.com/babel/fs/t1/509. User-Agent: Mozilla/5.0 (Macintosh; Intel Mac 0S X 10_15 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Saf",
+      "left": 116,
+      "top": 1662,
+      "right": 1391,
+      "bottom": 1700,
+      "height": 38,
+      "confidence": 87.30291394117647,
+      "words": [
+        {
+          "text": "图",
+          "left": 116,
+          "top": 1662,
+          "width": 25,
+          "height": 28,
+          "confidence": 94.920715
+        },
+        {
+          "text": "m.360buyimg.com/babel/fs/t1/509.",
+          "left": 151,
+          "top": 1668,
+          "width": 214,
+          "height": 32,
+          "confidence": 47.694893
+        },
+        {
+          "text": "User-Agent:",
+          "left": 415,
+          "top": 1678,
+          "width": 75,
+          "height": 12,
+          "confidence": 93.256783
+        },
+        {
+          "text": "Mozilla/5.0",
+          "left": 498,
+          "top": 1677,
+          "width": 89,
+          "height": 12,
+          "confidence": 85.90641
+        },
+        {
+          "text": "(Macintosh;",
+          "left": 598,
+          "top": 1677,
+          "width": 84,
+          "height": 13,
+          "confidence": 96.476059
+        },
+        {
+          "text": "Intel",
+          "left": 694,
+          "top": 1677,
+          "width": 39,
+          "height": 11,
+          "confidence": 96.847038
+        },
+        {
+          "text": "Mac",
+          "left": 742,
+          "top": 1677,
+          "width": 23,
+          "height": 11,
+          "confidence": 95.955795
+        },
+        {
+          "text": "0S",
+          "left": 775,
+          "top": 1677,
+          "width": 15,
+          "height": 11,
+          "confidence": 83.248672
+        },
+        {
+          "text": "X",
+          "left": 799,
+          "top": 1677,
+          "width": 8,
+          "height": 11,
+          "confidence": 91.784554
+        },
+        {
+          "text": "10_15",
+          "left": 816,
+          "top": 1676,
+          "width": 61,
+          "height": 14,
+          "confidence": 79.375748
+        },
+        {
+          "text": "4)",
+          "left": 864,
+          "top": 1666,
+          "width": 17,
+          "height": 32,
+          "confidence": 93.264381
+        },
+        {
+          "text": "AppleWebKit/537.36",
+          "left": 888,
+          "top": 1677,
+          "width": 145,
+          "height": 14,
+          "confidence": 72.521393
+        },
+        {
+          "text": "(KHTML,",
+          "left": 1045,
+          "top": 1676,
+          "width": 51,
+          "height": 14,
+          "confidence": 89.7202
+        },
+        {
+          "text": "like",
+          "left": 1109,
+          "top": 1677,
+          "width": 30,
+          "height": 11,
+          "confidence": 84.508209
+        },
+        {
+          "text": "Gecko)",
+          "left": 1148,
+          "top": 1676,
+          "width": 46,
+          "height": 13,
+          "confidence": 93.238335
+        },
+        {
+          "text": "Chrome/87.0.4280.88",
+          "left": 1206,
+          "top": 1677,
+          "width": 151,
+          "height": 12,
+          "confidence": 92.461266
+        },
+        {
+          "text": "Saf",
+          "left": 1368,
+          "top": 1677,
+          "width": 23,
+          "height": 11,
+          "confidence": 92.969086
+        }
+      ]
+    },
+    {
+      "text": "168 requests 292 kB transferred 2.9 CURVES",
+      "left": 118,
+      "top": 1697,
+      "right": 495,
+      "bottom": 1727,
+      "height": 30,
+      "confidence": 43.51282585714285,
+      "words": [
+        {
+          "text": "168",
+          "left": 118,
+          "top": 1707,
+          "width": 21,
+          "height": 10,
+          "confidence": 60.256382
+        },
+        {
+          "text": "requests",
+          "left": 144,
+          "top": 1697,
+          "width": 55,
+          "height": 30,
+          "confidence": 60.256382
+        },
+        {
+          "text": "292",
+          "left": 217,
+          "top": 1707,
+          "width": 22,
+          "height": 10,
+          "confidence": 78.690025
+        },
+        {
+          "text": "kB",
+          "left": 246,
+          "top": 1707,
+          "width": 13,
+          "height": 10,
+          "confidence": 18.51223
+        },
+        {
+          "text": "transferred",
+          "left": 263,
+          "top": 1707,
+          "width": 65,
+          "height": 10,
+          "confidence": 18.51223
+        },
+        {
+          "text": "2.9",
+          "left": 350,
+          "top": 1707,
+          "width": 18,
+          "height": 10,
+          "confidence": 66.774445
+        },
+        {
+          "text": "CURVES",
+          "left": 415,
+          "top": 1700,
+          "width": 80,
+          "height": 12,
+          "confidence": 1.588087
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1548 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/regular-expressions/page-2.png",
+  "lines": [
+    {
+      "text": "5 An 匹配一个换行符",
+      "left": 130,
+      "top": 125,
+      "right": 633,
+      "bottom": 179,
+      "height": 54,
+      "confidence": 91.93291042857142,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 132,
+          "width": 18,
+          "height": 31,
+          "confidence": 85.016068
+        },
+        {
+          "text": "An",
+          "left": 208,
+          "top": 131,
+          "width": 44,
+          "height": 32,
+          "confidence": 83.196243
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 129,
+          "width": 273,
+          "height": 37,
+          "confidence": 95.420311
+        },
+        {
+          "text": "一",
+          "left": 446,
+          "top": 125,
+          "width": 41,
+          "height": 54,
+          "confidence": 96.97261
+        },
+        {
+          "text": "个",
+          "left": 487,
+          "top": 125,
+          "width": 38,
+          "height": 54,
+          "confidence": 96.746758
+        },
+        {
+          "text": "换行",
+          "left": 524,
+          "top": 129,
+          "width": 82,
+          "height": 37,
+          "confidence": 93.069679
+        },
+        {
+          "text": "符",
+          "left": 605,
+          "top": 125,
+          "width": 28,
+          "height": 54,
+          "confidence": 93.108704
+        }
+      ]
+    },
+    {
+      "text": "6 \\t 匹配一个制表符",
+      "left": 129,
+      "top": 195,
+      "right": 633,
+      "bottom": 249,
+      "height": 54,
+      "confidence": 92.402551625,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 201,
+          "width": 21,
+          "height": 32,
+          "confidence": 89.939644
+        },
+        {
+          "text": "\\t",
+          "left": 208,
+          "top": 201,
+          "width": 44,
+          "height": 32,
+          "confidence": 89.939644
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 199,
+          "width": 273,
+          "height": 37,
+          "confidence": 95.40332
+        },
+        {
+          "text": "一",
+          "left": 446,
+          "top": 195,
+          "width": 41,
+          "height": 54,
+          "confidence": 96.973434
+        },
+        {
+          "text": "个",
+          "left": 487,
+          "top": 195,
+          "width": 44,
+          "height": 54,
+          "confidence": 93.088837
+        },
+        {
+          "text": "制",
+          "left": 530,
+          "top": 195,
+          "width": 38,
+          "height": 54,
+          "confidence": 92.997124
+        },
+        {
+          "text": "表",
+          "left": 568,
+          "top": 195,
+          "width": 31,
+          "height": 54,
+          "confidence": 89.04805
+        },
+        {
+          "text": "符",
+          "left": 598,
+          "top": 195,
+          "width": 35,
+          "height": 54,
+          "confidence": 91.83036
+        }
+      ]
+    },
+    {
+      "text": "7",
+      "left": 130,
+      "top": 272,
+      "right": 149,
+      "bottom": 302,
+      "height": 30,
+      "confidence": 92.920555,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 272,
+          "width": 19,
+          "height": 30,
+          "confidence": 92.920555
+        }
+      ]
+    },
+    {
+      "text": "8 A 匹配字符串的开始",
+      "left": 130,
+      "top": 339,
+      "right": 669,
+      "bottom": 376,
+      "height": 37,
+      "confidence": 91.76237471428571,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 341,
+          "width": 19,
+          "height": 32,
+          "confidence": 90.458191
+        },
+        {
+          "text": "A",
+          "left": 209,
+          "top": 343,
+          "width": 20,
+          "height": 20,
+          "confidence": 81.244179
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 341,
+          "width": 73,
+          "height": 35,
+          "confidence": 96.096252
+        },
+        {
+          "text": "字符",
+          "left": 443,
+          "top": 339,
+          "width": 66,
+          "height": 37,
+          "confidence": 93.239708
+        },
+        {
+          "text": "串",
+          "left": 527,
+          "top": 339,
+          "width": 41,
+          "height": 37,
+          "confidence": 92.141052
+        },
+        {
+          "text": "的",
+          "left": 571,
+          "top": 339,
+          "width": 17,
+          "height": 37,
+          "confidence": 92.283218
+        },
+        {
+          "text": "开始",
+          "left": 608,
+          "top": 339,
+          "width": 61,
+          "height": 37,
+          "confidence": 96.874023
+        }
+      ]
+    },
+    {
+      "text": "9 $ 匹配字符串的结尾",
+      "left": 128,
+      "top": 408,
+      "right": 669,
+      "bottom": 446,
+      "height": 38,
+      "confidence": 92.37060000000001,
+      "words": [
+        {
+          "text": "9",
+          "left": 128,
+          "top": 411,
+          "width": 21,
+          "height": 32,
+          "confidence": 89.559921
+        },
+        {
+          "text": "$",
+          "left": 210,
+          "top": 408,
+          "width": 19,
+          "height": 37,
+          "confidence": 84.205505
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 411,
+          "width": 73,
+          "height": 35,
+          "confidence": 95.86982
+        },
+        {
+          "text": "字符",
+          "left": 443,
+          "top": 409,
+          "width": 66,
+          "height": 37,
+          "confidence": 93.176491
+        },
+        {
+          "text": "串",
+          "left": 527,
+          "top": 409,
+          "width": 41,
+          "height": 37,
+          "confidence": 92.668152
+        },
+        {
+          "text": "的",
+          "left": 569,
+          "top": 409,
+          "width": 39,
+          "height": 37,
+          "confidence": 94.83551
+        },
+        {
+          "text": "结尾",
+          "left": 608,
+          "top": 409,
+          "width": 61,
+          "height": 37,
+          "confidence": 96.278801
+        }
+      ]
+    },
+    {
+      "text": "10",
+      "left": 107,
+      "top": 481,
+      "right": 150,
+      "bottom": 513,
+      "height": 32,
+      "confidence": 92.473763,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 481,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.473763
+        }
+      ]
+    },
+    {
+      "text": "11 OW 匹配非字母或数字或下划线",
+      "left": 107,
+      "top": 550,
+      "right": 830,
+      "bottom": 587,
+      "height": 37,
+      "confidence": 85.41330766666665,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 553,
+          "width": 42,
+          "height": 30,
+          "confidence": 72.227745
+        },
+        {
+          "text": "OW",
+          "left": 208,
+          "top": 552,
+          "width": 46,
+          "height": 32,
+          "confidence": 14.726324
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 550,
+          "width": 92,
+          "height": 37,
+          "confidence": 93.278122
+        },
+        {
+          "text": "非",
+          "left": 454,
+          "top": 550,
+          "width": 15,
+          "height": 37,
+          "confidence": 92.469406
+        },
+        {
+          "text": "字",
+          "left": 486,
+          "top": 550,
+          "width": 23,
+          "height": 37,
+          "confidence": 92.068481
+        },
+        {
+          "text": "母",
+          "left": 527,
+          "top": 550,
+          "width": 49,
+          "height": 37,
+          "confidence": 92.426537
+        },
+        {
+          "text": "或",
+          "left": 593,
+          "top": 550,
+          "width": 19,
+          "height": 37,
+          "confidence": 96.778709
+        },
+        {
+          "text": "数字",
+          "left": 613,
+          "top": 550,
+          "width": 56,
+          "height": 37,
+          "confidence": 96.097931
+        },
+        {
+          "text": "或",
+          "left": 688,
+          "top": 550,
+          "width": 46,
+          "height": 37,
+          "confidence": 96.782944
+        },
+        {
+          "text": "下",
+          "left": 754,
+          "top": 550,
+          "width": 11,
+          "height": 37,
+          "confidence": 92.939911
+        },
+        {
+          "text": "划",
+          "left": 777,
+          "top": 550,
+          "width": 26,
+          "height": 37,
+          "confidence": 92.979637
+        },
+        {
+          "text": "线",
+          "left": 808,
+          "top": 550,
+          "width": 22,
+          "height": 37,
+          "confidence": 92.183945
+        }
+      ]
+    },
+    {
+      "text": "12 \\D 匹配非数字",
+      "left": 107,
+      "top": 615,
+      "right": 549,
+      "bottom": 671,
+      "height": 56,
+      "confidence": 87.3576188,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 622,
+          "width": 41,
+          "height": 31,
+          "confidence": 74.781715
+        },
+        {
+          "text": "\\D",
+          "left": 208,
+          "top": 622,
+          "width": 45,
+          "height": 32,
+          "confidence": 80.943787
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 620,
+          "width": 193,
+          "height": 37,
+          "confidence": 91.414749
+        },
+        {
+          "text": "非",
+          "left": 450,
+          "top": 615,
+          "width": 39,
+          "height": 56,
+          "confidence": 92.924767
+        },
+        {
+          "text": "数字",
+          "left": 488,
+          "top": 620,
+          "width": 61,
+          "height": 37,
+          "confidence": 96.723076
+        }
+      ]
+    },
+    {
+      "text": "13 \\S 匹配非空白符",
+      "left": 107,
+      "top": 686,
+      "right": 589,
+      "bottom": 740,
+      "height": 54,
+      "confidence": 84.63459342857143,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 692,
+          "width": 41,
+          "height": 32,
+          "confidence": 65.611107
+        },
+        {
+          "text": "\\S",
+          "left": 208,
+          "top": 692,
+          "width": 45,
+          "height": 32,
+          "confidence": 64.041824
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 690,
+          "width": 92,
+          "height": 37,
+          "confidence": 93.29007
+        },
+        {
+          "text": "非",
+          "left": 454,
+          "top": 690,
+          "width": 40,
+          "height": 37,
+          "confidence": 90.564583
+        },
+        {
+          "text": "空",
+          "left": 493,
+          "top": 686,
+          "width": 38,
+          "height": 54,
+          "confidence": 93.07917
+        },
+        {
+          "text": "白",
+          "left": 530,
+          "top": 690,
+          "width": 35,
+          "height": 37,
+          "confidence": 92.767822
+        },
+        {
+          "text": "符",
+          "left": 565,
+          "top": 690,
+          "width": 24,
+          "height": 37,
+          "confidence": 93.087578
+        }
+      ]
+    },
+    {
+      "text": "14 alb ”匹配字符 aq 或字符 b",
+      "left": 107,
+      "top": 755,
+      "right": 681,
+      "bottom": 809,
+      "height": 54,
+      "confidence": 77.211314875,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 763,
+          "width": 43,
+          "height": 30,
+          "confidence": 90.3311
+        },
+        {
+          "text": "alb",
+          "left": 209,
+          "top": 761,
+          "width": 68,
+          "height": 33,
+          "confidence": 89.612396
+        },
+        {
+          "text": "”匹配",
+          "left": 356,
+          "top": 760,
+          "width": 321,
+          "height": 37,
+          "confidence": 26.24444
+        },
+        {
+          "text": "字符",
+          "left": 443,
+          "top": 755,
+          "width": 76,
+          "height": 54,
+          "confidence": 95.65696
+        },
+        {
+          "text": "aq",
+          "left": 518,
+          "top": 755,
+          "width": 34,
+          "height": 54,
+          "confidence": 37.899723
+        },
+        {
+          "text": "或",
+          "left": 551,
+          "top": 755,
+          "width": 38,
+          "height": 54,
+          "confidence": 96.38456
+        },
+        {
+          "text": "字符",
+          "left": 589,
+          "top": 755,
+          "width": 71,
+          "height": 54,
+          "confidence": 93.298492
+        },
+        {
+          "text": "b",
+          "left": 659,
+          "top": 755,
+          "width": 22,
+          "height": 54,
+          "confidence": 88.262848
+        }
+      ]
+    },
+    {
+      "text": "15 © 匹配括号内的表达式， 也表示一个组",
+      "left": 107,
+      "top": 826,
+      "right": 994,
+      "bottom": 880,
+      "height": 54,
+      "confidence": 92.51150299999998,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 833,
+          "width": 41,
+          "height": 31,
+          "confidence": 75.188965
+        },
+        {
+          "text": "©",
+          "left": 211,
+          "top": 831,
+          "width": 40,
+          "height": 39,
+          "confidence": 78.055313
+        },
+        {
+          "text": "匹配",
+          "left": 356,
+          "top": 830,
+          "width": 90,
+          "height": 37,
+          "confidence": 94.566994
+        },
+        {
+          "text": "括号",
+          "left": 447,
+          "top": 831,
+          "width": 62,
+          "height": 36,
+          "confidence": 96.840706
+        },
+        {
+          "text": "内",
+          "left": 524,
+          "top": 830,
+          "width": 41,
+          "height": 37,
+          "confidence": 96.772659
+        },
+        {
+          "text": "的",
+          "left": 569,
+          "top": 830,
+          "width": 19,
+          "height": 37,
+          "confidence": 96.811523
+        },
+        {
+          "text": "表达",
+          "left": 605,
+          "top": 830,
+          "width": 88,
+          "height": 37,
+          "confidence": 93.085197
+        },
+        {
+          "text": "式",
+          "left": 716,
+          "top": 858,
+          "width": 6,
+          "height": 11,
+          "confidence": 92.034325
+        },
+        {
+          "text": "，",
+          "left": 733,
+          "top": 826,
+          "width": 28,
+          "height": 54,
+          "confidence": 93.092857
+        },
+        {
+          "text": "也",
+          "left": 760,
+          "top": 830,
+          "width": 30,
+          "height": 36,
+          "confidence": 91.984627
+        },
+        {
+          "text": "表示",
+          "left": 794,
+          "top": 830,
+          "width": 196,
+          "height": 37,
+          "confidence": 96.033615
+        },
+        {
+          "text": "一",
+          "left": 885,
+          "top": 826,
+          "width": 41,
+          "height": 54,
+          "confidence": 96.903893
+        },
+        {
+          "text": "个",
+          "left": 925,
+          "top": 826,
+          "width": 42,
+          "height": 54,
+          "confidence": 96.881905
+        },
+        {
+          "text": "组",
+          "left": 966,
+          "top": 826,
+          "width": 28,
+          "height": 54,
+          "confidence": 96.908463
+        }
+      ]
+    },
+    {
+      "text": "16 |...] 匹配字符组中的字符",
+      "left": 107,
+      "top": 900,
+      "right": 782,
+      "bottom": 940,
+      "height": 40,
+      "confidence": 89.91330812499999,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 902,
+          "width": 43,
+          "height": 32,
+          "confidence": 91.572975
+        },
+        {
+          "text": "|...]",
+          "left": 214,
+          "top": 901,
+          "width": 106,
+          "height": 39,
+          "confidence": 50.371758
+        },
+        {
+          "text": "匹配",
+          "left": 428,
+          "top": 902,
+          "width": 73,
+          "height": 35,
+          "confidence": 95.328064
+        },
+        {
+          "text": "字符",
+          "left": 515,
+          "top": 900,
+          "width": 85,
+          "height": 37,
+          "confidence": 96.801842
+        },
+        {
+          "text": "组",
+          "left": 602,
+          "top": 902,
+          "width": 20,
+          "height": 34,
+          "confidence": 96.305557
+        },
+        {
+          "text": "中",
+          "left": 640,
+          "top": 900,
+          "width": 38,
+          "height": 37,
+          "confidence": 96.138695
+        },
+        {
+          "text": "的",
+          "left": 681,
+          "top": 900,
+          "width": 19,
+          "height": 37,
+          "confidence": 96.762939
+        },
+        {
+          "text": "字符",
+          "left": 714,
+          "top": 900,
+          "width": 68,
+          "height": 37,
+          "confidence": 96.024635
+        }
+      ]
+    },
+    {
+      "text": "17 [^A...] 匹配除了字符组中字符的所有字符",
+      "left": 107,
+      "top": 970,
+      "right": 1046,
+      "bottom": 1010,
+      "height": 40,
+      "confidence": 88.14402958333334,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 973,
+          "width": 42,
+          "height": 30,
+          "confidence": 56.241295
+        },
+        {
+          "text": " [^A...]",
+          "left": 214,
+          "top": 971,
+          "width": 130,
+          "height": 39,
+          "confidence": 38.346596
+        },
+        {
+          "text": "匹配",
+          "left": 452,
+          "top": 972,
+          "width": 90,
+          "height": 35,
+          "confidence": 95.649231
+        },
+        {
+          "text": "除了",
+          "left": 552,
+          "top": 971,
+          "width": 50,
+          "height": 36,
+          "confidence": 96.727455
+        },
+        {
+          "text": "字符",
+          "left": 613,
+          "top": 970,
+          "width": 91,
+          "height": 37,
+          "confidence": 96.0466
+        },
+        {
+          "text": "组",
+          "left": 704,
+          "top": 972,
+          "width": 22,
+          "height": 34,
+          "confidence": 96.230957
+        },
+        {
+          "text": "中",
+          "left": 745,
+          "top": 970,
+          "width": 19,
+          "height": 37,
+          "confidence": 96.89502
+        },
+        {
+          "text": "字符",
+          "left": 775,
+          "top": 970,
+          "width": 89,
+          "height": 37,
+          "confidence": 96.173149
+        },
+        {
+          "text": "的",
+          "left": 869,
+          "top": 970,
+          "width": 36,
+          "height": 37,
+          "confidence": 96.378632
+        },
+        {
+          "text": "所",
+          "left": 910,
+          "top": 971,
+          "width": 16,
+          "height": 36,
+          "confidence": 96.925262
+        },
+        {
+          "text": "有",
+          "left": 940,
+          "top": 970,
+          "width": 26,
+          "height": 37,
+          "confidence": 96.918304
+        },
+        {
+          "text": "字符",
+          "left": 971,
+          "top": 970,
+          "width": 75,
+          "height": 37,
+          "confidence": 95.195854
+        }
+      ]
+    },
+    {
+      "text": "量词: 控制前面的元字符出现的次数",
+      "left": 91,
+      "top": 1093,
+      "right": 772,
+      "bottom": 1150,
+      "height": 57,
+      "confidence": 93.86729030769233,
+      "words": [
+        {
+          "text": "量词",
+          "left": 91,
+          "top": 1098,
+          "width": 95,
+          "height": 39,
+          "confidence": 93.152054
+        },
+        {
+          "text": ":",
+          "left": 183,
+          "top": 1093,
+          "width": 11,
+          "height": 57,
+          "confidence": 90.898682
+        },
+        {
+          "text": "控制",
+          "left": 218,
+          "top": 1097,
+          "width": 94,
+          "height": 41,
+          "confidence": 96.556595
+        },
+        {
+          "text": "前",
+          "left": 311,
+          "top": 1093,
+          "width": 44,
+          "height": 57,
+          "confidence": 92.688324
+        },
+        {
+          "text": "面",
+          "left": 354,
+          "top": 1097,
+          "width": 41,
+          "height": 41,
+          "confidence": 92.875313
+        },
+        {
+          "text": "的",
+          "left": 400,
+          "top": 1097,
+          "width": 44,
+          "height": 40,
+          "confidence": 93.671204
+        },
+        {
+          "text": "元",
+          "left": 443,
+          "top": 1093,
+          "width": 36,
+          "height": 57,
+          "confidence": 96.968376
+        },
+        {
+          "text": "字符",
+          "left": 478,
+          "top": 1097,
+          "width": 73,
+          "height": 40,
+          "confidence": 95.999443
+        },
+        {
+          "text": "出",
+          "left": 571,
+          "top": 1097,
+          "width": 44,
+          "height": 40,
+          "confidence": 93.101143
+        },
+        {
+          "text": "现",
+          "left": 614,
+          "top": 1097,
+          "width": 46,
+          "height": 40,
+          "confidence": 92.919144
+        },
+        {
+          "text": "的",
+          "left": 661,
+          "top": 1097,
+          "width": 38,
+          "height": 40,
+          "confidence": 95.845161
+        },
+        {
+          "text": "次",
+          "left": 703,
+          "top": 1097,
+          "width": 25,
+          "height": 40,
+          "confidence": 93.096504
+        },
+        {
+          "text": "数",
+          "left": 746,
+          "top": 1097,
+          "width": 26,
+          "height": 40,
+          "confidence": 92.502831
+        }
+      ]
+    },
+    {
+      "text": "1 * 重复零次或更多次",
+      "left": 107,
+      "top": 1252,
+      "right": 626,
+      "bottom": 1306,
+      "height": 54,
+      "confidence": 89.86870077777778,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 1259,
+          "width": 18,
+          "height": 30,
+          "confidence": 71.010529
+        },
+        {
+          "text": "*",
+          "left": 186,
+          "top": 1258,
+          "width": 18,
+          "height": 18,
+          "confidence": 71.010529
+        },
+        {
+          "text": "重复",
+          "left": 306,
+          "top": 1256,
+          "width": 316,
+          "height": 37,
+          "confidence": 93.267357
+        },
+        {
+          "text": "零",
+          "left": 403,
+          "top": 1252,
+          "width": 41,
+          "height": 54,
+          "confidence": 90.69458
+        },
+        {
+          "text": "次",
+          "left": 443,
+          "top": 1252,
+          "width": 42,
+          "height": 54,
+          "confidence": 96.917625
+        },
+        {
+          "text": "或",
+          "left": 484,
+          "top": 1252,
+          "width": 41,
+          "height": 54,
+          "confidence": 96.753281
+        },
+        {
+          "text": "更",
+          "left": 524,
+          "top": 1252,
+          "width": 35,
+          "height": 54,
+          "confidence": 96.692719
+        },
+        {
+          "text": "多",
+          "left": 558,
+          "top": 1252,
+          "width": 38,
+          "height": 54,
+          "confidence": 96.967819
+        },
+        {
+          "text": "次",
+          "left": 595,
+          "top": 1252,
+          "width": 31,
+          "height": 54,
+          "confidence": 95.503868
+        }
+      ]
+    },
+    {
+      "text": "2 二重复一次或更多次",
+      "left": 106,
+      "top": 1322,
+      "right": 626,
+      "bottom": 1376,
+      "height": 54,
+      "confidence": 91.85303144444444,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 1328,
+          "width": 18,
+          "height": 31,
+          "confidence": 81.09848
+        },
+        {
+          "text": "二",
+          "left": 184,
+          "top": 1338,
+          "width": 22,
+          "height": 21,
+          "confidence": 68.068504
+        },
+        {
+          "text": "重复",
+          "left": 306,
+          "top": 1326,
+          "width": 316,
+          "height": 37,
+          "confidence": 96.836868
+        },
+        {
+          "text": "一",
+          "left": 399,
+          "top": 1322,
+          "width": 42,
+          "height": 54,
+          "confidence": 96.963844
+        },
+        {
+          "text": "次",
+          "left": 440,
+          "top": 1322,
+          "width": 45,
+          "height": 54,
+          "confidence": 96.918228
+        },
+        {
+          "text": "或",
+          "left": 484,
+          "top": 1322,
+          "width": 41,
+          "height": 54,
+          "confidence": 96.838577
+        },
+        {
+          "text": "更",
+          "left": 524,
+          "top": 1322,
+          "width": 35,
+          "height": 54,
+          "confidence": 96.733986
+        },
+        {
+          "text": "多",
+          "left": 558,
+          "top": 1322,
+          "width": 38,
+          "height": 54,
+          "confidence": 96.987816
+        },
+        {
+          "text": "次",
+          "left": 595,
+          "top": 1322,
+          "width": 31,
+          "height": 54,
+          "confidence": 96.23098
+        }
+      ]
+    },
+    {
+      "text": "3 2 重复零次或一次",
+      "left": 106,
+      "top": 1392,
+      "right": 586,
+      "bottom": 1446,
+      "height": 54,
+      "confidence": 89.6932365,
+      "words": [
+        {
+          "text": "3",
+          "left": 106,
+          "top": 1398,
+          "width": 18,
+          "height": 32,
+          "confidence": 82.270142
+        },
+        {
+          "text": "2",
+          "left": 187,
+          "top": 1398,
+          "width": 17,
+          "height": 32,
+          "confidence": 64.265526
+        },
+        {
+          "text": "重复",
+          "left": 306,
+          "top": 1396,
+          "width": 276,
+          "height": 37,
+          "confidence": 93.264038
+        },
+        {
+          "text": "零",
+          "left": 403,
+          "top": 1392,
+          "width": 41,
+          "height": 54,
+          "confidence": 90.750023
+        },
+        {
+          "text": "次",
+          "left": 443,
+          "top": 1392,
+          "width": 42,
+          "height": 54,
+          "confidence": 96.899849
+        },
+        {
+          "text": "或",
+          "left": 484,
+          "top": 1392,
+          "width": 38,
+          "height": 54,
+          "confidence": 96.646851
+        },
+        {
+          "text": "一",
+          "left": 521,
+          "top": 1392,
+          "width": 38,
+          "height": 54,
+          "confidence": 96.553406
+        },
+        {
+          "text": "次",
+          "left": 558,
+          "top": 1392,
+          "width": 28,
+          "height": 54,
+          "confidence": 96.896057
+        }
+      ]
+    },
+    {
+      "text": "4 重复 n 次",
+      "left": 104,
+      "top": 1458,
+      "right": 498,
+      "bottom": 1513,
+      "height": 55,
+      "confidence": 77.20131025,
+      "words": [
+        {
+          "text": "4",
+          "left": 104,
+          "top": 1467,
+          "width": 147,
+          "height": 39,
+          "confidence": 30.607182
+        },
+        {
+          "text": "重复",
+          "left": 354,
+          "top": 1466,
+          "width": 140,
+          "height": 37,
+          "confidence": 93.159248
+        },
+        {
+          "text": "n",
+          "left": 439,
+          "top": 1458,
+          "width": 28,
+          "height": 55,
+          "confidence": 92.091843
+        },
+        {
+          "text": "次",
+          "left": 466,
+          "top": 1458,
+          "width": 32,
+          "height": 55,
+          "confidence": 92.946968
+        }
+      ]
+    },
+    {
+      "text": "5 {n,} 重复 n 次或更多次",
+      "left": 106,
+      "top": 1533,
+      "right": 680,
+      "bottom": 1584,
+      "height": 51,
+      "confidence": 87.59532466666666,
+      "words": [
+        {
+          "text": "5",
+          "left": 106,
+          "top": 1540,
+          "width": 18,
+          "height": 31,
+          "confidence": 45.77177
+        },
+        {
+          "text": "{n,}",
+          "left": 187,
+          "top": 1538,
+          "width": 88,
+          "height": 40,
+          "confidence": 83.729828
+        },
+        {
+          "text": "重复",
+          "left": 378,
+          "top": 1537,
+          "width": 300,
+          "height": 37,
+          "confidence": 93.167374
+        },
+        {
+          "text": "n",
+          "left": 463,
+          "top": 1533,
+          "width": 33,
+          "height": 51,
+          "confidence": 87.072624
+        },
+        {
+          "text": "次",
+          "left": 495,
+          "top": 1533,
+          "width": 45,
+          "height": 51,
+          "confidence": 91.291328
+        },
+        {
+          "text": "或",
+          "left": 539,
+          "top": 1533,
+          "width": 43,
+          "height": 51,
+          "confidence": 96.842072
+        },
+        {
+          "text": "更",
+          "left": 581,
+          "top": 1533,
+          "width": 36,
+          "height": 51,
+          "confidence": 96.767563
+        },
+        {
+          "text": "多",
+          "left": 616,
+          "top": 1533,
+          "width": 36,
+          "height": 51,
+          "confidence": 96.972054
+        },
+        {
+          "text": "次",
+          "left": 651,
+          "top": 1533,
+          "width": 29,
+          "height": 51,
+          "confidence": 96.743309
+        }
+      ]
+    },
+    {
+      "text": "6 yn, 只重复 n 到 m 次",
+      "left": 105,
+      "top": 1601,
+      "right": 610,
+      "bottom": 1653,
+      "height": 52,
+      "confidence": 78.64683275000002,
+      "words": [
+        {
+          "text": "6",
+          "left": 105,
+          "top": 1609,
+          "width": 21,
+          "height": 32,
+          "confidence": 78.421333
+        },
+        {
+          "text": "yn,",
+          "left": 187,
+          "top": 1608,
+          "width": 41,
+          "height": 39,
+          "confidence": 25.180038
+        },
+        {
+          "text": "只",
+          "left": 239,
+          "top": 1608,
+          "width": 60,
+          "height": 40,
+          "confidence": 61.990276
+        },
+        {
+          "text": "重复",
+          "left": 402,
+          "top": 1607,
+          "width": 204,
+          "height": 37,
+          "confidence": 92.565178
+        },
+        {
+          "text": "n",
+          "left": 492,
+          "top": 1601,
+          "width": 27,
+          "height": 52,
+          "confidence": 92.77005
+        },
+        {
+          "text": "到",
+          "left": 518,
+          "top": 1601,
+          "width": 30,
+          "height": 52,
+          "confidence": 92.712753
+        },
+        {
+          "text": "m",
+          "left": 547,
+          "top": 1601,
+          "width": 33,
+          "height": 52,
+          "confidence": 92.503532
+        },
+        {
+          "text": "次",
+          "left": 580,
+          "top": 1601,
+          "width": 30,
+          "height": 52,
+          "confidence": 93.031502
+        }
+      ]
+    },
+    {
+      "text": "贪楚匹配和惰性匹配",
+      "left": 91,
+      "top": 1734,
+      "right": 483,
+      "bottom": 1774,
+      "height": 40,
+      "confidence": 83.543093,
+      "words": [
+        {
+          "text": "贪",
+          "left": 91,
+          "top": 1734,
+          "width": 83,
+          "height": 40,
+          "confidence": 88.339073
+        },
+        {
+          "text": "楚",
+          "left": 182,
+          "top": 1736,
+          "width": 19,
+          "height": 37,
+          "confidence": 38.233192
+        },
+        {
+          "text": "匹",
+          "left": 223,
+          "top": 1736,
+          "width": 20,
+          "height": 38,
+          "confidence": 92.095879
+        },
+        {
+          "text": "配",
+          "left": 247,
+          "top": 1735,
+          "width": 36,
+          "height": 39,
+          "confidence": 92.958321
+        },
+        {
+          "text": "和",
+          "left": 288,
+          "top": 1734,
+          "width": 31,
+          "height": 40,
+          "confidence": 92.88295
+        },
+        {
+          "text": "惰性",
+          "left": 321,
+          "top": 1734,
+          "width": 74,
+          "height": 40,
+          "confidence": 83.642578
+        },
+        {
+          "text": "匹配",
+          "left": 402,
+          "top": 1736,
+          "width": 81,
+          "height": 38,
+          "confidence": 96.649658
+        }
+      ]
+    }
+  ]
+}

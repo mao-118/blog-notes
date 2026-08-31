@@ -1,0 +1,947 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/video-scraping/page-12.png",
+  "lines": [
+    {
+      "text": "69",
+      "left": 129,
+      "top": 131,
+      "right": 173,
+      "bottom": 163,
+      "height": 32,
+      "confidence": 91.885826,
+      "words": [
+        {
+          "text": "69",
+          "left": 129,
+          "top": 131,
+          "width": 44,
+          "height": 32,
+          "confidence": 91.885826
+        }
+      ]
+    },
+    {
+      "text": "70 bs = await fl1.readQ)",
+      "left": 130,
+      "top": 200,
+      "right": 877,
+      "bottom": 239,
+      "height": 39,
+      "confidence": 82.29773999999999,
+      "words": [
+        {
+          "text": "70",
+          "left": 130,
+          "top": 201,
+          "width": 44,
+          "height": 32,
+          "confidence": 88.943649
+        },
+        {
+          "text": "bs",
+          "left": 404,
+          "top": 200,
+          "width": 42,
+          "height": 33,
+          "confidence": 96.72554
+        },
+        {
+          "text": "=",
+          "left": 474,
+          "top": 216,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.944481
+        },
+        {
+          "text": "await",
+          "left": 523,
+          "top": 200,
+          "width": 115,
+          "height": 33,
+          "confidence": 92.801918
+        },
+        {
+          "text": "fl1.readQ)",
+          "left": 668,
+          "top": 200,
+          "width": 209,
+          "height": 39,
+          "confidence": 36.073112
+        }
+      ]
+    },
+    {
+      "text": "71 await f2.writeCaes.decrypt(bs))",
+      "left": 130,
+      "top": 270,
+      "right": 1142,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 77.85293566666667,
+      "words": [
+        {
+          "text": "71",
+          "left": 130,
+          "top": 272,
+          "width": 43,
+          "height": 30,
+          "confidence": 93.108299
+        },
+        {
+          "text": "await",
+          "left": 403,
+          "top": 270,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.296989
+        },
+        {
+          "text": "f2.writeCaes.decrypt(bs))",
+          "left": 548,
+          "top": 270,
+          "width": 594,
+          "height": 41,
+          "confidence": 47.153519
+        }
+      ]
+    },
+    {
+      "text": "72 print(f\" {name}~f#20K~\")",
+      "left": 130,
+      "top": 339,
+      "right": 861,
+      "bottom": 381,
+      "height": 42,
+      "confidence": 64.13047233333333,
+      "words": [
+        {
+          "text": "72",
+          "left": 130,
+          "top": 341,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.819389
+        },
+        {
+          "text": "print(f\"",
+          "left": 308,
+          "top": 340,
+          "width": 183,
+          "height": 41,
+          "confidence": 75.944962
+        },
+        {
+          "text": "{name}~f#20K~\")",
+          "left": 507,
+          "top": 339,
+          "width": 354,
+          "height": 40,
+          "confidence": 19.627066
+        }
+      ]
+    },
+    {
+      "text": "73",
+      "left": 130,
+      "top": 411,
+      "right": 172,
+      "bottom": 443,
+      "height": 32,
+      "confidence": 96.693359,
+      "words": [
+        {
+          "text": "73",
+          "left": 130,
+          "top": 411,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.693359
+        }
+      ]
+    },
+    {
+      "text": "74",
+      "left": 130,
+      "top": 482,
+      "right": 174,
+      "bottom": 512,
+      "height": 30,
+      "confidence": 89.417801,
+      "words": [
+        {
+          "text": "74",
+          "left": 130,
+          "top": 482,
+          "width": 44,
+          "height": 30,
+          "confidence": 89.417801
+        }
+      ]
+    },
+    {
+      "text": "75 async def aio_dec(key):",
+      "left": 130,
+      "top": 551,
+      "right": 752,
+      "bottom": 592,
+      "height": 41,
+      "confidence": 82.6639175,
+      "words": [
+        {
+          "text": "75",
+          "left": 130,
+          "top": 553,
+          "width": 43,
+          "height": 31,
+          "confidence": 89.810661
+        },
+        {
+          "text": "async",
+          "left": 211,
+          "top": 561,
+          "width": 115,
+          "height": 31,
+          "confidence": 94.294655
+        },
+        {
+          "text": "def",
+          "left": 355,
+          "top": 551,
+          "width": 69,
+          "height": 33,
+          "confidence": 91.997704
+        },
+        {
+          "text": "aio_dec(key):",
+          "left": 451,
+          "top": 551,
+          "width": 301,
+          "height": 41,
+          "confidence": 54.55265
+        }
+      ]
+    },
+    {
+      "text": "76 tasks = []",
+      "left": 130,
+      "top": 621,
+      "right": 538,
+      "bottom": 660,
+      "height": 39,
+      "confidence": 94.13304149999999,
+      "words": [
+        {
+          "text": "76",
+          "left": 130,
+          "top": 622,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.813828
+        },
+        {
+          "text": "tasks",
+          "left": 307,
+          "top": 621,
+          "width": 115,
+          "height": 33,
+          "confidence": 95.254486
+        },
+        {
+          "text": "=",
+          "left": 450,
+          "top": 637,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.303406
+        },
+        {
+          "text": "[]",
+          "left": 504,
+          "top": 621,
+          "width": 34,
+          "height": 39,
+          "confidence": 92.160446
+        }
+      ]
+    },
+    {
+      "text": "77 async with aiofiles.open(\" 第二层",
+      "left": 130,
+      "top": 685,
+      "right": 1051,
+      "bottom": 737,
+      "height": 52,
+      "confidence": 88.25683785714286,
+      "words": [
+        {
+          "text": "77",
+          "left": 130,
+          "top": 693,
+          "width": 43,
+          "height": 30,
+          "confidence": 96.108505
+        },
+        {
+          "text": "async",
+          "left": 307,
+          "top": 701,
+          "width": 115,
+          "height": 31,
+          "confidence": 95.159019
+        },
+        {
+          "text": "with",
+          "left": 449,
+          "top": 691,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.266548
+        },
+        {
+          "text": "aiofiles.open(\"",
+          "left": 571,
+          "top": 690,
+          "width": 476,
+          "height": 42,
+          "confidence": 59.922302
+        },
+        {
+          "text": "第",
+          "left": 943,
+          "top": 685,
+          "width": 43,
+          "height": 52,
+          "confidence": 89.12294
+        },
+        {
+          "text": "二",
+          "left": 985,
+          "top": 685,
+          "width": 37,
+          "height": 52,
+          "confidence": 93.240028
+        },
+        {
+          "text": "层",
+          "left": 1021,
+          "top": 685,
+          "width": 30,
+          "height": 52,
+          "confidence": 90.978523
+        }
+      ]
+    },
+    {
+      "text": "_tmp_m3u8.txt\", mode=\"r\", encoding=\"utf-8\") as",
+      "left": 210,
+      "top": 761,
+      "right": 1311,
+      "bottom": 802,
+      "height": 41,
+      "confidence": 90.87143125,
+      "words": [
+        {
+          "text": "_tmp_m3u8.txt\",",
+          "left": 210,
+          "top": 761,
+          "width": 351,
+          "height": 41,
+          "confidence": 88.14035
+        },
+        {
+          "text": "mode=\"r\",",
+          "left": 594,
+          "top": 761,
+          "width": 207,
+          "height": 40,
+          "confidence": 90.809067
+        },
+        {
+          "text": "encoding=\"utf-8\")",
+          "left": 835,
+          "top": 761,
+          "width": 403,
+          "height": 41,
+          "confidence": 87.982864
+        },
+        {
+          "text": "as",
+          "left": 1268,
+          "top": 771,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.553444
+        }
+      ]
+    },
+    {
+      "text": "f:",
+      "left": 212,
+      "top": 831,
+      "right": 248,
+      "bottom": 864,
+      "height": 33,
+      "confidence": 80.435249,
+      "words": [
+        {
+          "text": "f:",
+          "left": 212,
+          "top": 831,
+          "width": 36,
+          "height": 33,
+          "confidence": 80.435249
+        }
+      ]
+    },
+    {
+      "text": "78 async for line in f:",
+      "left": 130,
+      "top": 901,
+      "right": 872,
+      "bottom": 942,
+      "height": 41,
+      "confidence": 93.983804,
+      "words": [
+        {
+          "text": "78",
+          "left": 130,
+          "top": 902,
+          "width": 43,
+          "height": 32,
+          "confidence": 91.837906
+        },
+        {
+          "text": "async",
+          "left": 403,
+          "top": 911,
+          "width": 115,
+          "height": 31,
+          "confidence": 96.718147
+        },
+        {
+          "text": "for",
+          "left": 548,
+          "top": 901,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.786591
+        },
+        {
+          "text": "line",
+          "left": 643,
+          "top": 901,
+          "width": 92,
+          "height": 33,
+          "confidence": 95.65654
+        },
+        {
+          "text": "in",
+          "left": 764,
+          "top": 901,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.45182
+        },
+        {
+          "text": "f:",
+          "left": 836,
+          "top": 901,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.45182
+        }
+      ]
+    },
+    {
+      "text": "79 if line.startswithC\"#\"):",
+      "left": 130,
+      "top": 971,
+      "right": 1065,
+      "bottom": 1010,
+      "height": 39,
+      "confidence": 86.12874599999999,
+      "words": [
+        {
+          "text": "79",
+          "left": 130,
+          "top": 972,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.812004
+        },
+        {
+          "text": "if",
+          "left": 500,
+          "top": 971,
+          "width": 44,
+          "height": 32,
+          "confidence": 90.975433
+        },
+        {
+          "text": "line.startswithC\"#\"):",
+          "left": 571,
+          "top": 971,
+          "width": 494,
+          "height": 39,
+          "confidence": 71.598801
+        }
+      ]
+    },
+    {
+      "text": "80 continue",
+      "left": 130,
+      "top": 1041,
+      "right": 783,
+      "bottom": 1074,
+      "height": 33,
+      "confidence": 96.1024515,
+      "words": [
+        {
+          "text": "80",
+          "left": 130,
+          "top": 1042,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.644783
+        },
+        {
+          "text": "continue",
+          "left": 596,
+          "top": 1041,
+          "width": 187,
+          "height": 33,
+          "confidence": 96.56012
+        }
+      ]
+    },
+    {
+      "text": "81 Line = Line.stripQ",
+      "left": 130,
+      "top": 1111,
+      "right": 950,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 82.715228,
+      "words": [
+        {
+          "text": "81",
+          "left": 130,
+          "top": 1112,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.142235
+        },
+        {
+          "text": "Line",
+          "left": 499,
+          "top": 1111,
+          "width": 92,
+          "height": 33,
+          "confidence": 87.11795
+        },
+        {
+          "text": "=",
+          "left": 618,
+          "top": 1127,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.266174
+        },
+        {
+          "text": "Line.stripQ",
+          "left": 667,
+          "top": 1111,
+          "width": 283,
+          "height": 41,
+          "confidence": 55.334553
+        }
+      ]
+    },
+    {
+      "text": "82 tasks.append(dec_ts(line, key))",
+      "left": 130,
+      "top": 1181,
+      "right": 1238,
+      "bottom": 1222,
+      "height": 41,
+      "confidence": 76.43240233333334,
+      "words": [
+        {
+          "text": "82",
+          "left": 130,
+          "top": 1182,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.429337
+        },
+        {
+          "text": "tasks.append(dec_ts(line,",
+          "left": 499,
+          "top": 1181,
+          "width": 591,
+          "height": 41,
+          "confidence": 42.77071
+        },
+        {
+          "text": "key))",
+          "left": 1126,
+          "top": 1181,
+          "width": 112,
+          "height": 41,
+          "confidence": 91.09716
+        }
+      ]
+    },
+    {
+      "text": "83 # 异步解密",
+      "left": 130,
+      "top": 1250,
+      "right": 607,
+      "bottom": 1287,
+      "height": 37,
+      "confidence": 92.9345035,
+      "words": [
+        {
+          "text": "83",
+          "left": 130,
+          "top": 1252,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.771095
+        },
+        {
+          "text": "#",
+          "left": 402,
+          "top": 1253,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.81324
+        },
+        {
+          "text": "异步",
+          "left": 465,
+          "top": 1250,
+          "width": 83,
+          "height": 37,
+          "confidence": 93.146332
+        },
+        {
+          "text": "解密",
+          "left": 549,
+          "top": 1250,
+          "width": 58,
+          "height": 37,
+          "confidence": 89.007347
+        }
+      ]
+    },
+    {
+      "text": "84 await asyncio.wait(tasks)",
+      "left": 130,
+      "top": 1321,
+      "right": 998,
+      "bottom": 1362,
+      "height": 41,
+      "confidence": 84.53642,
+      "words": [
+        {
+          "text": "84",
+          "left": 130,
+          "top": 1322,
+          "width": 44,
+          "height": 32,
+          "confidence": 90.130989
+        },
+        {
+          "text": "await",
+          "left": 403,
+          "top": 1321,
+          "width": 115,
+          "height": 33,
+          "confidence": 92.823486
+        },
+        {
+          "text": "asyncio.wait(tasks)",
+          "left": 547,
+          "top": 1321,
+          "width": 451,
+          "height": 41,
+          "confidence": 70.654785
+        }
+      ]
+    },
+    {
+      "text": "85",
+      "left": 130,
+      "top": 1392,
+      "right": 173,
+      "bottom": 1424,
+      "height": 32,
+      "confidence": 96.138039,
+      "words": [
+        {
+          "text": "85",
+          "left": 130,
+          "top": 1392,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.138039
+        }
+      ]
+    },
+    {
+      "text": "86",
+      "left": 130,
+      "top": 1462,
+      "right": 174,
+      "bottom": 1494,
+      "height": 32,
+      "confidence": 96.86911,
+      "words": [
+        {
+          "text": "86",
+          "left": 130,
+          "top": 1462,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.86911
+        }
+      ]
+    },
+    {
+      "text": "87 def merge_ts():",
+      "left": 130,
+      "top": 1532,
+      "right": 560,
+      "bottom": 1573,
+      "height": 41,
+      "confidence": 83.434568,
+      "words": [
+        {
+          "text": "87",
+          "left": 130,
+          "top": 1533,
+          "width": 43,
+          "height": 32,
+          "confidence": 81.860222
+        },
+        {
+          "text": "def",
+          "left": 211,
+          "top": 1532,
+          "width": 69,
+          "height": 33,
+          "confidence": 91.584824
+        },
+        {
+          "text": "merge_ts():",
+          "left": 306,
+          "top": 1532,
+          "width": 254,
+          "height": 41,
+          "confidence": 76.858658
+        }
+      ]
+    },
+    {
+      "text": "88 s=f[]",
+      "left": 130,
+      "top": 1602,
+      "right": 442,
+      "bottom": 1641,
+      "height": 39,
+      "confidence": 47.1841925,
+      "words": [
+        {
+          "text": "88",
+          "left": 130,
+          "top": 1603,
+          "width": 43,
+          "height": 32,
+          "confidence": 94.368385
+        },
+        {
+          "text": "s=f[]",
+          "left": 308,
+          "top": 1602,
+          "width": 134,
+          "height": 39,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "89 with open(第\n5\t1\t1\t21\t1\t5\t626\t1673\t44\t35\t91.304619\t二\n5\t1\t1\t21\t1\t6\t690\t1704\t15\t3\t91.138451\t层\n5\t1\t1\t21\t1\t7\t704\t1671\t342\t42\t78.634521\t_tmp_m3u8\n5\t1\t1\t21\t1\t8\t916\t1667\t139\t50\t38.723183\t.txt) as f:",
+      "left": 130,
+      "top": 1671,
+      "right": 1185,
+      "bottom": 1713,
+      "height": 42,
+      "confidence": 67.163072,
+      "words": [
+        {
+          "text": "89",
+          "left": 130,
+          "top": 1673,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.642685
+        },
+        {
+          "text": "with",
+          "left": 305,
+          "top": 1672,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.281998
+        },
+        {
+          "text": "open(",
+          "left": 427,
+          "top": 1672,
+          "width": 115,
+          "height": 41,
+          "confidence": 14.704704
+        },
+        {
+          "text": "第\n5\t1\t1\t21\t1\t5\t626\t1673\t44\t35\t91.304619\t二\n5\t1\t1\t21\t1\t6\t690\t1704\t15\t3\t91.138451\t层\n5\t1\t1\t21\t1\t7\t704\t1671\t342\t42\t78.634521\t_tmp_m3u8\n5\t1\t1\t21\t1\t8\t916\t1667\t139\t50\t38.723183\t.txt)",
+          "left": 551,
+          "top": 1671,
+          "width": 57,
+          "height": 37,
+          "confidence": 14.704704
+        },
+        {
+          "text": "as",
+          "left": 1076,
+          "top": 1682,
+          "width": 43,
+          "height": 23,
+          "confidence": 93.287186
+        },
+        {
+          "text": "f:",
+          "left": 1149,
+          "top": 1672,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.357155
+        }
+      ]
+    },
+    {
+      "text": "90 for line in f:",
+      "left": 128,
+      "top": 1742,
+      "right": 728,
+      "bottom": 1775,
+      "height": 33,
+      "confidence": 87.05104060000001,
+      "words": [
+        {
+          "text": "90",
+          "left": 128,
+          "top": 1743,
+          "width": 46,
+          "height": 32,
+          "confidence": 92.455666
+        },
+        {
+          "text": "for",
+          "left": 404,
+          "top": 1742,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.512764
+        },
+        {
+          "text": "line",
+          "left": 499,
+          "top": 1742,
+          "width": 92,
+          "height": 33,
+          "confidence": 63.954071
+        },
+        {
+          "text": "in",
+          "left": 620,
+          "top": 1742,
+          "width": 42,
+          "height": 32,
+          "confidence": 91.166351
+        },
+        {
+          "text": "f:",
+          "left": 692,
+          "top": 1742,
+          "width": 36,
+          "height": 33,
+          "confidence": 91.166351
+        }
+      ]
+    },
+    {
+      "text": "91 if Line.startswith(\"#\"):",
+      "left": 128,
+      "top": 1812,
+      "right": 1065,
+      "bottom": 1851,
+      "height": 39,
+      "confidence": 82.56958,
+      "words": [
+        {
+          "text": "91",
+          "left": 128,
+          "top": 1813,
+          "width": 45,
+          "height": 32,
+          "confidence": 94.168091
+        },
+        {
+          "text": "if",
+          "left": 500,
+          "top": 1812,
+          "width": 44,
+          "height": 32,
+          "confidence": 91.467041
+        },
+        {
+          "text": "Line.startswith(\"#\"):",
+          "left": 571,
+          "top": 1812,
+          "width": 494,
+          "height": 39,
+          "confidence": 62.073608
+        }
+      ]
+    },
+    {
+      "text": "92 continue",
+      "left": 128,
+      "top": 1882,
+      "right": 783,
+      "bottom": 1915,
+      "height": 33,
+      "confidence": 96.4771465,
+      "words": [
+        {
+          "text": "92",
+          "left": 128,
+          "top": 1883,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.394173
+        },
+        {
+          "text": "continue",
+          "left": 596,
+          "top": 1882,
+          "width": 187,
+          "height": 33,
+          "confidence": 96.56012
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/coroutines/page-4.png",
+  "lines": [
+    {
+      "text": "4 async def funci(d):",
+      "left": 128,
+      "top": 130,
+      "right": 606,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 79.27709949999999,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 132,
+          "width": 22,
+          "height": 30,
+          "confidence": 95.36985
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 140,
+          "width": 115,
+          "height": 31,
+          "confidence": 95.36985
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 130,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.177383
+        },
+        {
+          "text": "funci(d):",
+          "left": 426,
+          "top": 130,
+          "width": 180,
+          "height": 39,
+          "confidence": 33.191315
+        }
+      ]
+    },
+    {
+      "text": "5 printC\"funcl, start\")",
+      "left": 130,
+      "top": 200,
+      "right": 779,
+      "bottom": 241,
+      "height": 41,
+      "confidence": 79.74648833333333,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 202,
+          "width": 19,
+          "height": 31,
+          "confidence": 93.340775
+        },
+        {
+          "text": "printC\"funcl,",
+          "left": 282,
+          "top": 200,
+          "width": 301,
+          "height": 41,
+          "confidence": 52.025391
+        },
+        {
+          "text": "start\")",
+          "left": 618,
+          "top": 200,
+          "width": 161,
+          "height": 39,
+          "confidence": 93.873299
+        }
+      ]
+    },
+    {
+      "text": "6 await asyncio.sleep(3)",
+      "left": 129,
+      "top": 270,
+      "right": 803,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 83.67353700000001,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 271,
+          "width": 21,
+          "height": 32,
+          "confidence": 97.006454
+        },
+        {
+          "text": "await",
+          "left": 281,
+          "top": 270,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.099335
+        },
+        {
+          "text": "asyncio.sleep(3)",
+          "left": 425,
+          "top": 270,
+          "width": 378,
+          "height": 41,
+          "confidence": 60.914822
+        }
+      ]
+    },
+    {
+      "text": "7 printC\"funcl, end\")",
+      "left": 130,
+      "top": 340,
+      "right": 731,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 84.76689666666667,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 342,
+          "width": 19,
+          "height": 30,
+          "confidence": 96.685425
+        },
+        {
+          "text": "printC\"funcl,",
+          "left": 282,
+          "top": 340,
+          "width": 301,
+          "height": 41,
+          "confidence": 62.991165
+        },
+        {
+          "text": "end\")",
+          "left": 617,
+          "top": 340,
+          "width": 114,
+          "height": 39,
+          "confidence": 94.6241
+        }
+      ]
+    },
+    {
+      "text": "8",
+      "left": 130,
+      "top": 411,
+      "right": 149,
+      "bottom": 443,
+      "height": 32,
+      "confidence": 96.61721,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 411,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.61721
+        }
+      ]
+    },
+    {
+      "text": "9",
+      "left": 128,
+      "top": 481,
+      "right": 149,
+      "bottom": 513,
+      "height": 32,
+      "confidence": 90.3638,
+      "words": [
+        {
+          "text": "9",
+          "left": 128,
+          "top": 481,
+          "width": 21,
+          "height": 32,
+          "confidence": 90.3638
+        }
+      ]
+    },
+    {
+      "text": "10 async def func2(Q):",
+      "left": 107,
+      "top": 551,
+      "right": 606,
+      "bottom": 592,
+      "height": 41,
+      "confidence": 72.20730125,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 552,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.529083
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 561,
+          "width": 115,
+          "height": 31,
+          "confidence": 95.636757
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 551,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.161278
+        },
+        {
+          "text": "func2(Q):",
+          "left": 426,
+          "top": 551,
+          "width": 180,
+          "height": 39,
+          "confidence": 4.502087
+        }
+      ]
+    },
+    {
+      "text": "11 printC\"func2, start\")",
+      "left": 107,
+      "top": 621,
+      "right": 779,
+      "bottom": 662,
+      "height": 41,
+      "confidence": 92.08633166666668,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 623,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.850952
+        },
+        {
+          "text": "printC\"func2,",
+          "left": 282,
+          "top": 621,
+          "width": 301,
+          "height": 41,
+          "confidence": 85.691521
+        },
+        {
+          "text": "start\")",
+          "left": 618,
+          "top": 621,
+          "width": 161,
+          "height": 39,
+          "confidence": 93.716522
+        }
+      ]
+    },
+    {
+      "text": "12 await asyncio.sleep(4)",
+      "left": 107,
+      "top": 691,
+      "right": 803,
+      "bottom": 732,
+      "height": 41,
+      "confidence": 89.009023,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 692,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.795479
+        },
+        {
+          "text": "await",
+          "left": 281,
+          "top": 691,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.036705
+        },
+        {
+          "text": "asyncio.sleep(4)",
+          "left": 425,
+          "top": 691,
+          "width": 378,
+          "height": 41,
+          "confidence": 77.194885
+        }
+      ]
+    },
+    {
+      "text": "13 printC\"func2, end\")",
+      "left": 107,
+      "top": 761,
+      "right": 731,
+      "bottom": 802,
+      "height": 41,
+      "confidence": 91.24119300000001,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 762,
+          "width": 41,
+          "height": 32,
+          "confidence": 96.718513
+        },
+        {
+          "text": "printC\"func2,",
+          "left": 282,
+          "top": 761,
+          "width": 301,
+          "height": 41,
+          "confidence": 82.257706
+        },
+        {
+          "text": "end\")",
+          "left": 617,
+          "top": 761,
+          "width": 114,
+          "height": 39,
+          "confidence": 94.74736
+        }
+      ]
+    },
+    {
+      "text": "14",
+      "left": 107,
+      "top": 833,
+      "right": 150,
+      "bottom": 863,
+      "height": 30,
+      "confidence": 96.799011,
+      "words": [
+        {
+          "text": "14",
+          "left": 107,
+          "top": 833,
+          "width": 43,
+          "height": 30,
+          "confidence": 96.799011
+        }
+      ]
+    },
+    {
+      "text": "15",
+      "left": 107,
+      "top": 903,
+      "right": 149,
+      "bottom": 934,
+      "height": 31,
+      "confidence": 96.853302,
+      "words": [
+        {
+          "text": "15",
+          "left": 107,
+          "top": 903,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.853302
+        }
+      ]
+    },
+    {
+      "text": "16 async def func3Q):",
+      "left": 107,
+      "top": 971,
+      "right": 606,
+      "bottom": 1012,
+      "height": 41,
+      "confidence": 82.59356774999999,
+      "words": [
+        {
+          "text": "16",
+          "left": 107,
+          "top": 972,
+          "width": 43,
+          "height": 32,
+          "confidence": 94.481926
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 981,
+          "width": 115,
+          "height": 31,
+          "confidence": 94.481926
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 971,
+          "width": 69,
+          "height": 33,
+          "confidence": 92.732666
+        },
+        {
+          "text": "func3Q):",
+          "left": 426,
+          "top": 971,
+          "width": 180,
+          "height": 39,
+          "confidence": 48.677753
+        }
+      ]
+    },
+    {
+      "text": "17 printC\"func3, start\")",
+      "left": 107,
+      "top": 1041,
+      "right": 779,
+      "bottom": 1082,
+      "height": 41,
+      "confidence": 90.77235166666667,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 1043,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.775452
+        },
+        {
+          "text": "printC\"func3,",
+          "left": 282,
+          "top": 1041,
+          "width": 301,
+          "height": 41,
+          "confidence": 82.77536
+        },
+        {
+          "text": "start\")",
+          "left": 618,
+          "top": 1041,
+          "width": 161,
+          "height": 39,
+          "confidence": 92.766243
+        }
+      ]
+    },
+    {
+      "text": "18 await asyncio.sleep(2)",
+      "left": 107,
+      "top": 1111,
+      "right": 803,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 78.677452,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 1112,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.868156
+        },
+        {
+          "text": "await",
+          "left": 281,
+          "top": 1111,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.105438
+        },
+        {
+          "text": "asyncio.sleep(2)",
+          "left": 425,
+          "top": 1111,
+          "width": 378,
+          "height": 41,
+          "confidence": 46.058762
+        }
+      ]
+    },
+    {
+      "text": "19 printC\"func3, end\")",
+      "left": 107,
+      "top": 1181,
+      "right": 731,
+      "bottom": 1222,
+      "height": 41,
+      "confidence": 91.02029666666668,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 1182,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.757538
+        },
+        {
+          "text": "printC\"func3,",
+          "left": 282,
+          "top": 1181,
+          "width": 301,
+          "height": 41,
+          "confidence": 81.310562
+        },
+        {
+          "text": "end\")",
+          "left": 617,
+          "top": 1181,
+          "width": 114,
+          "height": 39,
+          "confidence": 94.99279
+        }
+      ]
+    },
+    {
+      "text": "20",
+      "left": 106,
+      "top": 1252,
+      "right": 150,
+      "bottom": 1284,
+      "height": 32,
+      "confidence": 96.796654,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 1252,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.796654
+        }
+      ]
+    },
+    {
+      "text": "21",
+      "left": 106,
+      "top": 1322,
+      "right": 149,
+      "bottom": 1353,
+      "height": 31,
+      "confidence": 96.511673,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 1322,
+          "width": 43,
+          "height": 31,
+          "confidence": 96.511673
+        }
+      ]
+    },
+    {
+      "text": "22 if __name__ == '__main__':",
+      "left": 106,
+      "top": 1391,
+      "right": 798,
+      "bottom": 1426,
+      "height": 35,
+      "confidence": 90.865509,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 1392,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.533066
+        },
+        {
+          "text": "if",
+          "left": 186,
+          "top": 1391,
+          "width": 44,
+          "height": 32,
+          "confidence": 93.261444
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 1400,
+          "width": 190,
+          "height": 26,
+          "confidence": 88.980499
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 1407,
+          "width": 46,
+          "height": 11,
+          "confidence": 90.953949
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 1391,
+          "width": 246,
+          "height": 35,
+          "confidence": 84.598587
+        }
+      ]
+    },
+    {
+      "text": "23 start = time.time()",
+      "left": 106,
+      "top": 1461,
+      "right": 731,
+      "bottom": 1500,
+      "height": 39,
+      "confidence": 87.55966475,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 1462,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.854729
+        },
+        {
+          "text": "start",
+          "left": 282,
+          "top": 1464,
+          "width": 114,
+          "height": 30,
+          "confidence": 96.293777
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 1477,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.281189
+        },
+        {
+          "text": "time.time()",
+          "left": 473,
+          "top": 1461,
+          "width": 258,
+          "height": 39,
+          "confidence": 63.808964
+        }
+      ]
+    },
+    {
+      "text": "24 tasks = [# 协程任务列表",
+      "left": 106,
+      "top": 1526,
+      "right": 834,
+      "bottom": 1579,
+      "height": 53,
+      "confidence": 89.40791577777779,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 1533,
+          "width": 44,
+          "height": 31,
+          "confidence": 96.349731
+        },
+        {
+          "text": "tasks",
+          "left": 281,
+          "top": 1532,
+          "width": 115,
+          "height": 33,
+          "confidence": 95.448357
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 1548,
+          "width": 22,
+          "height": 11,
+          "confidence": 91.242973
+        },
+        {
+          "text": "[",
+          "left": 478,
+          "top": 1532,
+          "width": 16,
+          "height": 39,
+          "confidence": 79.786194
+        },
+        {
+          "text": "#",
+          "left": 544,
+          "top": 1534,
+          "width": 22,
+          "height": 30,
+          "confidence": 79.786194
+        },
+        {
+          "text": "协",
+          "left": 601,
+          "top": 1531,
+          "width": 47,
+          "height": 37,
+          "confidence": 86.124062
+        },
+        {
+          "text": "程",
+          "left": 651,
+          "top": 1531,
+          "width": 34,
+          "height": 37,
+          "confidence": 93.209053
+        },
+        {
+          "text": "任务",
+          "left": 683,
+          "top": 1531,
+          "width": 146,
+          "height": 37,
+          "confidence": 86.186539
+        },
+        {
+          "text": "列表",
+          "left": 770,
+          "top": 1526,
+          "width": 64,
+          "height": 53,
+          "confidence": 96.538139
+        }
+      ]
+    },
+    {
+      "text": "25 funcl1Q), # 创建协程任务",
+      "left": 106,
+      "top": 1597,
+      "right": 904,
+      "bottom": 1650,
+      "height": 53,
+      "confidence": 80.722252,
+      "words": [
+        {
+          "text": "25",
+          "left": 106,
+          "top": 1603,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.619446
+        },
+        {
+          "text": "funcl1Q),",
+          "left": 378,
+          "top": 1602,
+          "width": 181,
+          "height": 40,
+          "confidence": 24.525795
+        },
+        {
+          "text": "#",
+          "left": 616,
+          "top": 1604,
+          "width": 22,
+          "height": 30,
+          "confidence": 88.468475
+        },
+        {
+          "text": "创建",
+          "left": 665,
+          "top": 1601,
+          "width": 237,
+          "height": 37,
+          "confidence": 93.253815
+        },
+        {
+          "text": "协",
+          "left": 764,
+          "top": 1597,
+          "width": 41,
+          "height": 53,
+          "confidence": 92.221161
+        },
+        {
+          "text": "程",
+          "left": 804,
+          "top": 1597,
+          "width": 41,
+          "height": 53,
+          "confidence": 92.712883
+        },
+        {
+          "text": "任务",
+          "left": 844,
+          "top": 1597,
+          "width": 60,
+          "height": 53,
+          "confidence": 77.254189
+        }
+      ]
+    },
+    {
+      "text": "26 func2(),",
+      "left": 106,
+      "top": 1672,
+      "right": 559,
+      "bottom": 1712,
+      "height": 40,
+      "confidence": 75.9279495,
+      "words": [
+        {
+          "text": "26",
+          "left": 106,
+          "top": 1673,
+          "width": 44,
+          "height": 32,
+          "confidence": 91.327293
+        },
+        {
+          "text": "func2(),",
+          "left": 378,
+          "top": 1672,
+          "width": 181,
+          "height": 40,
+          "confidence": 60.528606
+        }
+      ]
+    },
+    {
+      "text": "27 func3()",
+      "left": 106,
+      "top": 1742,
+      "right": 539,
+      "bottom": 1781,
+      "height": 39,
+      "confidence": 85.6692195,
+      "words": [
+        {
+          "text": "27",
+          "left": 106,
+          "top": 1743,
+          "width": 43,
+          "height": 31,
+          "confidence": 95.244781
+        },
+        {
+          "text": "func3()",
+          "left": 378,
+          "top": 1742,
+          "width": 161,
+          "height": 39,
+          "confidence": 76.093658
+        }
+      ]
+    },
+    {
+      "text": "28]",
+      "left": 106,
+      "top": 1812,
+      "right": 296,
+      "bottom": 1851,
+      "height": 39,
+      "confidence": 85.859249,
+      "words": [
+        {
+          "text": "28",
+          "left": 106,
+          "top": 1813,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.956711
+        },
+        {
+          "text": "]",
+          "left": 280,
+          "top": 1812,
+          "width": 16,
+          "height": 39,
+          "confidence": 74.761787
+        }
+      ]
+    },
+    {
+      "text": "29 Lop = asyncio.get_event_Loop()",
+      "left": 106,
+      "top": 1882,
+      "right": 996,
+      "bottom": 1923,
+      "height": 41,
+      "confidence": 89.535784,
+      "words": [
+        {
+          "text": "29",
+          "left": 106,
+          "top": 1883,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.762238
+        },
+        {
+          "text": "Lop",
+          "left": 281,
+          "top": 1882,
+          "width": 68,
+          "height": 41,
+          "confidence": 84.989937
+        },
+        {
+          "text": "=",
+          "left": 376,
+          "top": 1898,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.300148
+        },
+        {
+          "text": "asyncio.get_event_Loop()",
+          "left": 425,
+          "top": 1882,
+          "width": 571,
+          "height": 41,
+          "confidence": 83.090813
+        }
+      ]
+    }
+  ]
+}

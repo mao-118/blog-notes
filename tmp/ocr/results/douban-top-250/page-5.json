@@ -1,0 +1,478 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/douban-top-250/page-5.png",
+  "lines": [
+    {
+      "text": "代码还有优化空间, 各位可以思考一下如何进一步对代码优化 (时间",
+      "left": 91,
+      "top": 258,
+      "right": 1354,
+      "bottom": 320,
+      "height": 62,
+      "confidence": 95.2075479047619,
+      "words": [
+        {
+          "text": "代码",
+          "left": 91,
+          "top": 262,
+          "width": 172,
+          "height": 41,
+          "confidence": 94.378937
+        },
+        {
+          "text": "还",
+          "left": 203,
+          "top": 258,
+          "width": 36,
+          "height": 62,
+          "confidence": 94.880295
+        },
+        {
+          "text": "有",
+          "left": 267,
+          "top": 262,
+          "width": 10,
+          "height": 40,
+          "confidence": 96.621658
+        },
+        {
+          "text": "优化",
+          "left": 278,
+          "top": 262,
+          "width": 100,
+          "height": 41,
+          "confidence": 96.713356
+        },
+        {
+          "text": "空间",
+          "left": 401,
+          "top": 262,
+          "width": 36,
+          "height": 40,
+          "confidence": 93.284836
+        },
+        {
+          "text": ",",
+          "left": 445,
+          "top": 293,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.435509
+        },
+        {
+          "text": "各",
+          "left": 482,
+          "top": 262,
+          "width": 42,
+          "height": 41,
+          "confidence": 95.347198
+        },
+        {
+          "text": "位",
+          "left": 528,
+          "top": 262,
+          "width": 23,
+          "height": 38,
+          "confidence": 95.600441
+        },
+        {
+          "text": "可",
+          "left": 575,
+          "top": 265,
+          "width": 21,
+          "height": 37,
+          "confidence": 96.950134
+        },
+        {
+          "text": "以",
+          "left": 617,
+          "top": 262,
+          "width": 35,
+          "height": 40,
+          "confidence": 94.906113
+        },
+        {
+          "text": "思考",
+          "left": 656,
+          "top": 262,
+          "width": 98,
+          "height": 40,
+          "confidence": 96.37252
+        },
+        {
+          "text": "一",
+          "left": 776,
+          "top": 264,
+          "width": 21,
+          "height": 39,
+          "confidence": 96.66124
+        },
+        {
+          "text": "下",
+          "left": 820,
+          "top": 262,
+          "width": 11,
+          "height": 40,
+          "confidence": 96.356667
+        },
+        {
+          "text": "如",
+          "left": 842,
+          "top": 262,
+          "width": 34,
+          "height": 41,
+          "confidence": 93.301086
+        },
+        {
+          "text": "何",
+          "left": 877,
+          "top": 265,
+          "width": 27,
+          "height": 37,
+          "confidence": 92.800194
+        },
+        {
+          "text": "进一步",
+          "left": 927,
+          "top": 262,
+          "width": 131,
+          "height": 41,
+          "confidence": 96.902901
+        },
+        {
+          "text": "对",
+          "left": 1063,
+          "top": 262,
+          "width": 34,
+          "height": 41,
+          "confidence": 96.814835
+        },
+        {
+          "text": "代码",
+          "left": 1098,
+          "top": 262,
+          "width": 87,
+          "height": 40,
+          "confidence": 96.355614
+        },
+        {
+          "text": "优化",
+          "left": 1191,
+          "top": 262,
+          "width": 65,
+          "height": 41,
+          "confidence": 96.75856
+        },
+        {
+          "text": "(时",
+          "left": 1265,
+          "top": 262,
+          "width": 56,
+          "height": 45,
+          "confidence": 93.27742
+        },
+        {
+          "text": "间",
+          "left": 1323,
+          "top": 262,
+          "width": 31,
+          "height": 40,
+          "confidence": 92.638992
+        }
+      ]
+    },
+    {
+      "text": "SAE, 空间复杂度), 各位可以自行想办法将豆准 TOP250 条数据全",
+      "left": 92,
+      "top": 328,
+      "right": 1365,
+      "bottom": 389,
+      "height": 61,
+      "confidence": 88.8405425,
+      "words": [
+        {
+          "text": "SAE,",
+          "left": 92,
+          "top": 332,
+          "width": 138,
+          "height": 42,
+          "confidence": 87.717804
+        },
+        {
+          "text": "空间",
+          "left": 271,
+          "top": 332,
+          "width": 58,
+          "height": 40,
+          "confidence": 96.230812
+        },
+        {
+          "text": "复杂",
+          "left": 351,
+          "top": 332,
+          "width": 67,
+          "height": 40,
+          "confidence": 92.860588
+        },
+        {
+          "text": "度",
+          "left": 434,
+          "top": 332,
+          "width": 36,
+          "height": 45,
+          "confidence": 79.188049
+        },
+        {
+          "text": "),",
+          "left": 469,
+          "top": 328,
+          "width": 17,
+          "height": 61,
+          "confidence": 92.477119
+        },
+        {
+          "text": "各",
+          "left": 522,
+          "top": 332,
+          "width": 38,
+          "height": 41,
+          "confidence": 96.927643
+        },
+        {
+          "text": "位",
+          "left": 564,
+          "top": 332,
+          "width": 23,
+          "height": 38,
+          "confidence": 96.556847
+        },
+        {
+          "text": "可",
+          "left": 610,
+          "top": 335,
+          "width": 21,
+          "height": 37,
+          "confidence": 96.917641
+        },
+        {
+          "text": "以",
+          "left": 652,
+          "top": 332,
+          "width": 23,
+          "height": 40,
+          "confidence": 95.440811
+        },
+        {
+          "text": "自行",
+          "left": 698,
+          "top": 332,
+          "width": 88,
+          "height": 40,
+          "confidence": 93.24382
+        },
+        {
+          "text": "想",
+          "left": 789,
+          "top": 334,
+          "width": 19,
+          "height": 38,
+          "confidence": 93.102348
+        },
+        {
+          "text": "办",
+          "left": 823,
+          "top": 332,
+          "width": 44,
+          "height": 40,
+          "confidence": 82.29969
+        },
+        {
+          "text": "法",
+          "left": 869,
+          "top": 332,
+          "width": 43,
+          "height": 40,
+          "confidence": 96.804031
+        },
+        {
+          "text": "将",
+          "left": 919,
+          "top": 332,
+          "width": 21,
+          "height": 40,
+          "confidence": 93.292259
+        },
+        {
+          "text": "豆",
+          "left": 961,
+          "top": 332,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.045372
+        },
+        {
+          "text": "准",
+          "left": 1003,
+          "top": 332,
+          "width": 25,
+          "height": 40,
+          "confidence": 33.438477
+        },
+        {
+          "text": "TOP250",
+          "left": 1041,
+          "top": 336,
+          "width": 148,
+          "height": 33,
+          "confidence": 71.550964
+        },
+        {
+          "text": "条",
+          "left": 1201,
+          "top": 332,
+          "width": 32,
+          "height": 40,
+          "confidence": 92.797462
+        },
+        {
+          "text": "数据",
+          "left": 1247,
+          "top": 332,
+          "width": 74,
+          "height": 40,
+          "confidence": 96.176842
+        },
+        {
+          "text": "全",
+          "left": 1334,
+          "top": 332,
+          "width": 31,
+          "height": 39,
+          "confidence": 96.742271
+        }
+      ]
+    },
+    {
+      "text": "部抓取到. 我这里就偷工减料了. 嘿嘿 ~",
+      "left": 91,
+      "top": 398,
+      "right": 824,
+      "bottom": 460,
+      "height": 62,
+      "confidence": 93.30159592857144,
+      "words": [
+        {
+          "text": "部",
+          "left": 91,
+          "top": 402,
+          "width": 183,
+          "height": 40,
+          "confidence": 93.213425
+        },
+        {
+          "text": "抓",
+          "left": 156,
+          "top": 398,
+          "width": 44,
+          "height": 62,
+          "confidence": 91.192635
+        },
+        {
+          "text": "取",
+          "left": 199,
+          "top": 398,
+          "width": 36,
+          "height": 62,
+          "confidence": 93.218719
+        },
+        {
+          "text": "到",
+          "left": 234,
+          "top": 398,
+          "width": 32,
+          "height": 62,
+          "confidence": 92.008698
+        },
+        {
+          "text": ".",
+          "left": 265,
+          "top": 398,
+          "width": 16,
+          "height": 62,
+          "confidence": 92.391663
+        },
+        {
+          "text": "我",
+          "left": 311,
+          "top": 402,
+          "width": 20,
+          "height": 40,
+          "confidence": 96.937973
+        },
+        {
+          "text": "这",
+          "left": 354,
+          "top": 402,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.877708
+        },
+        {
+          "text": "里",
+          "left": 393,
+          "top": 402,
+          "width": 51,
+          "height": 40,
+          "confidence": 96.936775
+        },
+        {
+          "text": "就",
+          "left": 443,
+          "top": 402,
+          "width": 51,
+          "height": 41,
+          "confidence": 95.856163
+        },
+        {
+          "text": "偷工减料",
+          "left": 511,
+          "top": 402,
+          "width": 184,
+          "height": 40,
+          "confidence": 93.993454
+        },
+        {
+          "text": "了",
+          "left": 668,
+          "top": 398,
+          "width": 16,
+          "height": 62,
+          "confidence": 93.241516
+        },
+        {
+          "text": ".",
+          "left": 683,
+          "top": 398,
+          "width": 17,
+          "height": 62,
+          "confidence": 90.71936
+        },
+        {
+          "text": "嘿嘿",
+          "left": 713,
+          "top": 404,
+          "width": 109,
+          "height": 38,
+          "confidence": 86.237953
+        },
+        {
+          "text": "~",
+          "left": 803,
+          "top": 398,
+          "width": 21,
+          "height": 62,
+          "confidence": 93.396301
+        }
+      ]
+    }
+  ]
+}

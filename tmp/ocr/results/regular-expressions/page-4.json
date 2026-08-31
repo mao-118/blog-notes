@@ -1,0 +1,656 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/regular-expressions/page-4.png",
+  "lines": [
+    {
+      "text": "18 <div>",
+      "left": 107,
+      "top": 130,
+      "right": 421,
+      "bottom": 163,
+      "height": 33,
+      "confidence": 93.5713345,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 131,
+          "width": 42,
+          "height": 32,
+          "confidence": 90.75769
+        },
+        {
+          "text": "<div>",
+          "left": 305,
+          "top": 130,
+          "width": 116,
+          "height": 33,
+          "confidence": 96.384979
+        }
+      ]
+    },
+    {
+      "text": "19 </div>",
+      "left": 107,
+      "top": 200,
+      "right": 445,
+      "bottom": 233,
+      "height": 33,
+      "confidence": 96.32629800000001,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 201,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.619347
+        },
+        {
+          "text": "</div>",
+          "left": 305,
+          "top": 200,
+          "width": 140,
+          "height": 33,
+          "confidence": 96.033249
+        }
+      ]
+    },
+    {
+      "text": "20",
+      "left": 106,
+      "top": 271,
+      "right": 150,
+      "bottom": 303,
+      "height": 32,
+      "confidence": 96.78167,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 271,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.78167
+        }
+      ]
+    },
+    {
+      "text": "21 str: <div> 胡辣汤 </div><span> 饭团 </span>",
+      "left": 106,
+      "top": 335,
+      "right": 1107,
+      "bottom": 387,
+      "height": 52,
+      "confidence": 62.20482109999999,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 341,
+          "width": 43,
+          "height": 31,
+          "confidence": 84.829147
+        },
+        {
+          "text": "str:",
+          "left": 210,
+          "top": 343,
+          "width": 84,
+          "height": 30,
+          "confidence": 70.155449
+        },
+        {
+          "text": "<div>",
+          "left": 332,
+          "top": 340,
+          "width": 113,
+          "height": 33,
+          "confidence": 91.382942
+        },
+        {
+          "text": "胡",
+          "left": 456,
+          "top": 339,
+          "width": 43,
+          "height": 37,
+          "confidence": 79.936058
+        },
+        {
+          "text": "辣",
+          "left": 503,
+          "top": 339,
+          "width": 36,
+          "height": 37,
+          "confidence": 0.0
+        },
+        {
+          "text": "汤",
+          "left": 544,
+          "top": 341,
+          "width": 20,
+          "height": 35,
+          "confidence": 79.71122
+        },
+        {
+          "text": "</div><span>",
+          "left": 569,
+          "top": 339,
+          "width": 533,
+          "height": 42,
+          "confidence": 27.453127
+        },
+        {
+          "text": "饭",
+          "left": 869,
+          "top": 335,
+          "width": 52,
+          "height": 52,
+          "confidence": 85.382614
+        },
+        {
+          "text": "团",
+          "left": 921,
+          "top": 335,
+          "width": 36,
+          "height": 52,
+          "confidence": 90.77803
+        },
+        {
+          "text": "</span>",
+          "left": 956,
+          "top": 335,
+          "width": 151,
+          "height": 52,
+          "confidence": 12.419624
+        }
+      ]
+    },
+    {
+      "text": "22 reg: <div>.* </div>",
+      "left": 106,
+      "top": 410,
+      "right": 661,
+      "bottom": 451,
+      "height": 41,
+      "confidence": 92.3375815,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 411,
+          "width": 42,
+          "height": 31,
+          "confidence": 91.993362
+        },
+        {
+          "text": "reg:",
+          "left": 212,
+          "top": 420,
+          "width": 82,
+          "height": 31,
+          "confidence": 87.926331
+        },
+        {
+          "text": "<div>.*",
+          "left": 329,
+          "top": 410,
+          "width": 163,
+          "height": 33,
+          "confidence": 92.569267
+        },
+        {
+          "text": "</div>",
+          "left": 518,
+          "top": 410,
+          "width": 143,
+          "height": 33,
+          "confidence": 96.861366
+        }
+      ]
+    },
+    {
+      "text": "23 AR:",
+      "left": 106,
+      "top": 479,
+      "right": 302,
+      "bottom": 516,
+      "height": 37,
+      "confidence": 63.5081615,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 481,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.14621
+        },
+        {
+          "text": "AR:",
+          "left": 209,
+          "top": 479,
+          "width": 93,
+          "height": 37,
+          "confidence": 34.870113
+        }
+      ]
+    },
+    {
+      "text": "24 <div> 胡辣汤 </div>",
+      "left": 106,
+      "top": 546,
+      "right": 685,
+      "bottom": 600,
+      "height": 54,
+      "confidence": 60.55028066666667,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 552,
+          "width": 44,
+          "height": 31,
+          "confidence": 95.73159
+        },
+        {
+          "text": "<div>",
+          "left": 305,
+          "top": 550,
+          "width": 380,
+          "height": 37,
+          "confidence": 87.350777
+        },
+        {
+          "text": "胡",
+          "left": 429,
+          "top": 546,
+          "width": 48,
+          "height": 54,
+          "confidence": 54.073647
+        },
+        {
+          "text": "辣",
+          "left": 476,
+          "top": 546,
+          "width": 45,
+          "height": 54,
+          "confidence": 16.963129
+        },
+        {
+          "text": "汤",
+          "left": 520,
+          "top": 546,
+          "width": 35,
+          "height": 54,
+          "confidence": 63.897701
+        },
+        {
+          "text": "</div>",
+          "left": 554,
+          "top": 550,
+          "width": 131,
+          "height": 37,
+          "confidence": 45.28484
+        }
+      ]
+    },
+    {
+      "text": "所以我们能发现这样一个规律:.? ZENA REO AIA,.表示尽可能",
+      "left": 91,
+      "top": 671,
+      "right": 1389,
+      "bottom": 730,
+      "height": 59,
+      "confidence": 80.4945300952381,
+      "words": [
+        {
+          "text": "所",
+          "left": 91,
+          "top": 677,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.905365
+        },
+        {
+          "text": "以",
+          "left": 149,
+          "top": 677,
+          "width": 53,
+          "height": 40,
+          "confidence": 95.972961
+        },
+        {
+          "text": "我",
+          "left": 223,
+          "top": 677,
+          "width": 19,
+          "height": 41,
+          "confidence": 93.191429
+        },
+        {
+          "text": "们",
+          "left": 248,
+          "top": 677,
+          "width": 31,
+          "height": 41,
+          "confidence": 93.250351
+        },
+        {
+          "text": "能",
+          "left": 290,
+          "top": 677,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.854279
+        },
+        {
+          "text": "发",
+          "left": 355,
+          "top": 680,
+          "width": 15,
+          "height": 32,
+          "confidence": 93.258453
+        },
+        {
+          "text": "现",
+          "left": 378,
+          "top": 679,
+          "width": 17,
+          "height": 38,
+          "confidence": 92.714417
+        },
+        {
+          "text": "这",
+          "left": 415,
+          "top": 677,
+          "width": 43,
+          "height": 41,
+          "confidence": 93.104485
+        },
+        {
+          "text": "样",
+          "left": 459,
+          "top": 677,
+          "width": 53,
+          "height": 41,
+          "confidence": 90.229889
+        },
+        {
+          "text": "一",
+          "left": 531,
+          "top": 677,
+          "width": 21,
+          "height": 40,
+          "confidence": 95.717758
+        },
+        {
+          "text": "个",
+          "left": 575,
+          "top": 677,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.924751
+        },
+        {
+          "text": "规律",
+          "left": 592,
+          "top": 677,
+          "width": 78,
+          "height": 41,
+          "confidence": 93.191307
+        },
+        {
+          "text": ":",
+          "left": 669,
+          "top": 671,
+          "width": 12,
+          "height": 59,
+          "confidence": 48.467491
+        },
+        {
+          "text": ".?",
+          "left": 690,
+          "top": 681,
+          "width": 32,
+          "height": 32,
+          "confidence": 90.81015
+        },
+        {
+          "text": "ZENA",
+          "left": 738,
+          "top": 677,
+          "width": 131,
+          "height": 40,
+          "confidence": 46.698059
+        },
+        {
+          "text": "REO",
+          "left": 903,
+          "top": 677,
+          "width": 89,
+          "height": 41,
+          "confidence": 0.0
+        },
+        {
+          "text": "AIA,",
+          "left": 1006,
+          "top": 677,
+          "width": 132,
+          "height": 42,
+          "confidence": 0.0
+        },
+        {
+          "text": ".表示",
+          "left": 1157,
+          "top": 677,
+          "width": 229,
+          "height": 41,
+          "confidence": 92.730904
+        },
+        {
+          "text": "尽",
+          "left": 1274,
+          "top": 671,
+          "width": 41,
+          "height": 59,
+          "confidence": 91.609108
+        },
+        {
+          "text": "可",
+          "left": 1314,
+          "top": 671,
+          "width": 38,
+          "height": 59,
+          "confidence": 92.968521
+        },
+        {
+          "text": "能",
+          "left": 1351,
+          "top": 671,
+          "width": 38,
+          "height": 59,
+          "confidence": 95.785454
+        }
+      ]
+    },
+    {
+      "text": "多的匹配, 暂时先记住这个规律. 后面写爬虫会用到的哦",
+      "left": 93,
+      "top": 743,
+      "right": 1152,
+      "bottom": 802,
+      "height": 59,
+      "confidence": 89.82841938095238,
+      "words": [
+        {
+          "text": "多",
+          "left": 93,
+          "top": 747,
+          "width": 56,
+          "height": 40,
+          "confidence": 96.381256
+        },
+        {
+          "text": "的",
+          "left": 152,
+          "top": 747,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.57238
+        },
+        {
+          "text": "匹配",
+          "left": 199,
+          "top": 749,
+          "width": 64,
+          "height": 38,
+          "confidence": 93.304955
+        },
+        {
+          "text": ",",
+          "left": 269,
+          "top": 778,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.679329
+        },
+        {
+          "text": "暂时",
+          "left": 310,
+          "top": 747,
+          "width": 65,
+          "height": 40,
+          "confidence": 92.006798
+        },
+        {
+          "text": "先",
+          "left": 395,
+          "top": 747,
+          "width": 41,
+          "height": 40,
+          "confidence": 92.106133
+        },
+        {
+          "text": "记",
+          "left": 439,
+          "top": 747,
+          "width": 41,
+          "height": 41,
+          "confidence": 93.218445
+        },
+        {
+          "text": "住",
+          "left": 483,
+          "top": 747,
+          "width": 24,
+          "height": 39,
+          "confidence": 91.819382
+        },
+        {
+          "text": "这",
+          "left": 527,
+          "top": 747,
+          "width": 24,
+          "height": 40,
+          "confidence": 74.81382
+        },
+        {
+          "text": "个",
+          "left": 568,
+          "top": 747,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.907959
+        },
+        {
+          "text": "规律",
+          "left": 614,
+          "top": 747,
+          "width": 80,
+          "height": 41,
+          "confidence": 92.285973
+        },
+        {
+          "text": ".",
+          "left": 693,
+          "top": 743,
+          "width": 16,
+          "height": 59,
+          "confidence": 92.626495
+        },
+        {
+          "text": "后",
+          "left": 734,
+          "top": 748,
+          "width": 45,
+          "height": 40,
+          "confidence": 92.098
+        },
+        {
+          "text": "面",
+          "left": 801,
+          "top": 749,
+          "width": 22,
+          "height": 38,
+          "confidence": 92.445572
+        },
+        {
+          "text": "写",
+          "left": 844,
+          "top": 747,
+          "width": 27,
+          "height": 40,
+          "confidence": 86.696709
+        },
+        {
+          "text": "爬虫",
+          "left": 889,
+          "top": 747,
+          "width": 169,
+          "height": 40,
+          "confidence": 42.285263
+        },
+        {
+          "text": "会",
+          "left": 962,
+          "top": 743,
+          "width": 38,
+          "height": 59,
+          "confidence": 96.561378
+        },
+        {
+          "text": "用",
+          "left": 999,
+          "top": 743,
+          "width": 35,
+          "height": 59,
+          "confidence": 96.814964
+        },
+        {
+          "text": "到",
+          "left": 1067,
+          "top": 747,
+          "width": 11,
+          "height": 39,
+          "confidence": 96.571442
+        },
+        {
+          "text": "的",
+          "left": 1082,
+          "top": 747,
+          "width": 67,
+          "height": 40,
+          "confidence": 93.261101
+        },
+        {
+          "text": "哦",
+          "left": 1125,
+          "top": 743,
+          "width": 27,
+          "height": 59,
+          "confidence": 84.939453
+        }
+      ]
+    }
+  ]
+}

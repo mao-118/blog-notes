@@ -1,0 +1,190 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/zhubajie-data-scraping/page-3.png",
+  "lines": [
+    {
+      "text": "SS. ire ae = |，",
+      "left": 113,
+      "top": 270,
+      "right": 1256,
+      "bottom": 278,
+      "height": 8,
+      "confidence": 36.15640885714286,
+      "words": [
+        {
+          "text": "SS",
+          "left": 113,
+          "top": 270,
+          "width": 37,
+          "height": 6,
+          "confidence": 32.082806
+        },
+        {
+          "text": ".",
+          "left": 353,
+          "top": 274,
+          "width": 1,
+          "height": 3,
+          "confidence": 49.318748
+        },
+        {
+          "text": "ire",
+          "left": 445,
+          "top": 270,
+          "width": 51,
+          "height": 8,
+          "confidence": 6.986208
+        },
+        {
+          "text": "ae",
+          "left": 566,
+          "top": 272,
+          "width": 37,
+          "height": 4,
+          "confidence": 19.479008
+        },
+        {
+          "text": "=",
+          "left": 727,
+          "top": 273,
+          "width": 19,
+          "height": 1,
+          "confidence": 96.29895
+        },
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 270,
+          "width": 1,
+          "height": 7,
+          "confidence": 26.315769
+        },
+        {
+          "text": "，",
+          "left": 1255,
+          "top": 270,
+          "width": 1,
+          "height": 7,
+          "confidence": 22.613373
+        }
+      ]
+    },
+    {
+      "text": "Va, ‘olk, -l 居库) | 门弓 Ry",
+      "left": 105,
+      "top": 271,
+      "right": 1292,
+      "bottom": 306,
+      "height": 35,
+      "confidence": 38.06368509090909,
+      "words": [
+        {
+          "text": "Va,",
+          "left": 105,
+          "top": 276,
+          "width": 33,
+          "height": 26,
+          "confidence": 9.395714
+        },
+        {
+          "text": "‘olk",
+          "left": 241,
+          "top": 280,
+          "width": 54,
+          "height": 17,
+          "confidence": 0.0
+        },
+        {
+          "text": ",",
+          "left": 383,
+          "top": 285,
+          "width": 1,
+          "height": 3,
+          "confidence": 0.0
+        },
+        {
+          "text": "-l",
+          "left": 492,
+          "top": 274,
+          "width": 63,
+          "height": 26,
+          "confidence": 18.705187
+        },
+        {
+          "text": "居",
+          "left": 813,
+          "top": 271,
+          "width": 3,
+          "height": 18,
+          "confidence": 84.984009
+        },
+        {
+          "text": "库",
+          "left": 850,
+          "top": 280,
+          "width": 26,
+          "height": 1,
+          "confidence": 65.472626
+        },
+        {
+          "text": ")",
+          "left": 937,
+          "top": 292,
+          "width": 1,
+          "height": 3,
+          "confidence": 24.767427
+        },
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 281,
+          "width": 1,
+          "height": 25,
+          "confidence": 74.894112
+        },
+        {
+          "text": "门",
+          "left": 1107,
+          "top": 281,
+          "width": 1,
+          "height": 3,
+          "confidence": 83.914902
+        },
+        {
+          "text": "弓",
+          "left": 1149,
+          "top": 293,
+          "width": 1,
+          "height": 7,
+          "confidence": 0.0
+        },
+        {
+          "text": "Ry",
+          "left": 1254,
+          "top": 279,
+          "width": 38,
+          "height": 26,
+          "confidence": 56.566559
+        }
+      ]
+    },
+    {
+      "text": "都",
+      "left": 250,
+      "top": 350,
+      "right": 309,
+      "bottom": 376,
+      "height": 26,
+      "confidence": 11.689043,
+      "words": [
+        {
+          "text": "都",
+          "left": 250,
+          "top": 350,
+          "width": 59,
+          "height": 26,
+          "confidence": 11.689043
+        }
+      ]
+    }
+  ]
+}

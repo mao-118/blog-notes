@@ -1,0 +1,1413 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/bs4-installation-and-usage/page-6.png",
+  "lines": [
+    {
+      "text": "9 table = page.findC\"table\", class_=\"hq_table\")",
+      "left": 211,
+      "top": 130,
+      "right": 1343,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 81.7205766,
+      "words": [
+        {
+          "text": "9",
+          "left": 211,
+          "top": 131,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.100121
+        },
+        {
+          "text": "table",
+          "left": 267,
+          "top": 130,
+          "width": 116,
+          "height": 33,
+          "confidence": 96.396614
+        },
+        {
+          "text": "=",
+          "left": 410,
+          "top": 146,
+          "width": 22,
+          "height": 10,
+          "confidence": 95.663567
+        },
+        {
+          "text": "page.findC\"table\",",
+          "left": 460,
+          "top": 130,
+          "width": 422,
+          "height": 41,
+          "confidence": 77.485069
+        },
+        {
+          "text": "class_=\"hq_table\")",
+          "left": 917,
+          "top": 130,
+          "width": 426,
+          "height": 41,
+          "confidence": 42.957512
+        }
+      ]
+    },
+    {
+      "text": "10",
+      "left": 189,
+      "top": 201,
+      "right": 232,
+      "bottom": 233,
+      "height": 32,
+      "confidence": 92.017487,
+      "words": [
+        {
+          "text": "10",
+          "left": 189,
+          "top": 201,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.017487
+        }
+      ]
+    },
+    {
+      "text": "11 f = open(\" 新发地.csSv\"，mode=\"w'\"，",
+      "left": 189,
+      "top": 263,
+      "right": 1004,
+      "bottom": 315,
+      "height": 52,
+      "confidence": 69.8452047,
+      "words": [
+        {
+          "text": "11",
+          "left": 189,
+          "top": 272,
+          "width": 42,
+          "height": 30,
+          "confidence": 91.070641
+        },
+        {
+          "text": "f",
+          "left": 268,
+          "top": 270,
+          "width": 20,
+          "height": 32,
+          "confidence": 90.137405
+        },
+        {
+          "text": "=",
+          "left": 314,
+          "top": 286,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.675285
+        },
+        {
+          "text": "open(\"",
+          "left": 363,
+          "top": 269,
+          "width": 399,
+          "height": 42,
+          "confidence": 20.398664
+        },
+        {
+          "text": "新",
+          "left": 519,
+          "top": 263,
+          "width": 50,
+          "height": 52,
+          "confidence": 89.294579
+        },
+        {
+          "text": "发",
+          "left": 568,
+          "top": 263,
+          "width": 40,
+          "height": 52,
+          "confidence": 96.645294
+        },
+        {
+          "text": "地",
+          "left": 607,
+          "top": 263,
+          "width": 30,
+          "height": 52,
+          "confidence": 96.980736
+        },
+        {
+          "text": ".csSv\"",
+          "left": 636,
+          "top": 269,
+          "width": 115,
+          "height": 42,
+          "confidence": 25.750618
+        },
+        {
+          "text": "，mode=\"w'\"",
+          "left": 795,
+          "top": 270,
+          "width": 207,
+          "height": 40,
+          "confidence": 25.750618
+        },
+        {
+          "text": "，",
+          "left": 987,
+          "top": 263,
+          "width": 17,
+          "height": 52,
+          "confidence": 65.748207
+        }
+      ]
+    },
+    {
+      "text": "encoding=\"utf-8\")",
+      "left": 268,
+      "top": 340,
+      "right": 670,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 82.418793,
+      "words": [
+        {
+          "text": "encoding=\"utf-8\")",
+          "left": 268,
+          "top": 340,
+          "width": 402,
+          "height": 41,
+          "confidence": 82.418793
+        }
+      ]
+    },
+    {
+      "text": "12 cv_writer = csv.writer(f)",
+      "left": 189,
+      "top": 410,
+      "right": 862,
+      "bottom": 449,
+      "height": 39,
+      "confidence": 88.34012949999999,
+      "words": [
+        {
+          "text": "12",
+          "left": 189,
+          "top": 411,
+          "width": 41,
+          "height": 31,
+          "confidence": 92.602943
+        },
+        {
+          "text": "cv_writer",
+          "left": 268,
+          "top": 410,
+          "width": 210,
+          "height": 35,
+          "confidence": 92.258453
+        },
+        {
+          "text": "=",
+          "left": 507,
+          "top": 426,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.293823
+        },
+        {
+          "text": "csv.writer(f)",
+          "left": 557,
+          "top": 410,
+          "width": 305,
+          "height": 39,
+          "confidence": 75.205299
+        }
+      ]
+    },
+    {
+      "text": "13 # 提取到所有 tn",
+      "left": 189,
+      "top": 475,
+      "right": 563,
+      "bottom": 528,
+      "height": 53,
+      "confidence": 86.19432014285714,
+      "words": [
+        {
+          "text": "13",
+          "left": 189,
+          "top": 481,
+          "width": 41,
+          "height": 32,
+          "confidence": 80.963402
+        },
+        {
+          "text": "#",
+          "left": 266,
+          "top": 482,
+          "width": 22,
+          "height": 30,
+          "confidence": 80.963402
+        },
+        {
+          "text": "提取",
+          "left": 316,
+          "top": 479,
+          "width": 243,
+          "height": 37,
+          "confidence": 94.869431
+        },
+        {
+          "text": "到",
+          "left": 406,
+          "top": 475,
+          "width": 44,
+          "height": 53,
+          "confidence": 96.80471
+        },
+        {
+          "text": "所",
+          "left": 450,
+          "top": 475,
+          "width": 37,
+          "height": 53,
+          "confidence": 96.92585
+        },
+        {
+          "text": "有",
+          "left": 486,
+          "top": 475,
+          "width": 27,
+          "height": 53,
+          "confidence": 96.470741
+        },
+        {
+          "text": "tn",
+          "left": 512,
+          "top": 475,
+          "width": 51,
+          "height": 53,
+          "confidence": 56.362705
+        }
+      ]
+    },
+    {
+      "text": "14 tr_list = table.find_allC\"tr\")[1:] # 注意,第一",
+      "left": 189,
+      "top": 550,
+      "right": 1361,
+      "bottom": 591,
+      "height": 41,
+      "confidence": 83.49589399999999,
+      "words": [
+        {
+          "text": "14",
+          "left": 189,
+          "top": 553,
+          "width": 43,
+          "height": 30,
+          "confidence": 92.455307
+        },
+        {
+          "text": "tr_list",
+          "left": 267,
+          "top": 551,
+          "width": 163,
+          "height": 35,
+          "confidence": 91.904938
+        },
+        {
+          "text": "=",
+          "left": 458,
+          "top": 567,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.397217
+        },
+        {
+          "text": "table.find_allC\"tr\")[1:]",
+          "left": 508,
+          "top": 551,
+          "width": 567,
+          "height": 39,
+          "confidence": 13.523617
+        },
+        {
+          "text": "#",
+          "left": 1131,
+          "top": 553,
+          "width": 22,
+          "height": 30,
+          "confidence": 86.835388
+        },
+        {
+          "text": "注意",
+          "left": 1192,
+          "top": 550,
+          "width": 65,
+          "height": 37,
+          "confidence": 95.86467
+        },
+        {
+          "text": ",第",
+          "left": 1266,
+          "top": 550,
+          "width": 55,
+          "height": 41,
+          "confidence": 94.075378
+        },
+        {
+          "text": "一",
+          "left": 1335,
+          "top": 567,
+          "width": 26,
+          "height": 3,
+          "confidence": 96.910637
+        }
+      ]
+    },
+    {
+      "text": "行并不是我想要的数据. 《第一行是表头)",
+      "left": 267,
+      "top": 616,
+      "right": 998,
+      "bottom": 670,
+      "height": 54,
+      "confidence": 90.29832958823529,
+      "words": [
+        {
+          "text": "行",
+          "left": 267,
+          "top": 621,
+          "width": 37,
+          "height": 36,
+          "confidence": 90.068649
+        },
+        {
+          "text": "并",
+          "left": 323,
+          "top": 620,
+          "width": 21,
+          "height": 37,
+          "confidence": 93.146172
+        },
+        {
+          "text": "不",
+          "left": 360,
+          "top": 622,
+          "width": 24,
+          "height": 35,
+          "confidence": 96.270172
+        },
+        {
+          "text": "是",
+          "left": 401,
+          "top": 620,
+          "width": 48,
+          "height": 37,
+          "confidence": 96.988663
+        },
+        {
+          "text": "我",
+          "left": 467,
+          "top": 621,
+          "width": 23,
+          "height": 35,
+          "confidence": 93.162277
+        },
+        {
+          "text": "想",
+          "left": 489,
+          "top": 616,
+          "width": 34,
+          "height": 54,
+          "confidence": 92.907028
+        },
+        {
+          "text": "要",
+          "left": 522,
+          "top": 622,
+          "width": 22,
+          "height": 35,
+          "confidence": 92.821213
+        },
+        {
+          "text": "的",
+          "left": 560,
+          "top": 620,
+          "width": 23,
+          "height": 37,
+          "confidence": 96.684349
+        },
+        {
+          "text": "数据",
+          "left": 603,
+          "top": 620,
+          "width": 78,
+          "height": 37,
+          "confidence": 92.231293
+        },
+        {
+          "text": ".",
+          "left": 681,
+          "top": 616,
+          "width": 18,
+          "height": 54,
+          "confidence": 87.499794
+        },
+        {
+          "text": "《第",
+          "left": 718,
+          "top": 620,
+          "width": 58,
+          "height": 40,
+          "confidence": 58.265259
+        },
+        {
+          "text": "一",
+          "left": 792,
+          "top": 637,
+          "width": 24,
+          "height": 3,
+          "confidence": 93.228615
+        },
+        {
+          "text": "行",
+          "left": 836,
+          "top": 621,
+          "width": 45,
+          "height": 36,
+          "confidence": 90.48246
+        },
+        {
+          "text": "是",
+          "left": 880,
+          "top": 616,
+          "width": 35,
+          "height": 54,
+          "confidence": 86.02121
+        },
+        {
+          "text": "表",
+          "left": 914,
+          "top": 620,
+          "width": 22,
+          "height": 37,
+          "confidence": 91.418541
+        },
+        {
+          "text": "头",
+          "left": 951,
+          "top": 620,
+          "width": 25,
+          "height": 37,
+          "confidence": 91.734886
+        },
+        {
+          "text": ")",
+          "left": 981,
+          "top": 621,
+          "width": 17,
+          "height": 39,
+          "confidence": 92.141022
+        }
+      ]
+    },
+    {
+      "text": "15 for tr in tr_list:",
+      "left": 189,
+      "top": 691,
+      "right": 689,
+      "bottom": 726,
+      "height": 35,
+      "confidence": 92.9718064,
+      "words": [
+        {
+          "text": "15",
+          "left": 189,
+          "top": 693,
+          "width": 41,
+          "height": 31,
+          "confidence": 94.76548
+        },
+        {
+          "text": "for",
+          "left": 268,
+          "top": 691,
+          "width": 66,
+          "height": 33,
+          "confidence": 95.177582
+        },
+        {
+          "text": "tr",
+          "left": 363,
+          "top": 694,
+          "width": 43,
+          "height": 30,
+          "confidence": 94.067566
+        },
+        {
+          "text": "in",
+          "left": 436,
+          "top": 691,
+          "width": 42,
+          "height": 32,
+          "confidence": 93.285706
+        },
+        {
+          "text": "tr_list:",
+          "left": 508,
+          "top": 691,
+          "width": 181,
+          "height": 35,
+          "confidence": 87.562698
+        }
+      ]
+    },
+    {
+      "text": "16 td_list = tr.find_allC\"td\")",
+      "left": 189,
+      "top": 761,
+      "right": 1006,
+      "bottom": 800,
+      "height": 39,
+      "confidence": 84.47244199999999,
+      "words": [
+        {
+          "text": "16",
+          "left": 189,
+          "top": 762,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.628716
+        },
+        {
+          "text": "td_list",
+          "left": 363,
+          "top": 761,
+          "width": 164,
+          "height": 35,
+          "confidence": 90.57119
+        },
+        {
+          "text": "=",
+          "left": 555,
+          "top": 777,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.185509
+        },
+        {
+          "text": "tr.find_allC\"td\")",
+          "left": 604,
+          "top": 761,
+          "width": 402,
+          "height": 39,
+          "confidence": 57.504353
+        }
+      ]
+    },
+    {
+      "text": "17 name = td_list[Q].text # 获取文本内容",
+      "left": 189,
+      "top": 830,
+      "right": 1225,
+      "bottom": 870,
+      "height": 40,
+      "confidence": 93.33147,
+      "words": [
+        {
+          "text": "17",
+          "left": 189,
+          "top": 833,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.720749
+        },
+        {
+          "text": "name",
+          "left": 364,
+          "top": 841,
+          "width": 91,
+          "height": 23,
+          "confidence": 96.48864
+        },
+        {
+          "text": "=",
+          "left": 483,
+          "top": 847,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.047401
+        },
+        {
+          "text": "td_list[Q].text",
+          "left": 532,
+          "top": 831,
+          "width": 355,
+          "height": 39,
+          "confidence": 83.808502
+        },
+        {
+          "text": "#",
+          "left": 939,
+          "top": 833,
+          "width": 22,
+          "height": 30,
+          "confidence": 91.390083
+        },
+        {
+          "text": "获取",
+          "left": 1001,
+          "top": 830,
+          "width": 64,
+          "height": 37,
+          "confidence": 96.801483
+        },
+        {
+          "text": "文本",
+          "left": 1083,
+          "top": 830,
+          "width": 62,
+          "height": 37,
+          "confidence": 96.598053
+        },
+        {
+          "text": "内",
+          "left": 1158,
+          "top": 830,
+          "width": 25,
+          "height": 37,
+          "confidence": 92.318222
+        },
+        {
+          "text": "容",
+          "left": 1197,
+          "top": 830,
+          "width": 28,
+          "height": 37,
+          "confidence": 92.810097
+        }
+      ]
+    },
+    {
+      "text": "18 low = td_list[1].text",
+      "left": 189,
+      "top": 901,
+      "right": 863,
+      "bottom": 940,
+      "height": 39,
+      "confidence": 88.29846,
+      "words": [
+        {
+          "text": "18",
+          "left": 189,
+          "top": 902,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.829208
+        },
+        {
+          "text": "low",
+          "left": 363,
+          "top": 901,
+          "width": 70,
+          "height": 33,
+          "confidence": 79.665695
+        },
+        {
+          "text": "=",
+          "left": 458,
+          "top": 917,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.207085
+        },
+        {
+          "text": "td_list[1].text",
+          "left": 508,
+          "top": 901,
+          "width": 355,
+          "height": 39,
+          "confidence": 83.491852
+        }
+      ]
+    },
+    {
+      "text": "19 avg = td_list[2].text",
+      "left": 189,
+      "top": 971,
+      "right": 863,
+      "bottom": 1012,
+      "height": 41,
+      "confidence": 89.75655175000001,
+      "words": [
+        {
+          "text": "19",
+          "left": 189,
+          "top": 972,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.763992
+        },
+        {
+          "text": "avg",
+          "left": 363,
+          "top": 981,
+          "width": 67,
+          "height": 31,
+          "confidence": 96.325745
+        },
+        {
+          "text": "=",
+          "left": 458,
+          "top": 987,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.229095
+        },
+        {
+          "text": "td_list[2].text",
+          "left": 508,
+          "top": 971,
+          "width": 355,
+          "height": 39,
+          "confidence": 72.707375
+        }
+      ]
+    },
+    {
+      "text": "20 high = td_list[3].text",
+      "left": 188,
+      "top": 1041,
+      "right": 887,
+      "bottom": 1082,
+      "height": 41,
+      "confidence": 94.28112225000001,
+      "words": [
+        {
+          "text": "20",
+          "left": 188,
+          "top": 1042,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.811882
+        },
+        {
+          "text": "high",
+          "left": 364,
+          "top": 1041,
+          "width": 90,
+          "height": 41,
+          "confidence": 96.833176
+        },
+        {
+          "text": "=",
+          "left": 483,
+          "top": 1057,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.23381
+        },
+        {
+          "text": "td_list[3].text",
+          "left": 532,
+          "top": 1041,
+          "width": 355,
+          "height": 39,
+          "confidence": 90.245621
+        }
+      ]
+    },
+    {
+      "text": "21 gui = td_Llist[4].text",
+      "left": 188,
+      "top": 1111,
+      "right": 863,
+      "bottom": 1152,
+      "height": 41,
+      "confidence": 81.51381775,
+      "words": [
+        {
+          "text": "21",
+          "left": 188,
+          "top": 1112,
+          "width": 43,
+          "height": 31,
+          "confidence": 96.598503
+        },
+        {
+          "text": "gui",
+          "left": 363,
+          "top": 1111,
+          "width": 65,
+          "height": 41,
+          "confidence": 96.501648
+        },
+        {
+          "text": "=",
+          "left": 458,
+          "top": 1127,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.208168
+        },
+        {
+          "text": "td_Llist[4].text",
+          "left": 508,
+          "top": 1111,
+          "width": 355,
+          "height": 39,
+          "confidence": 39.746952
+        }
+      ]
+    },
+    {
+      "text": "22 dan = td_list[5].text",
+      "left": 188,
+      "top": 1181,
+      "right": 863,
+      "bottom": 1220,
+      "height": 39,
+      "confidence": 94.10369700000001,
+      "words": [
+        {
+          "text": "22",
+          "left": 188,
+          "top": 1182,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.874405
+        },
+        {
+          "text": "dan",
+          "left": 363,
+          "top": 1181,
+          "width": 67,
+          "height": 33,
+          "confidence": 95.653931
+        },
+        {
+          "text": "=",
+          "left": 458,
+          "top": 1197,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.835831
+        },
+        {
+          "text": "td_list[5].text",
+          "left": 508,
+          "top": 1181,
+          "width": 355,
+          "height": 39,
+          "confidence": 91.050621
+        }
+      ]
+    },
+    {
+      "text": "23 day = td_list[6].text",
+      "left": 188,
+      "top": 1251,
+      "right": 863,
+      "bottom": 1292,
+      "height": 41,
+      "confidence": 89.1875515,
+      "words": [
+        {
+          "text": "23",
+          "left": 188,
+          "top": 1252,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.553085
+        },
+        {
+          "text": "day",
+          "left": 363,
+          "top": 1251,
+          "width": 69,
+          "height": 41,
+          "confidence": 96.604034
+        },
+        {
+          "text": "=",
+          "left": 458,
+          "top": 1267,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.187798
+        },
+        {
+          "text": "td_list[6].text",
+          "left": 508,
+          "top": 1251,
+          "width": 355,
+          "height": 39,
+          "confidence": 70.405289
+        }
+      ]
+    },
+    {
+      "text": "24 cv_writer.writerow([name, low, avg, high,",
+      "left": 188,
+      "top": 1321,
+      "right": 1339,
+      "bottom": 1362,
+      "height": 41,
+      "confidence": 83.1180868,
+      "words": [
+        {
+          "text": "24",
+          "left": 188,
+          "top": 1322,
+          "width": 44,
+          "height": 31,
+          "confidence": 95.741302
+        },
+        {
+          "text": "cv_writer.writerow([name,",
+          "left": 364,
+          "top": 1321,
+          "width": 590,
+          "height": 40,
+          "confidence": 44.888668
+        },
+        {
+          "text": "low,",
+          "left": 988,
+          "top": 1321,
+          "width": 86,
+          "height": 40,
+          "confidence": 81.554077
+        },
+        {
+          "text": "avg,",
+          "left": 1108,
+          "top": 1331,
+          "width": 86,
+          "height": 31,
+          "confidence": 96.625053
+        },
+        {
+          "text": "high,",
+          "left": 1229,
+          "top": 1321,
+          "width": 110,
+          "height": 41,
+          "confidence": 96.781334
+        }
+      ]
+    },
+    {
+      "text": "gui, dan, day])",
+      "left": 267,
+      "top": 1391,
+      "right": 622,
+      "bottom": 1432,
+      "height": 41,
+      "confidence": 93.81241366666667,
+      "words": [
+        {
+          "text": "gui,",
+          "left": 267,
+          "top": 1391,
+          "width": 86,
+          "height": 41,
+          "confidence": 96.610817
+        },
+        {
+          "text": "dan,",
+          "left": 387,
+          "top": 1391,
+          "width": 86,
+          "height": 40,
+          "confidence": 93.245041
+        },
+        {
+          "text": "day])",
+          "left": 508,
+          "top": 1391,
+          "width": 114,
+          "height": 41,
+          "confidence": 91.581383
+        }
+      ]
+    },
+    {
+      "text": "25",
+      "left": 188,
+      "top": 1462,
+      "right": 230,
+      "bottom": 1494,
+      "height": 32,
+      "confidence": 96.634018,
+      "words": [
+        {
+          "text": "25",
+          "left": 188,
+          "top": 1462,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.634018
+        }
+      ]
+    },
+    {
+      "text": "26 f.close(C)",
+      "left": 188,
+      "top": 1532,
+      "right": 477,
+      "bottom": 1571,
+      "height": 39,
+      "confidence": 50.168044,
+      "words": [
+        {
+          "text": "26",
+          "left": 188,
+          "top": 1533,
+          "width": 43,
+          "height": 32,
+          "confidence": 89.732651
+        },
+        {
+          "text": "f.close(C)",
+          "left": 268,
+          "top": 1532,
+          "width": 209,
+          "height": 39,
+          "confidence": 10.603437
+        }
+      ]
+    },
+    {
+      "text": "27 print(faze\")",
+      "left": 188,
+      "top": 1597,
+      "right": 558,
+      "bottom": 1656,
+      "height": 59,
+      "confidence": 57.284398333333336,
+      "words": [
+        {
+          "text": "27",
+          "left": 188,
+          "top": 1603,
+          "width": 43,
+          "height": 31,
+          "confidence": 89.922264
+        },
+        {
+          "text": "print(",
+          "left": 268,
+          "top": 1602,
+          "width": 138,
+          "height": 41,
+          "confidence": 81.930931
+        },
+        {
+          "text": "faze\")",
+          "left": 434,
+          "top": 1597,
+          "width": 124,
+          "height": 59,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "有人可能要问了. 为什么只有第一页数据. 你观察一下第二页, 第",
+      "left": 173,
+      "top": 1816,
+      "right": 1388,
+      "bottom": 1875,
+      "height": 59,
+      "confidence": 95.0983575,
+      "words": [
+        {
+          "text": "有",
+          "left": 173,
+          "top": 1820,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.310898
+        },
+        {
+          "text": "人",
+          "left": 217,
+          "top": 1820,
+          "width": 40,
+          "height": 40,
+          "confidence": 95.95047
+        },
+        {
+          "text": "可",
+          "left": 264,
+          "top": 1820,
+          "width": 53,
+          "height": 41,
+          "confidence": 89.917366
+        },
+        {
+          "text": "能",
+          "left": 328,
+          "top": 1820,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.798058
+        },
+        {
+          "text": "要",
+          "left": 364,
+          "top": 1820,
+          "width": 43,
+          "height": 41,
+          "confidence": 93.159729
+        },
+        {
+          "text": "问",
+          "left": 412,
+          "top": 1822,
+          "width": 19,
+          "height": 38,
+          "confidence": 91.733604
+        },
+        {
+          "text": "了",
+          "left": 452,
+          "top": 1823,
+          "width": 21,
+          "height": 37,
+          "confidence": 91.296448
+        },
+        {
+          "text": ".",
+          "left": 483,
+          "top": 1851,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.59201
+        },
+        {
+          "text": "为",
+          "left": 526,
+          "top": 1820,
+          "width": 37,
+          "height": 41,
+          "confidence": 96.733322
+        },
+        {
+          "text": "什么",
+          "left": 562,
+          "top": 1820,
+          "width": 160,
+          "height": 41,
+          "confidence": 96.04631
+        },
+        {
+          "text": "只",
+          "left": 663,
+          "top": 1816,
+          "width": 34,
+          "height": 59,
+          "confidence": 96.756897
+        },
+        {
+          "text": "有",
+          "left": 696,
+          "top": 1816,
+          "width": 41,
+          "height": 59,
+          "confidence": 96.901833
+        },
+        {
+          "text": "第",
+          "left": 736,
+          "top": 1820,
+          "width": 30,
+          "height": 41,
+          "confidence": 95.835701
+        },
+        {
+          "text": "一",
+          "left": 784,
+          "top": 1838,
+          "width": 26,
+          "height": 4,
+          "confidence": 96.92469
+        },
+        {
+          "text": "页",
+          "left": 829,
+          "top": 1822,
+          "width": 25,
+          "height": 38,
+          "confidence": 96.54155
+        },
+        {
+          "text": "数据",
+          "left": 858,
+          "top": 1820,
+          "width": 95,
+          "height": 41,
+          "confidence": 93.100952
+        },
+        {
+          "text": ".",
+          "left": 947,
+          "top": 1816,
+          "width": 15,
+          "height": 59,
+          "confidence": 92.962585
+        },
+        {
+          "text": "你",
+          "left": 987,
+          "top": 1820,
+          "width": 45,
+          "height": 41,
+          "confidence": 96.581177
+        },
+        {
+          "text": "观察",
+          "left": 1028,
+          "top": 1820,
+          "width": 302,
+          "height": 42,
+          "confidence": 96.808296
+        },
+        {
+          "text": "一",
+          "left": 1124,
+          "top": 1816,
+          "width": 41,
+          "height": 59,
+          "confidence": 96.693695
+        },
+        {
+          "text": "下",
+          "left": 1164,
+          "top": 1816,
+          "width": 42,
+          "height": 59,
+          "confidence": 96.790237
+        },
+        {
+          "text": "第",
+          "left": 1205,
+          "top": 1816,
+          "width": 49,
+          "height": 59,
+          "confidence": 96.657372
+        },
+        {
+          "text": "二",
+          "left": 1253,
+          "top": 1816,
+          "width": 41,
+          "height": 59,
+          "confidence": 96.769073
+        },
+        {
+          "text": "页",
+          "left": 1293,
+          "top": 1816,
+          "width": 27,
+          "height": 59,
+          "confidence": 93.142799
+        },
+        {
+          "text": ",",
+          "left": 1319,
+          "top": 1816,
+          "width": 16,
+          "height": 59,
+          "confidence": 92.641228
+        },
+        {
+          "text": "第",
+          "left": 1349,
+          "top": 1820,
+          "width": 39,
+          "height": 41,
+          "confidence": 96.910995
+        }
+      ]
+    },
+    {
+      "text": "三页的 url 就明白了了",
+      "left": 173,
+      "top": 1886,
+      "right": 566,
+      "bottom": 1944,
+      "height": 58,
+      "confidence": 94.821629625,
+      "words": [
+        {
+          "text": "三",
+          "left": 173,
+          "top": 1893,
+          "width": 40,
+          "height": 35,
+          "confidence": 95.802185
+        },
+        {
+          "text": "页",
+          "left": 234,
+          "top": 1890,
+          "width": 43,
+          "height": 40,
+          "confidence": 96.957329
+        },
+        {
+          "text": "的",
+          "left": 281,
+          "top": 1890,
+          "width": 19,
+          "height": 40,
+          "confidence": 96.176231
+        },
+        {
+          "text": "url",
+          "left": 314,
+          "top": 1890,
+          "width": 61,
+          "height": 40,
+          "confidence": 89.569748
+        },
+        {
+          "text": "就",
+          "left": 379,
+          "top": 1890,
+          "width": 34,
+          "height": 40,
+          "confidence": 92.817818
+        },
+        {
+          "text": "明白",
+          "left": 422,
+          "top": 1890,
+          "width": 85,
+          "height": 41,
+          "confidence": 93.560028
+        },
+        {
+          "text": "了",
+          "left": 506,
+          "top": 1886,
+          "width": 30,
+          "height": 58,
+          "confidence": 96.813828
+        },
+        {
+          "text": "了",
+          "left": 535,
+          "top": 1893,
+          "width": 31,
+          "height": 37,
+          "confidence": 96.87587
+        }
+      ]
+    }
+  ]
+}

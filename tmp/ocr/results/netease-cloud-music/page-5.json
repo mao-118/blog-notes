@@ -1,0 +1,1360 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/netease-cloud-music/page-5.png",
+  "lines": [
+    {
+      "text": "70 var c = CryptoJS.enc.Utf8.parse(b) # #",
+      "left": 130,
+      "top": 130,
+      "right": 1337,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 89.05565214285714,
+      "words": [
+        {
+          "text": "70",
+          "left": 130,
+          "top": 131,
+          "width": 44,
+          "height": 32,
+          "confidence": 88.943649
+        },
+        {
+          "text": "var",
+          "left": 402,
+          "top": 140,
+          "width": 68,
+          "height": 23,
+          "confidence": 91.985825
+        },
+        {
+          "text": "c",
+          "left": 500,
+          "top": 140,
+          "width": 18,
+          "height": 23,
+          "confidence": 91.985825
+        },
+        {
+          "text": "=",
+          "left": 546,
+          "top": 146,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.193756
+        },
+        {
+          "text": "CryptoJS.enc.Utf8.parse(b)",
+          "left": 595,
+          "top": 130,
+          "width": 619,
+          "height": 41,
+          "confidence": 68.778244
+        },
+        {
+          "text": "#",
+          "left": 1243,
+          "top": 132,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.500069
+        },
+        {
+          "text": "#",
+          "left": 1315,
+          "top": 132,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.002197
+        }
+      ]
+    },
+    {
+      "text": "b 是秘钥",
+      "left": 212,
+      "top": 199,
+      "right": 350,
+      "bottom": 236,
+      "height": 37,
+      "confidence": 89.00851825,
+      "words": [
+        {
+          "text": "b",
+          "left": 212,
+          "top": 200,
+          "width": 19,
+          "height": 32,
+          "confidence": 91.962433
+        },
+        {
+          "text": "是",
+          "left": 244,
+          "top": 200,
+          "width": 44,
+          "height": 36,
+          "confidence": 91.333046
+        },
+        {
+          "text": "秘",
+          "left": 287,
+          "top": 199,
+          "width": 25,
+          "height": 36,
+          "confidence": 90.564461
+        },
+        {
+          "text": "钥",
+          "left": 327,
+          "top": 200,
+          "width": 23,
+          "height": 36,
+          "confidence": 82.174133
+        }
+      ]
+    },
+    {
+      "text": "71, d=",
+      "left": 130,
+      "top": 270,
+      "right": 568,
+      "bottom": 310,
+      "height": 40,
+      "confidence": 86.855194,
+      "words": [
+        {
+          "text": "71",
+          "left": 130,
+          "top": 271,
+          "width": 43,
+          "height": 31,
+          "confidence": 92.781578
+        },
+        {
+          "text": ",",
+          "left": 457,
+          "top": 296,
+          "width": 8,
+          "height": 14,
+          "confidence": 85.878227
+        },
+        {
+          "text": "d=",
+          "left": 499,
+          "top": 270,
+          "width": 69,
+          "height": 33,
+          "confidence": 81.905777
+        }
+      ]
+    },
+    {
+      "text": "CryptoJS.enc.Utf8&.parseC\"@102030405060708\")",
+      "left": 211,
+      "top": 336,
+      "right": 1241,
+      "bottom": 385,
+      "height": 49,
+      "confidence": 63.0286275,
+      "words": [
+        {
+          "text": "CryptoJS.enc.Utf8&.parseC\"@102030405060708\"",
+          "left": 211,
+          "top": 340,
+          "width": 1027,
+          "height": 41,
+          "confidence": 36.587826
+        },
+        {
+          "text": ")",
+          "left": 1219,
+          "top": 336,
+          "width": 22,
+          "height": 49,
+          "confidence": 89.469429
+        }
+      ]
+    },
+    {
+      "text": "72，e = CryptoJS.enc.Utf8.parse(a) #e",
+      "left": 130,
+      "top": 410,
+      "right": 1336,
+      "bottom": 451,
+      "height": 41,
+      "confidence": 81.6014314,
+      "words": [
+        {
+          "text": "72",
+          "left": 130,
+          "top": 411,
+          "width": 42,
+          "height": 31,
+          "confidence": 95.846741
+        },
+        {
+          "text": "，e",
+          "left": 457,
+          "top": 420,
+          "width": 62,
+          "height": 30,
+          "confidence": 78.703239
+        },
+        {
+          "text": "=",
+          "left": 546,
+          "top": 426,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.097885
+        },
+        {
+          "text": "CryptoJS.enc.Utf8.parse(a)",
+          "left": 595,
+          "top": 410,
+          "width": 619,
+          "height": 41,
+          "confidence": 51.543839
+        },
+        {
+          "text": "#e",
+          "left": 1267,
+          "top": 412,
+          "width": 69,
+          "height": 31,
+          "confidence": 88.815453
+        }
+      ]
+    },
+    {
+      "text": "是数据",
+      "left": 211,
+      "top": 479,
+      "right": 327,
+      "bottom": 516,
+      "height": 37,
+      "confidence": 96.6872175,
+      "words": [
+        {
+          "text": "是",
+          "left": 211,
+          "top": 481,
+          "width": 36,
+          "height": 35,
+          "confidence": 96.931274
+        },
+        {
+          "text": "数据",
+          "left": 264,
+          "top": 479,
+          "width": 63,
+          "height": 37,
+          "confidence": 96.443161
+        }
+      ]
+    },
+    {
+      "text": "73，f = CryptoJS.AES.encryptCe, c, {#",
+      "left": 130,
+      "top": 551,
+      "right": 1337,
+      "bottom": 592,
+      "height": 41,
+      "confidence": 77.847278,
+      "words": [
+        {
+          "text": "73",
+          "left": 130,
+          "top": 552,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.731544
+        },
+        {
+          "text": "，f",
+          "left": 457,
+          "top": 551,
+          "width": 63,
+          "height": 40,
+          "confidence": 50.913181
+        },
+        {
+          "text": "=",
+          "left": 546,
+          "top": 567,
+          "width": 22,
+          "height": 10,
+          "confidence": 95.209419
+        },
+        {
+          "text": "CryptoJS.AES.encryptCe,",
+          "left": 595,
+          "top": 551,
+          "width": 543,
+          "height": 41,
+          "confidence": 31.408421
+        },
+        {
+          "text": "c,",
+          "left": 1173,
+          "top": 561,
+          "width": 37,
+          "height": 30,
+          "confidence": 91.493645
+        },
+        {
+          "text": "{",
+          "left": 1246,
+          "top": 551,
+          "width": 18,
+          "height": 39,
+          "confidence": 91.493645
+        },
+        {
+          "text": "#",
+          "left": 1315,
+          "top": 553,
+          "width": 22,
+          "height": 30,
+          "confidence": 91.681091
+        }
+      ]
+    },
+    {
+      "text": "c 加密的秘钥",
+      "left": 212,
+      "top": 620,
+      "right": 454,
+      "bottom": 657,
+      "height": 37,
+      "confidence": 89.83814483333332,
+      "words": [
+        {
+          "text": "c",
+          "left": 212,
+          "top": 631,
+          "width": 18,
+          "height": 23,
+          "confidence": 86.778633
+        },
+        {
+          "text": "加",
+          "left": 265,
+          "top": 620,
+          "width": 29,
+          "height": 37,
+          "confidence": 92.85659
+        },
+        {
+          "text": "密",
+          "left": 309,
+          "top": 620,
+          "width": 44,
+          "height": 37,
+          "confidence": 90.621185
+        },
+        {
+          "text": "的",
+          "left": 355,
+          "top": 620,
+          "width": 38,
+          "height": 37,
+          "confidence": 93.246994
+        },
+        {
+          "text": "秘",
+          "left": 393,
+          "top": 620,
+          "width": 23,
+          "height": 36,
+          "confidence": 92.677513
+        },
+        {
+          "text": "钥",
+          "left": 430,
+          "top": 621,
+          "width": 24,
+          "height": 36,
+          "confidence": 82.847954
+        }
+      ]
+    },
+    {
+      "text": "74 iv: d, # 偏移量",
+      "left": 130,
+      "top": 685,
+      "right": 860,
+      "bottom": 737,
+      "height": 52,
+      "confidence": 86.536427,
+      "words": [
+        {
+          "text": "74",
+          "left": 130,
+          "top": 692,
+          "width": 44,
+          "height": 31,
+          "confidence": 92.702072
+        },
+        {
+          "text": "iv:",
+          "left": 500,
+          "top": 691,
+          "width": 60,
+          "height": 33,
+          "confidence": 83.560753
+        },
+        {
+          "text": "d,",
+          "left": 595,
+          "top": 691,
+          "width": 38,
+          "height": 40,
+          "confidence": 74.466949
+        },
+        {
+          "text": "#",
+          "left": 690,
+          "top": 693,
+          "width": 22,
+          "height": 30,
+          "confidence": 85.842438
+        },
+        {
+          "text": "偏",
+          "left": 739,
+          "top": 690,
+          "width": 117,
+          "height": 37,
+          "confidence": 84.015541
+        },
+        {
+          "text": "移",
+          "left": 798,
+          "top": 685,
+          "width": 36,
+          "height": 52,
+          "confidence": 92.292259
+        },
+        {
+          "text": "量",
+          "left": 834,
+          "top": 685,
+          "width": 26,
+          "height": 52,
+          "confidence": 92.874977
+        }
+      ]
+    },
+    {
+      "text": "75 mode: CryptoJS.mode.CBC # 模式: cbc",
+      "left": 130,
+      "top": 754,
+      "right": 1343,
+      "bottom": 806,
+      "height": 52,
+      "confidence": 89.64167914285713,
+      "words": [
+        {
+          "text": "75",
+          "left": 130,
+          "top": 762,
+          "width": 43,
+          "height": 32,
+          "confidence": 95.899239
+        },
+        {
+          "text": "mode:",
+          "left": 498,
+          "top": 761,
+          "width": 110,
+          "height": 33,
+          "confidence": 91.491364
+        },
+        {
+          "text": "CryptoJS.mode.CBC",
+          "left": 643,
+          "top": 761,
+          "width": 404,
+          "height": 41,
+          "confidence": 85.400238
+        },
+        {
+          "text": "#",
+          "left": 1099,
+          "top": 763,
+          "width": 22,
+          "height": 30,
+          "confidence": 85.400238
+        },
+        {
+          "text": "模式",
+          "left": 1148,
+          "top": 760,
+          "width": 93,
+          "height": 37,
+          "confidence": 93.214157
+        },
+        {
+          "text": ":",
+          "left": 1241,
+          "top": 754,
+          "width": 17,
+          "height": 52,
+          "confidence": 82.120949
+        },
+        {
+          "text": "cbc",
+          "left": 1277,
+          "top": 761,
+          "width": 66,
+          "height": 33,
+          "confidence": 93.965569
+        }
+      ]
+    },
+    {
+      "text": "76 35",
+      "left": 130,
+      "top": 831,
+      "right": 465,
+      "bottom": 871,
+      "height": 40,
+      "confidence": 59.361697,
+      "words": [
+        {
+          "text": "76",
+          "left": 130,
+          "top": 832,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.355278
+        },
+        {
+          "text": "35",
+          "left": 403,
+          "top": 831,
+          "width": 62,
+          "height": 40,
+          "confidence": 22.368116
+        }
+      ]
+    },
+    {
+      "text": "77 return f.toStringQ)",
+      "left": 130,
+      "top": 901,
+      "right": 853,
+      "bottom": 942,
+      "height": 41,
+      "confidence": 76.501217,
+      "words": [
+        {
+          "text": "77",
+          "left": 130,
+          "top": 902,
+          "width": 44,
+          "height": 31,
+          "confidence": 62.701839
+        },
+        {
+          "text": "return",
+          "left": 406,
+          "top": 904,
+          "width": 136,
+          "height": 30,
+          "confidence": 93.111916
+        },
+        {
+          "text": "f.toStringQ)",
+          "left": 572,
+          "top": 901,
+          "width": 281,
+          "height": 41,
+          "confidence": 73.689896
+        }
+      ]
+    },
+    {
+      "text": "78}",
+      "left": 130,
+      "top": 971,
+      "right": 325,
+      "bottom": 1010,
+      "height": 39,
+      "confidence": 91.880962,
+      "words": [
+        {
+          "text": "78",
+          "left": 130,
+          "top": 972,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.731895
+        },
+        {
+          "text": "}",
+          "left": 307,
+          "top": 971,
+          "width": 18,
+          "height": 39,
+          "confidence": 87.030029
+        }
+      ]
+    },
+    {
+      "text": "79 function cCa, b, c) {# <c 里面不产生随机数",
+      "left": 130,
+      "top": 1032,
+      "right": 1273,
+      "bottom": 1085,
+      "height": 53,
+      "confidence": 81.53933207142857,
+      "words": [
+        {
+          "text": "79",
+          "left": 130,
+          "top": 1042,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.849457
+        },
+        {
+          "text": "function",
+          "left": 308,
+          "top": 1041,
+          "width": 186,
+          "height": 33,
+          "confidence": 93.158279
+        },
+        {
+          "text": "cCa,",
+          "left": 524,
+          "top": 1041,
+          "width": 85,
+          "height": 40,
+          "confidence": 15.496101
+        },
+        {
+          "text": "b,",
+          "left": 644,
+          "top": 1041,
+          "width": 37,
+          "height": 40,
+          "confidence": 89.673012
+        },
+        {
+          "text": "c)",
+          "left": 716,
+          "top": 1041,
+          "width": 41,
+          "height": 39,
+          "confidence": 88.099022
+        },
+        {
+          "text": "{",
+          "left": 798,
+          "top": 1041,
+          "width": 9,
+          "height": 39,
+          "confidence": 70.197968
+        },
+        {
+          "text": "#",
+          "left": 883,
+          "top": 1043,
+          "width": 22,
+          "height": 30,
+          "confidence": 87.895096
+        },
+        {
+          "text": "<c",
+          "left": 930,
+          "top": 1032,
+          "width": 21,
+          "height": 53,
+          "confidence": 44.783039
+        },
+        {
+          "text": "里",
+          "left": 966,
+          "top": 1042,
+          "width": 26,
+          "height": 34,
+          "confidence": 92.611633
+        },
+        {
+          "text": "面",
+          "left": 1012,
+          "top": 1042,
+          "width": 44,
+          "height": 35,
+          "confidence": 93.090881
+        },
+        {
+          "text": "不",
+          "left": 1055,
+          "top": 1032,
+          "width": 38,
+          "height": 53,
+          "confidence": 96.901627
+        },
+        {
+          "text": "产生",
+          "left": 1092,
+          "top": 1040,
+          "width": 76,
+          "height": 37,
+          "confidence": 96.207497
+        },
+        {
+          "text": "随机",
+          "left": 1168,
+          "top": 1040,
+          "width": 65,
+          "height": 37,
+          "confidence": 93.09726
+        },
+        {
+          "text": "数",
+          "left": 1244,
+          "top": 1040,
+          "width": 29,
+          "height": 37,
+          "confidence": 83.489777
+        }
+      ]
+    },
+    {
+      "text": "80 var d, @;",
+      "left": 129,
+      "top": 1111,
+      "right": 609,
+      "bottom": 1151,
+      "height": 40,
+      "confidence": 88.81042075,
+      "words": [
+        {
+          "text": "80",
+          "left": 129,
+          "top": 1112,
+          "width": 45,
+          "height": 32,
+          "confidence": 92.950668
+        },
+        {
+          "text": "var",
+          "left": 402,
+          "top": 1121,
+          "width": 68,
+          "height": 23,
+          "confidence": 92.933334
+        },
+        {
+          "text": "d,",
+          "left": 499,
+          "top": 1111,
+          "width": 38,
+          "height": 40,
+          "confidence": 92.502716
+        },
+        {
+          "text": "@;",
+          "left": 572,
+          "top": 1121,
+          "width": 37,
+          "height": 30,
+          "confidence": 76.854965
+        }
+      ]
+    },
+    {
+      "text": "81 return setMaxDigits(131),",
+      "left": 129,
+      "top": 1181,
+      "right": 994,
+      "bottom": 1222,
+      "height": 41,
+      "confidence": 90.710983,
+      "words": [
+        {
+          "text": "81",
+          "left": 129,
+          "top": 1182,
+          "width": 44,
+          "height": 32,
+          "confidence": 94.221069
+        },
+        {
+          "text": "return",
+          "left": 406,
+          "top": 1184,
+          "width": 136,
+          "height": 30,
+          "confidence": 92.865875
+        },
+        {
+          "text": "setMaxDigits(131),",
+          "left": 572,
+          "top": 1181,
+          "width": 422,
+          "height": 41,
+          "confidence": 85.046005
+        }
+      ]
+    },
+    {
+      "text": "82 d = new RSAKeyPair(b,\"\",c),",
+      "left": 129,
+      "top": 1251,
+      "right": 1042,
+      "bottom": 1292,
+      "height": 41,
+      "confidence": 92.06372839999999,
+      "words": [
+        {
+          "text": "82",
+          "left": 129,
+          "top": 1252,
+          "width": 43,
+          "height": 32,
+          "confidence": 92.357811
+        },
+        {
+          "text": "d",
+          "left": 403,
+          "top": 1251,
+          "width": 19,
+          "height": 33,
+          "confidence": 92.502701
+        },
+        {
+          "text": "=",
+          "left": 450,
+          "top": 1267,
+          "width": 22,
+          "height": 10,
+          "confidence": 95.708344
+        },
+        {
+          "text": "new",
+          "left": 500,
+          "top": 1261,
+          "width": 69,
+          "height": 23,
+          "confidence": 92.996231
+        },
+        {
+          "text": "RSAKeyPair(b,\"\",c),",
+          "left": 596,
+          "top": 1251,
+          "width": 446,
+          "height": 41,
+          "confidence": 86.753555
+        }
+      ]
+    },
+    {
+      "text": "83 e = encryptedString(d, a)",
+      "left": 129,
+      "top": 1321,
+      "right": 998,
+      "bottom": 1362,
+      "height": 41,
+      "confidence": 89.500453,
+      "words": [
+        {
+          "text": "83",
+          "left": 129,
+          "top": 1322,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.397781
+        },
+        {
+          "text": "e",
+          "left": 404,
+          "top": 1331,
+          "width": 19,
+          "height": 23,
+          "confidence": 92.250778
+        },
+        {
+          "text": "=",
+          "left": 450,
+          "top": 1337,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.275459
+        },
+        {
+          "text": "encryptedString(d,",
+          "left": 500,
+          "top": 1321,
+          "width": 422,
+          "height": 41,
+          "confidence": 68.935432
+        },
+        {
+          "text": "a)",
+          "left": 956,
+          "top": 1321,
+          "width": 42,
+          "height": 39,
+          "confidence": 96.642815
+        }
+      ]
+    },
+    {
+      "text": "84}",
+      "left": 129,
+      "top": 1391,
+      "right": 325,
+      "bottom": 1430,
+      "height": 39,
+      "confidence": 89.2712745,
+      "words": [
+        {
+          "text": "84",
+          "left": 129,
+          "top": 1392,
+          "width": 45,
+          "height": 32,
+          "confidence": 96.857468
+        },
+        {
+          "text": "}",
+          "left": 307,
+          "top": 1391,
+          "width": 18,
+          "height": 39,
+          "confidence": 81.685081
+        }
+      ]
+    },
+    {
+      "text": "85 function d(d, e, f, g) {d: 数据， e:",
+      "left": 129,
+      "top": 1453,
+      "right": 1217,
+      "bottom": 1506,
+      "height": 53,
+      "confidence": 80.26874636363635,
+      "words": [
+        {
+          "text": "85",
+          "left": 129,
+          "top": 1462,
+          "width": 44,
+          "height": 32,
+          "confidence": 95.664871
+        },
+        {
+          "text": "function",
+          "left": 308,
+          "top": 1461,
+          "width": 186,
+          "height": 33,
+          "confidence": 90.494225
+        },
+        {
+          "text": "d(d,",
+          "left": 523,
+          "top": 1461,
+          "width": 86,
+          "height": 40,
+          "confidence": 32.413948
+        },
+        {
+          "text": "e,",
+          "left": 644,
+          "top": 1471,
+          "width": 37,
+          "height": 30,
+          "confidence": 90.862434
+        },
+        {
+          "text": "f,",
+          "left": 716,
+          "top": 1461,
+          "width": 37,
+          "height": 40,
+          "confidence": 89.730148
+        },
+        {
+          "text": "g)",
+          "left": 787,
+          "top": 1461,
+          "width": 42,
+          "height": 41,
+          "confidence": 89.730148
+        },
+        {
+          "text": "{",
+          "left": 861,
+          "top": 1461,
+          "width": 18,
+          "height": 39,
+          "confidence": 82.950981
+        },
+        {
+          "text": "d:",
+          "left": 932,
+          "top": 1461,
+          "width": 37,
+          "height": 33,
+          "confidence": 92.762459
+        },
+        {
+          "text": "数据",
+          "left": 1004,
+          "top": 1460,
+          "width": 94,
+          "height": 41,
+          "confidence": 91.680168
+        },
+        {
+          "text": "，",
+          "left": 1108,
+          "top": 1453,
+          "width": 35,
+          "height": 53,
+          "confidence": 50.846218
+        },
+        {
+          "text": "e:",
+          "left": 1181,
+          "top": 1471,
+          "width": 36,
+          "height": 23,
+          "confidence": 75.82061
+        }
+      ]
+    },
+    {
+      "text": "Q10001, f: “RIK, g: 0CoJUm6Qyw8W8jud",
+      "left": 210,
+      "top": 1531,
+      "right": 1055,
+      "bottom": 1573,
+      "height": 42,
+      "confidence": 67.7063014,
+      "words": [
+        {
+          "text": "Q10001,",
+          "left": 210,
+          "top": 1533,
+          "width": 159,
+          "height": 39,
+          "confidence": 83.848541
+        },
+        {
+          "text": "f:",
+          "left": 404,
+          "top": 1532,
+          "width": 36,
+          "height": 33,
+          "confidence": 80.463928
+        },
+        {
+          "text": "“RIK,",
+          "left": 475,
+          "top": 1531,
+          "width": 94,
+          "height": 41,
+          "confidence": 30.925417
+        },
+        {
+          "text": "g:",
+          "left": 603,
+          "top": 1542,
+          "width": 37,
+          "height": 31,
+          "confidence": 92.135399
+        },
+        {
+          "text": "0CoJUm6Qyw8W8jud",
+          "left": 674,
+          "top": 1532,
+          "width": 381,
+          "height": 41,
+          "confidence": 51.158222
+        }
+      ]
+    },
+    {
+      "text": "86 var h = {} # BYR",
+      "left": 129,
+      "top": 1601,
+      "right": 856,
+      "bottom": 1641,
+      "height": 40,
+      "confidence": 78.97078757142856,
+      "words": [
+        {
+          "text": "86",
+          "left": 129,
+          "top": 1603,
+          "width": 45,
+          "height": 32,
+          "confidence": 94.893341
+        },
+        {
+          "text": "var",
+          "left": 402,
+          "top": 1612,
+          "width": 68,
+          "height": 23,
+          "confidence": 88.831039
+        },
+        {
+          "text": "h",
+          "left": 500,
+          "top": 1602,
+          "width": 18,
+          "height": 32,
+          "confidence": 78.783646
+        },
+        {
+          "text": "=",
+          "left": 546,
+          "top": 1618,
+          "width": 22,
+          "height": 10,
+          "confidence": 83.453072
+        },
+        {
+          "text": "{}",
+          "left": 597,
+          "top": 1602,
+          "width": 40,
+          "height": 39,
+          "confidence": 57.504444
+        },
+        {
+          "text": "#",
+          "left": 690,
+          "top": 1604,
+          "width": 22,
+          "height": 30,
+          "confidence": 70.095779
+        },
+        {
+          "text": "BYR",
+          "left": 741,
+          "top": 1601,
+          "width": 115,
+          "height": 37,
+          "confidence": 79.234192
+        }
+      ]
+    },
+    {
+      "text": "87, 1 = ale); # itte—P1OfZHaNVE, 2",
+      "left": 129,
+      "top": 1671,
+      "right": 1353,
+      "bottom": 1712,
+      "height": 41,
+      "confidence": 44.711190375,
+      "words": [
+        {
+          "text": "87",
+          "left": 129,
+          "top": 1673,
+          "width": 45,
+          "height": 32,
+          "confidence": 96.588013
+        },
+        {
+          "text": ",",
+          "left": 457,
+          "top": 1698,
+          "width": 8,
+          "height": 14,
+          "confidence": 74.059799
+        },
+        {
+          "text": "1",
+          "left": 510,
+          "top": 1672,
+          "width": 6,
+          "height": 32,
+          "confidence": 74.165932
+        },
+        {
+          "text": "=",
+          "left": 546,
+          "top": 1688,
+          "width": 22,
+          "height": 10,
+          "confidence": 36.458542
+        },
+        {
+          "text": "ale);",
+          "left": 595,
+          "top": 1672,
+          "width": 134,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "#",
+          "left": 786,
+          "top": 1674,
+          "width": 22,
+          "height": 30,
+          "confidence": 48.991814
+        },
+        {
+          "text": "itte—P1OfZHaNVE,",
+          "left": 836,
+          "top": 1671,
+          "width": 446,
+          "height": 41,
+          "confidence": 0.0
+        },
+        {
+          "text": "2",
+          "left": 1316,
+          "top": 1671,
+          "width": 37,
+          "height": 37,
+          "confidence": 27.425423
+        }
+      ]
+    },
+    {
+      "text": "1 设置成定值",
+      "left": 212,
+      "top": 1737,
+      "right": 435,
+      "bottom": 1791,
+      "height": 54,
+      "confidence": 87.38368999999999,
+      "words": [
+        {
+          "text": "1",
+          "left": 212,
+          "top": 1742,
+          "width": 34,
+          "height": 34,
+          "confidence": 84.004715
+        },
+        {
+          "text": "设置",
+          "left": 247,
+          "top": 1741,
+          "width": 185,
+          "height": 37,
+          "confidence": 75.768433
+        },
+        {
+          "text": "成",
+          "left": 336,
+          "top": 1737,
+          "width": 38,
+          "height": 54,
+          "confidence": 93.215675
+        },
+        {
+          "text": "定",
+          "left": 373,
+          "top": 1737,
+          "width": 38,
+          "height": 54,
+          "confidence": 92.353905
+        },
+        {
+          "text": "值",
+          "left": 410,
+          "top": 1737,
+          "width": 25,
+          "height": 54,
+          "confidence": 91.575722
+        }
+      ]
+    },
+    {
+      "text": "88 h.encText = b(d, g) # g 秘角",
+      "left": 129,
+      "top": 1811,
+      "right": 1055,
+      "bottom": 1853,
+      "height": 42,
+      "confidence": 85.43012033333333,
+      "words": [
+        {
+          "text": "88",
+          "left": 129,
+          "top": 1813,
+          "width": 44,
+          "height": 32,
+          "confidence": 92.216881
+        },
+        {
+          "text": "h.encText",
+          "left": 404,
+          "top": 1812,
+          "width": 210,
+          "height": 33,
+          "confidence": 89.261414
+        },
+        {
+          "text": "=",
+          "left": 642,
+          "top": 1828,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.221817
+        },
+        {
+          "text": "b(d,",
+          "left": 692,
+          "top": 1812,
+          "width": 85,
+          "height": 40,
+          "confidence": 86.58728
+        },
+        {
+          "text": "g)",
+          "left": 811,
+          "top": 1812,
+          "width": 42,
+          "height": 41,
+          "confidence": 92.145744
+        },
+        {
+          "text": "#",
+          "left": 907,
+          "top": 1814,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.862236
+        },
+        {
+          "text": "g",
+          "left": 956,
+          "top": 1812,
+          "width": 33,
+          "height": 41,
+          "confidence": 74.658211
+        },
+        {
+          "text": "秘",
+          "left": 992,
+          "top": 1811,
+          "width": 24,
+          "height": 36,
+          "confidence": 90.1045
+        },
+        {
+          "text": "角",
+          "left": 1027,
+          "top": 1811,
+          "width": 28,
+          "height": 37,
+          "confidence": 58.813
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/coroutines/page-6.png",
+  "lines": [
+    {
+      "text": "18 done, pedding = await asyncio.waitCtasks)",
+      "left": 107,
+      "top": 130,
+      "right": 1260,
+      "bottom": 171,
+      "height": 41,
+      "confidence": 88.50269683333333,
+      "words": [
+        {
+          "text": "18",
+          "left": 107,
+          "top": 131,
+          "width": 42,
+          "height": 32,
+          "confidence": 92.330261
+        },
+        {
+          "text": "done,",
+          "left": 281,
+          "top": 130,
+          "width": 110,
+          "height": 40,
+          "confidence": 93.11969
+        },
+        {
+          "text": "pedding",
+          "left": 426,
+          "top": 130,
+          "width": 162,
+          "height": 41,
+          "confidence": 92.465492
+        },
+        {
+          "text": "=",
+          "left": 616,
+          "top": 146,
+          "width": 22,
+          "height": 11,
+          "confidence": 96.956772
+        },
+        {
+          "text": "await",
+          "left": 665,
+          "top": 130,
+          "width": 115,
+          "height": 33,
+          "confidence": 93.284225
+        },
+        {
+          "text": "asyncio.waitCtasks)",
+          "left": 809,
+          "top": 130,
+          "width": 451,
+          "height": 41,
+          "confidence": 62.859741
+        }
+      ]
+    },
+    {
+      "text": "19",
+      "left": 107,
+      "top": 201,
+      "right": 149,
+      "bottom": 233,
+      "height": 32,
+      "confidence": 95.717537,
+      "words": [
+        {
+          "text": "19",
+          "left": 107,
+          "top": 201,
+          "width": 42,
+          "height": 32,
+          "confidence": 95.717537
+        }
+      ]
+    },
+    {
+      "text": "20 printC\"end\")",
+      "left": 106,
+      "top": 270,
+      "right": 563,
+      "bottom": 311,
+      "height": 41,
+      "confidence": 83.032646,
+      "words": [
+        {
+          "text": "20",
+          "left": 106,
+          "top": 271,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.811882
+        },
+        {
+          "text": "printC\"end\")",
+          "left": 282,
+          "top": 270,
+          "width": 281,
+          "height": 41,
+          "confidence": 69.25341
+        }
+      ]
+    },
+    {
+      "text": "21",
+      "left": 106,
+      "top": 341,
+      "right": 149,
+      "bottom": 372,
+      "height": 31,
+      "confidence": 96.511673,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 341,
+          "width": 43,
+          "height": 31,
+          "confidence": 96.511673
+        }
+      ]
+    },
+    {
+      "text": "22 if __name__ == '__main__':",
+      "left": 106,
+      "top": 410,
+      "right": 798,
+      "bottom": 445,
+      "height": 35,
+      "confidence": 90.865509,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 411,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.533066
+        },
+        {
+          "text": "if",
+          "left": 186,
+          "top": 410,
+          "width": 44,
+          "height": 32,
+          "confidence": 93.261444
+        },
+        {
+          "text": "__name__",
+          "left": 256,
+          "top": 419,
+          "width": 190,
+          "height": 26,
+          "confidence": 88.980499
+        },
+        {
+          "text": "==",
+          "left": 472,
+          "top": 426,
+          "width": 46,
+          "height": 11,
+          "confidence": 90.953949
+        },
+        {
+          "text": "'__main__':",
+          "left": 552,
+          "top": 410,
+          "width": 246,
+          "height": 35,
+          "confidence": 84.598587
+        }
+      ]
+    },
+    {
+      "text": "23 start = time.time()",
+      "left": 106,
+      "top": 480,
+      "right": 731,
+      "bottom": 519,
+      "height": 39,
+      "confidence": 91.27787975000001,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 481,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.955948
+        },
+        {
+          "text": "start",
+          "left": 282,
+          "top": 483,
+          "width": 114,
+          "height": 30,
+          "confidence": 96.940674
+        },
+        {
+          "text": "=",
+          "left": 424,
+          "top": 496,
+          "width": 22,
+          "height": 11,
+          "confidence": 92.983002
+        },
+        {
+          "text": "time.time()",
+          "left": 473,
+          "top": 480,
+          "width": 258,
+          "height": 39,
+          "confidence": 78.231895
+        }
+      ]
+    },
+    {
+      "text": "24 asyncio.runCmain())",
+      "left": 106,
+      "top": 547,
+      "right": 735,
+      "bottom": 596,
+      "height": 49,
+      "confidence": 76.02799233333333,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 552,
+          "width": 44,
+          "height": 31,
+          "confidence": 96.708061
+        },
+        {
+          "text": "asyncio.runCmain()",
+          "left": 281,
+          "top": 551,
+          "width": 450,
+          "height": 41,
+          "confidence": 65.687958
+        },
+        {
+          "text": ")",
+          "left": 713,
+          "top": 547,
+          "width": 22,
+          "height": 49,
+          "confidence": 65.687958
+        }
+      ]
+    },
+    {
+      "text": "25 printCtime.timeC) - start)",
+      "left": 106,
+      "top": 621,
+      "right": 900,
+      "bottom": 662,
+      "height": 41,
+      "confidence": 81.099039,
+      "words": [
+        {
+          "text": "25",
+          "left": 106,
+          "top": 622,
+          "width": 43,
+          "height": 32,
+          "confidence": 91.475624
+        },
+        {
+          "text": "printCtime.timeC)",
+          "left": 282,
+          "top": 621,
+          "width": 401,
+          "height": 41,
+          "confidence": 44.391792
+        },
+        {
+          "text": "-",
+          "left": 715,
+          "top": 639,
+          "width": 16,
+          "height": 3,
+          "confidence": 92.942719
+        },
+        {
+          "text": "start)",
+          "left": 762,
+          "top": 621,
+          "width": 138,
+          "height": 39,
+          "confidence": 95.586021
+        }
+      ]
+    },
+    {
+      "text": "RH FIR BEAH~",
+      "left": 91,
+      "top": 879,
+      "right": 509,
+      "bottom": 938,
+      "height": 59,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "RH",
+          "left": 91,
+          "top": 883,
+          "width": 84,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "FIR",
+          "left": 244,
+          "top": 879,
+          "width": 70,
+          "height": 59,
+          "confidence": 0.0
+        },
+        {
+          "text": "BEAH~",
+          "left": 312,
+          "top": 883,
+          "width": 197,
+          "height": 41,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "1 async def download(ur1):",
+      "left": 131,
+      "top": 1043,
+      "right": 750,
+      "bottom": 1084,
+      "height": 41,
+      "confidence": 87.51836775000001,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 1045,
+          "width": 18,
+          "height": 30,
+          "confidence": 94.621666
+        },
+        {
+          "text": "async",
+          "left": 185,
+          "top": 1053,
+          "width": 115,
+          "height": 31,
+          "confidence": 94.621666
+        },
+        {
+          "text": "def",
+          "left": 329,
+          "top": 1043,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.234909
+        },
+        {
+          "text": "download(ur1):",
+          "left": 425,
+          "top": 1043,
+          "width": 325,
+          "height": 39,
+          "confidence": 67.59523
+        }
+      ]
+    },
+    {
+      "text": "2 Print(开始\n5\t1\t1\t1\t11\t4\t549\t1112\t39\t37\t90.935753\t抓\n5\t1\t1\t1\t11\t5\t612\t1113\t3\t11\t91.371674\t取\n5\t1\t1\t1\t11\t6\t621\t1113\t30\t39\t41.382370\t”7\n4\t1\t1\t1\t12\t0\t130\t1182\t1049\t42\t-1\t\n5\t1\t1\t1\t12\t1\t130\t1184\t18\t32\t96.301147\t3\n5\t1\t1\t1\t12\t2\t281\t1183\t115\t33\t92.752304\tawait\n5\t1\t1\t1\t12\t3\t425\t1183\t378\t41\t91.089508\tasyncio.sleep(3)\n5\t1\t1\t1\t12\t4\t856\t1185\t22\t30\t92.044312\t#\n5\t1\t1\t1\t12\t5\t922\t1182\t20\t37\t95.442085\t我\n5\t1\t1\t1\t12\t6\t962\t1184\t20\t35\t96.695877\t要\n5\t1\t1\t1\t12\t7\t986\t1182\t193\t37\t96.310890\t开始\n5\t1\t1\t1\t12\t8\t1081\t1175\t44\t53\t93.154419\t下\n5\t1\t1\t1\t12\t9\t1125\t1175\t40\t53\t91.922333\t载\n5\t1\t1\t1\t12\t10\t1164\t1175\t18\t53\t96.977486\t了\n4\t1\t1\t1\t13\t0\t128\t1252\t643\t42\t-1\t\n5\t1\t1\t1\t13\t1\t128\t1255\t22\t30\t96.838966\t4\n5\t1\t1\t1\t13\t2\t282\t1252\t365\t42\t42.187695\tprintC",
+      "left": 130,
+      "top": 1112,
+      "right": 543,
+      "bottom": 1154,
+      "height": 42,
+      "confidence": 43.062946333333336,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 1114,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.670471
+        },
+        {
+          "text": "Print(",
+          "left": 282,
+          "top": 1113,
+          "width": 137,
+          "height": 41,
+          "confidence": 16.259184
+        },
+        {
+          "text": "开始\n5\t1\t1\t1\t11\t4\t549\t1112\t39\t37\t90.935753\t抓\n5\t1\t1\t1\t11\t5\t612\t1113\t3\t11\t91.371674\t取\n5\t1\t1\t1\t11\t6\t621\t1113\t30\t39\t41.382370\t”7\n4\t1\t1\t1\t12\t0\t130\t1182\t1049\t42\t-1\t\n5\t1\t1\t1\t12\t1\t130\t1184\t18\t32\t96.301147\t3\n5\t1\t1\t1\t12\t2\t281\t1183\t115\t33\t92.752304\tawait\n5\t1\t1\t1\t12\t3\t425\t1183\t378\t41\t91.089508\tasyncio.sleep(3)\n5\t1\t1\t1\t12\t4\t856\t1185\t22\t30\t92.044312\t#\n5\t1\t1\t1\t12\t5\t922\t1182\t20\t37\t95.442085\t我\n5\t1\t1\t1\t12\t6\t962\t1184\t20\t35\t96.695877\t要\n5\t1\t1\t1\t12\t7\t986\t1182\t193\t37\t96.310890\t开始\n5\t1\t1\t1\t12\t8\t1081\t1175\t44\t53\t93.154419\t下\n5\t1\t1\t1\t12\t9\t1125\t1175\t40\t53\t91.922333\t载\n5\t1\t1\t1\t12\t10\t1164\t1175\t18\t53\t96.977486\t了\n4\t1\t1\t1\t13\t0\t128\t1252\t643\t42\t-1\t\n5\t1\t1\t1\t13\t1\t128\t1255\t22\t30\t96.838966\t4\n5\t1\t1\t1\t13\t2\t282\t1252\t365\t42\t42.187695\tprintC",
+          "left": 432,
+          "top": 1112,
+          "width": 111,
+          "height": 37,
+          "confidence": 16.259184
+        }
+      ]
+    },
+    {
+      "text": "下载结束 5\t1\t1\t1\t13\t6\t682\t1253\t89\t39\t94.763626\turl)\n4\t1\t1\t1\t14\t0\t130\t1322\t680\t37\t-1\t\n5\t1\t1\t1\t14\t1\t130\t1325\t19\t31\t96.740120\t5\n5\t1\t1\t1\t14\t2\t284\t1326\t136\t30\t92.800240\treturn\n5\t1\t1\t1\t14\t3\t452\t1322\t358\t37\t65.060127\t“老子\n5\t1\t1\t1\t14\t4\t568\t1318\t40\t53\t97.000862\t是\n5\t1\t1\t1\t14\t5\t607\t1318\t84\t53\t96.638969\t源码\n5\t1\t1\t1\t14\t6\t690\t1318\t38\t53\t93.204338\t你\n5\t1\t1\t1\t14\t7\t727\t1318\t40\t53\t92.325424\t信\n5\t1\t1\t1\t14\t8\t766\t1318\t31\t53\t84.013397\t么\n5\t1\t1\t1\t14\t9\t796\t1318\t18\t53\t76.594292\t”\n4\t1\t1\t1\t15\t0\t129\t1394\t21\t32\t-1\t\n5\t1\t1\t1\t15\t1\t129\t1394\t21\t32\t96.774529\t6\n4\t1\t1\t1\t16\t0\t130\t1465\t19\t30\t-1\t\n5\t1\t1\t1\t16\t1\t130\t1465\t19\t30\t94.928879\t7\n4\t1\t1\t1\t17\t0\t130\t1534\t452\t41\t-1\t\n5\t1\t1\t1\t17\t1\t130\t1535\t19\t32\t95.072609\t8\n5\t1\t1\t1\t17\t2\t185\t1544\t115\t31\t96.059143\tasync\n5\t1\t1\t1\t17\t3\t329\t1534\t69\t33\t93.034836\tdef\n5\t1\t1\t1\t17\t4\t424\t1534\t158\t39\t84.287338\tmain():\n4\t1\t1\t1\t18\t0\t128\t1604\t342\t39\t-1\t\n5\t1\t1\t1\t18\t1\t128\t1605\t21\t32\t96.781548\t9\n5\t1\t1\t1\t18\t2\t282\t1604\t90\t33\t96.400291\turls\n5\t1\t1\t1\t18\t3\t400\t1620\t22\t11\t92.902023\t=\n5\t1\t1\t1\t18\t4\t454\t1604\t16\t39\t88.373795\t[\n4\t1\t1\t1\t19\t0\t107\t1674\t813\t41\t-1\t\n5\t1\t1\t1\t19\t1\t107\t1675\t43\t32\t96.744560\t10\n5\t1\t1\t1\t19\t2\t380\t1674\t540\t41\t78.538826\thttp://www.baidu.com\",",
+      "left": 460,
+      "top": 1247,
+      "right": 643,
+      "bottom": 1300,
+      "height": 53,
+      "confidence": 89.44395666666668,
+      "words": [
+        {
+          "text": "下载",
+          "left": 460,
+          "top": 1247,
+          "width": 90,
+          "height": 53,
+          "confidence": 96.413101
+        },
+        {
+          "text": "结束",
+          "left": 549,
+          "top": 1247,
+          "width": 77,
+          "height": 53,
+          "confidence": 92.376022
+        },
+        {
+          "text": "\n5\t1\t1\t1\t13\t6\t682\t1253\t89\t39\t94.763626\turl)\n4\t1\t1\t1\t14\t0\t130\t1322\t680\t37\t-1\t\n5\t1\t1\t1\t14\t1\t130\t1325\t19\t31\t96.740120\t5\n5\t1\t1\t1\t14\t2\t284\t1326\t136\t30\t92.800240\treturn\n5\t1\t1\t1\t14\t3\t452\t1322\t358\t37\t65.060127\t“老子\n5\t1\t1\t1\t14\t4\t568\t1318\t40\t53\t97.000862\t是\n5\t1\t1\t1\t14\t5\t607\t1318\t84\t53\t96.638969\t源码\n5\t1\t1\t1\t14\t6\t690\t1318\t38\t53\t93.204338\t你\n5\t1\t1\t1\t14\t7\t727\t1318\t40\t53\t92.325424\t信\n5\t1\t1\t1\t14\t8\t766\t1318\t31\t53\t84.013397\t么\n5\t1\t1\t1\t14\t9\t796\t1318\t18\t53\t76.594292\t”\n4\t1\t1\t1\t15\t0\t129\t1394\t21\t32\t-1\t\n5\t1\t1\t1\t15\t1\t129\t1394\t21\t32\t96.774529\t6\n4\t1\t1\t1\t16\t0\t130\t1465\t19\t30\t-1\t\n5\t1\t1\t1\t16\t1\t130\t1465\t19\t30\t94.928879\t7\n4\t1\t1\t1\t17\t0\t130\t1534\t452\t41\t-1\t\n5\t1\t1\t1\t17\t1\t130\t1535\t19\t32\t95.072609\t8\n5\t1\t1\t1\t17\t2\t185\t1544\t115\t31\t96.059143\tasync\n5\t1\t1\t1\t17\t3\t329\t1534\t69\t33\t93.034836\tdef\n5\t1\t1\t1\t17\t4\t424\t1534\t158\t39\t84.287338\tmain():\n4\t1\t1\t1\t18\t0\t128\t1604\t342\t39\t-1\t\n5\t1\t1\t1\t18\t1\t128\t1605\t21\t32\t96.781548\t9\n5\t1\t1\t1\t18\t2\t282\t1604\t90\t33\t96.400291\turls\n5\t1\t1\t1\t18\t3\t400\t1620\t22\t11\t92.902023\t=\n5\t1\t1\t1\t18\t4\t454\t1604\t16\t39\t88.373795\t[\n4\t1\t1\t1\t19\t0\t107\t1674\t813\t41\t-1\t\n5\t1\t1\t1\t19\t1\t107\t1675\t43\t32\t96.744560\t10\n5\t1\t1\t1\t19\t2\t380\t1674\t540\t41\t78.538826\thttp://www.baidu.com\",",
+          "left": 625,
+          "top": 1247,
+          "width": 18,
+          "height": 53,
+          "confidence": 79.542747
+        }
+      ]
+    },
+    {
+      "text": "11 http://www.h.com,",
+      "left": 107,
+      "top": 1744,
+      "right": 823,
+      "bottom": 1785,
+      "height": 41,
+      "confidence": 73.91346349999999,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 1746,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.520012
+        },
+        {
+          "text": "http://www.h.com,",
+          "left": 380,
+          "top": 1744,
+          "width": 443,
+          "height": 41,
+          "confidence": 51.306915
+        }
+      ]
+    },
+    {
+      "text": "12 http\n5\t1\t1\t1\t21\t3\t504\t1814\t419\t41\t5.679102\t://Luoyonghao.\n5\t1\t1\t1\t21\t4\t837\t1810\t91\t49\t95.668892\tcom",
+      "left": 107,
+      "top": 1814,
+      "right": 491,
+      "bottom": 1855,
+      "height": 41,
+      "confidence": 51.320367,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 1815,
+          "width": 41,
+          "height": 31,
+          "confidence": 96.961632
+        },
+        {
+          "text": "http\n5\t1\t1\t1\t21\t3\t504\t1814\t419\t41\t5.679102\t://Luoyonghao.\n5\t1\t1\t1\t21\t4\t837\t1810\t91\t49\t95.668892\tcom",
+          "left": 380,
+          "top": 1814,
+          "width": 111,
+          "height": 41,
+          "confidence": 5.679102
+        }
+      ]
+    },
+    {
+      "text": "13]",
+      "left": 107,
+      "top": 1884,
+      "right": 296,
+      "bottom": 1923,
+      "height": 39,
+      "confidence": 85.5200615,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 1885,
+          "width": 41,
+          "height": 32,
+          "confidence": 96.278336
+        },
+        {
+          "text": "]",
+          "left": 280,
+          "top": 1884,
+          "width": 16,
+          "height": 39,
+          "confidence": 74.761787
+        }
+      ]
+    }
+  ]
+}

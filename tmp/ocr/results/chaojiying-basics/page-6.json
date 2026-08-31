@@ -1,0 +1,530 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/chaojiying-basics/page-6.png",
+  "lines": [
+    {
+      "text": "17 softid':\n5\t1\t1\t1\t1\t3\t714\t130\t302\t40\t89.792725\tself.soft_id,\n3\t1\t1\t2\t0\t0\t107\t200\t288\t39\t-1\t\n4\t1\t1\t2\t1\t0\t107\t200\t288\t39\t-1\t\n5\t1\t1\t2\t1\t1\t107\t201\t42\t32\t93.007339\t18\n5\t1\t1\t2\t1\t2\t377\t200\t18\t39\t63.744396\t了\n3\t1\t1\t3\t0\t0\t107\t270\t650\t39\t-1\t\n4\t1\t1\t3\t1\t0\t107\t270\t650\t39\t-1\t\n5\t1\t1\t3\t1\t1\t107\t271\t42\t32\t92.447578\t19\n5\t1\t1\t3\t1\t2\t378\t270\t282\t33\t89.195587\tself.headers\n5\t1\t1\t3\t1\t3\t688\t286\t22\t11\t92.891319\t=\n5\t1\t1\t3\t1\t4\t739\t270\t18\t39\t92.754478\t{\n3\t1\t1\t4\t0\t0\t106\t340\t1006\t41\t-1\t\n4\t1\t1\t4\t1\t0\t106\t340\t1006\t41\t-1\t\n5\t1\t1\t4\t1\t1\t106\t341\t44\t32\t96.615913\t20\n5\t1\t1\t4\t1\t2\t480\t340\t294\t33\t86.642075\tConnection':",
+      "left": 107,
+      "top": 130,
+      "right": 678,
+      "bottom": 163,
+      "height": 33,
+      "confidence": 77.398565,
+      "words": [
+        {
+          "text": "17",
+          "left": 107,
+          "top": 132,
+          "width": 43,
+          "height": 30,
+          "confidence": 92.47731
+        },
+        {
+          "text": "softid':\n5\t1\t1\t1\t1\t3\t714\t130\t302\t40\t89.792725\tself.soft_id,\n3\t1\t1\t2\t0\t0\t107\t200\t288\t39\t-1\t\n4\t1\t1\t2\t1\t0\t107\t200\t288\t39\t-1\t\n5\t1\t1\t2\t1\t1\t107\t201\t42\t32\t93.007339\t18\n5\t1\t1\t2\t1\t2\t377\t200\t18\t39\t63.744396\t了\n3\t1\t1\t3\t0\t0\t107\t270\t650\t39\t-1\t\n4\t1\t1\t3\t1\t0\t107\t270\t650\t39\t-1\t\n5\t1\t1\t3\t1\t1\t107\t271\t42\t32\t92.447578\t19\n5\t1\t1\t3\t1\t2\t378\t270\t282\t33\t89.195587\tself.headers\n5\t1\t1\t3\t1\t3\t688\t286\t22\t11\t92.891319\t=\n5\t1\t1\t3\t1\t4\t739\t270\t18\t39\t92.754478\t{\n3\t1\t1\t4\t0\t0\t106\t340\t1006\t41\t-1\t\n4\t1\t1\t4\t1\t0\t106\t340\t1006\t41\t-1\t\n5\t1\t1\t4\t1\t1\t106\t341\t44\t32\t96.615913\t20\n5\t1\t1\t4\t1\t2\t480\t340\t294\t33\t86.642075\tConnection':",
+          "left": 480,
+          "top": 130,
+          "width": 198,
+          "height": 33,
+          "confidence": 62.31982
+        }
+      ]
+    },
+    {
+      "text": "'Keep-Alive',",
+      "left": 816,
+      "top": 340,
+      "right": 1112,
+      "bottom": 381,
+      "height": 41,
+      "confidence": 84.832176,
+      "words": [
+        {
+          "text": "'Keep-Alive',",
+          "left": 816,
+          "top": 340,
+          "width": 296,
+          "height": 41,
+          "confidence": 84.832176
+        }
+      ]
+    },
+    {
+      "text": "21 User-Agent: 'Mozilla/4.0",
+      "left": 106,
+      "top": 410,
+      "right": 1095,
+      "bottom": 451,
+      "height": 41,
+      "confidence": 40.104461666666666,
+      "words": [
+        {
+          "text": "21",
+          "left": 106,
+          "top": 411,
+          "width": 43,
+          "height": 31,
+          "confidence": 94.969681
+        },
+        {
+          "text": "User-Agent:",
+          "left": 480,
+          "top": 410,
+          "width": 294,
+          "height": 41,
+          "confidence": 0.0
+        },
+        {
+          "text": "'Mozilla/4.0",
+          "left": 816,
+          "top": 410,
+          "width": 279,
+          "height": 33,
+          "confidence": 25.343704
+        }
+      ]
+    },
+    {
+      "text": "Ccompatible; MSIE 8.0; Windows NT 5.1;",
+      "left": 187,
+      "top": 480,
+      "right": 1088,
+      "bottom": 521,
+      "height": 41,
+      "confidence": 92.21121733333332,
+      "words": [
+        {
+          "text": "Ccompatible;",
+          "left": 187,
+          "top": 480,
+          "width": 276,
+          "height": 41,
+          "confidence": 91.441185
+        },
+        {
+          "text": "MSIE",
+          "left": 496,
+          "top": 481,
+          "width": 91,
+          "height": 32,
+          "confidence": 95.659225
+        },
+        {
+          "text": "8.0;",
+          "left": 618,
+          "top": 481,
+          "width": 85,
+          "height": 39,
+          "confidence": 78.155182
+        },
+        {
+          "text": "Windows",
+          "left": 736,
+          "top": 480,
+          "width": 165,
+          "height": 33,
+          "confidence": 96.148621
+        },
+        {
+          "text": "NT",
+          "left": 930,
+          "top": 482,
+          "width": 45,
+          "height": 30,
+          "confidence": 96.637566
+        },
+        {
+          "text": "5.1;",
+          "left": 1003,
+          "top": 482,
+          "width": 85,
+          "height": 38,
+          "confidence": 95.225525
+        }
+      ]
+    },
+    {
+      "text": "Trident/4.0)',",
+      "left": 184,
+      "top": 551,
+      "right": 511,
+      "bottom": 591,
+      "height": 40,
+      "confidence": 88.671761,
+      "words": [
+        {
+          "text": "Trident/4.0)',",
+          "left": 184,
+          "top": 551,
+          "width": 327,
+          "height": 40,
+          "confidence": 88.671761
+        }
+      ]
+    },
+    {
+      "text": "22}",
+      "left": 106,
+      "top": 621,
+      "right": 395,
+      "bottom": 660,
+      "height": 39,
+      "confidence": 92.07924249999999,
+      "words": [
+        {
+          "text": "22",
+          "left": 106,
+          "top": 622,
+          "width": 42,
+          "height": 31,
+          "confidence": 96.752533
+        },
+        {
+          "text": "}",
+          "left": 377,
+          "top": 621,
+          "width": 18,
+          "height": 39,
+          "confidence": 87.405952
+        }
+      ]
+    },
+    {
+      "text": "23",
+      "left": 106,
+      "top": 692,
+      "right": 148,
+      "bottom": 724,
+      "height": 32,
+      "confidence": 96.679543,
+      "words": [
+        {
+          "text": "23",
+          "left": 106,
+          "top": 692,
+          "width": 42,
+          "height": 32,
+          "confidence": 96.679543
+        }
+      ]
+    },
+    {
+      "text": "24 def PostPic(self, im, codetype):",
+      "left": 106,
+      "top": 761,
+      "right": 1039,
+      "bottom": 802,
+      "height": 41,
+      "confidence": 84.3972886,
+      "words": [
+        {
+          "text": "24",
+          "left": 106,
+          "top": 762,
+          "width": 44,
+          "height": 31,
+          "confidence": 96.299942
+        },
+        {
+          "text": "def",
+          "left": 281,
+          "top": 761,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.173462
+        },
+        {
+          "text": "PostPic(self,",
+          "left": 378,
+          "top": 761,
+          "width": 301,
+          "height": 40,
+          "confidence": 47.41124
+        },
+        {
+          "text": "im,",
+          "left": 714,
+          "top": 761,
+          "width": 61,
+          "height": 40,
+          "confidence": 93.30368
+        },
+        {
+          "text": "codetype):",
+          "left": 810,
+          "top": 761,
+          "width": 229,
+          "height": 41,
+          "confidence": 91.798119
+        }
+      ]
+    },
+    {
+      "text": "25 mu",
+      "left": 106,
+      "top": 831,
+      "right": 442,
+      "bottom": 864,
+      "height": 33,
+      "confidence": 70.7276685,
+      "words": [
+        {
+          "text": "25",
+          "left": 106,
+          "top": 832,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.566734
+        },
+        {
+          "text": "mu",
+          "left": 380,
+          "top": 831,
+          "width": 62,
+          "height": 11,
+          "confidence": 44.888603
+        }
+      ]
+    },
+    {
+      "text": "26 im: 图片字节",
+      "left": 106,
+      "top": 900,
+      "right": 629,
+      "bottom": 937,
+      "height": 37,
+      "confidence": 91.56251900000001,
+      "words": [
+        {
+          "text": "26",
+          "left": 106,
+          "top": 902,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.961754
+        },
+        {
+          "text": "im:",
+          "left": 378,
+          "top": 901,
+          "width": 60,
+          "height": 33,
+          "confidence": 85.802963
+        },
+        {
+          "text": "图",
+          "left": 484,
+          "top": 902,
+          "width": 24,
+          "height": 35,
+          "confidence": 93.26001
+        },
+        {
+          "text": "片",
+          "left": 528,
+          "top": 900,
+          "width": 20,
+          "height": 37,
+          "confidence": 88.738693
+        },
+        {
+          "text": "字",
+          "left": 566,
+          "top": 900,
+          "width": 23,
+          "height": 37,
+          "confidence": 93.272758
+        },
+        {
+          "text": "节",
+          "left": 597,
+          "top": 900,
+          "width": 32,
+          "height": 37,
+          "confidence": 91.338936
+        }
+      ]
+    },
+    {
+      "text": "27 codetype: 题目类型参考",
+      "left": 106,
+      "top": 965,
+      "right": 877,
+      "bottom": 1018,
+      "height": 53,
+      "confidence": 94.73941783333333,
+      "words": [
+        {
+          "text": "27",
+          "left": 106,
+          "top": 972,
+          "width": 44,
+          "height": 31,
+          "confidence": 92.09626
+        },
+        {
+          "text": "codetype:",
+          "left": 378,
+          "top": 971,
+          "width": 204,
+          "height": 41,
+          "confidence": 90.831848
+        },
+        {
+          "text": "题目",
+          "left": 632,
+          "top": 965,
+          "width": 80,
+          "height": 53,
+          "confidence": 95.542053
+        },
+        {
+          "text": "类",
+          "left": 711,
+          "top": 970,
+          "width": 22,
+          "height": 37,
+          "confidence": 96.725914
+        },
+        {
+          "text": "型",
+          "left": 754,
+          "top": 971,
+          "width": 19,
+          "height": 35,
+          "confidence": 96.672813
+        },
+        {
+          "text": "参考",
+          "left": 802,
+          "top": 970,
+          "width": 75,
+          "height": 37,
+          "confidence": 96.567619
+        }
+      ]
+    },
+    {
+      "text": "http: //ww.chaojiying.com/price.html",
+      "left": 186,
+      "top": 1041,
+      "right": 1043,
+      "bottom": 1082,
+      "height": 41,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "http:",
+          "left": 186,
+          "top": 1041,
+          "width": 108,
+          "height": 41,
+          "confidence": 0.0
+        },
+        {
+          "text": "//ww.chaojiying.com/price.html",
+          "left": 304,
+          "top": 1041,
+          "width": 739,
+          "height": 41,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "28 mu",
+      "left": 106,
+      "top": 1111,
+      "right": 442,
+      "bottom": 1144,
+      "height": 33,
+      "confidence": 70.87428650000001,
+      "words": [
+        {
+          "text": "28",
+          "left": 106,
+          "top": 1112,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.85997
+        },
+        {
+          "text": "mu",
+          "left": 380,
+          "top": 1111,
+          "width": 62,
+          "height": 11,
+          "confidence": 44.888603
+        }
+      ]
+    },
+    {
+      "text": "29 params = {",
+      "left": 106,
+      "top": 1181,
+      "right": 613,
+      "bottom": 1222,
+      "height": 41,
+      "confidence": 94.88366525,
+      "words": [
+        {
+          "text": "29",
+          "left": 106,
+          "top": 1182,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.886345
+        },
+        {
+          "text": "params",
+          "left": 378,
+          "top": 1190,
+          "width": 138,
+          "height": 32,
+          "confidence": 96.512222
+        },
+        {
+          "text": "=",
+          "left": 544,
+          "top": 1197,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.068047
+        },
+        {
+          "text": "{",
+          "left": 595,
+          "top": 1181,
+          "width": 18,
+          "height": 39,
+          "confidence": 93.068047
+        }
+      ]
+    },
+    {
+      "text": "30 codetype':\n5\t1\t1\t14\t1\t3\t762\t1251\t206\t41\t92.133400\tcodetype,\n3\t1\t1\t15\t0\t0\t106\t1321\t289\t39\t-1\t\n4\t1\t1\t15\t1\t0\t106\t1321\t289\t39\t-1\t\n5\t1\t1\t15\t1\t1\t106\t1322\t43\t32\t96.707062\t31\n5\t1\t1\t15\t1\t2\t377\t1321\t18\t39\t87.405952\t}\n3\t1\t1\t16\t0\t0\t106\t1391\t1010\t41\t-1\t\n4\t1\t1\t16\t1\t0\t106\t1391\t1010\t41\t-1\t\n5\t1\t1\t16\t1\t1\t106\t1392\t42\t32\t96.945564\t32\n5\t1\t1\t16\t1\t2\t378\t1400\t135\t32\t73.518677\tparams\n5\t1\t1\t16\t1\t3\t529\t1391\t270\t41\t45.372559\t.update(self\n5\t1\t1\t16\t1\t4\t816\t1387\t269\t49\t45.372559\t.base_params\n5\t1\t1\t16\t1\t5\t1100\t1391\t16\t39\t75.556671\t)\n3\t1\t1\t17\t0\t0\t106\t1457\t1154\t47\t-1\t\n4\t1\t1\t17\t1\t0\t106\t1457\t1154\t47\t-1\t\n5\t1\t1\t17\t1\t1\t106\t1457\t43\t47\t80.274307\t33)\n5\t1\t1\t17\t1\t2\t378\t1461\t114\t33\t96.131897\tfiles\n5\t1\t1\t17\t1\t3\t520\t1477\t22\t11\t92.918137\t=\n5\t1\t1\t17\t1\t4\t571\t1461\t275\t39\t80.487083\t{'userfile':\n5\t1\t1\t17\t1\t5\t884\t1461\t252\t41\t83.701057\tC'ccc.jpg',\n5\t1\t1\t17\t1\t6\t1171\t1461\t89\t39\t86.255051\tim)}\n3\t1\t1\t18\t0\t0\t106\t1533\t1252\t248\t-1\t\n4\t1\t1\t18\t1\t0\t106\t1533\t340\t32\t-1\t\n5\t1\t1\t18\t1\t1\t106\t1533\t44\t32\t96.759239\t34\n5\t1\t1\t18\t1\t2\t380\t1541\t66\t23\t94.761169\tr=\n4\t1\t1\t18\t2\t0\t188\t1602\t1170\t41\t-1\t\n5\t1\t1\t18\t2\t1\t188\t1602\t682\t41\t49.712990\trequests.postC'http://upload.\n5\t1\t1\t18\t2\t2\t890\t1602\t468\t41\t66.790634\tchaojiying.net/Uploa\n4\t1\t1\t18\t3\t0\t185\t1672\t1047\t41\t-1\t\n5\t1\t1\t18\t3\t1\t185\t1672\t422\t41\t72.097595\td/Processing.php',\n5\t1\t1\t18\t3\t2\t641\t1672\t279\t41\t91.718727\tdata=params,\n5\t1\t1\t18\t3\t3\t955\t1672\t277\t40\t92.885284\tfiles=files,\n4\t1\t1\t18\t4\t0\t186\t1742\t497\t39\t-1\t\n5\t1\t1\t18\t4\t1\t186\t1742\t497\t39\t78.187874\theaders=self.headers)\n3\t1\t1\t19\t0\t0\t106\t1812\t625\t41\t-1\t\n4\t1\t1\t19\t1\t0\t106\t1812\t625\t41\t-1\t\n5\t1\t1\t19\t1\t1\t106\t1813\t43\t32\t96.746376\t35\n5\t1\t1\t19\t1\t2\t380\t1815\t136\t30\t93.124031\treturn\n5\t1\t1\t19\t1\t3\t548\t1812\t183\t41\t0.000000\tr.json()\n3\t1\t1\t20\t0\t0\t106\t1883\t44\t32\t-1\t\n4\t1\t1\t20\t1\t0\t106\t1883\t44\t32\t-1\t\n5\t1\t1\t20\t1\t1\t106\t1883\t44\t32\t96.917290\t36",
+      "left": 106,
+      "top": 1251,
+      "right": 726,
+      "bottom": 1292,
+      "height": 41,
+      "confidence": 90.1682585,
+      "words": [
+        {
+          "text": "30",
+          "left": 106,
+          "top": 1252,
+          "width": 44,
+          "height": 32,
+          "confidence": 96.633789
+        },
+        {
+          "text": "codetype':\n5\t1\t1\t14\t1\t3\t762\t1251\t206\t41\t92.133400\tcodetype,\n3\t1\t1\t15\t0\t0\t106\t1321\t289\t39\t-1\t\n4\t1\t1\t15\t1\t0\t106\t1321\t289\t39\t-1\t\n5\t1\t1\t15\t1\t1\t106\t1322\t43\t32\t96.707062\t31\n5\t1\t1\t15\t1\t2\t377\t1321\t18\t39\t87.405952\t}\n3\t1\t1\t16\t0\t0\t106\t1391\t1010\t41\t-1\t\n4\t1\t1\t16\t1\t0\t106\t1391\t1010\t41\t-1\t\n5\t1\t1\t16\t1\t1\t106\t1392\t42\t32\t96.945564\t32\n5\t1\t1\t16\t1\t2\t378\t1400\t135\t32\t73.518677\tparams\n5\t1\t1\t16\t1\t3\t529\t1391\t270\t41\t45.372559\t.update(self\n5\t1\t1\t16\t1\t4\t816\t1387\t269\t49\t45.372559\t.base_params\n5\t1\t1\t16\t1\t5\t1100\t1391\t16\t39\t75.556671\t)\n3\t1\t1\t17\t0\t0\t106\t1457\t1154\t47\t-1\t\n4\t1\t1\t17\t1\t0\t106\t1457\t1154\t47\t-1\t\n5\t1\t1\t17\t1\t1\t106\t1457\t43\t47\t80.274307\t33)\n5\t1\t1\t17\t1\t2\t378\t1461\t114\t33\t96.131897\tfiles\n5\t1\t1\t17\t1\t3\t520\t1477\t22\t11\t92.918137\t=\n5\t1\t1\t17\t1\t4\t571\t1461\t275\t39\t80.487083\t{'userfile':\n5\t1\t1\t17\t1\t5\t884\t1461\t252\t41\t83.701057\tC'ccc.jpg',\n5\t1\t1\t17\t1\t6\t1171\t1461\t89\t39\t86.255051\tim)}\n3\t1\t1\t18\t0\t0\t106\t1533\t1252\t248\t-1\t\n4\t1\t1\t18\t1\t0\t106\t1533\t340\t32\t-1\t\n5\t1\t1\t18\t1\t1\t106\t1533\t44\t32\t96.759239\t34\n5\t1\t1\t18\t1\t2\t380\t1541\t66\t23\t94.761169\tr=\n4\t1\t1\t18\t2\t0\t188\t1602\t1170\t41\t-1\t\n5\t1\t1\t18\t2\t1\t188\t1602\t682\t41\t49.712990\trequests.postC'http://upload.\n5\t1\t1\t18\t2\t2\t890\t1602\t468\t41\t66.790634\tchaojiying.net/Uploa\n4\t1\t1\t18\t3\t0\t185\t1672\t1047\t41\t-1\t\n5\t1\t1\t18\t3\t1\t185\t1672\t422\t41\t72.097595\td/Processing.php',\n5\t1\t1\t18\t3\t2\t641\t1672\t279\t41\t91.718727\tdata=params,\n5\t1\t1\t18\t3\t3\t955\t1672\t277\t40\t92.885284\tfiles=files,\n4\t1\t1\t18\t4\t0\t186\t1742\t497\t39\t-1\t\n5\t1\t1\t18\t4\t1\t186\t1742\t497\t39\t78.187874\theaders=self.headers)\n3\t1\t1\t19\t0\t0\t106\t1812\t625\t41\t-1\t\n4\t1\t1\t19\t1\t0\t106\t1812\t625\t41\t-1\t\n5\t1\t1\t19\t1\t1\t106\t1813\t43\t32\t96.746376\t35\n5\t1\t1\t19\t1\t2\t380\t1815\t136\t30\t93.124031\treturn\n5\t1\t1\t19\t1\t3\t548\t1812\t183\t41\t0.000000\tr.json()\n3\t1\t1\t20\t0\t0\t106\t1883\t44\t32\t-1\t\n4\t1\t1\t20\t1\t0\t106\t1883\t44\t32\t-1\t\n5\t1\t1\t20\t1\t1\t106\t1883\t44\t32\t96.917290\t36\n",
+          "left": 480,
+          "top": 1251,
+          "width": 246,
+          "height": 41,
+          "confidence": 83.702728
+        }
+      ]
+    }
+  ]
+}

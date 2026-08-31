@@ -1,0 +1,1264 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/re-module/page-3.png",
+  "lines": [
+    {
+      "text": "1Ss=",
+      "left": 189,
+      "top": 152,
+      "right": 312,
+      "bottom": 183,
+      "height": 31,
+      "confidence": 24.549217,
+      "words": [
+        {
+          "text": "1Ss=",
+          "left": 189,
+          "top": 152,
+          "width": 123,
+          "height": 31,
+          "confidence": 24.549217
+        }
+      ]
+    },
+    {
+      "text": "2 <div class= ' 西游记 '><span id='10010'> 中国联通",
+      "left": 188,
+      "top": 214,
+      "right": 1268,
+      "bottom": 267,
+      "height": 53,
+      "confidence": 81.12795618181818,
+      "words": [
+        {
+          "text": "2",
+          "left": 188,
+          "top": 221,
+          "width": 18,
+          "height": 31,
+          "confidence": 95.47271
+        },
+        {
+          "text": "<div",
+          "left": 243,
+          "top": 220,
+          "width": 93,
+          "height": 33,
+          "confidence": 93.78006
+        },
+        {
+          "text": "class=",
+          "left": 364,
+          "top": 219,
+          "width": 451,
+          "height": 42,
+          "confidence": 57.969418
+        },
+        {
+          "text": "'",
+          "left": 515,
+          "top": 214,
+          "width": 31,
+          "height": 53,
+          "confidence": 57.969418
+        },
+        {
+          "text": "西",
+          "left": 545,
+          "top": 214,
+          "width": 47,
+          "height": 53,
+          "confidence": 91.089394
+        },
+        {
+          "text": "游记",
+          "left": 591,
+          "top": 214,
+          "width": 70,
+          "height": 53,
+          "confidence": 93.265465
+        },
+        {
+          "text": "'><span",
+          "left": 661,
+          "top": 219,
+          "width": 154,
+          "height": 42,
+          "confidence": 78.083984
+        },
+        {
+          "text": "id='10010'>",
+          "left": 845,
+          "top": 219,
+          "width": 420,
+          "height": 37,
+          "confidence": 48.097534
+        },
+        {
+          "text": "中",
+          "left": 1114,
+          "top": 214,
+          "width": 48,
+          "height": 53,
+          "confidence": 90.370514
+        },
+        {
+          "text": "国联",
+          "left": 1161,
+          "top": 214,
+          "width": 80,
+          "height": 53,
+          "confidence": 93.284386
+        },
+        {
+          "text": "通",
+          "left": 1240,
+          "top": 214,
+          "width": 28,
+          "height": 53,
+          "confidence": 93.024635
+        }
+      ]
+    },
+    {
+      "text": "</span></div>",
+      "left": 243,
+      "top": 290,
+      "right": 552,
+      "bottom": 331,
+      "height": 41,
+      "confidence": 91.714401,
+      "words": [
+        {
+          "text": "</span></div>",
+          "left": 243,
+          "top": 290,
+          "width": 309,
+          "height": 41,
+          "confidence": 91.714401
+        }
+      ]
+    },
+    {
+      "text": "4 obj = re.compile(r\"<span id=\"(?P<id>\\d+)'>C?",
+      "left": 186,
+      "top": 430,
+      "right": 1295,
+      "bottom": 471,
+      "height": 41,
+      "confidence": 80.63794159999999,
+      "words": [
+        {
+          "text": "4",
+          "left": 186,
+          "top": 432,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.174171
+        },
+        {
+          "text": "obj",
+          "left": 243,
+          "top": 430,
+          "width": 65,
+          "height": 41,
+          "confidence": 95.398865
+        },
+        {
+          "text": "=",
+          "left": 338,
+          "top": 446,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.13681
+        },
+        {
+          "text": "re.compile(r\"<span",
+          "left": 390,
+          "top": 430,
+          "width": 425,
+          "height": 41,
+          "confidence": 68.071037
+        },
+        {
+          "text": "id=\"(?P<id>\\d+)'>C?",
+          "left": 845,
+          "top": 430,
+          "width": 450,
+          "height": 39,
+          "confidence": 50.408825
+        }
+      ]
+    },
+    {
+      "text": "P<name>\\w+)</span>\", re.S)",
+      "left": 244,
+      "top": 500,
+      "right": 862,
+      "bottom": 541,
+      "height": 41,
+      "confidence": 85.35315299999999,
+      "words": [
+        {
+          "text": "P<name>\\w+)</span>\",",
+          "left": 244,
+          "top": 500,
+          "width": 470,
+          "height": 41,
+          "confidence": 79.257698
+        },
+        {
+          "text": "re.S)",
+          "left": 751,
+          "top": 500,
+          "width": 111,
+          "height": 39,
+          "confidence": 91.448608
+        }
+      ]
+    },
+    {
+      "text": "5",
+      "left": 188,
+      "top": 573,
+      "right": 206,
+      "bottom": 604,
+      "height": 31,
+      "confidence": 96.869553,
+      "words": [
+        {
+          "text": "5",
+          "left": 188,
+          "top": 573,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.869553
+        }
+      ]
+    },
+    {
+      "text": "6 result = obj.search(s)",
+      "left": 187,
+      "top": 641,
+      "right": 766,
+      "bottom": 682,
+      "height": 41,
+      "confidence": 90.79911425,
+      "words": [
+        {
+          "text": "6",
+          "left": 187,
+          "top": 642,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.887917
+        },
+        {
+          "text": "result",
+          "left": 246,
+          "top": 641,
+          "width": 136,
+          "height": 33,
+          "confidence": 95.6035
+        },
+        {
+          "text": "=",
+          "left": 410,
+          "top": 657,
+          "width": 22,
+          "height": 10,
+          "confidence": 92.054688
+        },
+        {
+          "text": "obj.search(s)",
+          "left": 459,
+          "top": 641,
+          "width": 307,
+          "height": 41,
+          "confidence": 78.650352
+        }
+      ]
+    },
+    {
+      "text": "7 printCresult.groupQ)) # 结果: <span",
+      "left": 188,
+      "top": 706,
+      "right": 1087,
+      "bottom": 756,
+      "height": 50,
+      "confidence": 86.2234625,
+      "words": [
+        {
+          "text": "7",
+          "left": 188,
+          "top": 713,
+          "width": 19,
+          "height": 30,
+          "confidence": 90.701408
+        },
+        {
+          "text": "printCresult.groupQ))",
+          "left": 244,
+          "top": 711,
+          "width": 498,
+          "height": 41,
+          "confidence": 53.677933
+        },
+        {
+          "text": "#",
+          "left": 795,
+          "top": 713,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.128571
+        },
+        {
+          "text": "结果",
+          "left": 844,
+          "top": 710,
+          "width": 93,
+          "height": 37,
+          "confidence": 92.899651
+        },
+        {
+          "text": ":",
+          "left": 930,
+          "top": 706,
+          "width": 23,
+          "height": 50,
+          "confidence": 90.427765
+        },
+        {
+          "text": "<span",
+          "left": 972,
+          "top": 720,
+          "width": 115,
+          "height": 32,
+          "confidence": 96.505447
+        }
+      ]
+    },
+    {
+      "text": "id='10010>\n5\t1\t1\t1\t9\t3\t516\t780\t26\t37\t96.493706\t中\n5\t1\t1\t1\t9\t4\t549\t780\t283\t42\t92.872025\t国联\n5\t1\t1\t1\t9\t5\t648\t774\t35\t54\t92.415924\t通\n5\t1\t1\t1\t9\t6\t682\t780\t150\t42\t79.993973\t</span>\n4\t1\t1\t1\t10\t0\t188\t850\t1149\t42\t-1\t\n5\t1\t1\t1\t10\t1\t188\t852\t19\t32\t93.892570\t8\n5\t1\t1\t1\t10\t2\t244\t851\t594\t41\t52.780746\tprintCresuLt.groupCid\"))",
+      "left": 244,
+      "top": 781,
+      "right": 472,
+      "bottom": 814,
+      "height": 33,
+      "confidence": 38.527435,
+      "words": [
+        {
+          "text": "id='10010",
+          "left": 244,
+          "top": 781,
+          "width": 212,
+          "height": 33,
+          "confidence": 38.527435
+        },
+        {
+          "text": ">\n5\t1\t1\t1\t9\t3\t516\t780\t26\t37\t96.493706\t中\n5\t1\t1\t1\t9\t4\t549\t780\t283\t42\t92.872025\t国联\n5\t1\t1\t1\t9\t5\t648\t774\t35\t54\t92.415924\t通\n5\t1\t1\t1\t9\t6\t682\t780\t150\t42\t79.993973\t</span>\n4\t1\t1\t1\t10\t0\t188\t850\t1149\t42\t-1\t\n5\t1\t1\t1\t10\t1\t188\t852\t19\t32\t93.892570\t8\n5\t1\t1\t1\t10\t2\t244\t851\t594\t41\t52.780746\tprintCresuLt.groupCid\"))",
+          "left": 466,
+          "top": 781,
+          "width": 6,
+          "height": 13,
+          "confidence": 38.527435
+        }
+      ]
+    },
+    {
+      "text": "# 结果: 10010 # 获取",
+      "left": 891,
+      "top": 846,
+      "right": 1337,
+      "bottom": 896,
+      "height": 50,
+      "confidence": 92.349265,
+      "words": [
+        {
+          "text": "#",
+          "left": 891,
+          "top": 853,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.180283
+        },
+        {
+          "text": "结果",
+          "left": 941,
+          "top": 850,
+          "width": 92,
+          "height": 37,
+          "confidence": 92.16584
+        },
+        {
+          "text": ":",
+          "left": 1027,
+          "top": 846,
+          "width": 20,
+          "height": 50,
+          "confidence": 88.187622
+        },
+        {
+          "text": "10010",
+          "left": 1070,
+          "top": 852,
+          "width": 115,
+          "height": 32,
+          "confidence": 92.334908
+        },
+        {
+          "text": "#",
+          "left": 1211,
+          "top": 853,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.334908
+        },
+        {
+          "text": "获取",
+          "left": 1261,
+          "top": 850,
+          "width": 76,
+          "height": 37,
+          "confidence": 95.892029
+        }
+      ]
+    },
+    {
+      "text": "id 组的内容",
+      "left": 244,
+      "top": 916,
+      "right": 449,
+      "bottom": 969,
+      "height": 53,
+      "confidence": 93.00281520000001,
+      "words": [
+        {
+          "text": "id",
+          "left": 244,
+          "top": 920,
+          "width": 203,
+          "height": 37,
+          "confidence": 86.843788
+        },
+        {
+          "text": "组",
+          "left": 299,
+          "top": 916,
+          "width": 47,
+          "height": 53,
+          "confidence": 96.329285
+        },
+        {
+          "text": "的",
+          "left": 346,
+          "top": 916,
+          "width": 37,
+          "height": 53,
+          "confidence": 96.001495
+        },
+        {
+          "text": "内",
+          "left": 382,
+          "top": 916,
+          "width": 34,
+          "height": 53,
+          "confidence": 93.281059
+        },
+        {
+          "text": "容",
+          "left": 415,
+          "top": 916,
+          "width": 34,
+          "height": 53,
+          "confidence": 92.558449
+        }
+      ]
+    },
+    {
+      "text": "9 print(result.groupC\"name\")) # 结果: 中国联通 #",
+      "left": 187,
+      "top": 984,
+      "right": 1321,
+      "bottom": 1036,
+      "height": 52,
+      "confidence": 87.43133722222223,
+      "words": [
+        {
+          "text": "9",
+          "left": 187,
+          "top": 992,
+          "width": 20,
+          "height": 32,
+          "confidence": 89.703568
+        },
+        {
+          "text": "print(result.groupC\"name\"))",
+          "left": 244,
+          "top": 991,
+          "width": 642,
+          "height": 41,
+          "confidence": 82.390518
+        },
+        {
+          "text": "#",
+          "left": 939,
+          "top": 993,
+          "width": 22,
+          "height": 30,
+          "confidence": 87.354637
+        },
+        {
+          "text": "结果",
+          "left": 989,
+          "top": 990,
+          "width": 92,
+          "height": 37,
+          "confidence": 93.126427
+        },
+        {
+          "text": ":",
+          "left": 1073,
+          "top": 984,
+          "width": 20,
+          "height": 52,
+          "confidence": 69.194611
+        },
+        {
+          "text": "中",
+          "left": 1125,
+          "top": 990,
+          "width": 26,
+          "height": 37,
+          "confidence": 95.850616
+        },
+        {
+          "text": "国联",
+          "left": 1167,
+          "top": 990,
+          "width": 66,
+          "height": 37,
+          "confidence": 91.383362
+        },
+        {
+          "text": "通",
+          "left": 1252,
+          "top": 991,
+          "width": 21,
+          "height": 36,
+          "confidence": 85.96048
+        },
+        {
+          "text": "#",
+          "left": 1299,
+          "top": 993,
+          "width": 22,
+          "height": 30,
+          "confidence": 91.917816
+        }
+      ]
+    },
+    {
+      "text": "获取 name 组的内容",
+      "left": 244,
+      "top": 1060,
+      "right": 576,
+      "bottom": 1097,
+      "height": 37,
+      "confidence": 88.57625216666668,
+      "words": [
+        {
+          "text": "获取",
+          "left": 244,
+          "top": 1060,
+          "width": 76,
+          "height": 37,
+          "confidence": 96.887245
+        },
+        {
+          "text": "name",
+          "left": 329,
+          "top": 1060,
+          "width": 101,
+          "height": 35,
+          "confidence": 58.600945
+        },
+        {
+          "text": "组",
+          "left": 433,
+          "top": 1060,
+          "width": 41,
+          "height": 36,
+          "confidence": 92.639465
+        },
+        {
+          "text": "的",
+          "left": 475,
+          "top": 1060,
+          "width": 20,
+          "height": 37,
+          "confidence": 96.915909
+        },
+        {
+          "text": "内",
+          "left": 511,
+          "top": 1060,
+          "width": 23,
+          "height": 37,
+          "confidence": 93.289536
+        },
+        {
+          "text": "容",
+          "left": 545,
+          "top": 1060,
+          "width": 31,
+          "height": 37,
+          "confidence": 93.124413
+        }
+      ]
+    },
+    {
+      "text": "这里可以看到我们可以通过使用分组. 来对正则匹配到的内容进",
+      "left": 174,
+      "top": 1183,
+      "right": 1383,
+      "bottom": 1242,
+      "height": 59,
+      "confidence": 95.09341,
+      "words": [
+        {
+          "text": "这",
+          "left": 174,
+          "top": 1187,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.624542
+        },
+        {
+          "text": "里",
+          "left": 232,
+          "top": 1189,
+          "width": 25,
+          "height": 37,
+          "confidence": 96.726517
+        },
+        {
+          "text": "可",
+          "left": 276,
+          "top": 1190,
+          "width": 25,
+          "height": 37,
+          "confidence": 96.887344
+        },
+        {
+          "text": "以",
+          "left": 321,
+          "top": 1187,
+          "width": 24,
+          "height": 40,
+          "confidence": 95.512413
+        },
+        {
+          "text": "看",
+          "left": 365,
+          "top": 1187,
+          "width": 42,
+          "height": 41,
+          "confidence": 96.960403
+        },
+        {
+          "text": "到",
+          "left": 419,
+          "top": 1187,
+          "width": 39,
+          "height": 40,
+          "confidence": 94.441246
+        },
+        {
+          "text": "我",
+          "left": 481,
+          "top": 1187,
+          "width": 21,
+          "height": 41,
+          "confidence": 91.109138
+        },
+        {
+          "text": "们",
+          "left": 506,
+          "top": 1190,
+          "width": 14,
+          "height": 37,
+          "confidence": 93.184517
+        },
+        {
+          "text": "可",
+          "left": 538,
+          "top": 1190,
+          "width": 28,
+          "height": 37,
+          "confidence": 96.957161
+        },
+        {
+          "text": "以",
+          "left": 583,
+          "top": 1187,
+          "width": 27,
+          "height": 40,
+          "confidence": 94.932335
+        },
+        {
+          "text": "通过",
+          "left": 630,
+          "top": 1187,
+          "width": 84,
+          "height": 41,
+          "confidence": 96.100372
+        },
+        {
+          "text": "使",
+          "left": 719,
+          "top": 1187,
+          "width": 49,
+          "height": 41,
+          "confidence": 96.116653
+        },
+        {
+          "text": "用",
+          "left": 767,
+          "top": 1183,
+          "width": 38,
+          "height": 59,
+          "confidence": 96.914993
+        },
+        {
+          "text": "分",
+          "left": 804,
+          "top": 1187,
+          "width": 45,
+          "height": 40,
+          "confidence": 96.986641
+        },
+        {
+          "text": "组",
+          "left": 849,
+          "top": 1189,
+          "width": 25,
+          "height": 37,
+          "confidence": 93.263474
+        },
+        {
+          "text": ".",
+          "left": 880,
+          "top": 1218,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.998306
+        },
+        {
+          "text": "来",
+          "left": 925,
+          "top": 1187,
+          "width": 39,
+          "height": 40,
+          "confidence": 96.782433
+        },
+        {
+          "text": "对",
+          "left": 970,
+          "top": 1187,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.96769
+        },
+        {
+          "text": "正则",
+          "left": 1035,
+          "top": 1187,
+          "width": 38,
+          "height": 41,
+          "confidence": 96.826523
+        },
+        {
+          "text": "匹配",
+          "left": 1095,
+          "top": 1189,
+          "width": 86,
+          "height": 38,
+          "confidence": 93.104782
+        },
+        {
+          "text": "到",
+          "left": 1193,
+          "top": 1187,
+          "width": 32,
+          "height": 40,
+          "confidence": 94.781342
+        },
+        {
+          "text": "的",
+          "left": 1228,
+          "top": 1187,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.90966
+        },
+        {
+          "text": "内",
+          "left": 1265,
+          "top": 1187,
+          "width": 28,
+          "height": 40,
+          "confidence": 93.286797
+        },
+        {
+          "text": "容",
+          "left": 1309,
+          "top": 1187,
+          "width": 29,
+          "height": 41,
+          "confidence": 92.888275
+        },
+        {
+          "text": "进",
+          "left": 1357,
+          "top": 1187,
+          "width": 26,
+          "height": 40,
+          "confidence": 93.071693
+        }
+      ]
+    },
+    {
+      "text": "一步的进行筛选.",
+      "left": 173,
+      "top": 1253,
+      "right": 490,
+      "bottom": 1312,
+      "height": 59,
+      "confidence": 81.81542766666668,
+      "words": [
+        {
+          "text": "一",
+          "left": 173,
+          "top": 1275,
+          "width": 40,
+          "height": 4,
+          "confidence": 93.295311
+        },
+        {
+          "text": "步",
+          "left": 235,
+          "top": 1257,
+          "width": 42,
+          "height": 41,
+          "confidence": 93.05278
+        },
+        {
+          "text": "的",
+          "left": 283,
+          "top": 1257,
+          "width": 17,
+          "height": 40,
+          "confidence": 87.90818
+        },
+        {
+          "text": "进行",
+          "left": 306,
+          "top": 1257,
+          "width": 182,
+          "height": 41,
+          "confidence": 95.936447
+        },
+        {
+          "text": "筛选",
+          "left": 416,
+          "top": 1253,
+          "width": 67,
+          "height": 59,
+          "confidence": 29.810444
+        },
+        {
+          "text": ".",
+          "left": 482,
+          "top": 1253,
+          "width": 8,
+          "height": 59,
+          "confidence": 90.889404
+        }
+      ]
+    },
+    {
+      "text": "关于正则, 还有一个重要的小点, 也非常的简单, 在本节中就不继续扩",
+      "left": 92,
+      "top": 1389,
+      "right": 1393,
+      "bottom": 1447,
+      "height": 58,
+      "confidence": 94.52706447999998,
+      "words": [
+        {
+          "text": "关于",
+          "left": 92,
+          "top": 1393,
+          "width": 83,
+          "height": 40,
+          "confidence": 95.668709
+        },
+        {
+          "text": "正则",
+          "left": 193,
+          "top": 1393,
+          "width": 68,
+          "height": 41,
+          "confidence": 93.233017
+        },
+        {
+          "text": ",",
+          "left": 269,
+          "top": 1424,
+          "width": 5,
+          "height": 11,
+          "confidence": 93.013329
+        },
+        {
+          "text": "还",
+          "left": 316,
+          "top": 1394,
+          "width": 15,
+          "height": 39,
+          "confidence": 91.515739
+        },
+        {
+          "text": "有",
+          "left": 352,
+          "top": 1393,
+          "width": 23,
+          "height": 40,
+          "confidence": 96.995232
+        },
+        {
+          "text": "一",
+          "left": 388,
+          "top": 1411,
+          "width": 31,
+          "height": 4,
+          "confidence": 95.965279
+        },
+        {
+          "text": "个",
+          "left": 439,
+          "top": 1393,
+          "width": 24,
+          "height": 40,
+          "confidence": 95.719139
+        },
+        {
+          "text": "重要",
+          "left": 467,
+          "top": 1393,
+          "width": 228,
+          "height": 42,
+          "confidence": 96.459549
+        },
+        {
+          "text": "的",
+          "left": 570,
+          "top": 1389,
+          "width": 48,
+          "height": 58,
+          "confidence": 96.741783
+        },
+        {
+          "text": "小",
+          "left": 617,
+          "top": 1389,
+          "width": 44,
+          "height": 58,
+          "confidence": 96.717575
+        },
+        {
+          "text": "点",
+          "left": 660,
+          "top": 1389,
+          "width": 30,
+          "height": 58,
+          "confidence": 92.83596
+        },
+        {
+          "text": ",",
+          "left": 689,
+          "top": 1389,
+          "width": 16,
+          "height": 58,
+          "confidence": 92.843292
+        },
+        {
+          "text": "也",
+          "left": 726,
+          "top": 1393,
+          "width": 47,
+          "height": 41,
+          "confidence": 96.807457
+        },
+        {
+          "text": "非常",
+          "left": 779,
+          "top": 1393,
+          "width": 204,
+          "height": 42,
+          "confidence": 96.667976
+        },
+        {
+          "text": "的",
+          "left": 863,
+          "top": 1389,
+          "width": 41,
+          "height": 58,
+          "confidence": 96.96302
+        },
+        {
+          "text": "简单",
+          "left": 903,
+          "top": 1393,
+          "width": 77,
+          "height": 42,
+          "confidence": 93.226761
+        },
+        {
+          "text": ",",
+          "left": 979,
+          "top": 1389,
+          "width": 16,
+          "height": 58,
+          "confidence": 92.164795
+        },
+        {
+          "text": "在",
+          "left": 1023,
+          "top": 1393,
+          "width": 18,
+          "height": 41,
+          "confidence": 96.945709
+        },
+        {
+          "text": "本",
+          "left": 1063,
+          "top": 1393,
+          "width": 22,
+          "height": 41,
+          "confidence": 93.24012
+        },
+        {
+          "text": "节",
+          "left": 1099,
+          "top": 1393,
+          "width": 29,
+          "height": 40,
+          "confidence": 91.507408
+        },
+        {
+          "text": "中",
+          "left": 1139,
+          "top": 1393,
+          "width": 55,
+          "height": 41,
+          "confidence": 91.261444
+        },
+        {
+          "text": "就",
+          "left": 1193,
+          "top": 1393,
+          "width": 52,
+          "height": 41,
+          "confidence": 95.391678
+        },
+        {
+          "text": "不",
+          "left": 1265,
+          "top": 1393,
+          "width": 15,
+          "height": 39,
+          "confidence": 96.965973
+        },
+        {
+          "text": "继续",
+          "left": 1284,
+          "top": 1393,
+          "width": 77,
+          "height": 41,
+          "confidence": 93.221939
+        },
+        {
+          "text": "扩",
+          "left": 1365,
+          "top": 1393,
+          "width": 28,
+          "height": 40,
+          "confidence": 91.103729
+        }
+      ]
+    },
+    {
+      "text": "RS. 下一小节的案例中会把这个小点进行简单的介绍.",
+      "left": 91,
+      "top": 1463,
+      "right": 1135,
+      "bottom": 1504,
+      "height": 41,
+      "confidence": 92.5110204736842,
+      "words": [
+        {
+          "text": "RS.",
+          "left": 91,
+          "top": 1465,
+          "width": 95,
+          "height": 39,
+          "confidence": 79.468384
+        },
+        {
+          "text": "下",
+          "left": 217,
+          "top": 1465,
+          "width": 26,
+          "height": 39,
+          "confidence": 96.010162
+        },
+        {
+          "text": "一",
+          "left": 257,
+          "top": 1464,
+          "width": 52,
+          "height": 39,
+          "confidence": 96.557007
+        },
+        {
+          "text": "小",
+          "left": 321,
+          "top": 1473,
+          "width": 10,
+          "height": 22,
+          "confidence": 92.852821
+        },
+        {
+          "text": "节",
+          "left": 344,
+          "top": 1463,
+          "width": 30,
+          "height": 40,
+          "confidence": 64.87915
+        },
+        {
+          "text": "的",
+          "left": 387,
+          "top": 1463,
+          "width": 31,
+          "height": 40,
+          "confidence": 83.333687
+        },
+        {
+          "text": "案例",
+          "left": 435,
+          "top": 1463,
+          "width": 70,
+          "height": 41,
+          "confidence": 96.28183
+        },
+        {
+          "text": "中",
+          "left": 525,
+          "top": 1463,
+          "width": 24,
+          "height": 41,
+          "confidence": 96.455231
+        },
+        {
+          "text": "会",
+          "left": 572,
+          "top": 1463,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.135956
+        },
+        {
+          "text": "把",
+          "left": 619,
+          "top": 1465,
+          "width": 21,
+          "height": 37,
+          "confidence": 96.90271
+        },
+        {
+          "text": "这",
+          "left": 656,
+          "top": 1463,
+          "width": 28,
+          "height": 40,
+          "confidence": 96.61586
+        },
+        {
+          "text": "个",
+          "left": 699,
+          "top": 1463,
+          "width": 52,
+          "height": 40,
+          "confidence": 96.109497
+        },
+        {
+          "text": "小",
+          "left": 762,
+          "top": 1473,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.251297
+        },
+        {
+          "text": "点",
+          "left": 793,
+          "top": 1463,
+          "width": 23,
+          "height": 40,
+          "confidence": 94.288216
+        },
+        {
+          "text": "进行",
+          "left": 837,
+          "top": 1463,
+          "width": 67,
+          "height": 41,
+          "confidence": 96.819992
+        },
+        {
+          "text": "简单",
+          "left": 924,
+          "top": 1463,
+          "width": 88,
+          "height": 41,
+          "confidence": 95.926628
+        },
+        {
+          "text": "的",
+          "left": 1018,
+          "top": 1463,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.928261
+        },
+        {
+          "text": "介绍",
+          "left": 1054,
+          "top": 1463,
+          "width": 68,
+          "height": 41,
+          "confidence": 93.138603
+        },
+        {
+          "text": ".",
+          "left": 1130,
+          "top": 1494,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.754097
+        }
+      ]
+    }
+  ]
+}

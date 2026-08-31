@@ -1,0 +1,970 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/image-scraping-practice/page-3.png",
+  "lines": [
+    {
+      "text": "第三步, 下载图片",
+      "left": 92,
+      "top": 122,
+      "right": 418,
+      "bottom": 182,
+      "height": 60,
+      "confidence": 84.460543875,
+      "words": [
+        {
+          "text": "第",
+          "left": 92,
+          "top": 126,
+          "width": 64,
+          "height": 41,
+          "confidence": 96.749474
+        },
+        {
+          "text": "三",
+          "left": 179,
+          "top": 126,
+          "width": 26,
+          "height": 41,
+          "confidence": 91.444939
+        },
+        {
+          "text": "步",
+          "left": 225,
+          "top": 157,
+          "width": 5,
+          "height": 11,
+          "confidence": 93.174866
+        },
+        {
+          "text": ",",
+          "left": 234,
+          "top": 122,
+          "width": 16,
+          "height": 60,
+          "confidence": 90.210327
+        },
+        {
+          "text": "下",
+          "left": 268,
+          "top": 128,
+          "width": 19,
+          "height": 39,
+          "confidence": 93.220604
+        },
+        {
+          "text": "载",
+          "left": 292,
+          "top": 126,
+          "width": 125,
+          "height": 41,
+          "confidence": 92.574615
+        },
+        {
+          "text": "图",
+          "left": 350,
+          "top": 122,
+          "width": 42,
+          "height": 60,
+          "confidence": 88.065109
+        },
+        {
+          "text": "片",
+          "left": 391,
+          "top": 122,
+          "width": 27,
+          "height": 60,
+          "confidence": 30.244417
+        }
+      ]
+    },
+    {
+      "text": "一个一个干!",
+      "left": 91,
+      "top": 310,
+      "right": 320,
+      "bottom": 369,
+      "height": 59,
+      "confidence": 92.21139266666667,
+      "words": [
+        {
+          "text": "一",
+          "left": 91,
+          "top": 314,
+          "width": 226,
+          "height": 40,
+          "confidence": 96.70533
+        },
+        {
+          "text": "个",
+          "left": 149,
+          "top": 310,
+          "width": 45,
+          "height": 59,
+          "confidence": 96.947197
+        },
+        {
+          "text": "一",
+          "left": 193,
+          "top": 310,
+          "width": 46,
+          "height": 59,
+          "confidence": 96.881386
+        },
+        {
+          "text": "个",
+          "left": 238,
+          "top": 310,
+          "width": 45,
+          "height": 59,
+          "confidence": 93.165733
+        },
+        {
+          "text": "干",
+          "left": 282,
+          "top": 310,
+          "width": 30,
+          "height": 59,
+          "confidence": 76.831772
+        },
+        {
+          "text": "!",
+          "left": 311,
+          "top": 310,
+          "width": 9,
+          "height": 59,
+          "confidence": 92.736938
+        }
+      ]
+    },
+    {
+      "text": "1. 拿到子页面链接",
+      "left": 96,
+      "top": 445,
+      "right": 482,
+      "bottom": 494,
+      "height": 49,
+      "confidence": 89.94099514285715,
+      "words": [
+        {
+          "text": "1.",
+          "left": 96,
+          "top": 445,
+          "width": 64,
+          "height": 48,
+          "confidence": 84.306236
+        },
+        {
+          "text": "拿",
+          "left": 184,
+          "top": 447,
+          "width": 23,
+          "height": 46,
+          "confidence": 88.786369
+        },
+        {
+          "text": "到",
+          "left": 215,
+          "top": 445,
+          "width": 16,
+          "height": 48,
+          "confidence": 93.223389
+        },
+        {
+          "text": "子",
+          "left": 253,
+          "top": 447,
+          "width": 28,
+          "height": 46,
+          "confidence": 92.43029
+        },
+        {
+          "text": "页",
+          "left": 304,
+          "top": 447,
+          "width": 27,
+          "height": 47,
+          "confidence": 81.605247
+        },
+        {
+          "text": "面",
+          "left": 355,
+          "top": 447,
+          "width": 27,
+          "height": 47,
+          "confidence": 92.33036
+        },
+        {
+          "text": "链接",
+          "left": 402,
+          "top": 445,
+          "width": 80,
+          "height": 49,
+          "confidence": 96.905075
+        }
+      ]
+    },
+    {
+      "text": "1 def main_page():",
+      "left": 131,
+      "top": 607,
+      "right": 558,
+      "bottom": 648,
+      "height": 41,
+      "confidence": 90.71426133333334,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 609,
+          "width": 18,
+          "height": 30,
+          "confidence": 96.049164
+        },
+        {
+          "text": "def",
+          "left": 185,
+          "top": 607,
+          "width": 69,
+          "height": 33,
+          "confidence": 93.251808
+        },
+        {
+          "text": "main_page():",
+          "left": 280,
+          "top": 607,
+          "width": 278,
+          "height": 41,
+          "confidence": 82.841812
+        }
+      ]
+    },
+    {
+      "text": "2 with openC\"child_page_href.txt\", mode=\"w\") as",
+      "left": 130,
+      "top": 677,
+      "right": 1357,
+      "bottom": 718,
+      "height": 41,
+      "confidence": 93.0476226,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 678,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.693512
+        },
+        {
+          "text": "with",
+          "left": 280,
+          "top": 677,
+          "width": 92,
+          "height": 33,
+          "confidence": 93.301666
+        },
+        {
+          "text": "openC\"child_page_href.txt\",",
+          "left": 401,
+          "top": 677,
+          "width": 639,
+          "height": 41,
+          "confidence": 89.399788
+        },
+        {
+          "text": "mode=\"w\")",
+          "left": 1073,
+          "top": 677,
+          "width": 211,
+          "height": 39,
+          "confidence": 88.955063
+        },
+        {
+          "text": "as",
+          "left": 1314,
+          "top": 687,
+          "width": 43,
+          "height": 23,
+          "confidence": 96.888084
+        }
+      ]
+    },
+    {
+      "text": "f:",
+      "left": 186,
+      "top": 747,
+      "right": 222,
+      "bottom": 780,
+      "height": 33,
+      "confidence": 80.435249,
+      "words": [
+        {
+          "text": "f:",
+          "left": 186,
+          "top": 747,
+          "width": 36,
+          "height": 33,
+          "confidence": 80.435249
+        }
+      ]
+    },
+    {
+      "text": "3 for i in range(1, 56):",
+      "left": 130,
+      "top": 817,
+      "right": 895,
+      "bottom": 858,
+      "height": 41,
+      "confidence": 87.92100066666667,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 818,
+          "width": 18,
+          "height": 32,
+          "confidence": 94.429817
+        },
+        {
+          "text": "for",
+          "left": 378,
+          "top": 817,
+          "width": 66,
+          "height": 33,
+          "confidence": 96.285522
+        },
+        {
+          "text": "i",
+          "left": 474,
+          "top": 817,
+          "width": 16,
+          "height": 32,
+          "confidence": 94.91571
+        },
+        {
+          "text": "in",
+          "left": 522,
+          "top": 817,
+          "width": 42,
+          "height": 32,
+          "confidence": 93.183342
+        },
+        {
+          "text": "range(1,",
+          "left": 596,
+          "top": 817,
+          "width": 179,
+          "height": 41,
+          "confidence": 52.008343
+        },
+        {
+          "text": "56):",
+          "left": 810,
+          "top": 817,
+          "width": 85,
+          "height": 39,
+          "confidence": 96.70327
+        }
+      ]
+    },
+    {
+      "text": "4 try:",
+      "left": 128,
+      "top": 889,
+      "right": 558,
+      "bottom": 928,
+      "height": 39,
+      "confidence": 96.4945525,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 889,
+          "width": 22,
+          "height": 30,
+          "confidence": 96.9496
+        },
+        {
+          "text": "try:",
+          "left": 473,
+          "top": 890,
+          "width": 85,
+          "height": 38,
+          "confidence": 96.039505
+        }
+      ]
+    },
+    {
+      "text": "5 resp =",
+      "left": 130,
+      "top": 959,
+      "right": 710,
+      "bottom": 998,
+      "height": 39,
+      "confidence": 95.71829733333334,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 959,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.869553
+        },
+        {
+          "text": "resp",
+          "left": 572,
+          "top": 967,
+          "width": 89,
+          "height": 31,
+          "confidence": 94.831985
+        },
+        {
+          "text": "=",
+          "left": 688,
+          "top": 973,
+          "width": 22,
+          "height": 10,
+          "confidence": 95.453354
+        }
+      ]
+    },
+    {
+      "text": "requests.get(f\"https://ww.umei.cc/bizhitupian/we",
+      "left": 188,
+      "top": 1027,
+      "right": 1358,
+      "bottom": 1068,
+      "height": 41,
+      "confidence": 59.370377,
+      "words": [
+        {
+          "text": "requests.get(f\"https://ww.umei.cc/bizhitupian/we",
+          "left": 188,
+          "top": 1027,
+          "width": 1170,
+          "height": 41,
+          "confidence": 59.370377
+        }
+      ]
+    },
+    {
+      "text": "imeibizhi/{i}.htm\")",
+      "left": 186,
+      "top": 1097,
+      "right": 635,
+      "bottom": 1136,
+      "height": 39,
+      "confidence": 89.618172,
+      "words": [
+        {
+          "text": "imeibizhi/{i}.htm\")",
+          "left": 186,
+          "top": 1097,
+          "width": 449,
+          "height": 39,
+          "confidence": 89.618172
+        }
+      ]
+    },
+    {
+      "text": "6 # <meta http-equiv=\"Content-Type\"",
+      "left": 129,
+      "top": 1167,
+      "right": 1355,
+      "bottom": 1208,
+      "height": 41,
+      "confidence": 91.658102,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 1168,
+          "width": 21,
+          "height": 32,
+          "confidence": 96.916107
+        },
+        {
+          "text": "#",
+          "left": 568,
+          "top": 1169,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.980446
+        },
+        {
+          "text": "<meta",
+          "left": 617,
+          "top": 1170,
+          "width": 116,
+          "height": 30,
+          "confidence": 93.296333
+        },
+        {
+          "text": "http-equiv=\"Content-Type\"",
+          "left": 762,
+          "top": 1167,
+          "width": 593,
+          "height": 41,
+          "confidence": 83.439522
+        }
+      ]
+    },
+    {
+      "text": "content=\"text/htmL; charset=utf-8\" />",
+      "left": 186,
+      "top": 1237,
+      "right": 1070,
+      "bottom": 1277,
+      "height": 40,
+      "confidence": 69.885331,
+      "words": [
+        {
+          "text": "content=\"text/htmL;",
+          "left": 186,
+          "top": 1237,
+          "width": 445,
+          "height": 40,
+          "confidence": 26.053782
+        },
+        {
+          "text": "charset=utf-8\"",
+          "left": 666,
+          "top": 1237,
+          "width": 329,
+          "height": 33,
+          "confidence": 90.703087
+        },
+        {
+          "text": "/>",
+          "left": 1025,
+          "top": 1238,
+          "width": 45,
+          "height": 32,
+          "confidence": 92.899124
+        }
+      ]
+    },
+    {
+      "text": "7 resp.encoding = ‘utf-8' # 处理中",
+      "left": 130,
+      "top": 1306,
+      "right": 1332,
+      "bottom": 1348,
+      "height": 42,
+      "confidence": 85.40756425,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 1309,
+          "width": 19,
+          "height": 30,
+          "confidence": 96.676132
+        },
+        {
+          "text": "resp.encoding",
+          "left": 572,
+          "top": 1307,
+          "width": 304,
+          "height": 41,
+          "confidence": 92.689713
+        },
+        {
+          "text": "=",
+          "left": 905,
+          "top": 1323,
+          "width": 22,
+          "height": 10,
+          "confidence": 93.158295
+        },
+        {
+          "text": "‘utf-8'",
+          "left": 961,
+          "top": 1307,
+          "width": 150,
+          "height": 33,
+          "confidence": 67.936432
+        },
+        {
+          "text": "#",
+          "left": 1169,
+          "top": 1309,
+          "width": 22,
+          "height": 30,
+          "confidence": 82.535751
+        },
+        {
+          "text": "处",
+          "left": 1232,
+          "top": 1306,
+          "width": 38,
+          "height": 36,
+          "confidence": 93.197182
+        },
+        {
+          "text": "理",
+          "left": 1277,
+          "top": 1308,
+          "width": 18,
+          "height": 34,
+          "confidence": 92.251747
+        },
+        {
+          "text": "中",
+          "left": 1307,
+          "top": 1306,
+          "width": 25,
+          "height": 37,
+          "confidence": 64.815262
+        }
+      ]
+    },
+    {
+      "text": "文乱码， 这里要和页面上的 charset 对应",
+      "left": 185,
+      "top": 1372,
+      "right": 920,
+      "bottom": 1425,
+      "height": 53,
+      "confidence": 92.67801071428572,
+      "words": [
+        {
+          "text": "文",
+          "left": 185,
+          "top": 1376,
+          "width": 59,
+          "height": 37,
+          "confidence": 92.22728
+        },
+        {
+          "text": "乱码",
+          "left": 247,
+          "top": 1377,
+          "width": 72,
+          "height": 40,
+          "confidence": 88.60849
+        },
+        {
+          "text": "，",
+          "left": 326,
+          "top": 1372,
+          "width": 34,
+          "height": 53,
+          "confidence": 88.409637
+        },
+        {
+          "text": "这",
+          "left": 359,
+          "top": 1376,
+          "width": 30,
+          "height": 37,
+          "confidence": 90.809914
+        },
+        {
+          "text": "里",
+          "left": 406,
+          "top": 1378,
+          "width": 23,
+          "height": 34,
+          "confidence": 96.677155
+        },
+        {
+          "text": "要",
+          "left": 449,
+          "top": 1378,
+          "width": 21,
+          "height": 35,
+          "confidence": 96.668205
+        },
+        {
+          "text": "和",
+          "left": 479,
+          "top": 1377,
+          "width": 29,
+          "height": 36,
+          "confidence": 96.997711
+        },
+        {
+          "text": "页",
+          "left": 522,
+          "top": 1378,
+          "width": 57,
+          "height": 35,
+          "confidence": 92.825699
+        },
+        {
+          "text": "面",
+          "left": 594,
+          "top": 1376,
+          "width": 21,
+          "height": 35,
+          "confidence": 90.295883
+        },
+        {
+          "text": "上",
+          "left": 635,
+          "top": 1376,
+          "width": 13,
+          "height": 36,
+          "confidence": 96.588913
+        },
+        {
+          "text": "的",
+          "left": 649,
+          "top": 1376,
+          "width": 39,
+          "height": 37,
+          "confidence": 95.699036
+        },
+        {
+          "text": "charset",
+          "left": 687,
+          "top": 1376,
+          "width": 231,
+          "height": 37,
+          "confidence": 82.518875
+        },
+        {
+          "text": "对",
+          "left": 846,
+          "top": 1372,
+          "width": 44,
+          "height": 53,
+          "confidence": 92.857742
+        },
+        {
+          "text": "应",
+          "left": 889,
+          "top": 1372,
+          "width": 31,
+          "height": 53,
+          "confidence": 96.30761
+        }
+      ]
+    },
+    {
+      "text": "8",
+      "left": 130,
+      "top": 1448,
+      "right": 149,
+      "bottom": 1480,
+      "height": 32,
+      "confidence": 96.784691,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 1448,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.784691
+        }
+      ]
+    },
+    {
+      "text": "9 main_page =",
+      "left": 128,
+      "top": 1518,
+      "right": 830,
+      "bottom": 1559,
+      "height": 41,
+      "confidence": 94.79796333333333,
+      "words": [
+        {
+          "text": "9",
+          "left": 128,
+          "top": 1519,
+          "width": 21,
+          "height": 32,
+          "confidence": 95.960213
+        },
+        {
+          "text": "main_page",
+          "left": 568,
+          "top": 1518,
+          "width": 213,
+          "height": 41,
+          "confidence": 91.435066
+        },
+        {
+          "text": "=",
+          "left": 808,
+          "top": 1534,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.998611
+        }
+      ]
+    },
+    {
+      "text": "BeautifulSoupCresp.text, “html.parser\")",
+      "left": 186,
+      "top": 1588,
+      "right": 1116,
+      "bottom": 1629,
+      "height": 41,
+      "confidence": 65.7608625,
+      "words": [
+        {
+          "text": "BeautifulSoupCresp.text,",
+          "left": 186,
+          "top": 1588,
+          "width": 565,
+          "height": 41,
+          "confidence": 74.999123
+        },
+        {
+          "text": "“html.parser\")",
+          "left": 788,
+          "top": 1588,
+          "width": 328,
+          "height": 41,
+          "confidence": 56.522602
+        }
+      ]
+    },
+    {
+      "text": "10 typeListDiv =",
+      "left": 107,
+      "top": 1658,
+      "right": 878,
+      "bottom": 1699,
+      "height": 41,
+      "confidence": 94.69693733333334,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 1659,
+          "width": 43,
+          "height": 32,
+          "confidence": 96.602264
+        },
+        {
+          "text": "typeListDiv",
+          "left": 569,
+          "top": 1658,
+          "width": 261,
+          "height": 41,
+          "confidence": 90.559959
+        },
+        {
+          "text": "=",
+          "left": 856,
+          "top": 1674,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.928589
+        }
+      ]
+    },
+    {
+      "text": "main_page.findC\"div\", attrs={\"class\":",
+      "left": 184,
+      "top": 1728,
+      "right": 1063,
+      "bottom": 1769,
+      "height": 41,
+      "confidence": 83.7308615,
+      "words": [
+        {
+          "text": "main_page.findC\"div\",",
+          "left": 184,
+          "top": 1728,
+          "width": 495,
+          "height": 41,
+          "confidence": 86.919273
+        },
+        {
+          "text": "attrs={\"class\":",
+          "left": 713,
+          "top": 1728,
+          "width": 350,
+          "height": 39,
+          "confidence": 80.54245
+        }
+      ]
+    },
+    {
+      "text": "TypeList})",
+      "left": 188,
+      "top": 1798,
+      "right": 467,
+      "bottom": 1839,
+      "height": 41,
+      "confidence": 88.317909,
+      "words": [
+        {
+          "text": "TypeList})",
+          "left": 188,
+          "top": 1798,
+          "width": 279,
+          "height": 41,
+          "confidence": 88.317909
+        }
+      ]
+    },
+    {
+      "text": "11 main_a_list =",
+      "left": 107,
+      "top": 1868,
+      "right": 878,
+      "bottom": 1903,
+      "height": 35,
+      "confidence": 79.04427333333332,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 1870,
+          "width": 42,
+          "height": 30,
+          "confidence": 96.437225
+        },
+        {
+          "text": "main_a_list",
+          "left": 568,
+          "top": 1868,
+          "width": 260,
+          "height": 35,
+          "confidence": 43.768402
+        },
+        {
+          "text": "=",
+          "left": 856,
+          "top": 1884,
+          "width": 22,
+          "height": 10,
+          "confidence": 96.927193
+        }
+      ]
+    },
+    {
+      "text": "typeListDiv. find_allC\"a\")",
+      "left": 185,
+      "top": 1938,
+      "right": 779,
+      "bottom": 1979,
+      "height": 41,
+      "confidence": 30.731246000000002,
+      "words": [
+        {
+          "text": "typeListDiv.",
+          "left": 185,
+          "top": 1938,
+          "width": 277,
+          "height": 41,
+          "confidence": 32.194332
+        },
+        {
+          "text": "find_allC\"a\")",
+          "left": 478,
+          "top": 1938,
+          "width": 301,
+          "height": 39,
+          "confidence": 29.26816
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2320 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/selenium-overview/page-5.png",
+  "lines": [
+    {
+      "text": "或者",
+      "left": 92,
+      "top": 122,
+      "right": 179,
+      "bottom": 180,
+      "height": 58,
+      "confidence": 96.9603005,
+      "words": [
+        {
+          "text": "或",
+          "left": 92,
+          "top": 126,
+          "width": 83,
+          "height": 40,
+          "confidence": 96.957245
+        },
+        {
+          "text": "者",
+          "left": 149,
+          "top": 122,
+          "width": 30,
+          "height": 58,
+          "confidence": 96.963356
+        }
+      ]
+    },
+    {
+      "text": "Fe bin +",
+      "left": 380,
+      "top": 325,
+      "right": 1292,
+      "bottom": 336,
+      "height": 11,
+      "confidence": 81.59074933333333,
+      "words": [
+        {
+          "text": "Fe",
+          "left": 380,
+          "top": 325,
+          "width": 22,
+          "height": 11,
+          "confidence": 55.346222
+        },
+        {
+          "text": "bin",
+          "left": 976,
+          "top": 326,
+          "width": 15,
+          "height": 9,
+          "confidence": 96.081711
+        },
+        {
+          "text": "+",
+          "left": 1281,
+          "top": 325,
+          "width": 11,
+          "height": 11,
+          "confidence": 93.344315
+        }
+      ]
+    },
+    {
+      "text": "PARE 名称修改日期大小种类",
+      "left": 99,
+      "top": 342,
+      "right": 1200,
+      "bottom": 369,
+      "height": 27,
+      "confidence": 83.4689923,
+      "words": [
+        {
+          "text": "PARE",
+          "left": 99,
+          "top": 354,
+          "width": 46,
+          "height": 11,
+          "confidence": 22.249798
+        },
+        {
+          "text": "名",
+          "left": 302,
+          "top": 351,
+          "width": 10,
+          "height": 11,
+          "confidence": 91.674767
+        },
+        {
+          "text": "称",
+          "left": 317,
+          "top": 351,
+          "width": 8,
+          "height": 11,
+          "confidence": 91.710213
+        },
+        {
+          "text": "修改",
+          "left": 880,
+          "top": 351,
+          "width": 22,
+          "height": 11,
+          "confidence": 93.660553
+        },
+        {
+          "text": "日",
+          "left": 908,
+          "top": 351,
+          "width": 14,
+          "height": 11,
+          "confidence": 96.643204
+        },
+        {
+          "text": "期",
+          "left": 921,
+          "top": 343,
+          "width": 9,
+          "height": 26,
+          "confidence": 60.135826
+        },
+        {
+          "text": "大",
+          "left": 1072,
+          "top": 352,
+          "width": 14,
+          "height": 9,
+          "confidence": 96.526276
+        },
+        {
+          "text": "小",
+          "left": 1088,
+          "top": 351,
+          "width": 6,
+          "height": 10,
+          "confidence": 96.635635
+        },
+        {
+          "text": "种",
+          "left": 1173,
+          "top": 351,
+          "width": 23,
+          "height": 10,
+          "confidence": 95.204132
+        },
+        {
+          "text": "类",
+          "left": 1188,
+          "top": 342,
+          "width": 12,
+          "height": 26,
+          "confidence": 90.249519
+        }
+      ]
+    },
+    {
+      "text": "A 应用程序国 bzip2recover 020 年 5 月 22 日下午 5:04 18KB Unix 可执行文件",
+      "left": 109,
+      "top": 394,
+      "right": 1265,
+      "bottom": 426,
+      "height": 32,
+      "confidence": 83.21951845000002,
+      "words": [
+        {
+          "text": "A",
+          "left": 109,
+          "top": 403,
+          "width": 11,
+          "height": 16,
+          "confidence": 62.996788
+        },
+        {
+          "text": "应",
+          "left": 136,
+          "top": 405,
+          "width": 8,
+          "height": 14,
+          "confidence": 89.406769
+        },
+        {
+          "text": "用",
+          "left": 150,
+          "top": 406,
+          "width": 8,
+          "height": 12,
+          "confidence": 96.9692
+        },
+        {
+          "text": "程序",
+          "left": 165,
+          "top": 405,
+          "width": 22,
+          "height": 13,
+          "confidence": 96.781624
+        },
+        {
+          "text": "国",
+          "left": 324,
+          "top": 408,
+          "width": 14,
+          "height": 12,
+          "confidence": 55.101871
+        },
+        {
+          "text": "bzip2recover",
+          "left": 346,
+          "top": 409,
+          "width": 75,
+          "height": 12,
+          "confidence": 91.219589
+        },
+        {
+          "text": "020",
+          "left": 886,
+          "top": 409,
+          "width": 74,
+          "height": 9,
+          "confidence": 77.745598
+        },
+        {
+          "text": "年",
+          "left": 914,
+          "top": 395,
+          "width": 15,
+          "height": 31,
+          "confidence": 92.208199
+        },
+        {
+          "text": "5",
+          "left": 928,
+          "top": 395,
+          "width": 13,
+          "height": 31,
+          "confidence": 96.552803
+        },
+        {
+          "text": "月",
+          "left": 940,
+          "top": 395,
+          "width": 12,
+          "height": 31,
+          "confidence": 96.893471
+        },
+        {
+          "text": "22",
+          "left": 951,
+          "top": 395,
+          "width": 17,
+          "height": 31,
+          "confidence": 89.703918
+        },
+        {
+          "text": "日",
+          "left": 967,
+          "top": 395,
+          "width": 12,
+          "height": 31,
+          "confidence": 89.294998
+        },
+        {
+          "text": "下",
+          "left": 993,
+          "top": 410,
+          "width": 6,
+          "height": 9,
+          "confidence": 83.415985
+        },
+        {
+          "text": "午",
+          "left": 998,
+          "top": 395,
+          "width": 10,
+          "height": 31,
+          "confidence": 88.603493
+        },
+        {
+          "text": "5:04",
+          "left": 1008,
+          "top": 395,
+          "width": 24,
+          "height": 31,
+          "confidence": 91.724907
+        },
+        {
+          "text": "18KB",
+          "left": 1117,
+          "top": 410,
+          "width": 22,
+          "height": 8,
+          "confidence": 88.191772
+        },
+        {
+          "text": "Unix",
+          "left": 1172,
+          "top": 409,
+          "width": 90,
+          "height": 10,
+          "confidence": 42.369385
+        },
+        {
+          "text": "可",
+          "left": 1201,
+          "top": 394,
+          "width": 16,
+          "height": 30,
+          "confidence": 92.98053
+        },
+        {
+          "text": "执行",
+          "left": 1216,
+          "top": 409,
+          "width": 29,
+          "height": 10,
+          "confidence": 94.544235
+        },
+        {
+          "text": "文件",
+          "left": 1244,
+          "top": 394,
+          "width": 21,
+          "height": 30,
+          "confidence": 47.685234
+        }
+      ]
+    },
+    {
+      "text": "人 wm 站 SEE 2 区 ema",
+      "left": 109,
+      "top": 429,
+      "right": 1262,
+      "bottom": 476,
+      "height": 47,
+      "confidence": 22.270700142857148,
+      "words": [
+        {
+          "text": "人",
+          "left": 109,
+          "top": 430,
+          "width": 17,
+          "height": 46,
+          "confidence": 39.77771
+        },
+        {
+          "text": "wm",
+          "left": 132,
+          "top": 433,
+          "width": 53,
+          "height": 40,
+          "confidence": 16.834517
+        },
+        {
+          "text": "站",
+          "left": 324,
+          "top": 437,
+          "width": 14,
+          "height": 23,
+          "confidence": 38.732319
+        },
+        {
+          "text": "SEE",
+          "left": 345,
+          "top": 429,
+          "width": 43,
+          "height": 30,
+          "confidence": 3.005075
+        },
+        {
+          "text": "2",
+          "left": 879,
+          "top": 432,
+          "width": 20,
+          "height": 27,
+          "confidence": 47.241497
+        },
+        {
+          "text": "区",
+          "left": 901,
+          "top": 429,
+          "width": 131,
+          "height": 31,
+          "confidence": 0.0
+        },
+        {
+          "text": "ema",
+          "left": 1116,
+          "top": 429,
+          "width": 146,
+          "height": 30,
+          "confidence": 10.303783
+        }
+      ]
+    },
+    {
+      "text": "Cher manus 2 SOMONE REE",
+      "left": 109,
+      "top": 463,
+      "right": 1262,
+      "bottom": 511,
+      "height": 48,
+      "confidence": 23.025222199999998,
+      "words": [
+        {
+          "text": "Cher",
+          "left": 109,
+          "top": 463,
+          "width": 53,
+          "height": 48,
+          "confidence": 42.167038
+        },
+        {
+          "text": "manus",
+          "left": 324,
+          "top": 468,
+          "width": 80,
+          "height": 32,
+          "confidence": 0.0
+        },
+        {
+          "text": "2",
+          "left": 879,
+          "top": 469,
+          "width": 153,
+          "height": 31,
+          "confidence": 45.143654
+        },
+        {
+          "text": "SOMONE",
+          "left": 1119,
+          "top": 470,
+          "width": 117,
+          "height": 29,
+          "confidence": 9.780827
+        },
+        {
+          "text": "REE",
+          "left": 1256,
+          "top": 471,
+          "width": 6,
+          "height": 22,
+          "confidence": 18.034592
+        }
+      ]
+    },
+    {
+      "text": "国 webstommprajects + captoinfo 2020 年 5 月 22 日下午 5:04 3 字节 8S",
+      "left": 108,
+      "top": 499,
+      "right": 1195,
+      "bottom": 529,
+      "height": 30,
+      "confidence": 76.61924931250002,
+      "words": [
+        {
+          "text": "国",
+          "left": 108,
+          "top": 513,
+          "width": 20,
+          "height": 16,
+          "confidence": 69.247025
+        },
+        {
+          "text": "webstommprajects",
+          "left": 133,
+          "top": 516,
+          "width": 116,
+          "height": 13,
+          "confidence": 48.250999
+        },
+        {
+          "text": "+",
+          "left": 324,
+          "top": 517,
+          "width": 3,
+          "height": 5,
+          "confidence": 25.164108
+        },
+        {
+          "text": "captoinfo",
+          "left": 345,
+          "top": 510,
+          "width": 54,
+          "height": 11,
+          "confidence": 87.829018
+        },
+        {
+          "text": "2020",
+          "left": 879,
+          "top": 509,
+          "width": 93,
+          "height": 10,
+          "confidence": 93.109955
+        },
+        {
+          "text": "年",
+          "left": 915,
+          "top": 499,
+          "width": 15,
+          "height": 28,
+          "confidence": 92.142174
+        },
+        {
+          "text": "5",
+          "left": 929,
+          "top": 499,
+          "width": 11,
+          "height": 28,
+          "confidence": 96.969749
+        },
+        {
+          "text": "月",
+          "left": 939,
+          "top": 499,
+          "width": 12,
+          "height": 28,
+          "confidence": 96.971718
+        },
+        {
+          "text": "22",
+          "left": 950,
+          "top": 499,
+          "width": 20,
+          "height": 28,
+          "confidence": 93.056175
+        },
+        {
+          "text": "日",
+          "left": 969,
+          "top": 499,
+          "width": 15,
+          "height": 28,
+          "confidence": 92.089455
+        },
+        {
+          "text": "下午",
+          "left": 983,
+          "top": 499,
+          "width": 16,
+          "height": 28,
+          "confidence": 66.747955
+        },
+        {
+          "text": "5:04",
+          "left": 1008,
+          "top": 510,
+          "width": 24,
+          "height": 9,
+          "confidence": 89.866699
+        },
+        {
+          "text": "3",
+          "left": 1116,
+          "top": 510,
+          "width": 3,
+          "height": 9,
+          "confidence": 93.2481
+        },
+        {
+          "text": "字",
+          "left": 1125,
+          "top": 510,
+          "width": 10,
+          "height": 9,
+          "confidence": 92.345909
+        },
+        {
+          "text": "节",
+          "left": 1140,
+          "top": 510,
+          "width": 8,
+          "height": 1,
+          "confidence": 62.52393
+        },
+        {
+          "text": "8S",
+          "left": 1174,
+          "top": 509,
+          "width": 21,
+          "height": 11,
+          "confidence": 26.34502
+        }
+      ]
+    },
+    {
+      "text": "Ban Wi chardetect 0204 59228 FF 5:04 6 Unix 可执行文",
+      "left": 108,
+      "top": 558,
+      "right": 1255,
+      "bottom": 588,
+      "height": 30,
+      "confidence": 61.005694000000005,
+      "words": [
+        {
+          "text": "Ban",
+          "left": 108,
+          "top": 569,
+          "width": 51,
+          "height": 15,
+          "confidence": 81.066177
+        },
+        {
+          "text": "Wi",
+          "left": 320,
+          "top": 562,
+          "width": 18,
+          "height": 26,
+          "confidence": 36.780621
+        },
+        {
+          "text": "chardetect",
+          "left": 345,
+          "top": 562,
+          "width": 63,
+          "height": 26,
+          "confidence": 85.900635
+        },
+        {
+          "text": "0204",
+          "left": 886,
+          "top": 572,
+          "width": 1,
+          "height": 6,
+          "confidence": 58.465042
+        },
+        {
+          "text": "59228",
+          "left": 911,
+          "top": 570,
+          "width": 61,
+          "height": 9,
+          "confidence": 40.159573
+        },
+        {
+          "text": "FF",
+          "left": 982,
+          "top": 560,
+          "width": 21,
+          "height": 25,
+          "confidence": 0.0
+        },
+        {
+          "text": "5:04",
+          "left": 1008,
+          "top": 560,
+          "width": 24,
+          "height": 25,
+          "confidence": 0.0
+        },
+        {
+          "text": "6",
+          "left": 1115,
+          "top": 574,
+          "width": 19,
+          "height": 6,
+          "confidence": 66.940292
+        },
+        {
+          "text": "Unix",
+          "left": 1172,
+          "top": 571,
+          "width": 30,
+          "height": 8,
+          "confidence": 92.270576
+        },
+        {
+          "text": "可",
+          "left": 1200,
+          "top": 558,
+          "width": 16,
+          "height": 26,
+          "confidence": 91.022331
+        },
+        {
+          "text": "执行",
+          "left": 1217,
+          "top": 571,
+          "width": 33,
+          "height": 9,
+          "confidence": 96.23526
+        },
+        {
+          "text": "文",
+          "left": 1242,
+          "top": 558,
+          "width": 13,
+          "height": 26,
+          "confidence": 83.227821
+        }
+      ]
+    },
+    {
+      "text": "上国 Jdeaprojeets ES 2017 年 11 月 9 日 FF 12:47 33KB ”Unix 可执行文件",
+      "left": 104,
+      "top": 589,
+      "right": 1262,
+      "bottom": 628,
+      "height": 39,
+      "confidence": 72.85625364705881,
+      "words": [
+        {
+          "text": "上",
+          "left": 104,
+          "top": 592,
+          "width": 14,
+          "height": 36,
+          "confidence": 60.15432
+        },
+        {
+          "text": "国",
+          "left": 117,
+          "top": 596,
+          "width": 17,
+          "height": 16,
+          "confidence": 87.379051
+        },
+        {
+          "text": "Jdeaprojeets",
+          "left": 133,
+          "top": 592,
+          "width": 77,
+          "height": 36,
+          "confidence": 2.598734
+        },
+        {
+          "text": "ES",
+          "left": 324,
+          "top": 589,
+          "width": 52,
+          "height": 33,
+          "confidence": 39.182911
+        },
+        {
+          "text": "2017",
+          "left": 879,
+          "top": 611,
+          "width": 26,
+          "height": 9,
+          "confidence": 92.601601
+        },
+        {
+          "text": "年",
+          "left": 913,
+          "top": 610,
+          "width": 6,
+          "height": 8,
+          "confidence": 92.644447
+        },
+        {
+          "text": "11",
+          "left": 925,
+          "top": 611,
+          "width": 7,
+          "height": 9,
+          "confidence": 90.03167
+        },
+        {
+          "text": "月",
+          "left": 940,
+          "top": 610,
+          "width": 4,
+          "height": 7,
+          "confidence": 92.507195
+        },
+        {
+          "text": "9",
+          "left": 949,
+          "top": 611,
+          "width": 6,
+          "height": 6,
+          "confidence": 96.93544
+        },
+        {
+          "text": "日",
+          "left": 962,
+          "top": 610,
+          "width": 5,
+          "height": 11,
+          "confidence": 60.904869
+        },
+        {
+          "text": "FF",
+          "left": 976,
+          "top": 610,
+          "width": 18,
+          "height": 11,
+          "confidence": 45.784409
+        },
+        {
+          "text": "12:47",
+          "left": 999,
+          "top": 606,
+          "width": 33,
+          "height": 21,
+          "confidence": 45.784409
+        },
+        {
+          "text": "33KB",
+          "left": 1117,
+          "top": 611,
+          "width": 31,
+          "height": 9,
+          "confidence": 92.744667
+        },
+        {
+          "text": "”Unix",
+          "left": 1172,
+          "top": 610,
+          "width": 64,
+          "height": 10,
+          "confidence": 54.732437
+        },
+        {
+          "text": "可",
+          "left": 1200,
+          "top": 606,
+          "width": 16,
+          "height": 21,
+          "confidence": 92.292831
+        },
+        {
+          "text": "执行",
+          "left": 1215,
+          "top": 610,
+          "width": 21,
+          "height": 10,
+          "confidence": 96.252472
+        },
+        {
+          "text": "文件",
+          "left": 1256,
+          "top": 610,
+          "width": 6,
+          "height": 3,
+          "confidence": 96.024849
+        }
+      ]
+    },
+    {
+      "text": "python RAS 国 ckeygen 2020 年 8 月 31 日下午 5217 247 字节。 Unix 可执行文件",
+      "left": 108,
+      "top": 618,
+      "right": 1262,
+      "bottom": 648,
+      "height": 30,
+      "confidence": 77.71230295238095,
+      "words": [
+        {
+          "text": "python",
+          "left": 108,
+          "top": 623,
+          "width": 67,
+          "height": 17,
+          "confidence": 30.634375
+        },
+        {
+          "text": "RAS",
+          "left": 188,
+          "top": 625,
+          "width": 45,
+          "height": 13,
+          "confidence": 0.0
+        },
+        {
+          "text": "国",
+          "left": 324,
+          "top": 629,
+          "width": 14,
+          "height": 12,
+          "confidence": 83.864182
+        },
+        {
+          "text": "ckeygen",
+          "left": 345,
+          "top": 631,
+          "width": 48,
+          "height": 11,
+          "confidence": 91.269791
+        },
+        {
+          "text": "2020",
+          "left": 879,
+          "top": 633,
+          "width": 27,
+          "height": 7,
+          "confidence": 92.336861
+        },
+        {
+          "text": "年",
+          "left": 927,
+          "top": 639,
+          "width": 3,
+          "height": 1,
+          "confidence": 92.944016
+        },
+        {
+          "text": "8",
+          "left": 929,
+          "top": 618,
+          "width": 10,
+          "height": 30,
+          "confidence": 96.647369
+        },
+        {
+          "text": "月",
+          "left": 938,
+          "top": 630,
+          "width": 5,
+          "height": 4,
+          "confidence": 96.859467
+        },
+        {
+          "text": "31",
+          "left": 950,
+          "top": 618,
+          "width": 17,
+          "height": 30,
+          "confidence": 93.186653
+        },
+        {
+          "text": "日",
+          "left": 966,
+          "top": 630,
+          "width": 5,
+          "height": 1,
+          "confidence": 91.109375
+        },
+        {
+          "text": "下",
+          "left": 983,
+          "top": 631,
+          "width": 1,
+          "height": 10,
+          "confidence": 92.980148
+        },
+        {
+          "text": "午",
+          "left": 995,
+          "top": 635,
+          "width": 7,
+          "height": 1,
+          "confidence": 92.532013
+        },
+        {
+          "text": "5217",
+          "left": 1007,
+          "top": 618,
+          "width": 22,
+          "height": 30,
+          "confidence": 29.848095
+        },
+        {
+          "text": "247",
+          "left": 1098,
+          "top": 631,
+          "width": 32,
+          "height": 9,
+          "confidence": 92.94088
+        },
+        {
+          "text": "字",
+          "left": 1123,
+          "top": 619,
+          "width": 17,
+          "height": 29,
+          "confidence": 90.265793
+        },
+        {
+          "text": "节",
+          "left": 1139,
+          "top": 619,
+          "width": 13,
+          "height": 29,
+          "confidence": 42.969734
+        },
+        {
+          "text": "。",
+          "left": 1157,
+          "top": 619,
+          "width": 8,
+          "height": 29,
+          "confidence": 42.969734
+        },
+        {
+          "text": "Unix",
+          "left": 1172,
+          "top": 619,
+          "width": 23,
+          "height": 29,
+          "confidence": 93.032837
+        },
+        {
+          "text": "可",
+          "left": 1201,
+          "top": 633,
+          "width": 5,
+          "height": 6,
+          "confidence": 92.182388
+        },
+        {
+          "text": "执行",
+          "left": 1218,
+          "top": 632,
+          "width": 17,
+          "height": 8,
+          "confidence": 96.691719
+        },
+        {
+          "text": "文件",
+          "left": 1256,
+          "top": 632,
+          "width": 6,
+          "height": 1,
+          "confidence": 96.692932
+        }
+      ]
+    },
+    {
+      "text": "国 java 录课内容 Mi clear 2020 年 2 月 24 日下午 6:59 14KB。 Unix 可执行文件",
+      "left": 108,
+      "top": 641,
+      "right": 1262,
+      "bottom": 671,
+      "height": 30,
+      "confidence": 83.82207904545454,
+      "words": [
+        {
+          "text": "国",
+          "left": 108,
+          "top": 651,
+          "width": 20,
+          "height": 16,
+          "confidence": 43.020329
+        },
+        {
+          "text": "java",
+          "left": 131,
+          "top": 654,
+          "width": 25,
+          "height": 13,
+          "confidence": 84.088837
+        },
+        {
+          "text": "录",
+          "left": 160,
+          "top": 653,
+          "width": 11,
+          "height": 13,
+          "confidence": 92.260361
+        },
+        {
+          "text": "课",
+          "left": 176,
+          "top": 653,
+          "width": 10,
+          "height": 13,
+          "confidence": 92.217934
+        },
+        {
+          "text": "内",
+          "left": 191,
+          "top": 653,
+          "width": 8,
+          "height": 13,
+          "confidence": 93.124954
+        },
+        {
+          "text": "容",
+          "left": 205,
+          "top": 653,
+          "width": 8,
+          "height": 13,
+          "confidence": 93.203575
+        },
+        {
+          "text": "Mi",
+          "left": 324,
+          "top": 642,
+          "width": 13,
+          "height": 29,
+          "confidence": 64.909431
+        },
+        {
+          "text": "clear",
+          "left": 345,
+          "top": 651,
+          "width": 28,
+          "height": 9,
+          "confidence": 64.909431
+        },
+        {
+          "text": "2020",
+          "left": 879,
+          "top": 650,
+          "width": 94,
+          "height": 11,
+          "confidence": 93.078751
+        },
+        {
+          "text": "年",
+          "left": 914,
+          "top": 642,
+          "width": 16,
+          "height": 29,
+          "confidence": 92.077095
+        },
+        {
+          "text": "2",
+          "left": 929,
+          "top": 642,
+          "width": 10,
+          "height": 29,
+          "confidence": 95.741356
+        },
+        {
+          "text": "月",
+          "left": 938,
+          "top": 642,
+          "width": 14,
+          "height": 29,
+          "confidence": 96.891106
+        },
+        {
+          "text": "24",
+          "left": 951,
+          "top": 642,
+          "width": 19,
+          "height": 29,
+          "confidence": 93.200943
+        },
+        {
+          "text": "日",
+          "left": 969,
+          "top": 642,
+          "width": 12,
+          "height": 29,
+          "confidence": 67.253944
+        },
+        {
+          "text": "下午",
+          "left": 985,
+          "top": 642,
+          "width": 18,
+          "height": 29,
+          "confidence": 67.253944
+        },
+        {
+          "text": "6:59",
+          "left": 1009,
+          "top": 642,
+          "width": 24,
+          "height": 29,
+          "confidence": 92.212799
+        },
+        {
+          "text": "14KB",
+          "left": 1118,
+          "top": 651,
+          "width": 31,
+          "height": 9,
+          "confidence": 79.274971
+        },
+        {
+          "text": "。",
+          "left": 1159,
+          "top": 641,
+          "width": 8,
+          "height": 29,
+          "confidence": 60.837208
+        },
+        {
+          "text": "Unix",
+          "left": 1172,
+          "top": 651,
+          "width": 63,
+          "height": 9,
+          "confidence": 93.068069
+        },
+        {
+          "text": "可",
+          "left": 1201,
+          "top": 641,
+          "width": 15,
+          "height": 29,
+          "confidence": 92.419403
+        },
+        {
+          "text": "执行",
+          "left": 1215,
+          "top": 651,
+          "width": 20,
+          "height": 9,
+          "confidence": 96.365204
+        },
+        {
+          "text": "文件",
+          "left": 1256,
+          "top": 651,
+          "width": 6,
+          "height": 2,
+          "confidence": 96.676094
+        }
+      ]
+    },
+    {
+      "text": "> /Users/sylar/PycharmProjects//\\LA/MBSiR,",
+      "left": 113,
+      "top": 793,
+      "right": 1399,
+      "bottom": 818,
+      "height": 25,
+      "confidence": 60.5135955,
+      "words": [
+        {
+          "text": ">",
+          "left": 113,
+          "top": 799,
+          "width": 11,
+          "height": 14,
+          "confidence": 93.718727
+        },
+        {
+          "text": "/Users/sylar/PycharmProjects//\\LA/MBSiR,",
+          "left": 776,
+          "top": 793,
+          "width": 623,
+          "height": 25,
+          "confidence": 27.308464
+        }
+      ]
+    },
+    {
+      "text": "找不到解释器在哪里的兄弟: 在 pycharm 里运行一个 py 文件就告诉你在哪儿了",
+      "left": 313,
+      "top": 834,
+      "right": 976,
+      "bottom": 863,
+      "height": 29,
+      "confidence": 95.47802791666668,
+      "words": [
+        {
+          "text": "找",
+          "left": 313,
+          "top": 838,
+          "width": 17,
+          "height": 17,
+          "confidence": 93.216263
+        },
+        {
+          "text": "不",
+          "left": 339,
+          "top": 839,
+          "width": 10,
+          "height": 17,
+          "confidence": 96.815628
+        },
+        {
+          "text": "到",
+          "left": 356,
+          "top": 838,
+          "width": 21,
+          "height": 17,
+          "confidence": 96.961761
+        },
+        {
+          "text": "解释",
+          "left": 380,
+          "top": 838,
+          "width": 28,
+          "height": 18,
+          "confidence": 95.870888
+        },
+        {
+          "text": "器",
+          "left": 417,
+          "top": 839,
+          "width": 10,
+          "height": 17,
+          "confidence": 96.899933
+        },
+        {
+          "text": "在",
+          "left": 435,
+          "top": 838,
+          "width": 23,
+          "height": 18,
+          "confidence": 96.434654
+        },
+        {
+          "text": "哪里",
+          "left": 461,
+          "top": 838,
+          "width": 33,
+          "height": 18,
+          "confidence": 96.614822
+        },
+        {
+          "text": "的",
+          "left": 495,
+          "top": 838,
+          "width": 9,
+          "height": 17,
+          "confidence": 96.892456
+        },
+        {
+          "text": "兄弟",
+          "left": 513,
+          "top": 838,
+          "width": 29,
+          "height": 18,
+          "confidence": 93.248238
+        },
+        {
+          "text": ":",
+          "left": 546,
+          "top": 844,
+          "width": 3,
+          "height": 10,
+          "confidence": 92.011604
+        },
+        {
+          "text": "在",
+          "left": 566,
+          "top": 838,
+          "width": 7,
+          "height": 18,
+          "confidence": 94.13842
+        },
+        {
+          "text": "pycharm",
+          "left": 578,
+          "top": 838,
+          "width": 171,
+          "height": 20,
+          "confidence": 91.554817
+        },
+        {
+          "text": "里",
+          "left": 657,
+          "top": 834,
+          "width": 22,
+          "height": 29,
+          "confidence": 90.696037
+        },
+        {
+          "text": "运行",
+          "left": 678,
+          "top": 834,
+          "width": 45,
+          "height": 29,
+          "confidence": 96.737564
+        },
+        {
+          "text": "一",
+          "left": 722,
+          "top": 834,
+          "width": 21,
+          "height": 29,
+          "confidence": 96.865829
+        },
+        {
+          "text": "个",
+          "left": 742,
+          "top": 834,
+          "width": 15,
+          "height": 29,
+          "confidence": 96.904808
+        },
+        {
+          "text": "py",
+          "left": 756,
+          "top": 843,
+          "width": 17,
+          "height": 14,
+          "confidence": 95.765366
+        },
+        {
+          "text": "文件",
+          "left": 782,
+          "top": 838,
+          "width": 31,
+          "height": 18,
+          "confidence": 95.728668
+        },
+        {
+          "text": "就",
+          "left": 832,
+          "top": 838,
+          "width": 23,
+          "height": 18,
+          "confidence": 95.728668
+        },
+        {
+          "text": "告诉",
+          "left": 854,
+          "top": 834,
+          "width": 35,
+          "height": 29,
+          "confidence": 96.804871
+        },
+        {
+          "text": "你",
+          "left": 890,
+          "top": 838,
+          "width": 10,
+          "height": 17,
+          "confidence": 96.331711
+        },
+        {
+          "text": "在",
+          "left": 910,
+          "top": 838,
+          "width": 23,
+          "height": 18,
+          "confidence": 96.90892
+        },
+        {
+          "text": "哪儿",
+          "left": 934,
+          "top": 839,
+          "width": 24,
+          "height": 16,
+          "confidence": 96.74939
+        },
+        {
+          "text": "了",
+          "left": 965,
+          "top": 839,
+          "width": 11,
+          "height": 16,
+          "confidence": 95.591354
+        }
+      ]
+    },
+    {
+      "text": "_# ® Process finished with exit code 0",
+      "left": 89,
+      "top": 868,
+      "right": 684,
+      "bottom": 901,
+      "height": 33,
+      "confidence": 79.247703625,
+      "words": [
+        {
+          "text": "_#",
+          "left": 89,
+          "top": 882,
+          "width": 36,
+          "height": 19,
+          "confidence": 13.026886
+        },
+        {
+          "text": "®",
+          "left": 149,
+          "top": 871,
+          "width": 17,
+          "height": 17,
+          "confidence": 46.818871
+        },
+        {
+          "text": "Process",
+          "left": 199,
+          "top": 869,
+          "width": 99,
+          "height": 18,
+          "confidence": 96.669891
+        },
+        {
+          "text": "finished",
+          "left": 318,
+          "top": 868,
+          "width": 114,
+          "height": 19,
+          "confidence": 96.250824
+        },
+        {
+          "text": "with",
+          "left": 449,
+          "top": 868,
+          "width": 57,
+          "height": 19,
+          "confidence": 96.789146
+        },
+        {
+          "text": "exit",
+          "left": 524,
+          "top": 868,
+          "width": 55,
+          "height": 19,
+          "confidence": 96.698166
+        },
+        {
+          "text": "code",
+          "left": 599,
+          "top": 868,
+          "width": 55,
+          "height": 19,
+          "confidence": 96.241547
+        },
+        {
+          "text": "0",
+          "left": 672,
+          "top": 869,
+          "width": 12,
+          "height": 18,
+          "confidence": 91.486298
+        }
+      ]
+    },
+    {
+      "text": "OK~ 前期准备工作完毕. 上代码看看, selenium 是个什么鬼",
+      "left": 91,
+      "top": 1029,
+      "right": 1208,
+      "bottom": 1087,
+      "height": 58,
+      "confidence": 93.31239811764705,
+      "words": [
+        {
+          "text": "OK~",
+          "left": 91,
+          "top": 1038,
+          "width": 84,
+          "height": 33,
+          "confidence": 90.695328
+        },
+        {
+          "text": "前",
+          "left": 203,
+          "top": 1034,
+          "width": 51,
+          "height": 40,
+          "confidence": 96.809418
+        },
+        {
+          "text": "期",
+          "left": 253,
+          "top": 1036,
+          "width": 37,
+          "height": 38,
+          "confidence": 96.103645
+        },
+        {
+          "text": "准备",
+          "left": 300,
+          "top": 1034,
+          "width": 64,
+          "height": 40,
+          "confidence": 96.742439
+        },
+        {
+          "text": "工作",
+          "left": 387,
+          "top": 1034,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.343201
+        },
+        {
+          "text": "完毕",
+          "left": 471,
+          "top": 1034,
+          "width": 79,
+          "height": 40,
+          "confidence": 93.227348
+        },
+        {
+          "text": ".",
+          "left": 554,
+          "top": 1029,
+          "width": 19,
+          "height": 58,
+          "confidence": 92.21891
+        },
+        {
+          "text": "上",
+          "left": 590,
+          "top": 1034,
+          "width": 30,
+          "height": 40,
+          "confidence": 96.229103
+        },
+        {
+          "text": "代码",
+          "left": 624,
+          "top": 1034,
+          "width": 171,
+          "height": 42,
+          "confidence": 95.86763
+        },
+        {
+          "text": "看",
+          "left": 717,
+          "top": 1029,
+          "width": 48,
+          "height": 58,
+          "confidence": 96.207031
+        },
+        {
+          "text": "看",
+          "left": 764,
+          "top": 1029,
+          "width": 30,
+          "height": 58,
+          "confidence": 93.159813
+        },
+        {
+          "text": ",",
+          "left": 793,
+          "top": 1029,
+          "width": 16,
+          "height": 58,
+          "confidence": 93.190788
+        },
+        {
+          "text": "selenium",
+          "left": 814,
+          "top": 1034,
+          "width": 391,
+          "height": 40,
+          "confidence": 92.295456
+        },
+        {
+          "text": "是",
+          "left": 1000,
+          "top": 1029,
+          "width": 52,
+          "height": 58,
+          "confidence": 91.95356
+        },
+        {
+          "text": "个",
+          "left": 1051,
+          "top": 1029,
+          "width": 48,
+          "height": 58,
+          "confidence": 96.584892
+        },
+        {
+          "text": "什么",
+          "left": 1098,
+          "top": 1029,
+          "width": 84,
+          "height": 58,
+          "confidence": 93.212746
+        },
+        {
+          "text": "鬼",
+          "left": 1181,
+          "top": 1029,
+          "width": 27,
+          "height": 58,
+          "confidence": 75.46946
+        }
+      ]
+    },
+    {
+      "text": "1 from selenium.webdriver import Chrome # 导入谷歌浏",
+      "left": 107,
+      "top": 1193,
+      "right": 1341,
+      "bottom": 1234,
+      "height": 41,
+      "confidence": 89.48865877777779,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 1196,
+          "width": 18,
+          "height": 30,
+          "confidence": 92.95137
+        },
+        {
+          "text": "from",
+          "left": 162,
+          "top": 1194,
+          "width": 92,
+          "height": 32,
+          "confidence": 93.285362
+        },
+        {
+          "text": "selenium.webdriver",
+          "left": 282,
+          "top": 1194,
+          "width": 426,
+          "height": 33,
+          "confidence": 91.873955
+        },
+        {
+          "text": "import",
+          "left": 738,
+          "top": 1194,
+          "width": 138,
+          "height": 40,
+          "confidence": 96.545715
+        },
+        {
+          "text": "Chrome",
+          "left": 906,
+          "top": 1195,
+          "width": 139,
+          "height": 32,
+          "confidence": 90.173759
+        },
+        {
+          "text": "#",
+          "left": 1097,
+          "top": 1196,
+          "width": 22,
+          "height": 30,
+          "confidence": 90.173759
+        },
+        {
+          "text": "导入",
+          "left": 1156,
+          "top": 1194,
+          "width": 66,
+          "height": 36,
+          "confidence": 96.177803
+        },
+        {
+          "text": "谷歌",
+          "left": 1237,
+          "top": 1194,
+          "width": 85,
+          "height": 36,
+          "confidence": 92.896698
+        },
+        {
+          "text": "浏",
+          "left": 1332,
+          "top": 1193,
+          "width": 9,
+          "height": 37,
+          "confidence": 61.319508
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "left": 106,
+      "top": 1335,
+      "right": 124,
+      "bottom": 1366,
+      "height": 31,
+      "confidence": 96.693512,
+      "words": [
+        {
+          "text": "2",
+          "left": 106,
+          "top": 1335,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.693512
+        }
+      ]
+    },
+    {
+      "text": "3",
+      "left": 106,
+      "top": 1405,
+      "right": 124,
+      "bottom": 1437,
+      "height": 32,
+      "confidence": 96.745506,
+      "words": [
+        {
+          "text": "3",
+          "left": 106,
+          "top": 1405,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.745506
+        }
+      ]
+    },
+    {
+      "text": "4 # 创建浏览器对象",
+      "left": 104,
+      "top": 1473,
+      "right": 485,
+      "bottom": 1510,
+      "height": 37,
+      "confidence": 87.80808,
+      "words": [
+        {
+          "text": "4",
+          "left": 104,
+          "top": 1476,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.005768
+        },
+        {
+          "text": "#",
+          "left": 160,
+          "top": 1476,
+          "width": 22,
+          "height": 30,
+          "confidence": 57.315632
+        },
+        {
+          "text": "创建",
+          "left": 218,
+          "top": 1473,
+          "width": 94,
+          "height": 37,
+          "confidence": 94.091782
+        },
+        {
+          "text": "浏览",
+          "left": 315,
+          "top": 1473,
+          "width": 76,
+          "height": 37,
+          "confidence": 96.787674
+        },
+        {
+          "text": "器",
+          "left": 409,
+          "top": 1477,
+          "width": 15,
+          "height": 30,
+          "confidence": 89.836975
+        },
+        {
+          "text": "对",
+          "left": 426,
+          "top": 1473,
+          "width": 19,
+          "height": 37,
+          "confidence": 93.284081
+        },
+        {
+          "text": "象",
+          "left": 461,
+          "top": 1473,
+          "width": 24,
+          "height": 37,
+          "confidence": 90.334648
+        }
+      ]
+    },
+    {
+      "text": "5 web = ChromeCexecutable_path=\"chromedriver\") # 如",
+      "left": 106,
+      "top": 1544,
+      "right": 1348,
+      "bottom": 1585,
+      "height": 41,
+      "confidence": 91.6745935,
+      "words": [
+        {
+          "text": "5",
+          "left": 106,
+          "top": 1547,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.587318
+        },
+        {
+          "text": "web",
+          "left": 160,
+          "top": 1546,
+          "width": 69,
+          "height": 31,
+          "confidence": 96.587318
+        },
+        {
+          "text": "=",
+          "left": 257,
+          "top": 1562,
+          "width": 20,
+          "height": 9,
+          "confidence": 96.155228
+        },
+        {
+          "text": "ChromeCexecutable_path=\"chromedriver\")",
+          "left": 305,
+          "top": 1545,
+          "width": 907,
+          "height": 40,
+          "confidence": 71.178841
+        },
+        {
+          "text": "#",
+          "left": 1265,
+          "top": 1547,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.934425
+        },
+        {
+          "text": "如",
+          "left": 1315,
+          "top": 1544,
+          "width": 33,
+          "height": 36,
+          "confidence": 96.604431
+        }
+      ]
+    },
+    {
+      "text": "果你的浏览器驱动放在了项目里.",
+      "left": 161,
+      "top": 1608,
+      "right": 734,
+      "bottom": 1662,
+      "height": 54,
+      "confidence": 91.75282061538459,
+      "words": [
+        {
+          "text": "果",
+          "left": 161,
+          "top": 1614,
+          "width": 50,
+          "height": 37,
+          "confidence": 91.860054
+        },
+        {
+          "text": "你",
+          "left": 211,
+          "top": 1614,
+          "width": 44,
+          "height": 37,
+          "confidence": 93.023438
+        },
+        {
+          "text": "的",
+          "left": 257,
+          "top": 1614,
+          "width": 42,
+          "height": 37,
+          "confidence": 95.990189
+        },
+        {
+          "text": "浏览",
+          "left": 307,
+          "top": 1614,
+          "width": 73,
+          "height": 37,
+          "confidence": 95.312111
+        },
+        {
+          "text": "器",
+          "left": 401,
+          "top": 1616,
+          "width": 15,
+          "height": 34,
+          "confidence": 96.913132
+        },
+        {
+          "text": "驱动",
+          "left": 418,
+          "top": 1614,
+          "width": 80,
+          "height": 37,
+          "confidence": 91.481773
+        },
+        {
+          "text": "放",
+          "left": 501,
+          "top": 1614,
+          "width": 41,
+          "height": 37,
+          "confidence": 92.780426
+        },
+        {
+          "text": "在",
+          "left": 541,
+          "top": 1608,
+          "width": 38,
+          "height": 54,
+          "confidence": 92.342606
+        },
+        {
+          "text": "了",
+          "left": 578,
+          "top": 1617,
+          "width": 35,
+          "height": 34,
+          "confidence": 96.781342
+        },
+        {
+          "text": "项",
+          "left": 613,
+          "top": 1616,
+          "width": 25,
+          "height": 35,
+          "confidence": 93.235016
+        },
+        {
+          "text": "目",
+          "left": 646,
+          "top": 1616,
+          "width": 27,
+          "height": 35,
+          "confidence": 92.450325
+        },
+        {
+          "text": "里",
+          "left": 682,
+          "top": 1616,
+          "width": 35,
+          "height": 34,
+          "confidence": 80.308128
+        },
+        {
+          "text": ".",
+          "left": 728,
+          "top": 1642,
+          "width": 6,
+          "height": 6,
+          "confidence": 80.308128
+        }
+      ]
+    },
+    {
+      "text": "6 # web = ChromeQ) # 如果你的浏览器驱动放在了解释器文件夹",
+      "left": 105,
+      "top": 1684,
+      "right": 1358,
+      "bottom": 1724,
+      "height": 40,
+      "confidence": 89.77197605000002,
+      "words": [
+        {
+          "text": "6",
+          "left": 105,
+          "top": 1686,
+          "width": 20,
+          "height": 32,
+          "confidence": 91.711128
+        },
+        {
+          "text": "#",
+          "left": 160,
+          "top": 1687,
+          "width": 22,
+          "height": 30,
+          "confidence": 88.694687
+        },
+        {
+          "text": "web",
+          "left": 208,
+          "top": 1685,
+          "width": 69,
+          "height": 33,
+          "confidence": 92.315506
+        },
+        {
+          "text": "=",
+          "left": 304,
+          "top": 1702,
+          "width": 22,
+          "height": 9,
+          "confidence": 94.245811
+        },
+        {
+          "text": "ChromeQ)",
+          "left": 353,
+          "top": 1685,
+          "width": 186,
+          "height": 39,
+          "confidence": 65.615044
+        },
+        {
+          "text": "#",
+          "left": 592,
+          "top": 1687,
+          "width": 22,
+          "height": 30,
+          "confidence": 65.615044
+        },
+        {
+          "text": "如",
+          "left": 654,
+          "top": 1684,
+          "width": 21,
+          "height": 36,
+          "confidence": 92.365631
+        },
+        {
+          "text": "果",
+          "left": 691,
+          "top": 1685,
+          "width": 42,
+          "height": 36,
+          "confidence": 92.932289
+        },
+        {
+          "text": "你",
+          "left": 732,
+          "top": 1684,
+          "width": 44,
+          "height": 37,
+          "confidence": 93.184776
+        },
+        {
+          "text": "的",
+          "left": 777,
+          "top": 1684,
+          "width": 43,
+          "height": 37,
+          "confidence": 96.885513
+        },
+        {
+          "text": "浏览",
+          "left": 827,
+          "top": 1684,
+          "width": 74,
+          "height": 37,
+          "confidence": 96.880432
+        },
+        {
+          "text": "器",
+          "left": 921,
+          "top": 1686,
+          "width": 15,
+          "height": 34,
+          "confidence": 96.848618
+        },
+        {
+          "text": "驱动",
+          "left": 939,
+          "top": 1684,
+          "width": 80,
+          "height": 37,
+          "confidence": 91.721703
+        },
+        {
+          "text": "放",
+          "left": 1022,
+          "top": 1684,
+          "width": 45,
+          "height": 37,
+          "confidence": 92.39344
+        },
+        {
+          "text": "在",
+          "left": 1084,
+          "top": 1687,
+          "width": 16,
+          "height": 34,
+          "confidence": 72.865326
+        },
+        {
+          "text": "了",
+          "left": 1122,
+          "top": 1684,
+          "width": 16,
+          "height": 37,
+          "confidence": 96.899261
+        },
+        {
+          "text": "解释",
+          "left": 1140,
+          "top": 1684,
+          "width": 58,
+          "height": 37,
+          "confidence": 96.531792
+        },
+        {
+          "text": "器",
+          "left": 1218,
+          "top": 1686,
+          "width": 20,
+          "height": 35,
+          "confidence": 95.878609
+        },
+        {
+          "text": "文件",
+          "left": 1258,
+          "top": 1684,
+          "width": 60,
+          "height": 37,
+          "confidence": 93.22673
+        },
+        {
+          "text": "夹",
+          "left": 1339,
+          "top": 1684,
+          "width": 19,
+          "height": 37,
+          "confidence": 88.628181
+        }
+      ]
+    },
+    {
+      "text": "7",
+      "left": 107,
+      "top": 1757,
+      "right": 125,
+      "bottom": 1787,
+      "height": 30,
+      "confidence": 96.389854,
+      "words": [
+        {
+          "text": "7",
+          "left": 107,
+          "top": 1757,
+          "width": 18,
+          "height": 30,
+          "confidence": 96.389854
+        }
+      ]
+    },
+    {
+      "text": "8 web.getC\"http://ww.baidu.com\") # 输入网址",
+      "left": 106,
+      "top": 1824,
+      "right": 1158,
+      "bottom": 1866,
+      "height": 42,
+      "confidence": 90.27618033333333,
+      "words": [
+        {
+          "text": "8",
+          "left": 106,
+          "top": 1826,
+          "width": 18,
+          "height": 32,
+          "confidence": 92.74929
+        },
+        {
+          "text": "web.getC\"http://ww.baidu.com\")",
+          "left": 160,
+          "top": 1825,
+          "width": 740,
+          "height": 41,
+          "confidence": 73.679878
+        },
+        {
+          "text": "#",
+          "left": 953,
+          "top": 1827,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.342957
+        },
+        {
+          "text": "输入",
+          "left": 1017,
+          "top": 1824,
+          "width": 61,
+          "height": 37,
+          "confidence": 96.4786
+        },
+        {
+          "text": "网",
+          "left": 1095,
+          "top": 1824,
+          "width": 40,
+          "height": 37,
+          "confidence": 93.285477
+        },
+        {
+          "text": "址",
+          "left": 1136,
+          "top": 1824,
+          "width": 22,
+          "height": 35,
+          "confidence": 93.12088
+        }
+      ]
+    },
+    {
+      "text": "9 printCweb.title) # 打印 titlLe",
+      "left": 105,
+      "top": 1890,
+      "right": 836,
+      "bottom": 1940,
+      "height": 50,
+      "confidence": 68.884095,
+      "words": [
+        {
+          "text": "9",
+          "left": 105,
+          "top": 1896,
+          "width": 20,
+          "height": 32,
+          "confidence": 93.977127
+        },
+        {
+          "text": "printCweb.title)",
+          "left": 162,
+          "top": 1895,
+          "width": 377,
+          "height": 41,
+          "confidence": 43.368412
+        },
+        {
+          "text": "#",
+          "left": 592,
+          "top": 1897,
+          "width": 22,
+          "height": 30,
+          "confidence": 93.138435
+        },
+        {
+          "text": "打印",
+          "left": 651,
+          "top": 1894,
+          "width": 65,
+          "height": 37,
+          "confidence": 93.391304
+        },
+        {
+          "text": "titlLe",
+          "left": 729,
+          "top": 1890,
+          "width": 107,
+          "height": 50,
+          "confidence": 20.545197
+        }
+      ]
+    }
+  ]
+}

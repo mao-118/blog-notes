@@ -1,0 +1,1420 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/xpath-parsing/page-2.png",
+  "lines": [
+    {
+      "text": "4. id, name, price,author 被称为同胞节点",
+      "left": 110,
+      "top": 121,
+      "right": 908,
+      "bottom": 175,
+      "height": 54,
+      "confidence": 89.08337411111111,
+      "words": [
+        {
+          "text": "4.",
+          "left": 110,
+          "top": 131,
+          "width": 32,
+          "height": 31,
+          "confidence": 93.551559
+        },
+        {
+          "text": "id,",
+          "left": 174,
+          "top": 130,
+          "width": 42,
+          "height": 38,
+          "confidence": 96.952744
+        },
+        {
+          "text": "name,",
+          "left": 235,
+          "top": 139,
+          "width": 115,
+          "height": 29,
+          "confidence": 93.300926
+        },
+        {
+          "text": "price,author",
+          "left": 368,
+          "top": 126,
+          "width": 361,
+          "height": 45,
+          "confidence": 64.920853
+        },
+        {
+          "text": "被",
+          "left": 622,
+          "top": 121,
+          "width": 48,
+          "height": 54,
+          "confidence": 91.539406
+        },
+        {
+          "text": "称",
+          "left": 669,
+          "top": 121,
+          "width": 45,
+          "height": 54,
+          "confidence": 93.211159
+        },
+        {
+          "text": "为",
+          "left": 738,
+          "top": 128,
+          "width": 20,
+          "height": 38,
+          "confidence": 76.136353
+        },
+        {
+          "text": "同胞",
+          "left": 757,
+          "top": 121,
+          "width": 63,
+          "height": 54,
+          "confidence": 96.290878
+        },
+        {
+          "text": "节点",
+          "left": 835,
+          "top": 126,
+          "width": 73,
+          "height": 40,
+          "confidence": 95.846489
+        }
+      ]
+    },
+    {
+      "text": "OK~ 有了这些基础知识后, 我们就可以开始了解 xpath 的基本语法了",
+      "left": 91,
+      "top": 258,
+      "right": 1377,
+      "bottom": 315,
+      "height": 57,
+      "confidence": 92.9492253043478,
+      "words": [
+        {
+          "text": "OK~",
+          "left": 91,
+          "top": 266,
+          "width": 84,
+          "height": 33,
+          "confidence": 91.448196
+        },
+        {
+          "text": "有",
+          "left": 192,
+          "top": 262,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.843796
+        },
+        {
+          "text": "了",
+          "left": 240,
+          "top": 265,
+          "width": 32,
+          "height": 37,
+          "confidence": 96.704567
+        },
+        {
+          "text": "这",
+          "left": 286,
+          "top": 262,
+          "width": 34,
+          "height": 40,
+          "confidence": 91.763092
+        },
+        {
+          "text": "些",
+          "left": 336,
+          "top": 262,
+          "width": 28,
+          "height": 39,
+          "confidence": 91.270561
+        },
+        {
+          "text": "基",
+          "left": 379,
+          "top": 262,
+          "width": 49,
+          "height": 39,
+          "confidence": 92.27877
+        },
+        {
+          "text": "础",
+          "left": 429,
+          "top": 262,
+          "width": 48,
+          "height": 41,
+          "confidence": 92.858398
+        },
+        {
+          "text": "知识",
+          "left": 479,
+          "top": 263,
+          "width": 61,
+          "height": 39,
+          "confidence": 96.969742
+        },
+        {
+          "text": "后",
+          "left": 560,
+          "top": 263,
+          "width": 24,
+          "height": 39,
+          "confidence": 92.255028
+        },
+        {
+          "text": ",",
+          "left": 591,
+          "top": 293,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.956474
+        },
+        {
+          "text": "我",
+          "left": 635,
+          "top": 262,
+          "width": 44,
+          "height": 41,
+          "confidence": 92.822517
+        },
+        {
+          "text": "们",
+          "left": 682,
+          "top": 262,
+          "width": 40,
+          "height": 40,
+          "confidence": 91.679253
+        },
+        {
+          "text": "就",
+          "left": 724,
+          "top": 262,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.872711
+        },
+        {
+          "text": "可",
+          "left": 767,
+          "top": 258,
+          "width": 40,
+          "height": 57,
+          "confidence": 96.598335
+        },
+        {
+          "text": "以",
+          "left": 806,
+          "top": 262,
+          "width": 23,
+          "height": 40,
+          "confidence": 94.506058
+        },
+        {
+          "text": "开始",
+          "left": 849,
+          "top": 262,
+          "width": 68,
+          "height": 41,
+          "confidence": 96.64595
+        },
+        {
+          "text": "了",
+          "left": 938,
+          "top": 262,
+          "width": 44,
+          "height": 40,
+          "confidence": 93.172905
+        },
+        {
+          "text": "解",
+          "left": 985,
+          "top": 265,
+          "width": 36,
+          "height": 38,
+          "confidence": 87.132477
+        },
+        {
+          "text": "xpath",
+          "left": 1020,
+          "top": 258,
+          "width": 111,
+          "height": 57,
+          "confidence": 71.118706
+        },
+        {
+          "text": "的",
+          "left": 1137,
+          "top": 262,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.699364
+        },
+        {
+          "text": "基本",
+          "left": 1177,
+          "top": 262,
+          "width": 90,
+          "height": 40,
+          "confidence": 96.753616
+        },
+        {
+          "text": "语法",
+          "left": 1266,
+          "top": 262,
+          "width": 71,
+          "height": 41,
+          "confidence": 95.5401
+        },
+        {
+          "text": "了",
+          "left": 1355,
+          "top": 265,
+          "width": 22,
+          "height": 37,
+          "confidence": 96.941566
+        }
+      ]
+    },
+    {
+      "text": "在 python 中想要使用 xpath, 需要安装 |xml 模块.",
+      "left": 91,
+      "top": 325,
+      "right": 980,
+      "bottom": 381,
+      "height": 56,
+      "confidence": 90.77527350000001,
+      "words": [
+        {
+          "text": "在",
+          "left": 91,
+          "top": 332,
+          "width": 40,
+          "height": 41,
+          "confidence": 96.030678
+        },
+        {
+          "text": "python",
+          "left": 136,
+          "top": 332,
+          "width": 473,
+          "height": 45,
+          "confidence": 90.453049
+        },
+        {
+          "text": "中",
+          "left": 279,
+          "top": 325,
+          "width": 50,
+          "height": 56,
+          "confidence": 81.556686
+        },
+        {
+          "text": "想",
+          "left": 328,
+          "top": 325,
+          "width": 46,
+          "height": 56,
+          "confidence": 86.697769
+        },
+        {
+          "text": "要",
+          "left": 374,
+          "top": 325,
+          "width": 49,
+          "height": 56,
+          "confidence": 79.75045
+        },
+        {
+          "text": "使",
+          "left": 423,
+          "top": 325,
+          "width": 49,
+          "height": 56,
+          "confidence": 95.800758
+        },
+        {
+          "text": "用",
+          "left": 472,
+          "top": 325,
+          "width": 28,
+          "height": 56,
+          "confidence": 96.463425
+        },
+        {
+          "text": "xpath,",
+          "left": 500,
+          "top": 325,
+          "width": 116,
+          "height": 56,
+          "confidence": 92.380524
+        },
+        {
+          "text": "需要",
+          "left": 643,
+          "top": 333,
+          "width": 68,
+          "height": 40,
+          "confidence": 96.757454
+        },
+        {
+          "text": "安装",
+          "left": 727,
+          "top": 332,
+          "width": 81,
+          "height": 40,
+          "confidence": 96.567932
+        },
+        {
+          "text": "|xml",
+          "left": 808,
+          "top": 332,
+          "width": 170,
+          "height": 41,
+          "confidence": 79.820969
+        },
+        {
+          "text": "模",
+          "left": 895,
+          "top": 325,
+          "width": 46,
+          "height": 56,
+          "confidence": 92.983429
+        },
+        {
+          "text": "块",
+          "left": 941,
+          "top": 325,
+          "width": 32,
+          "height": 56,
+          "confidence": 92.993195
+        },
+        {
+          "text": ".",
+          "left": 972,
+          "top": 325,
+          "width": 8,
+          "height": 56,
+          "confidence": 92.597511
+        }
+      ]
+    },
+    {
+      "text": "1 pip install Lxml",
+      "left": 107,
+      "top": 492,
+      "right": 538,
+      "bottom": 533,
+      "height": 41,
+      "confidence": 86.7800215,
+      "words": [
+        {
+          "text": "1",
+          "left": 107,
+          "top": 494,
+          "width": 18,
+          "height": 30,
+          "confidence": 92.724159
+        },
+        {
+          "text": "pip",
+          "left": 162,
+          "top": 492,
+          "width": 67,
+          "height": 41,
+          "confidence": 92.724159
+        },
+        {
+          "text": "install",
+          "left": 258,
+          "top": 492,
+          "width": 160,
+          "height": 33,
+          "confidence": 92.318016
+        },
+        {
+          "text": "Lxml",
+          "left": 449,
+          "top": 492,
+          "width": 89,
+          "height": 32,
+          "confidence": 69.353752
+        }
+      ]
+    },
+    {
+      "text": "用法:",
+      "left": 91,
+      "top": 615,
+      "right": 191,
+      "bottom": 672,
+      "height": 57,
+      "confidence": 93.742116,
+      "words": [
+        {
+          "text": "用",
+          "left": 91,
+          "top": 619,
+          "width": 95,
+          "height": 40,
+          "confidence": 96.611427
+        },
+        {
+          "text": "法",
+          "left": 144,
+          "top": 615,
+          "width": 29,
+          "height": 57,
+          "confidence": 93.217918
+        },
+        {
+          "text": ":",
+          "left": 172,
+          "top": 615,
+          "width": 19,
+          "height": 57,
+          "confidence": 91.397003
+        }
+      ]
+    },
+    {
+      "text": "1. 将要解析的 html 内容构造出 etree 对象.",
+      "left": 113,
+      "top": 750,
+      "right": 893,
+      "bottom": 806,
+      "height": 56,
+      "confidence": 91.94037126666667,
+      "words": [
+        {
+          "text": "1.",
+          "left": 113,
+          "top": 760,
+          "width": 29,
+          "height": 31,
+          "confidence": 88.615799
+        },
+        {
+          "text": "将",
+          "left": 186,
+          "top": 755,
+          "width": 27,
+          "height": 40,
+          "confidence": 96.422539
+        },
+        {
+          "text": "要",
+          "left": 228,
+          "top": 755,
+          "width": 49,
+          "height": 41,
+          "confidence": 95.630341
+        },
+        {
+          "text": "解析",
+          "left": 281,
+          "top": 755,
+          "width": 84,
+          "height": 41,
+          "confidence": 90.030777
+        },
+        {
+          "text": "的",
+          "left": 368,
+          "top": 755,
+          "width": 20,
+          "height": 40,
+          "confidence": 96.795998
+        },
+        {
+          "text": "html",
+          "left": 403,
+          "top": 759,
+          "width": 71,
+          "height": 32,
+          "confidence": 90.047318
+        },
+        {
+          "text": "内",
+          "left": 487,
+          "top": 755,
+          "width": 30,
+          "height": 40,
+          "confidence": 92.581627
+        },
+        {
+          "text": "容",
+          "left": 532,
+          "top": 755,
+          "width": 50,
+          "height": 41,
+          "confidence": 92.07592
+        },
+        {
+          "text": "构",
+          "left": 583,
+          "top": 755,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.084793
+        },
+        {
+          "text": "造",
+          "left": 630,
+          "top": 755,
+          "width": 50,
+          "height": 40,
+          "confidence": 86.475044
+        },
+        {
+          "text": "出",
+          "left": 679,
+          "top": 750,
+          "width": 29,
+          "height": 56,
+          "confidence": 92.952911
+        },
+        {
+          "text": "etree",
+          "left": 707,
+          "top": 759,
+          "width": 102,
+          "height": 33,
+          "confidence": 92.793846
+        },
+        {
+          "text": "对",
+          "left": 817,
+          "top": 755,
+          "width": 21,
+          "height": 40,
+          "confidence": 92.185799
+        },
+        {
+          "text": "象",
+          "left": 854,
+          "top": 755,
+          "width": 28,
+          "height": 41,
+          "confidence": 89.387207
+        },
+        {
+          "text": ".",
+          "left": 888,
+          "top": 786,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.02565
+        }
+      ]
+    },
+    {
+      "text": "2. 使用 etree 对象的 xpath(方法配合 xpath 表达式来完成对数据的提",
+      "left": 110,
+      "top": 821,
+      "right": 1393,
+      "bottom": 877,
+      "height": 56,
+      "confidence": 92.8061619047619,
+      "words": [
+        {
+          "text": "2.",
+          "left": 110,
+          "top": 830,
+          "width": 32,
+          "height": 31,
+          "confidence": 93.058189
+        },
+        {
+          "text": "使",
+          "left": 190,
+          "top": 825,
+          "width": 49,
+          "height": 41,
+          "confidence": 95.576744
+        },
+        {
+          "text": "用",
+          "left": 239,
+          "top": 821,
+          "width": 28,
+          "height": 56,
+          "confidence": 96.723373
+        },
+        {
+          "text": "etree",
+          "left": 267,
+          "top": 829,
+          "width": 105,
+          "height": 33,
+          "confidence": 92.53051
+        },
+        {
+          "text": "对",
+          "left": 379,
+          "top": 825,
+          "width": 46,
+          "height": 41,
+          "confidence": 92.373772
+        },
+        {
+          "text": "象",
+          "left": 450,
+          "top": 825,
+          "width": 27,
+          "height": 40,
+          "confidence": 89.586533
+        },
+        {
+          "text": "的",
+          "left": 491,
+          "top": 838,
+          "width": 14,
+          "height": 23,
+          "confidence": 93.113869
+        },
+        {
+          "text": "xpath(",
+          "left": 505,
+          "top": 821,
+          "width": 116,
+          "height": 56,
+          "confidence": 91.206139
+        },
+        {
+          "text": "方",
+          "left": 638,
+          "top": 825,
+          "width": 43,
+          "height": 40,
+          "confidence": 84.48243
+        },
+        {
+          "text": "法",
+          "left": 687,
+          "top": 825,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.989311
+        },
+        {
+          "text": "配合",
+          "left": 736,
+          "top": 825,
+          "width": 77,
+          "height": 40,
+          "confidence": 95.575775
+        },
+        {
+          "text": "xpath",
+          "left": 813,
+          "top": 821,
+          "width": 96,
+          "height": 56,
+          "confidence": 93.098038
+        },
+        {
+          "text": "表",
+          "left": 925,
+          "top": 825,
+          "width": 27,
+          "height": 40,
+          "confidence": 90.91922
+        },
+        {
+          "text": "达",
+          "left": 967,
+          "top": 825,
+          "width": 30,
+          "height": 40,
+          "confidence": 91.358467
+        },
+        {
+          "text": "式",
+          "left": 1012,
+          "top": 825,
+          "width": 29,
+          "height": 40,
+          "confidence": 83.097977
+        },
+        {
+          "text": "来",
+          "left": 1065,
+          "top": 825,
+          "width": 46,
+          "height": 41,
+          "confidence": 96.334244
+        },
+        {
+          "text": "完成",
+          "left": 1133,
+          "top": 825,
+          "width": 62,
+          "height": 40,
+          "confidence": 96.120262
+        },
+        {
+          "text": "对",
+          "left": 1198,
+          "top": 825,
+          "width": 19,
+          "height": 40,
+          "confidence": 96.650681
+        },
+        {
+          "text": "数据",
+          "left": 1236,
+          "top": 825,
+          "width": 88,
+          "height": 40,
+          "confidence": 96.696373
+        },
+        {
+          "text": "的",
+          "left": 1326,
+          "top": 825,
+          "width": 37,
+          "height": 40,
+          "confidence": 93.289429
+        },
+        {
+          "text": "提",
+          "left": 1365,
+          "top": 826,
+          "width": 28,
+          "height": 39,
+          "confidence": 90.148064
+        }
+      ]
+    },
+    {
+      "text": "取",
+      "left": 173,
+      "top": 897,
+      "right": 213,
+      "bottom": 935,
+      "height": 38,
+      "confidence": 93.095337,
+      "words": [
+        {
+          "text": "取",
+          "left": 173,
+          "top": 897,
+          "width": 40,
+          "height": 38,
+          "confidence": 93.095337
+        }
+      ]
+    },
+    {
+      "text": "1 from Lxml import etree",
+      "left": 131,
+      "top": 1055,
+      "right": 709,
+      "bottom": 1096,
+      "height": 41,
+      "confidence": 87.5131606,
+      "words": [
+        {
+          "text": "1",
+          "left": 131,
+          "top": 1057,
+          "width": 18,
+          "height": 30,
+          "confidence": 95.422752
+        },
+        {
+          "text": "from",
+          "left": 186,
+          "top": 1055,
+          "width": 92,
+          "height": 33,
+          "confidence": 90.287666
+        },
+        {
+          "text": "Lxml",
+          "left": 305,
+          "top": 1055,
+          "width": 89,
+          "height": 32,
+          "confidence": 58.915001
+        },
+        {
+          "text": "import",
+          "left": 426,
+          "top": 1055,
+          "width": 138,
+          "height": 41,
+          "confidence": 96.539185
+        },
+        {
+          "text": "etree",
+          "left": 594,
+          "top": 1058,
+          "width": 115,
+          "height": 30,
+          "confidence": 96.401199
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "left": 130,
+      "top": 1126,
+      "right": 148,
+      "bottom": 1157,
+      "height": 31,
+      "confidence": 96.306595,
+      "words": [
+        {
+          "text": "2",
+          "left": 130,
+          "top": 1126,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.306595
+        }
+      ]
+    },
+    {
+      "text": "3 html = Tw",
+      "left": 130,
+      "top": 1195,
+      "right": 418,
+      "bottom": 1228,
+      "height": 33,
+      "confidence": 68.8474645,
+      "words": [
+        {
+          "text": "3",
+          "left": 130,
+          "top": 1196,
+          "width": 18,
+          "height": 32,
+          "confidence": 96.513931
+        },
+        {
+          "text": "html",
+          "left": 186,
+          "top": 1195,
+          "width": 88,
+          "height": 33,
+          "confidence": 50.574871
+        },
+        {
+          "text": "=",
+          "left": 304,
+          "top": 1211,
+          "width": 22,
+          "height": 10,
+          "confidence": 84.395393
+        },
+        {
+          "text": "Tw",
+          "left": 356,
+          "top": 1195,
+          "width": 62,
+          "height": 11,
+          "confidence": 43.905663
+        }
+      ]
+    },
+    {
+      "text": "4 <book>",
+      "left": 128,
+      "top": 1265,
+      "right": 325,
+      "bottom": 1298,
+      "height": 33,
+      "confidence": 92.187134,
+      "words": [
+        {
+          "text": "4",
+          "left": 128,
+          "top": 1267,
+          "width": 22,
+          "height": 30,
+          "confidence": 92.262169
+        },
+        {
+          "text": "<book>",
+          "left": 185,
+          "top": 1265,
+          "width": 140,
+          "height": 33,
+          "confidence": 92.112099
+        }
+      ]
+    },
+    {
+      "text": "5 <id>1</id>",
+      "left": 130,
+      "top": 1335,
+      "right": 517,
+      "bottom": 1368,
+      "height": 33,
+      "confidence": 87.9591525,
+      "words": [
+        {
+          "text": "5",
+          "left": 130,
+          "top": 1337,
+          "width": 18,
+          "height": 31,
+          "confidence": 96.319733
+        },
+        {
+          "text": "<id>1</id>",
+          "left": 281,
+          "top": 1335,
+          "width": 236,
+          "height": 33,
+          "confidence": 79.598572
+        }
+      ]
+    },
+    {
+      "text": "6 <name> #¥74¢ im ith </name>",
+      "left": 129,
+      "top": 1399,
+      "right": 789,
+      "bottom": 1451,
+      "height": 52,
+      "confidence": 28.5147875,
+      "words": [
+        {
+          "text": "6",
+          "left": 129,
+          "top": 1406,
+          "width": 20,
+          "height": 32,
+          "confidence": 96.750458
+        },
+        {
+          "text": "<name>",
+          "left": 281,
+          "top": 1404,
+          "width": 389,
+          "height": 37,
+          "confidence": 61.783813
+        },
+        {
+          "text": "#¥74¢",
+          "left": 424,
+          "top": 1399,
+          "width": 74,
+          "height": 52,
+          "confidence": 6.277227
+        },
+        {
+          "text": "im",
+          "left": 506,
+          "top": 1399,
+          "width": 31,
+          "height": 52,
+          "confidence": 6.277227
+        },
+        {
+          "text": "ith",
+          "left": 545,
+          "top": 1399,
+          "width": 57,
+          "height": 52,
+          "confidence": 0.0
+        },
+        {
+          "text": "</name>",
+          "left": 674,
+          "top": 1415,
+          "width": 115,
+          "height": 23,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "7 <price>1.23</price>",
+      "left": 130,
+      "top": 1475,
+      "right": 733,
+      "bottom": 1516,
+      "height": 41,
+      "confidence": 91.67268,
+      "words": [
+        {
+          "text": "7",
+          "left": 130,
+          "top": 1477,
+          "width": 19,
+          "height": 30,
+          "confidence": 92.109154
+        },
+        {
+          "text": "<price>1.23</price>",
+          "left": 281,
+          "top": 1475,
+          "width": 452,
+          "height": 41,
+          "confidence": 91.236206
+        }
+      ]
+    },
+    {
+      "text": "8 <nick> 臭豆腐 </nick>",
+      "left": 130,
+      "top": 1541,
+      "right": 709,
+      "bottom": 1590,
+      "height": 49,
+      "confidence": 84.92879939999999,
+      "words": [
+        {
+          "text": "8",
+          "left": 130,
+          "top": 1547,
+          "width": 19,
+          "height": 32,
+          "confidence": 96.715775
+        },
+        {
+          "text": "<nick>",
+          "left": 281,
+          "top": 1545,
+          "width": 428,
+          "height": 37,
+          "confidence": 90.751022
+        },
+        {
+          "text": "臭",
+          "left": 439,
+          "top": 1541,
+          "width": 47,
+          "height": 49,
+          "confidence": 66.755791
+        },
+        {
+          "text": "豆腐",
+          "left": 485,
+          "top": 1541,
+          "width": 74,
+          "height": 49,
+          "confidence": 95.350845
+        },
+        {
+          "text": "</nick>",
+          "left": 558,
+          "top": 1545,
+          "width": 151,
+          "height": 37,
+          "confidence": 75.070564
+        }
+      ]
+    },
+    {
+      "text": "9 <author>",
+      "left": 129,
+      "top": 1616,
+      "right": 469,
+      "bottom": 1649,
+      "height": 33,
+      "confidence": 90.6309545,
+      "words": [
+        {
+          "text": "9",
+          "left": 129,
+          "top": 1617,
+          "width": 20,
+          "height": 32,
+          "confidence": 95.843147
+        },
+        {
+          "text": "<author>",
+          "left": 281,
+          "top": 1616,
+          "width": 188,
+          "height": 33,
+          "confidence": 85.418762
+        }
+      ]
+    },
+    {
+      "text": "10 <nick 1d=\"10086\"> 周大强 </nick>",
+      "left": 107,
+      "top": 1681,
+      "right": 1070,
+      "bottom": 1730,
+      "height": 49,
+      "confidence": 86.33235057142858,
+      "words": [
+        {
+          "text": "10",
+          "left": 107,
+          "top": 1687,
+          "width": 42,
+          "height": 32,
+          "confidence": 94.301743
+        },
+        {
+          "text": "<nick",
+          "left": 377,
+          "top": 1686,
+          "width": 117,
+          "height": 33,
+          "confidence": 91.243927
+        },
+        {
+          "text": "1d=\"10086\">",
+          "left": 522,
+          "top": 1685,
+          "width": 548,
+          "height": 37,
+          "confidence": 66.046974
+        },
+        {
+          "text": "周",
+          "left": 798,
+          "top": 1681,
+          "width": 44,
+          "height": 49,
+          "confidence": 91.592018
+        },
+        {
+          "text": "大",
+          "left": 841,
+          "top": 1681,
+          "width": 44,
+          "height": 49,
+          "confidence": 92.045273
+        },
+        {
+          "text": "强",
+          "left": 884,
+          "top": 1681,
+          "width": 35,
+          "height": 49,
+          "confidence": 92.930351
+        },
+        {
+          "text": "</nick>",
+          "left": 918,
+          "top": 1685,
+          "width": 152,
+          "height": 37,
+          "confidence": 76.166168
+        }
+      ]
+    },
+    {
+      "text": "11 <nick 1d=\"10010\"> 周正若 </nick>",
+      "left": 107,
+      "top": 1751,
+      "right": 1070,
+      "bottom": 1800,
+      "height": 49,
+      "confidence": 65.24517014285715,
+      "words": [
+        {
+          "text": "11",
+          "left": 107,
+          "top": 1758,
+          "width": 42,
+          "height": 30,
+          "confidence": 89.859924
+        },
+        {
+          "text": "<nick",
+          "left": 377,
+          "top": 1756,
+          "width": 117,
+          "height": 33,
+          "confidence": 91.883072
+        },
+        {
+          "text": "1d=\"10010\">",
+          "left": 522,
+          "top": 1755,
+          "width": 548,
+          "height": 37,
+          "confidence": 68.963837
+        },
+        {
+          "text": "周",
+          "left": 798,
+          "top": 1751,
+          "width": 47,
+          "height": 49,
+          "confidence": 91.521721
+        },
+        {
+          "text": "正",
+          "left": 844,
+          "top": 1751,
+          "width": 41,
+          "height": 49,
+          "confidence": 0.0
+        },
+        {
+          "text": "若",
+          "left": 884,
+          "top": 1751,
+          "width": 35,
+          "height": 49,
+          "confidence": 58.245144
+        },
+        {
+          "text": "</nick>",
+          "left": 918,
+          "top": 1755,
+          "width": 152,
+          "height": 37,
+          "confidence": 56.242493
+        }
+      ]
+    },
+    {
+      "text": "12 <nick clLass=\" joy\"> 周杰伦 </nick>",
+      "left": 107,
+      "top": 1820,
+      "right": 1094,
+      "bottom": 1872,
+      "height": 52,
+      "confidence": 81.758453,
+      "words": [
+        {
+          "text": "12",
+          "left": 107,
+          "top": 1827,
+          "width": 41,
+          "height": 31,
+          "confidence": 92.830574
+        },
+        {
+          "text": "<nick",
+          "left": 377,
+          "top": 1826,
+          "width": 117,
+          "height": 33,
+          "confidence": 91.93824
+        },
+        {
+          "text": "clLass=\"",
+          "left": 522,
+          "top": 1825,
+          "width": 572,
+          "height": 42,
+          "confidence": 24.718351
+        },
+        {
+          "text": "joy\">",
+          "left": 694,
+          "top": 1820,
+          "width": 128,
+          "height": 52,
+          "confidence": 90.644737
+        },
+        {
+          "text": "周",
+          "left": 821,
+          "top": 1820,
+          "width": 43,
+          "height": 52,
+          "confidence": 90.543892
+        },
+        {
+          "text": "杰",
+          "left": 863,
+          "top": 1820,
+          "width": 43,
+          "height": 52,
+          "confidence": 92.537811
+        },
+        {
+          "text": "伦",
+          "left": 906,
+          "top": 1820,
+          "width": 36,
+          "height": 52,
+          "confidence": 92.958275
+        },
+        {
+          "text": "</nick>",
+          "left": 941,
+          "top": 1825,
+          "width": 153,
+          "height": 42,
+          "confidence": 77.895744
+        }
+      ]
+    },
+    {
+      "text": "13 <nick clLass=\"]joLin\"> 华依林 </nick>",
+      "left": 107,
+      "top": 1891,
+      "right": 1142,
+      "bottom": 1941,
+      "height": 50,
+      "confidence": 64.75446285714285,
+      "words": [
+        {
+          "text": "13",
+          "left": 107,
+          "top": 1897,
+          "width": 41,
+          "height": 32,
+          "confidence": 89.872177
+        },
+        {
+          "text": "<nick",
+          "left": 377,
+          "top": 1896,
+          "width": 117,
+          "height": 33,
+          "confidence": 92.560486
+        },
+        {
+          "text": "clLass=\"]joLin\">",
+          "left": 522,
+          "top": 1895,
+          "width": 620,
+          "height": 42,
+          "confidence": 17.833738
+        },
+        {
+          "text": "华",
+          "left": 866,
+          "top": 1891,
+          "width": 48,
+          "height": 50,
+          "confidence": 0.0
+        },
+        {
+          "text": "依",
+          "left": 913,
+          "top": 1891,
+          "width": 39,
+          "height": 50,
+          "confidence": 90.656982
+        },
+        {
+          "text": "林",
+          "left": 951,
+          "top": 1891,
+          "width": 32,
+          "height": 50,
+          "confidence": 92.99482
+        },
+        {
+          "text": "</nick>",
+          "left": 982,
+          "top": 1895,
+          "width": 160,
+          "height": 42,
+          "confidence": 69.363037
+        }
+      ]
+    }
+  ]
+}

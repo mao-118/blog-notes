@@ -1,0 +1,2097 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/coroutines/page-2.png",
+  "lines": [
+    {
+      "text": "切换到其他程序上去执行. 此时, 对于你来说, CPU 其实并没有为你",
+      "left": 91,
+      "top": 121,
+      "right": 1357,
+      "bottom": 182,
+      "height": 61,
+      "confidence": 94.41278291999997,
+      "words": [
+        {
+          "text": "切换",
+          "left": 91,
+          "top": 126,
+          "width": 103,
+          "height": 41,
+          "confidence": 83.643356
+        },
+        {
+          "text": "到",
+          "left": 205,
+          "top": 126,
+          "width": 12,
+          "height": 40,
+          "confidence": 95.734352
+        },
+        {
+          "text": "其",
+          "left": 239,
+          "top": 126,
+          "width": 40,
+          "height": 41,
+          "confidence": 96.266014
+        },
+        {
+          "text": "他",
+          "left": 281,
+          "top": 126,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.496376
+        },
+        {
+          "text": "程序",
+          "left": 331,
+          "top": 121,
+          "width": 88,
+          "height": 61,
+          "confidence": 95.170334
+        },
+        {
+          "text": "上",
+          "left": 418,
+          "top": 126,
+          "width": 21,
+          "height": 39,
+          "confidence": 96.96804
+        },
+        {
+          "text": "去",
+          "left": 456,
+          "top": 126,
+          "width": 45,
+          "height": 41,
+          "confidence": 96.926628
+        },
+        {
+          "text": "执行",
+          "left": 502,
+          "top": 126,
+          "width": 80,
+          "height": 40,
+          "confidence": 93.02372
+        },
+        {
+          "text": ".",
+          "left": 582,
+          "top": 121,
+          "width": 16,
+          "height": 61,
+          "confidence": 91.72863
+        },
+        {
+          "text": "此",
+          "left": 620,
+          "top": 127,
+          "width": 38,
+          "height": 38,
+          "confidence": 96.098236
+        },
+        {
+          "text": "时",
+          "left": 660,
+          "top": 126,
+          "width": 24,
+          "height": 40,
+          "confidence": 93.141968
+        },
+        {
+          "text": ",",
+          "left": 690,
+          "top": 157,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.637215
+        },
+        {
+          "text": "对",
+          "left": 731,
+          "top": 126,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.909485
+        },
+        {
+          "text": "于",
+          "left": 769,
+          "top": 126,
+          "width": 43,
+          "height": 40,
+          "confidence": 95.917442
+        },
+        {
+          "text": "你",
+          "left": 811,
+          "top": 126,
+          "width": 54,
+          "height": 40,
+          "confidence": 96.356064
+        },
+        {
+          "text": "来",
+          "left": 888,
+          "top": 127,
+          "width": 15,
+          "height": 37,
+          "confidence": 96.244492
+        },
+        {
+          "text": "说",
+          "left": 910,
+          "top": 126,
+          "width": 29,
+          "height": 42,
+          "confidence": 93.272217
+        },
+        {
+          "text": ",",
+          "left": 941,
+          "top": 121,
+          "width": 20,
+          "height": 61,
+          "confidence": 90.390228
+        },
+        {
+          "text": "CPU",
+          "left": 957,
+          "top": 126,
+          "width": 308,
+          "height": 41,
+          "confidence": 96.576714
+        },
+        {
+          "text": "其",
+          "left": 1059,
+          "top": 121,
+          "width": 50,
+          "height": 61,
+          "confidence": 93.180328
+        },
+        {
+          "text": "实",
+          "left": 1108,
+          "top": 121,
+          "width": 43,
+          "height": 61,
+          "confidence": 90.836395
+        },
+        {
+          "text": "并",
+          "left": 1150,
+          "top": 121,
+          "width": 55,
+          "height": 61,
+          "confidence": 93.170464
+        },
+        {
+          "text": "没有",
+          "left": 1204,
+          "top": 121,
+          "width": 77,
+          "height": 61,
+          "confidence": 96.050674
+        },
+        {
+          "text": "为",
+          "left": 1269,
+          "top": 126,
+          "width": 83,
+          "height": 40,
+          "confidence": 96.828873
+        },
+        {
+          "text": "你",
+          "left": 1326,
+          "top": 121,
+          "width": 31,
+          "height": 61,
+          "confidence": 96.751328
+        }
+      ]
+    },
+    {
+      "text": "工作 (在这三秒内), 那么我们能不能通过某种手段, 让 CPU 一直为我而",
+      "left": 91,
+      "top": 192,
+      "right": 1401,
+      "bottom": 254,
+      "height": 62,
+      "confidence": 92.6730802,
+      "words": [
+        {
+          "text": "工作",
+          "left": 91,
+          "top": 196,
+          "width": 338,
+          "height": 45,
+          "confidence": 96.47744
+        },
+        {
+          "text": "(在",
+          "left": 176,
+          "top": 192,
+          "width": 74,
+          "height": 62,
+          "confidence": 96.956558
+        },
+        {
+          "text": "这",
+          "left": 249,
+          "top": 192,
+          "width": 48,
+          "height": 62,
+          "confidence": 96.582512
+        },
+        {
+          "text": "三",
+          "left": 296,
+          "top": 192,
+          "width": 43,
+          "height": 62,
+          "confidence": 93.302582
+        },
+        {
+          "text": "秒",
+          "left": 338,
+          "top": 192,
+          "width": 44,
+          "height": 62,
+          "confidence": 78.396889
+        },
+        {
+          "text": "内",
+          "left": 381,
+          "top": 192,
+          "width": 24,
+          "height": 62,
+          "confidence": 93.091858
+        },
+        {
+          "text": "),",
+          "left": 404,
+          "top": 192,
+          "width": 32,
+          "height": 62,
+          "confidence": 87.5634
+        },
+        {
+          "text": "那么",
+          "left": 466,
+          "top": 196,
+          "width": 90,
+          "height": 40,
+          "confidence": 96.857849
+        },
+        {
+          "text": "我",
+          "left": 578,
+          "top": 196,
+          "width": 21,
+          "height": 41,
+          "confidence": 93.103531
+        },
+        {
+          "text": "们",
+          "left": 603,
+          "top": 196,
+          "width": 31,
+          "height": 41,
+          "confidence": 92.969658
+        },
+        {
+          "text": "能",
+          "left": 645,
+          "top": 196,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.916367
+        },
+        {
+          "text": "不",
+          "left": 679,
+          "top": 196,
+          "width": 48,
+          "height": 41,
+          "confidence": 96.617592
+        },
+        {
+          "text": "能",
+          "left": 733,
+          "top": 196,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.919395
+        },
+        {
+          "text": "通过",
+          "left": 772,
+          "top": 196,
+          "width": 67,
+          "height": 40,
+          "confidence": 93.023483
+        },
+        {
+          "text": "某",
+          "left": 858,
+          "top": 196,
+          "width": 46,
+          "height": 41,
+          "confidence": 91.947891
+        },
+        {
+          "text": "种",
+          "left": 905,
+          "top": 196,
+          "width": 47,
+          "height": 40,
+          "confidence": 67.359238
+        },
+        {
+          "text": "手段",
+          "left": 975,
+          "top": 196,
+          "width": 51,
+          "height": 42,
+          "confidence": 93.193871
+        },
+        {
+          "text": ",",
+          "left": 1032,
+          "top": 192,
+          "width": 13,
+          "height": 62,
+          "confidence": 92.972733
+        },
+        {
+          "text": "让",
+          "left": 1067,
+          "top": 196,
+          "width": 17,
+          "height": 39,
+          "confidence": 95.688942
+        },
+        {
+          "text": "CPU",
+          "left": 1087,
+          "top": 196,
+          "width": 309,
+          "height": 40,
+          "confidence": 96.441673
+        },
+        {
+          "text": "一",
+          "left": 1191,
+          "top": 192,
+          "width": 43,
+          "height": 62,
+          "confidence": 93.288231
+        },
+        {
+          "text": "直",
+          "left": 1234,
+          "top": 192,
+          "width": 47,
+          "height": 62,
+          "confidence": 90.228188
+        },
+        {
+          "text": "为",
+          "left": 1280,
+          "top": 192,
+          "width": 51,
+          "height": 62,
+          "confidence": 93.051178
+        },
+        {
+          "text": "我",
+          "left": 1330,
+          "top": 192,
+          "width": 44,
+          "height": 62,
+          "confidence": 96.953255
+        },
+        {
+          "text": "而",
+          "left": 1373,
+          "top": 192,
+          "width": 28,
+          "height": 62,
+          "confidence": 96.922691
+        }
+      ]
+    },
+    {
+      "text": "工作. 尽量的不要去管其他人.",
+      "left": 91,
+      "top": 266,
+      "right": 651,
+      "bottom": 307,
+      "height": 41,
+      "confidence": 92.50860658333335,
+      "words": [
+        {
+          "text": "工作",
+          "left": 91,
+          "top": 266,
+          "width": 84,
+          "height": 40,
+          "confidence": 92.608307
+        },
+        {
+          "text": ".",
+          "left": 181,
+          "top": 297,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.333267
+        },
+        {
+          "text": "尽量",
+          "left": 222,
+          "top": 266,
+          "width": 85,
+          "height": 40,
+          "confidence": 96.711433
+        },
+        {
+          "text": "的",
+          "left": 308,
+          "top": 266,
+          "width": 22,
+          "height": 40,
+          "confidence": 97.006096
+        },
+        {
+          "text": "不",
+          "left": 354,
+          "top": 268,
+          "width": 21,
+          "height": 39,
+          "confidence": 96.893463
+        },
+        {
+          "text": "要",
+          "left": 397,
+          "top": 268,
+          "width": 22,
+          "height": 38,
+          "confidence": 96.890556
+        },
+        {
+          "text": "去",
+          "left": 435,
+          "top": 266,
+          "width": 28,
+          "height": 41,
+          "confidence": 93.279755
+        },
+        {
+          "text": "管",
+          "left": 486,
+          "top": 266,
+          "width": 51,
+          "height": 40,
+          "confidence": 93.184555
+        },
+        {
+          "text": "其",
+          "left": 555,
+          "top": 266,
+          "width": 13,
+          "height": 41,
+          "confidence": 72.145569
+        },
+        {
+          "text": "他",
+          "left": 579,
+          "top": 266,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.376686
+        },
+        {
+          "text": "人",
+          "left": 610,
+          "top": 266,
+          "width": 24,
+          "height": 40,
+          "confidence": 92.181145
+        },
+        {
+          "text": ".",
+          "left": 646,
+          "top": 297,
+          "width": 5,
+          "height": 5,
+          "confidence": 90.492447
+        }
+      ]
+    },
+    {
+      "text": "我们要知道 CPU 一般抛开执行周期不谈, 如果一个线程遇到了 IO 操",
+      "left": 91,
+      "top": 398,
+      "right": 1351,
+      "bottom": 460,
+      "height": 62,
+      "confidence": 92.03014845833333,
+      "words": [
+        {
+          "text": "我",
+          "left": 91,
+          "top": 402,
+          "width": 66,
+          "height": 41,
+          "confidence": 92.576202
+        },
+        {
+          "text": "们",
+          "left": 160,
+          "top": 405,
+          "width": 13,
+          "height": 37,
+          "confidence": 92.871475
+        },
+        {
+          "text": "要",
+          "left": 191,
+          "top": 402,
+          "width": 48,
+          "height": 40,
+          "confidence": 95.755699
+        },
+        {
+          "text": "知道",
+          "left": 246,
+          "top": 402,
+          "width": 89,
+          "height": 40,
+          "confidence": 96.787201
+        },
+        {
+          "text": "CPU",
+          "left": 335,
+          "top": 398,
+          "width": 63,
+          "height": 62,
+          "confidence": 95.259163
+        },
+        {
+          "text": "一",
+          "left": 412,
+          "top": 402,
+          "width": 47,
+          "height": 40,
+          "confidence": 93.205917
+        },
+        {
+          "text": "般",
+          "left": 467,
+          "top": 402,
+          "width": 37,
+          "height": 40,
+          "confidence": 85.211563
+        },
+        {
+          "text": "抛",
+          "left": 509,
+          "top": 402,
+          "width": 22,
+          "height": 40,
+          "confidence": 78.087372
+        },
+        {
+          "text": "开",
+          "left": 552,
+          "top": 402,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.242569
+        },
+        {
+          "text": "执行",
+          "left": 592,
+          "top": 402,
+          "width": 96,
+          "height": 40,
+          "confidence": 96.849365
+        },
+        {
+          "text": "周期",
+          "left": 711,
+          "top": 402,
+          "width": 66,
+          "height": 41,
+          "confidence": 96.787613
+        },
+        {
+          "text": "不",
+          "left": 799,
+          "top": 403,
+          "width": 14,
+          "height": 38,
+          "confidence": 93.042648
+        },
+        {
+          "text": "谈",
+          "left": 819,
+          "top": 402,
+          "width": 20,
+          "height": 41,
+          "confidence": 92.942604
+        },
+        {
+          "text": ",",
+          "left": 846,
+          "top": 433,
+          "width": 4,
+          "height": 11,
+          "confidence": 91.558411
+        },
+        {
+          "text": "如",
+          "left": 889,
+          "top": 402,
+          "width": 17,
+          "height": 40,
+          "confidence": 92.669701
+        },
+        {
+          "text": "果",
+          "left": 924,
+          "top": 404,
+          "width": 28,
+          "height": 38,
+          "confidence": 92.081978
+        },
+        {
+          "text": "一",
+          "left": 970,
+          "top": 420,
+          "width": 26,
+          "height": 3,
+          "confidence": 92.917198
+        },
+        {
+          "text": "个",
+          "left": 1017,
+          "top": 402,
+          "width": 43,
+          "height": 40,
+          "confidence": 96.177429
+        },
+        {
+          "text": "线程",
+          "left": 1059,
+          "top": 402,
+          "width": 94,
+          "height": 40,
+          "confidence": 93.099968
+        },
+        {
+          "text": "遇",
+          "left": 1176,
+          "top": 404,
+          "width": 16,
+          "height": 38,
+          "confidence": 91.715027
+        },
+        {
+          "text": "到",
+          "left": 1202,
+          "top": 402,
+          "width": 12,
+          "height": 40,
+          "confidence": 90.013359
+        },
+        {
+          "text": "了",
+          "left": 1230,
+          "top": 405,
+          "width": 26,
+          "height": 37,
+          "confidence": 96.736938
+        },
+        {
+          "text": "IO",
+          "left": 1266,
+          "top": 402,
+          "width": 83,
+          "height": 40,
+          "confidence": 79.98745
+        },
+        {
+          "text": "操",
+          "left": 1315,
+          "top": 398,
+          "width": 36,
+          "height": 62,
+          "confidence": 89.146713
+        }
+      ]
+    },
+    {
+      "text": "fF, CPU 就会目动的切换到其他线程进行执行. BA, 如果我想办法",
+      "left": 91,
+      "top": 468,
+      "right": 1353,
+      "bottom": 530,
+      "height": 62,
+      "confidence": 91.16857836363637,
+      "words": [
+        {
+          "text": "fF,",
+          "left": 91,
+          "top": 472,
+          "width": 51,
+          "height": 42,
+          "confidence": 68.431168
+        },
+        {
+          "text": "CPU",
+          "left": 176,
+          "top": 472,
+          "width": 90,
+          "height": 40,
+          "confidence": 96.418968
+        },
+        {
+          "text": "就",
+          "left": 269,
+          "top": 472,
+          "width": 51,
+          "height": 40,
+          "confidence": 88.671997
+        },
+        {
+          "text": "会",
+          "left": 344,
+          "top": 472,
+          "width": 19,
+          "height": 40,
+          "confidence": 91.880142
+        },
+        {
+          "text": "目",
+          "left": 383,
+          "top": 475,
+          "width": 20,
+          "height": 33,
+          "confidence": 88.651726
+        },
+        {
+          "text": "动",
+          "left": 404,
+          "top": 472,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.012672
+        },
+        {
+          "text": "的",
+          "left": 447,
+          "top": 472,
+          "width": 42,
+          "height": 40,
+          "confidence": 96.999054
+        },
+        {
+          "text": "切换",
+          "left": 490,
+          "top": 472,
+          "width": 86,
+          "height": 41,
+          "confidence": 95.080231
+        },
+        {
+          "text": "到",
+          "left": 586,
+          "top": 472,
+          "width": 12,
+          "height": 40,
+          "confidence": 96.48439
+        },
+        {
+          "text": "其",
+          "left": 617,
+          "top": 472,
+          "width": 43,
+          "height": 41,
+          "confidence": 96.724472
+        },
+        {
+          "text": "他",
+          "left": 660,
+          "top": 472,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.122734
+        },
+        {
+          "text": "线程",
+          "left": 707,
+          "top": 472,
+          "width": 69,
+          "height": 40,
+          "confidence": 85.429886
+        },
+        {
+          "text": "进行",
+          "left": 800,
+          "top": 472,
+          "width": 82,
+          "height": 40,
+          "confidence": 96.600197
+        },
+        {
+          "text": "执行",
+          "left": 885,
+          "top": 472,
+          "width": 78,
+          "height": 40,
+          "confidence": 93.037712
+        },
+        {
+          "text": ".",
+          "left": 962,
+          "top": 468,
+          "width": 13,
+          "height": 62,
+          "confidence": 71.91098
+        },
+        {
+          "text": "BA,",
+          "left": 980,
+          "top": 472,
+          "width": 96,
+          "height": 42,
+          "confidence": 86.029961
+        },
+        {
+          "text": "如",
+          "left": 1113,
+          "top": 472,
+          "width": 18,
+          "height": 40,
+          "confidence": 93.015564
+        },
+        {
+          "text": "果",
+          "left": 1148,
+          "top": 474,
+          "width": 29,
+          "height": 38,
+          "confidence": 91.985771
+        },
+        {
+          "text": "我",
+          "left": 1195,
+          "top": 472,
+          "width": 48,
+          "height": 40,
+          "confidence": 92.452003
+        },
+        {
+          "text": "想",
+          "left": 1245,
+          "top": 474,
+          "width": 20,
+          "height": 38,
+          "confidence": 93.092628
+        },
+        {
+          "text": "办",
+          "left": 1280,
+          "top": 472,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.833725
+        },
+        {
+          "text": "法",
+          "left": 1324,
+          "top": 472,
+          "width": 29,
+          "height": 40,
+          "confidence": 96.842743
+        }
+      ]
+    },
+    {
+      "text": "让我的线程遇到了 IO 操作束挂起, 留下的都是运算操作. 那 CPU 是不",
+      "left": 91,
+      "top": 539,
+      "right": 1378,
+      "bottom": 601,
+      "height": 62,
+      "confidence": 86.33046060000001,
+      "words": [
+        {
+          "text": "让",
+          "left": 91,
+          "top": 543,
+          "width": 41,
+          "height": 39,
+          "confidence": 96.73217
+        },
+        {
+          "text": "我",
+          "left": 149,
+          "top": 543,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.912628
+        },
+        {
+          "text": "的",
+          "left": 199,
+          "top": 543,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.964493
+        },
+        {
+          "text": "线程",
+          "left": 242,
+          "top": 543,
+          "width": 90,
+          "height": 40,
+          "confidence": 93.159798
+        },
+        {
+          "text": "遇",
+          "left": 355,
+          "top": 545,
+          "width": 15,
+          "height": 38,
+          "confidence": 91.741402
+        },
+        {
+          "text": "到",
+          "left": 381,
+          "top": 543,
+          "width": 12,
+          "height": 40,
+          "confidence": 90.935425
+        },
+        {
+          "text": "了",
+          "left": 408,
+          "top": 546,
+          "width": 27,
+          "height": 37,
+          "confidence": 96.81266
+        },
+        {
+          "text": "IO",
+          "left": 445,
+          "top": 543,
+          "width": 53,
+          "height": 40,
+          "confidence": 90.438446
+        },
+        {
+          "text": "操作",
+          "left": 500,
+          "top": 543,
+          "width": 72,
+          "height": 40,
+          "confidence": 93.231972
+        },
+        {
+          "text": "束",
+          "left": 583,
+          "top": 543,
+          "width": 51,
+          "height": 40,
+          "confidence": 0.422678
+        },
+        {
+          "text": "挂",
+          "left": 633,
+          "top": 543,
+          "width": 27,
+          "height": 39,
+          "confidence": 0.0
+        },
+        {
+          "text": "起",
+          "left": 683,
+          "top": 543,
+          "width": 21,
+          "height": 40,
+          "confidence": 93.146561
+        },
+        {
+          "text": ",",
+          "left": 710,
+          "top": 574,
+          "width": 5,
+          "height": 11,
+          "confidence": 91.461601
+        },
+        {
+          "text": "留",
+          "left": 757,
+          "top": 543,
+          "width": 14,
+          "height": 40,
+          "confidence": 92.642136
+        },
+        {
+          "text": "下",
+          "left": 796,
+          "top": 543,
+          "width": 35,
+          "height": 41,
+          "confidence": 96.57592
+        },
+        {
+          "text": "的",
+          "left": 838,
+          "top": 543,
+          "width": 44,
+          "height": 40,
+          "confidence": 96.919487
+        },
+        {
+          "text": "都",
+          "left": 890,
+          "top": 545,
+          "width": 14,
+          "height": 38,
+          "confidence": 96.794487
+        },
+        {
+          "text": "是",
+          "left": 927,
+          "top": 544,
+          "width": 22,
+          "height": 39,
+          "confidence": 96.775879
+        },
+        {
+          "text": "运算",
+          "left": 970,
+          "top": 543,
+          "width": 84,
+          "height": 41,
+          "confidence": 96.74353
+        },
+        {
+          "text": "操作",
+          "left": 1055,
+          "top": 543,
+          "width": 70,
+          "height": 40,
+          "confidence": 92.963814
+        },
+        {
+          "text": ".",
+          "left": 1131,
+          "top": 574,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.82505
+        },
+        {
+          "text": "那",
+          "left": 1179,
+          "top": 545,
+          "width": 40,
+          "height": 38,
+          "confidence": 88.135506
+        },
+        {
+          "text": "CPU",
+          "left": 1218,
+          "top": 544,
+          "width": 156,
+          "height": 40,
+          "confidence": 87.947273
+        },
+        {
+          "text": "是",
+          "left": 1299,
+          "top": 539,
+          "width": 48,
+          "height": 62,
+          "confidence": 91.495338
+        },
+        {
+          "text": "不",
+          "left": 1346,
+          "top": 539,
+          "width": 32,
+          "height": 62,
+          "confidence": 96.483261
+        }
+      ]
+    },
+    {
+      "text": "是就会长时间的来照顾我 ~.",
+      "left": 92,
+      "top": 609,
+      "right": 611,
+      "bottom": 670,
+      "height": 61,
+      "confidence": 95.24674981818181,
+      "words": [
+        {
+          "text": "是",
+          "left": 92,
+          "top": 613,
+          "width": 61,
+          "height": 40,
+          "confidence": 96.679741
+        },
+        {
+          "text": "就",
+          "left": 153,
+          "top": 613,
+          "width": 50,
+          "height": 40,
+          "confidence": 96.564461
+        },
+        {
+          "text": "会",
+          "left": 224,
+          "top": 613,
+          "width": 25,
+          "height": 40,
+          "confidence": 96.934311
+        },
+        {
+          "text": "长",
+          "left": 269,
+          "top": 616,
+          "width": 12,
+          "height": 34,
+          "confidence": 96.929054
+        },
+        {
+          "text": "时",
+          "left": 290,
+          "top": 613,
+          "width": 35,
+          "height": 40,
+          "confidence": 92.384804
+        },
+        {
+          "text": "间",
+          "left": 324,
+          "top": 613,
+          "width": 43,
+          "height": 40,
+          "confidence": 93.111061
+        },
+        {
+          "text": "的",
+          "left": 372,
+          "top": 613,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.215118
+        },
+        {
+          "text": "来",
+          "left": 415,
+          "top": 613,
+          "width": 45,
+          "height": 41,
+          "confidence": 96.889488
+        },
+        {
+          "text": "照顾",
+          "left": 460,
+          "top": 613,
+          "width": 148,
+          "height": 41,
+          "confidence": 95.771492
+        },
+        {
+          "text": "我",
+          "left": 553,
+          "top": 609,
+          "width": 31,
+          "height": 61,
+          "confidence": 96.770355
+        },
+        {
+          "text": "~.",
+          "left": 583,
+          "top": 609,
+          "width": 28,
+          "height": 61,
+          "confidence": 92.464363
+        }
+      ]
+    },
+    {
+      "text": "以此为目的, 伟大的程序员就发明了一个新的执行过程. 当线程中遇",
+      "left": 94,
+      "top": 745,
+      "right": 1371,
+      "bottom": 806,
+      "height": 61,
+      "confidence": 90.32127345833334,
+      "words": [
+        {
+          "text": "以",
+          "left": 94,
+          "top": 749,
+          "width": 54,
+          "height": 40,
+          "confidence": 96.78643
+        },
+        {
+          "text": "此",
+          "left": 159,
+          "top": 750,
+          "width": 16,
+          "height": 38,
+          "confidence": 96.993629
+        },
+        {
+          "text": "为",
+          "left": 192,
+          "top": 749,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.724487
+        },
+        {
+          "text": "目的",
+          "left": 228,
+          "top": 749,
+          "width": 90,
+          "height": 42,
+          "confidence": 93.276672
+        },
+        {
+          "text": ",",
+          "left": 311,
+          "top": 745,
+          "width": 16,
+          "height": 61,
+          "confidence": 92.672928
+        },
+        {
+          "text": "伟大",
+          "left": 335,
+          "top": 749,
+          "width": 215,
+          "height": 41,
+          "confidence": 95.29142
+        },
+        {
+          "text": "的",
+          "left": 433,
+          "top": 745,
+          "width": 50,
+          "height": 61,
+          "confidence": 96.818993
+        },
+        {
+          "text": "程序",
+          "left": 482,
+          "top": 749,
+          "width": 68,
+          "height": 41,
+          "confidence": 93.23867
+        },
+        {
+          "text": "员",
+          "left": 570,
+          "top": 749,
+          "width": 47,
+          "height": 40,
+          "confidence": 93.074135
+        },
+        {
+          "text": "就",
+          "left": 618,
+          "top": 749,
+          "width": 52,
+          "height": 40,
+          "confidence": 40.806526
+        },
+        {
+          "text": "发",
+          "left": 690,
+          "top": 750,
+          "width": 26,
+          "height": 39,
+          "confidence": 95.680374
+        },
+        {
+          "text": "明了",
+          "left": 715,
+          "top": 745,
+          "width": 53,
+          "height": 61,
+          "confidence": 96.473076
+        },
+        {
+          "text": "一",
+          "left": 787,
+          "top": 767,
+          "width": 29,
+          "height": 3,
+          "confidence": 96.389183
+        },
+        {
+          "text": "个",
+          "left": 833,
+          "top": 749,
+          "width": 47,
+          "height": 41,
+          "confidence": 96.696976
+        },
+        {
+          "text": "新",
+          "left": 883,
+          "top": 749,
+          "width": 41,
+          "height": 41,
+          "confidence": 96.995979
+        },
+        {
+          "text": "的",
+          "left": 925,
+          "top": 749,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.987915
+        },
+        {
+          "text": "执行",
+          "left": 970,
+          "top": 749,
+          "width": 66,
+          "height": 40,
+          "confidence": 96.283432
+        },
+        {
+          "text": "过",
+          "left": 1058,
+          "top": 749,
+          "width": 42,
+          "height": 40,
+          "confidence": 92.824715
+        },
+        {
+          "text": "程",
+          "left": 1100,
+          "top": 751,
+          "width": 35,
+          "height": 37,
+          "confidence": 92.988228
+        },
+        {
+          "text": ".",
+          "left": 1134,
+          "top": 745,
+          "width": 16,
+          "height": 61,
+          "confidence": 90.38575
+        },
+        {
+          "text": "当",
+          "left": 1168,
+          "top": 749,
+          "width": 43,
+          "height": 40,
+          "confidence": 93.075409
+        },
+        {
+          "text": "线程",
+          "left": 1212,
+          "top": 749,
+          "width": 157,
+          "height": 41,
+          "confidence": 65.691681
+        },
+        {
+          "text": "中",
+          "left": 1306,
+          "top": 745,
+          "width": 31,
+          "height": 61,
+          "confidence": 93.296921
+        },
+        {
+          "text": "遇",
+          "left": 1336,
+          "top": 745,
+          "width": 35,
+          "height": 61,
+          "confidence": 68.257034
+        }
+      ]
+    },
+    {
+      "text": "到了 IO 操作的时候, 将线程中的任务进行切换, 切换成非 IO 操作. 等",
+      "left": 91,
+      "top": 815,
+      "right": 1363,
+      "bottom": 876,
+      "height": 61,
+      "confidence": 93.20273291304349,
+      "words": [
+        {
+          "text": "到",
+          "left": 91,
+          "top": 819,
+          "width": 38,
+          "height": 40,
+          "confidence": 96.550751
+        },
+        {
+          "text": "了",
+          "left": 144,
+          "top": 822,
+          "width": 27,
+          "height": 37,
+          "confidence": 96.89814
+        },
+        {
+          "text": "IO",
+          "left": 181,
+          "top": 819,
+          "width": 55,
+          "height": 40,
+          "confidence": 94.588837
+        },
+        {
+          "text": "操作",
+          "left": 236,
+          "top": 819,
+          "width": 215,
+          "height": 42,
+          "confidence": 96.488579
+        },
+        {
+          "text": "的",
+          "left": 327,
+          "top": 815,
+          "width": 46,
+          "height": 61,
+          "confidence": 95.503494
+        },
+        {
+          "text": "时",
+          "left": 372,
+          "top": 815,
+          "width": 40,
+          "height": 61,
+          "confidence": 93.29245
+        },
+        {
+          "text": "候",
+          "left": 411,
+          "top": 815,
+          "width": 31,
+          "height": 61,
+          "confidence": 92.758667
+        },
+        {
+          "text": ",",
+          "left": 441,
+          "top": 815,
+          "width": 16,
+          "height": 61,
+          "confidence": 92.386871
+        },
+        {
+          "text": "将",
+          "left": 483,
+          "top": 819,
+          "width": 45,
+          "height": 40,
+          "confidence": 95.685898
+        },
+        {
+          "text": "线程",
+          "left": 529,
+          "top": 819,
+          "width": 92,
+          "height": 41,
+          "confidence": 93.012482
+        },
+        {
+          "text": "中",
+          "left": 646,
+          "top": 819,
+          "width": 13,
+          "height": 39,
+          "confidence": 96.993614
+        },
+        {
+          "text": "的",
+          "left": 661,
+          "top": 819,
+          "width": 40,
+          "height": 41,
+          "confidence": 95.726547
+        },
+        {
+          "text": "任务",
+          "left": 704,
+          "top": 819,
+          "width": 69,
+          "height": 40,
+          "confidence": 96.775658
+        },
+        {
+          "text": "进行",
+          "left": 796,
+          "top": 819,
+          "width": 87,
+          "height": 40,
+          "confidence": 96.666916
+        },
+        {
+          "text": "切换",
+          "left": 883,
+          "top": 819,
+          "width": 66,
+          "height": 41,
+          "confidence": 72.040329
+        },
+        {
+          "text": ",",
+          "left": 955,
+          "top": 850,
+          "width": 5,
+          "height": 11,
+          "confidence": 92.315712
+        },
+        {
+          "text": "切换",
+          "left": 994,
+          "top": 819,
+          "width": 92,
+          "height": 41,
+          "confidence": 95.367607
+        },
+        {
+          "text": "成",
+          "left": 1109,
+          "top": 819,
+          "width": 17,
+          "height": 40,
+          "confidence": 93.194489
+        },
+        {
+          "text": "非",
+          "left": 1133,
+          "top": 819,
+          "width": 16,
+          "height": 40,
+          "confidence": 93.149437
+        },
+        {
+          "text": "IO",
+          "left": 1173,
+          "top": 819,
+          "width": 51,
+          "height": 40,
+          "confidence": 81.97039
+        },
+        {
+          "text": "操作",
+          "left": 1223,
+          "top": 819,
+          "width": 72,
+          "height": 40,
+          "confidence": 93.129951
+        },
+        {
+          "text": ".",
+          "left": 1301,
+          "top": 850,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.319496
+        },
+        {
+          "text": "等",
+          "left": 1323,
+          "top": 819,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.846542
+        }
+      ]
+    },
+    {
+      "text": "原来的 IO 执行完了. 再恢复回原来的任务中.",
+      "left": 91,
+      "top": 885,
+      "right": 916,
+      "bottom": 946,
+      "height": 61,
+      "confidence": 94.23256800000001,
+      "words": [
+        {
+          "text": "原来",
+          "left": 91,
+          "top": 889,
+          "width": 360,
+          "height": 40,
+          "confidence": 96.706505
+        },
+        {
+          "text": "的",
+          "left": 201,
+          "top": 885,
+          "width": 31,
+          "height": 61,
+          "confidence": 96.732315
+        },
+        {
+          "text": "IO",
+          "left": 231,
+          "top": 885,
+          "width": 51,
+          "height": 61,
+          "confidence": 85.378128
+        },
+        {
+          "text": "执行",
+          "left": 281,
+          "top": 889,
+          "width": 108,
+          "height": 40,
+          "confidence": 96.630966
+        },
+        {
+          "text": "完了",
+          "left": 388,
+          "top": 885,
+          "width": 54,
+          "height": 61,
+          "confidence": 93.226646
+        },
+        {
+          "text": ".",
+          "left": 441,
+          "top": 885,
+          "width": 16,
+          "height": 61,
+          "confidence": 92.700722
+        },
+        {
+          "text": "再",
+          "left": 487,
+          "top": 889,
+          "width": 34,
+          "height": 40,
+          "confidence": 96.773232
+        },
+        {
+          "text": "恢复",
+          "left": 525,
+          "top": 889,
+          "width": 70,
+          "height": 40,
+          "confidence": 93.172493
+        },
+        {
+          "text": "回",
+          "left": 616,
+          "top": 892,
+          "width": 22,
+          "height": 37,
+          "confidence": 93.004807
+        },
+        {
+          "text": "原来",
+          "left": 662,
+          "top": 889,
+          "width": 87,
+          "height": 40,
+          "confidence": 96.810959
+        },
+        {
+          "text": "的",
+          "left": 754,
+          "top": 889,
+          "width": 36,
+          "height": 41,
+          "confidence": 96.5532
+        },
+        {
+          "text": "任务",
+          "left": 796,
+          "top": 889,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.892448
+        },
+        {
+          "text": "中",
+          "left": 876,
+          "top": 889,
+          "width": 24,
+          "height": 41,
+          "confidence": 93.256905
+        },
+        {
+          "text": ".",
+          "left": 911,
+          "top": 920,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.416626
+        }
+      ]
+    },
+    {
+      "text": "束形成了这样一种模型, 在程序遇到了 IO 操作 (费时不费力的操作) 时，",
+      "left": 91,
+      "top": 1697,
+      "right": 1379,
+      "bottom": 1759,
+      "height": 62,
+      "confidence": 85.19935399999999,
+      "words": [
+        {
+          "text": "束",
+          "left": 91,
+          "top": 1701,
+          "width": 58,
+          "height": 40,
+          "confidence": 16.273212
+        },
+        {
+          "text": "形",
+          "left": 158,
+          "top": 1701,
+          "width": 53,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "成",
+          "left": 226,
+          "top": 1704,
+          "width": 24,
+          "height": 37,
+          "confidence": 96.246307
+        },
+        {
+          "text": "了",
+          "left": 249,
+          "top": 1697,
+          "width": 28,
+          "height": 62,
+          "confidence": 96.77816
+        },
+        {
+          "text": "这",
+          "left": 276,
+          "top": 1701,
+          "width": 50,
+          "height": 40,
+          "confidence": 93.073769
+        },
+        {
+          "text": "样",
+          "left": 327,
+          "top": 1701,
+          "width": 51,
+          "height": 41,
+          "confidence": 93.235008
+        },
+        {
+          "text": "一",
+          "left": 399,
+          "top": 1701,
+          "width": 17,
+          "height": 41,
+          "confidence": 60.553932
+        },
+        {
+          "text": "种",
+          "left": 420,
+          "top": 1701,
+          "width": 38,
+          "height": 40,
+          "confidence": 96.458168
+        },
+        {
+          "text": "模型",
+          "left": 462,
+          "top": 1701,
+          "width": 75,
+          "height": 42,
+          "confidence": 93.086807
+        },
+        {
+          "text": ",",
+          "left": 536,
+          "top": 1697,
+          "width": 13,
+          "height": 62,
+          "confidence": 89.616295
+        },
+        {
+          "text": "在",
+          "left": 575,
+          "top": 1701,
+          "width": 41,
+          "height": 41,
+          "confidence": 96.999382
+        },
+        {
+          "text": "程序",
+          "left": 621,
+          "top": 1697,
+          "width": 83,
+          "height": 62,
+          "confidence": 93.1838
+        },
+        {
+          "text": "遇",
+          "left": 703,
+          "top": 1702,
+          "width": 43,
+          "height": 39,
+          "confidence": 72.976341
+        },
+        {
+          "text": "到",
+          "left": 758,
+          "top": 1701,
+          "width": 12,
+          "height": 40,
+          "confidence": 92.840584
+        },
+        {
+          "text": "了",
+          "left": 788,
+          "top": 1704,
+          "width": 24,
+          "height": 37,
+          "confidence": 96.893745
+        },
+        {
+          "text": "IO",
+          "left": 822,
+          "top": 1701,
+          "width": 52,
+          "height": 40,
+          "confidence": 94.472656
+        },
+        {
+          "text": "操作",
+          "left": 877,
+          "top": 1701,
+          "width": 71,
+          "height": 40,
+          "confidence": 95.43074
+        },
+        {
+          "text": "(费时",
+          "left": 953,
+          "top": 1701,
+          "width": 95,
+          "height": 45,
+          "confidence": 93.805435
+        },
+        {
+          "text": "不",
+          "left": 1067,
+          "top": 1703,
+          "width": 25,
+          "height": 39,
+          "confidence": 96.40509
+        },
+        {
+          "text": "费力",
+          "left": 1113,
+          "top": 1701,
+          "width": 87,
+          "height": 41,
+          "confidence": 95.495575
+        },
+        {
+          "text": "的",
+          "left": 1201,
+          "top": 1701,
+          "width": 40,
+          "height": 40,
+          "confidence": 96.860023
+        },
+        {
+          "text": "操作",
+          "left": 1245,
+          "top": 1701,
+          "width": 67,
+          "height": 40,
+          "confidence": 93.182549
+        },
+        {
+          "text": ")",
+          "left": 1315,
+          "top": 1704,
+          "width": 24,
+          "height": 42,
+          "confidence": 93.270004
+        },
+        {
+          "text": "时",
+          "left": 1344,
+          "top": 1701,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.506981
+        },
+        {
+          "text": "，",
+          "left": 1374,
+          "top": 1732,
+          "width": 5,
+          "height": 11,
+          "confidence": 90.339287
+        }
+      ]
+    },
+    {
+      "text": "自动切换到其他任务. 该模型被称为协程.",
+      "left": 96,
+      "top": 1766,
+      "right": 874,
+      "bottom": 1827,
+      "height": 61,
+      "confidence": 92.52066846666666,
+      "words": [
+        {
+          "text": "自动",
+          "left": 96,
+          "top": 1771,
+          "width": 398,
+          "height": 41,
+          "confidence": 95.956535
+        },
+        {
+          "text": "切换",
+          "left": 198,
+          "top": 1766,
+          "width": 85,
+          "height": 61,
+          "confidence": 89.075706
+        },
+        {
+          "text": "到",
+          "left": 282,
+          "top": 1766,
+          "width": 43,
+          "height": 61,
+          "confidence": 96.957985
+        },
+        {
+          "text": "其",
+          "left": 324,
+          "top": 1766,
+          "width": 47,
+          "height": 61,
+          "confidence": 94.922592
+        },
+        {
+          "text": "他",
+          "left": 370,
+          "top": 1766,
+          "width": 43,
+          "height": 61,
+          "confidence": 96.919876
+        },
+        {
+          "text": "任务",
+          "left": 412,
+          "top": 1766,
+          "width": 77,
+          "height": 61,
+          "confidence": 93.284248
+        },
+        {
+          "text": ".",
+          "left": 488,
+          "top": 1766,
+          "width": 16,
+          "height": 61,
+          "confidence": 92.810486
+        },
+        {
+          "text": "该",
+          "left": 534,
+          "top": 1771,
+          "width": 37,
+          "height": 40,
+          "confidence": 96.91272
+        },
+        {
+          "text": "模型",
+          "left": 568,
+          "top": 1771,
+          "width": 303,
+          "height": 40,
+          "confidence": 96.858322
+        },
+        {
+          "text": "被",
+          "left": 671,
+          "top": 1766,
+          "width": 39,
+          "height": 61,
+          "confidence": 69.544853
+        },
+        {
+          "text": "称",
+          "left": 709,
+          "top": 1766,
+          "width": 43,
+          "height": 61,
+          "confidence": 92.897758
+        },
+        {
+          "text": "为",
+          "left": 751,
+          "top": 1766,
+          "width": 43,
+          "height": 61,
+          "confidence": 93.146477
+        },
+        {
+          "text": "协",
+          "left": 793,
+          "top": 1766,
+          "width": 43,
+          "height": 61,
+          "confidence": 93.265625
+        },
+        {
+          "text": "程",
+          "left": 835,
+          "top": 1766,
+          "width": 28,
+          "height": 61,
+          "confidence": 92.743828
+        },
+        {
+          "text": ".",
+          "left": 862,
+          "top": 1766,
+          "width": 12,
+          "height": 61,
+          "confidence": 92.513016
+        }
+      ]
+    }
+  ]
+}

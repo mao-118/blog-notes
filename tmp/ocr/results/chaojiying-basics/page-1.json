@@ -1,0 +1,1601 @@
+{
+  "image": "/Users/maolihang/Documents/my/blog-notes/docs/python/web-scraping/assets/chaojiying-basics/page-1.png",
+  "lines": [
+    {
+      "text": "超纹磨损定验证码",
+      "left": 94,
+      "top": 342,
+      "right": 941,
+      "bottom": 458,
+      "height": 116,
+      "confidence": 79.94355616666668,
+      "words": [
+        {
+          "text": "超",
+          "left": 94,
+          "top": 346,
+          "width": 100,
+          "height": 101,
+          "confidence": 90.375298
+        },
+        {
+          "text": "纹",
+          "left": 242,
+          "top": 346,
+          "width": 117,
+          "height": 101,
+          "confidence": 86.929565
+        },
+        {
+          "text": "磨损",
+          "left": 358,
+          "top": 342,
+          "width": 153,
+          "height": 116,
+          "confidence": 31.450071
+        },
+        {
+          "text": "定",
+          "left": 568,
+          "top": 379,
+          "width": 54,
+          "height": 68,
+          "confidence": 91.207298
+        },
+        {
+          "text": "验证",
+          "left": 677,
+          "top": 351,
+          "width": 160,
+          "height": 95,
+          "confidence": 93.139809
+        },
+        {
+          "text": "码",
+          "left": 880,
+          "top": 351,
+          "width": 61,
+          "height": 95,
+          "confidence": 86.559296
+        }
+      ]
+    },
+    {
+      "text": "7 ets ——",
+      "left": 141,
+      "top": 345,
+      "right": 617,
+      "bottom": 447,
+      "height": 102,
+      "confidence": 51.86949166666667,
+      "words": [
+        {
+          "text": "7",
+          "left": 141,
+          "top": 351,
+          "width": 49,
+          "height": 41,
+          "confidence": 85.006096
+        },
+        {
+          "text": "ets",
+          "left": 308,
+          "top": 345,
+          "width": 206,
+          "height": 102,
+          "confidence": 70.602379
+        },
+        {
+          "text": "——",
+          "left": 527,
+          "top": 345,
+          "width": 90,
+          "height": 36,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "text": "在进行爬虫抓取的时候遇到验证码怎么办? 这个问题其实一直都很",
+      "left": 91,
+      "top": 532,
+      "right": 1357,
+      "bottom": 584,
+      "height": 52,
+      "confidence": 90.2717178,
+      "words": [
+        {
+          "text": "在",
+          "left": 91,
+          "top": 536,
+          "width": 40,
+          "height": 41,
+          "confidence": 96.335434
+        },
+        {
+          "text": "进行",
+          "left": 152,
+          "top": 536,
+          "width": 98,
+          "height": 40,
+          "confidence": 96.687798
+        },
+        {
+          "text": "爬虫",
+          "left": 268,
+          "top": 536,
+          "width": 70,
+          "height": 40,
+          "confidence": 32.659187
+        },
+        {
+          "text": "抓",
+          "left": 337,
+          "top": 532,
+          "width": 36,
+          "height": 52,
+          "confidence": 90.666306
+        },
+        {
+          "text": "取",
+          "left": 373,
+          "top": 536,
+          "width": 39,
+          "height": 40,
+          "confidence": 93.289284
+        },
+        {
+          "text": "的",
+          "left": 416,
+          "top": 536,
+          "width": 41,
+          "height": 40,
+          "confidence": 96.67791
+        },
+        {
+          "text": "时",
+          "left": 460,
+          "top": 536,
+          "width": 41,
+          "height": 41,
+          "confidence": 93.217468
+        },
+        {
+          "text": "候",
+          "left": 503,
+          "top": 538,
+          "width": 24,
+          "height": 38,
+          "confidence": 92.888977
+        },
+        {
+          "text": "遇",
+          "left": 542,
+          "top": 537,
+          "width": 29,
+          "height": 39,
+          "confidence": 73.451439
+        },
+        {
+          "text": "到",
+          "left": 584,
+          "top": 536,
+          "width": 49,
+          "height": 40,
+          "confidence": 94.031303
+        },
+        {
+          "text": "验证",
+          "left": 634,
+          "top": 536,
+          "width": 89,
+          "height": 39,
+          "confidence": 93.284866
+        },
+        {
+          "text": "码",
+          "left": 724,
+          "top": 536,
+          "width": 49,
+          "height": 40,
+          "confidence": 92.742104
+        },
+        {
+          "text": "怎",
+          "left": 795,
+          "top": 536,
+          "width": 24,
+          "height": 40,
+          "confidence": 92.625381
+        },
+        {
+          "text": "么",
+          "left": 818,
+          "top": 532,
+          "width": 40,
+          "height": 52,
+          "confidence": 93.192131
+        },
+        {
+          "text": "办",
+          "left": 857,
+          "top": 536,
+          "width": 22,
+          "height": 40,
+          "confidence": 92.988899
+        },
+        {
+          "text": "?",
+          "left": 886,
+          "top": 540,
+          "width": 17,
+          "height": 32,
+          "confidence": 92.805824
+        },
+        {
+          "text": "这",
+          "left": 932,
+          "top": 536,
+          "width": 28,
+          "height": 40,
+          "confidence": 96.867287
+        },
+        {
+          "text": "个",
+          "left": 977,
+          "top": 536,
+          "width": 45,
+          "height": 40,
+          "confidence": 94.308998
+        },
+        {
+          "text": "问题",
+          "left": 1023,
+          "top": 536,
+          "width": 95,
+          "height": 40,
+          "confidence": 96.691658
+        },
+        {
+          "text": "其",
+          "left": 1117,
+          "top": 532,
+          "width": 40,
+          "height": 52,
+          "confidence": 93.212898
+        },
+        {
+          "text": "实",
+          "left": 1156,
+          "top": 536,
+          "width": 23,
+          "height": 40,
+          "confidence": 93.255753
+        },
+        {
+          "text": "一",
+          "left": 1201,
+          "top": 554,
+          "width": 23,
+          "height": 3,
+          "confidence": 85.834755
+        },
+        {
+          "text": "直",
+          "left": 1240,
+          "top": 536,
+          "width": 47,
+          "height": 40,
+          "confidence": 91.55294
+        },
+        {
+          "text": "都",
+          "left": 1297,
+          "top": 536,
+          "width": 33,
+          "height": 41,
+          "confidence": 90.641716
+        },
+        {
+          "text": "很",
+          "left": 1335,
+          "top": 538,
+          "width": 22,
+          "height": 38,
+          "confidence": 96.882629
+        }
+      ]
+    },
+    {
+      "text": "BR. 怎么解决呢?",
+      "left": 92,
+      "top": 607,
+      "right": 443,
+      "bottom": 648,
+      "height": 41,
+      "confidence": 89.14906620000001,
+      "words": [
+        {
+          "text": "BR.",
+          "left": 92,
+          "top": 607,
+          "width": 94,
+          "height": 41,
+          "confidence": 70.428841
+        },
+        {
+          "text": "怎么",
+          "left": 223,
+          "top": 607,
+          "width": 87,
+          "height": 40,
+          "confidence": 95.942833
+        },
+        {
+          "text": "解决",
+          "left": 311,
+          "top": 607,
+          "width": 81,
+          "height": 41,
+          "confidence": 93.208145
+        },
+        {
+          "text": "呢",
+          "left": 399,
+          "top": 609,
+          "width": 20,
+          "height": 38,
+          "confidence": 93.231216
+        },
+        {
+          "text": "?",
+          "left": 423,
+          "top": 611,
+          "width": 20,
+          "height": 32,
+          "confidence": 92.934296
+        }
+      ]
+    },
+    {
+      "text": "1. 自己想办法与一套深度学习算法. 有针对的去学习各种验证码的",
+      "left": 113,
+      "top": 739,
+      "right": 1382,
+      "bottom": 792,
+      "height": 53,
+      "confidence": 93.02908088461537,
+      "words": [
+        {
+          "text": "1.",
+          "left": 113,
+          "top": 748,
+          "width": 29,
+          "height": 31,
+          "confidence": 89.742531
+        },
+        {
+          "text": "自己",
+          "left": 178,
+          "top": 743,
+          "width": 30,
+          "height": 40,
+          "confidence": 92.693748
+        },
+        {
+          "text": "想",
+          "left": 281,
+          "top": 744,
+          "width": 20,
+          "height": 38,
+          "confidence": 92.187584
+        },
+        {
+          "text": "办",
+          "left": 317,
+          "top": 743,
+          "width": 43,
+          "height": 40,
+          "confidence": 92.713356
+        },
+        {
+          "text": "法",
+          "left": 360,
+          "top": 743,
+          "width": 29,
+          "height": 40,
+          "confidence": 95.877785
+        },
+        {
+          "text": "与",
+          "left": 410,
+          "top": 745,
+          "width": 21,
+          "height": 38,
+          "confidence": 86.454758
+        },
+        {
+          "text": "一",
+          "left": 453,
+          "top": 761,
+          "width": 24,
+          "height": 3,
+          "confidence": 93.296906
+        },
+        {
+          "text": "套",
+          "left": 496,
+          "top": 743,
+          "width": 41,
+          "height": 40,
+          "confidence": 91.82093
+        },
+        {
+          "text": "深",
+          "left": 542,
+          "top": 745,
+          "width": 24,
+          "height": 38,
+          "confidence": 92.870956
+        },
+        {
+          "text": "度",
+          "left": 586,
+          "top": 743,
+          "width": 24,
+          "height": 40,
+          "confidence": 91.07917
+        },
+        {
+          "text": "学",
+          "left": 632,
+          "top": 743,
+          "width": 21,
+          "height": 40,
+          "confidence": 90.547592
+        },
+        {
+          "text": "习",
+          "left": 672,
+          "top": 746,
+          "width": 22,
+          "height": 37,
+          "confidence": 93.173294
+        },
+        {
+          "text": "算",
+          "left": 711,
+          "top": 743,
+          "width": 46,
+          "height": 41,
+          "confidence": 92.914978
+        },
+        {
+          "text": "法",
+          "left": 764,
+          "top": 743,
+          "width": 33,
+          "height": 40,
+          "confidence": 92.685051
+        },
+        {
+          "text": ".",
+          "left": 798,
+          "top": 739,
+          "width": 20,
+          "height": 53,
+          "confidence": 92.013489
+        },
+        {
+          "text": "有",
+          "left": 834,
+          "top": 743,
+          "width": 34,
+          "height": 40,
+          "confidence": 96.506424
+        },
+        {
+          "text": "针对",
+          "left": 875,
+          "top": 743,
+          "width": 86,
+          "height": 40,
+          "confidence": 95.624588
+        },
+        {
+          "text": "的",
+          "left": 963,
+          "top": 743,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.107323
+        },
+        {
+          "text": "去",
+          "left": 1006,
+          "top": 743,
+          "width": 24,
+          "height": 40,
+          "confidence": 96.803528
+        },
+        {
+          "text": "学",
+          "left": 1053,
+          "top": 743,
+          "width": 21,
+          "height": 40,
+          "confidence": 93.285789
+        },
+        {
+          "text": "习",
+          "left": 1096,
+          "top": 746,
+          "width": 19,
+          "height": 37,
+          "confidence": 92.773773
+        },
+        {
+          "text": "各",
+          "left": 1132,
+          "top": 743,
+          "width": 47,
+          "height": 41,
+          "confidence": 92.303154
+        },
+        {
+          "text": "种",
+          "left": 1185,
+          "top": 743,
+          "width": 41,
+          "height": 40,
+          "confidence": 95.985718
+        },
+        {
+          "text": "验证",
+          "left": 1231,
+          "top": 743,
+          "width": 84,
+          "height": 39,
+          "confidence": 93.213379
+        },
+        {
+          "text": "码",
+          "left": 1316,
+          "top": 743,
+          "width": 42,
+          "height": 40,
+          "confidence": 89.081665
+        },
+        {
+          "text": "的",
+          "left": 1360,
+          "top": 743,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.998634
+        }
+      ]
+    },
+    {
+      "text": "识别方案",
+      "left": 173,
+      "top": 813,
+      "right": 344,
+      "bottom": 853,
+      "height": 40,
+      "confidence": 96.118053,
+      "words": [
+        {
+          "text": "识别",
+          "left": 173,
+          "top": 813,
+          "width": 82,
+          "height": 40,
+          "confidence": 95.440681
+        },
+        {
+          "text": "方案",
+          "left": 279,
+          "top": 813,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.795425
+        }
+      ]
+    },
+    {
+      "text": "2. 使用互联网上已经相对成熟的产品进行验证码识别.",
+      "left": 110,
+      "top": 879,
+      "right": 1149,
+      "bottom": 932,
+      "height": 53,
+      "confidence": 93.97815815789473,
+      "words": [
+        {
+          "text": "2.",
+          "left": 110,
+          "top": 888,
+          "width": 32,
+          "height": 31,
+          "confidence": 90.238258
+        },
+        {
+          "text": "使",
+          "left": 188,
+          "top": 883,
+          "width": 51,
+          "height": 41,
+          "confidence": 96.663071
+        },
+        {
+          "text": "用",
+          "left": 238,
+          "top": 879,
+          "width": 41,
+          "height": 53,
+          "confidence": 96.980949
+        },
+        {
+          "text": "互联",
+          "left": 278,
+          "top": 883,
+          "width": 97,
+          "height": 41,
+          "confidence": 94.98587
+        },
+        {
+          "text": "网",
+          "left": 374,
+          "top": 879,
+          "width": 37,
+          "height": 53,
+          "confidence": 96.652374
+        },
+        {
+          "text": "上",
+          "left": 410,
+          "top": 883,
+          "width": 23,
+          "height": 39,
+          "confidence": 97.00489
+        },
+        {
+          "text": "已",
+          "left": 450,
+          "top": 883,
+          "width": 46,
+          "height": 39,
+          "confidence": 92.447769
+        },
+        {
+          "text": "经",
+          "left": 503,
+          "top": 883,
+          "width": 39,
+          "height": 40,
+          "confidence": 95.970299
+        },
+        {
+          "text": "相对",
+          "left": 544,
+          "top": 883,
+          "width": 66,
+          "height": 40,
+          "confidence": 96.740547
+        },
+        {
+          "text": "成",
+          "left": 632,
+          "top": 883,
+          "width": 46,
+          "height": 41,
+          "confidence": 93.303146
+        },
+        {
+          "text": "熟",
+          "left": 679,
+          "top": 883,
+          "width": 39,
+          "height": 40,
+          "confidence": 90.587868
+        },
+        {
+          "text": "的",
+          "left": 722,
+          "top": 883,
+          "width": 44,
+          "height": 40,
+          "confidence": 90.616707
+        },
+        {
+          "text": "产品",
+          "left": 765,
+          "top": 879,
+          "width": 63,
+          "height": 53,
+          "confidence": 95.540085
+        },
+        {
+          "text": "进行",
+          "left": 851,
+          "top": 883,
+          "width": 86,
+          "height": 40,
+          "confidence": 96.722046
+        },
+        {
+          "text": "验证",
+          "left": 944,
+          "top": 883,
+          "width": 82,
+          "height": 39,
+          "confidence": 93.199318
+        },
+        {
+          "text": "码",
+          "left": 1027,
+          "top": 884,
+          "width": 42,
+          "height": 39,
+          "confidence": 92.897957
+        },
+        {
+          "text": "识",
+          "left": 1069,
+          "top": 885,
+          "width": 41,
+          "height": 38,
+          "confidence": 91.51123
+        },
+        {
+          "text": "别",
+          "left": 1124,
+          "top": 883,
+          "width": 12,
+          "height": 40,
+          "confidence": 92.906853
+        },
+        {
+          "text": ".",
+          "left": 1144,
+          "top": 914,
+          "width": 5,
+          "height": 5,
+          "confidence": 90.615768
+        }
+      ]
+    },
+    {
+      "text": "理性告诉我, 方案二更适合我.",
+      "left": 91,
+      "top": 1015,
+      "right": 653,
+      "bottom": 1067,
+      "height": 52,
+      "confidence": 94.4490433,
+      "words": [
+        {
+          "text": "理性",
+          "left": 91,
+          "top": 1019,
+          "width": 84,
+          "height": 40,
+          "confidence": 95.71492
+        },
+        {
+          "text": "告诉",
+          "left": 197,
+          "top": 1019,
+          "width": 66,
+          "height": 41,
+          "confidence": 95.64418
+        },
+        {
+          "text": "我",
+          "left": 285,
+          "top": 1019,
+          "width": 22,
+          "height": 40,
+          "confidence": 93.286057
+        },
+        {
+          "text": ",",
+          "left": 313,
+          "top": 1050,
+          "width": 5,
+          "height": 11,
+          "confidence": 91.641663
+        },
+        {
+          "text": "方案",
+          "left": 336,
+          "top": 1019,
+          "width": 315,
+          "height": 40,
+          "confidence": 96.422882
+        },
+        {
+          "text": "二",
+          "left": 438,
+          "top": 1015,
+          "width": 46,
+          "height": 52,
+          "confidence": 96.764763
+        },
+        {
+          "text": "更",
+          "left": 483,
+          "top": 1015,
+          "width": 46,
+          "height": 52,
+          "confidence": 94.692284
+        },
+        {
+          "text": "适合",
+          "left": 529,
+          "top": 1019,
+          "width": 85,
+          "height": 40,
+          "confidence": 95.847603
+        },
+        {
+          "text": "我",
+          "left": 613,
+          "top": 1015,
+          "width": 27,
+          "height": 52,
+          "confidence": 93.024818
+        },
+        {
+          "text": ".",
+          "left": 639,
+          "top": 1015,
+          "width": 14,
+          "height": 52,
+          "confidence": 91.451263
+        }
+      ]
+    },
+    {
+      "text": "这里推荐各位可以用超级谁来做测试. 不同的平台使用的算法可能是",
+      "left": 92,
+      "top": 1151,
+      "right": 1388,
+      "bottom": 1203,
+      "height": 52,
+      "confidence": 91.08436952000002,
+      "words": [
+        {
+          "text": "这",
+          "left": 92,
+          "top": 1155,
+          "width": 39,
+          "height": 40,
+          "confidence": 95.252151
+        },
+        {
+          "text": "里",
+          "left": 146,
+          "top": 1157,
+          "width": 28,
+          "height": 37,
+          "confidence": 96.709686
+        },
+        {
+          "text": "推荐",
+          "left": 198,
+          "top": 1151,
+          "width": 85,
+          "height": 52,
+          "confidence": 96.115677
+        },
+        {
+          "text": "各",
+          "left": 283,
+          "top": 1155,
+          "width": 41,
+          "height": 41,
+          "confidence": 96.663017
+        },
+        {
+          "text": "位",
+          "left": 328,
+          "top": 1155,
+          "width": 23,
+          "height": 38,
+          "confidence": 95.319725
+        },
+        {
+          "text": "可",
+          "left": 370,
+          "top": 1158,
+          "width": 25,
+          "height": 37,
+          "confidence": 96.928574
+        },
+        {
+          "text": "以",
+          "left": 413,
+          "top": 1155,
+          "width": 26,
+          "height": 40,
+          "confidence": 96.680901
+        },
+        {
+          "text": "用",
+          "left": 455,
+          "top": 1157,
+          "width": 25,
+          "height": 38,
+          "confidence": 96.561951
+        },
+        {
+          "text": "超级",
+          "left": 497,
+          "top": 1155,
+          "width": 98,
+          "height": 40,
+          "confidence": 93.2509
+        },
+        {
+          "text": "谁",
+          "left": 619,
+          "top": 1155,
+          "width": 22,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "来",
+          "left": 663,
+          "top": 1155,
+          "width": 20,
+          "height": 41,
+          "confidence": 90.361694
+        },
+        {
+          "text": "做",
+          "left": 686,
+          "top": 1156,
+          "width": 30,
+          "height": 39,
+          "confidence": 96.952522
+        },
+        {
+          "text": "测试",
+          "left": 725,
+          "top": 1155,
+          "width": 75,
+          "height": 40,
+          "confidence": 92.747414
+        },
+        {
+          "text": ".",
+          "left": 799,
+          "top": 1151,
+          "width": 14,
+          "height": 52,
+          "confidence": 92.092972
+        },
+        {
+          "text": "不",
+          "left": 842,
+          "top": 1157,
+          "width": 18,
+          "height": 39,
+          "confidence": 93.014153
+        },
+        {
+          "text": "同",
+          "left": 881,
+          "top": 1155,
+          "width": 43,
+          "height": 40,
+          "confidence": 92.971214
+        },
+        {
+          "text": "的",
+          "left": 926,
+          "top": 1155,
+          "width": 50,
+          "height": 40,
+          "confidence": 83.741852
+        },
+        {
+          "text": "平台",
+          "left": 975,
+          "top": 1151,
+          "width": 77,
+          "height": 52,
+          "confidence": 96.415421
+        },
+        {
+          "text": "使",
+          "left": 1059,
+          "top": 1155,
+          "width": 47,
+          "height": 40,
+          "confidence": 96.158157
+        },
+        {
+          "text": "用",
+          "left": 1130,
+          "top": 1155,
+          "width": 11,
+          "height": 39,
+          "confidence": 96.965118
+        },
+        {
+          "text": "的",
+          "left": 1145,
+          "top": 1155,
+          "width": 22,
+          "height": 40,
+          "confidence": 96.523529
+        },
+        {
+          "text": "算法",
+          "left": 1186,
+          "top": 1155,
+          "width": 70,
+          "height": 41,
+          "confidence": 95.8918
+        },
+        {
+          "text": "可",
+          "left": 1274,
+          "top": 1155,
+          "width": 43,
+          "height": 41,
+          "confidence": 96.875275
+        },
+        {
+          "text": "能",
+          "left": 1327,
+          "top": 1155,
+          "width": 17,
+          "height": 40,
+          "confidence": 96.105484
+        },
+        {
+          "text": "是",
+          "left": 1358,
+          "top": 1156,
+          "width": 30,
+          "height": 39,
+          "confidence": 96.810051
+        }
+      ]
+    },
+    {
+      "text": "不一样的. 但是调用方案几乎都差不太多.",
+      "left": 91,
+      "top": 1221,
+      "right": 871,
+      "bottom": 1273,
+      "height": 52,
+      "confidence": 92.02003143750001,
+      "words": [
+        {
+          "text": "不",
+          "left": 91,
+          "top": 1227,
+          "width": 40,
+          "height": 39,
+          "confidence": 96.305489
+        },
+        {
+          "text": "一",
+          "left": 148,
+          "top": 1225,
+          "width": 46,
+          "height": 40,
+          "confidence": 92.603912
+        },
+        {
+          "text": "样",
+          "left": 197,
+          "top": 1225,
+          "width": 42,
+          "height": 41,
+          "confidence": 92.884674
+        },
+        {
+          "text": "的",
+          "left": 243,
+          "top": 1225,
+          "width": 19,
+          "height": 40,
+          "confidence": 93.271523
+        },
+        {
+          "text": ".",
+          "left": 269,
+          "top": 1256,
+          "width": 5,
+          "height": 5,
+          "confidence": 93.091324
+        },
+        {
+          "text": "但",
+          "left": 311,
+          "top": 1225,
+          "width": 20,
+          "height": 41,
+          "confidence": 96.727707
+        },
+        {
+          "text": "是",
+          "left": 353,
+          "top": 1226,
+          "width": 39,
+          "height": 39,
+          "confidence": 96.625099
+        },
+        {
+          "text": "调用",
+          "left": 395,
+          "top": 1227,
+          "width": 65,
+          "height": 38,
+          "confidence": 96.553551
+        },
+        {
+          "text": "方案",
+          "left": 480,
+          "top": 1225,
+          "width": 70,
+          "height": 40,
+          "confidence": 95.885139
+        },
+        {
+          "text": "几乎",
+          "left": 568,
+          "top": 1225,
+          "width": 98,
+          "height": 40,
+          "confidence": 96.09687
+        },
+        {
+          "text": "都",
+          "left": 669,
+          "top": 1225,
+          "width": 42,
+          "height": 40,
+          "confidence": 92.91861
+        },
+        {
+          "text": "差",
+          "left": 732,
+          "top": 1227,
+          "width": 25,
+          "height": 39,
+          "confidence": 81.11985
+        },
+        {
+          "text": "不",
+          "left": 756,
+          "top": 1221,
+          "width": 37,
+          "height": 52,
+          "confidence": 72.423759
+        },
+        {
+          "text": "太",
+          "left": 792,
+          "top": 1225,
+          "width": 24,
+          "height": 40,
+          "confidence": 93.210037
+        },
+        {
+          "text": "多",
+          "left": 828,
+          "top": 1225,
+          "width": 26,
+          "height": 40,
+          "confidence": 93.222145
+        },
+        {
+          "text": ".",
+          "left": 866,
+          "top": 1256,
+          "width": 5,
+          "height": 5,
+          "confidence": 89.380814
+        }
+      ]
+    },
+    {
+      "text": "我们来看看超级麻怎么用. BA, 登录超级磨的官网. 然后需要注册.",
+      "left": 91,
+      "top": 1357,
+      "right": 1360,
+      "bottom": 1409,
+      "height": 52,
+      "confidence": 81.73952972727274,
+      "words": [
+        {
+          "text": "我",
+          "left": 91,
+          "top": 1361,
+          "width": 57,
+          "height": 41,
+          "confidence": 93.292976
+        },
+        {
+          "text": "们",
+          "left": 152,
+          "top": 1361,
+          "width": 21,
+          "height": 40,
+          "confidence": 91.766083
+        },
+        {
+          "text": "来",
+          "left": 194,
+          "top": 1361,
+          "width": 49,
+          "height": 40,
+          "confidence": 94.719284
+        },
+        {
+          "text": "看",
+          "left": 243,
+          "top": 1357,
+          "width": 43,
+          "height": 52,
+          "confidence": 96.523766
+        },
+        {
+          "text": "看",
+          "left": 285,
+          "top": 1361,
+          "width": 21,
+          "height": 40,
+          "confidence": 96.379837
+        },
+        {
+          "text": "超级",
+          "left": 327,
+          "top": 1361,
+          "width": 68,
+          "height": 40,
+          "confidence": 93.274277
+        },
+        {
+          "text": "麻",
+          "left": 415,
+          "top": 1361,
+          "width": 49,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "怎",
+          "left": 487,
+          "top": 1361,
+          "width": 26,
+          "height": 40,
+          "confidence": 0.0
+        },
+        {
+          "text": "么",
+          "left": 512,
+          "top": 1357,
+          "width": 34,
+          "height": 52,
+          "confidence": 93.058655
+        },
+        {
+          "text": "用",
+          "left": 545,
+          "top": 1363,
+          "width": 23,
+          "height": 38,
+          "confidence": 93.164665
+        },
+        {
+          "text": ".",
+          "left": 577,
+          "top": 1392,
+          "width": 5,
+          "height": 5,
+          "confidence": 91.071228
+        },
+        {
+          "text": "BA,",
+          "left": 600,
+          "top": 1361,
+          "width": 95,
+          "height": 42,
+          "confidence": 81.441689
+        },
+        {
+          "text": "登录",
+          "left": 737,
+          "top": 1362,
+          "width": 58,
+          "height": 39,
+          "confidence": 95.729271
+        },
+        {
+          "text": "超级",
+          "left": 800,
+          "top": 1361,
+          "width": 272,
+          "height": 40,
+          "confidence": 93.156754
+        },
+        {
+          "text": "磨",
+          "left": 909,
+          "top": 1357,
+          "width": 43,
+          "height": 52,
+          "confidence": 31.054214
+        },
+        {
+          "text": "的",
+          "left": 951,
+          "top": 1357,
+          "width": 46,
+          "height": 52,
+          "confidence": 92.11895
+        },
+        {
+          "text": "官网",
+          "left": 997,
+          "top": 1357,
+          "width": 75,
+          "height": 52,
+          "confidence": 93.190971
+        },
+        {
+          "text": ".",
+          "left": 1071,
+          "top": 1357,
+          "width": 14,
+          "height": 52,
+          "confidence": 91.744446
+        },
+        {
+          "text": "然后",
+          "left": 1114,
+          "top": 1357,
+          "width": 82,
+          "height": 52,
+          "confidence": 95.687508
+        },
+        {
+          "text": "需要",
+          "left": 1195,
+          "top": 1362,
+          "width": 81,
+          "height": 40,
+          "confidence": 95.237106
+        },
+        {
+          "text": "注册",
+          "left": 1279,
+          "top": 1361,
+          "width": 69,
+          "height": 40,
+          "confidence": 93.068451
+        },
+        {
+          "text": ".",
+          "left": 1355,
+          "top": 1392,
+          "width": 5,
+          "height": 5,
+          "confidence": 92.589523
+        }
+      ]
+    },
+    {
+      "text": "注册后, 需要我们进入用户中心. 生成一个新的软件 ID 就可以用了",
+      "left": 92,
+      "top": 1427,
+      "right": 1319,
+      "bottom": 1479,
+      "height": 52,
+      "confidence": 94.92404595833334,
+      "words": [
+        {
+          "text": "注册",
+          "left": 92,
+          "top": 1431,
+          "width": 138,
+          "height": 42,
+          "confidence": 95.44194
+        },
+        {
+          "text": "后",
+          "left": 192,
+          "top": 1427,
+          "width": 30,
+          "height": 52,
+          "confidence": 92.984528
+        },
+        {
+          "text": ",",
+          "left": 221,
+          "top": 1427,
+          "width": 17,
+          "height": 52,
+          "confidence": 92.922935
+        },
+        {
+          "text": "需要",
+          "left": 247,
+          "top": 1431,
+          "width": 345,
+          "height": 41,
+          "confidence": 96.643967
+        },
+        {
+          "text": "我",
+          "left": 354,
+          "top": 1427,
+          "width": 46,
+          "height": 52,
+          "confidence": 92.45224
+        },
+        {
+          "text": "们",
+          "left": 400,
+          "top": 1427,
+          "width": 43,
+          "height": 52,
+          "confidence": 92.61702
+        },
+        {
+          "text": "进入",
+          "left": 442,
+          "top": 1427,
+          "width": 79,
+          "height": 52,
+          "confidence": 95.977875
+        },
+        {
+          "text": "用",
+          "left": 520,
+          "top": 1427,
+          "width": 46,
+          "height": 52,
+          "confidence": 92.904526
+        },
+        {
+          "text": "户",
+          "left": 565,
+          "top": 1427,
+          "width": 47,
+          "height": 52,
+          "confidence": 92.07737
+        },
+        {
+          "text": "中",
+          "left": 603,
+          "top": 1431,
+          "width": 92,
+          "height": 41,
+          "confidence": 92.063072
+        },
+        {
+          "text": "心",
+          "left": 660,
+          "top": 1427,
+          "width": 36,
+          "height": 52,
+          "confidence": 92.606644
+        },
+        {
+          "text": ".",
+          "left": 695,
+          "top": 1427,
+          "width": 14,
+          "height": 52,
+          "confidence": 91.883514
+        },
+        {
+          "text": "生成",
+          "left": 731,
+          "top": 1431,
+          "width": 65,
+          "height": 40,
+          "confidence": 96.696213
+        },
+        {
+          "text": "一",
+          "left": 819,
+          "top": 1449,
+          "width": 21,
+          "height": 3,
+          "confidence": 96.865715
+        },
+        {
+          "text": "个",
+          "left": 861,
+          "top": 1431,
+          "width": 46,
+          "height": 41,
+          "confidence": 96.440475
+        },
+        {
+          "text": "新",
+          "left": 907,
+          "top": 1431,
+          "width": 41,
+          "height": 41,
+          "confidence": 96.809387
+        },
+        {
+          "text": "的",
+          "left": 949,
+          "top": 1431,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.328583
+        },
+        {
+          "text": "软件",
+          "left": 994,
+          "top": 1431,
+          "width": 76,
+          "height": 40,
+          "confidence": 96.336067
+        },
+        {
+          "text": "ID",
+          "left": 1069,
+          "top": 1427,
+          "width": 59,
+          "height": 52,
+          "confidence": 95.926125
+        },
+        {
+          "text": "就",
+          "left": 1128,
+          "top": 1431,
+          "width": 46,
+          "height": 40,
+          "confidence": 96.743111
+        },
+        {
+          "text": "可",
+          "left": 1173,
+          "top": 1427,
+          "width": 43,
+          "height": 52,
+          "confidence": 96.687851
+        },
+        {
+          "text": "以",
+          "left": 1215,
+          "top": 1431,
+          "width": 47,
+          "height": 40,
+          "confidence": 95.688576
+        },
+        {
+          "text": "用",
+          "left": 1261,
+          "top": 1427,
+          "width": 33,
+          "height": 52,
+          "confidence": 96.210175
+        },
+        {
+          "text": "了",
+          "left": 1293,
+          "top": 1434,
+          "width": 26,
+          "height": 37,
+          "confidence": 96.869194
+        }
+      ]
+    }
+  ]
+}
