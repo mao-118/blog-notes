@@ -601,16 +601,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: 'FastAPI入门',
-              link: '/python/fastapi/introduction'
-            },
-            {
-              text: 'FastAPI 进阶',
-              link: '/python/fastapi/advanced'
-            },
-            {
-              text: 'AI掘金头条-新闻模块',
-              link: '/python/fastapi/news-module'
+              text: '待更新',
+              link: '/python/fastapi/pending-update'
             }
           ]
         }
