@@ -1,4 +1,4 @@
-# 日志技术
+# Logback日志
 
 ## 概述
 
@@ -280,6 +280,5 @@ public class DeptController {
 lombok中提供的@Slf4j注解，可以简化定义日志记录器这步操作。添加了该注解，就相当于在类中定义了日志记录器，就下面这句代码：
 
 `private static Logger log = LoggerFactory. getLogger(Xxx. class);`
-
 
 

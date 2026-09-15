@@ -235,12 +235,12 @@ export default defineConfig({
             { text: 'JDBC', link: '/java/database-access/jdbc' },
             { text: 'Mybatis', link: '/java/database-access/mybatis' },
             {
-              text: 'PageHelper分页插件',
-              link: '/java/spring-boot/pagehelper/pagehelper-pagination-plugin'
+              text: 'Mybatis Plus',
+              link: '/java/spring-boot/mybatis-plus'
             },
             {
-              text: '日志技术',
-              link: '/java/spring-boot/logging/logging-technology'
+              text: 'Logback日志',
+              link: '/java/spring-boot/logging/logback-logging'
             },
             {
               text: 'SpringBoot配置文件',
