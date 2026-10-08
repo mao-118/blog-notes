@@ -158,7 +158,7 @@ export default defineConfig({
       { text: 'Node.js', link: '/nodejs/' },
       { text: 'Java', link: '/java/' },
       { text: 'Python', link: '/python/' },
-      { text: 'Mysql', link: '/mysql/' }
+      { text: 'Mysql', link: '/mysql/mysql-overview' }
     ],
     sidebar: {
       '/frontend/': frontendSidebar,
@@ -609,20 +609,27 @@ export default defineConfig({
         }
       ],
       '/mysql/': [
+        { text: 'MySQL概述', link: '/mysql/mysql-overview' },
+        { text: 'SQL', link: '/mysql/sql' },
+        { text: '事务', link: '/mysql/transactions' },
+        { text: '存储引擎', link: '/mysql/storage-engines' },
+        { text: '性能分析', link: '/mysql/performance-analysis' },
+        { text: '索引', link: '/mysql/indexes' },
+        { text: 'SQL 优化', link: '/mysql/sql-optimization' },
         {
-          text: 'Mysql基础',
-          collapsed: false,
-          items: [
-            { text: '相关概念', link: '/mysql/basics/related-concepts' },
-            { text: 'MySQL概述', link: '/mysql/basics/overview' },
-            { text: 'SQL语句', link: '/mysql/basics/sql-statements' },
-            {
-              text: '多表关系',
-              link: '/mysql/basics/multi-table-relationships'
-            },
-            { text: '多表查询', link: '/mysql/basics/multi-table-queries' }
-          ]
-        }
+          text: '视图、存储过程、触发器',
+          link: '/mysql/views-stored-procedures-triggers'
+        },
+        { text: '存储过程', link: '/mysql/stored-procedures' },
+        { text: '触发器', link: '/mysql/triggers' },
+        { text: '锁', link: '/mysql/locks' },
+        { text: 'InnoDB引擎', link: '/mysql/innodb-engine' },
+        { text: 'MySQL管理', link: '/mysql/mysql-administration' },
+        { text: '日志', link: '/mysql/logs' },
+        { text: '主从复制', link: '/mysql/replication' },
+        { text: '分库分表', link: '/mysql/sharding' },
+        { text: '读写分离', link: '/mysql/read-write-separation' },
+        { text: '补充内容', link: '/mysql/additional-content' }
       ]
     }
   }

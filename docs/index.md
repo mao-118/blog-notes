@@ -110,7 +110,7 @@ import { withBase } from 'vitepress'
 </div>
 </a>
 
-<a class="knowledge-map-card knowledge-map-card--teal" :href="withBase('/mysql/')">
+<a class="knowledge-map-card knowledge-map-card--teal" :href="withBase('/mysql/mysql-overview')">
 <div class="knowledge-map-card-top">
 <span>06</span>
 <span class="knowledge-map-card-enter" aria-hidden="true">→</span>
