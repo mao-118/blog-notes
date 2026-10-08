@@ -145,9 +145,10 @@ const frontendSidebar = [
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/blog-notes/',
-  title: '个人笔记',
+  title: '个人知识库',
   description: '个人技术笔记',
   themeConfig: {
+    logo: '/home/knowledge-book-logo.png',
     outline: {
       level: [2, 6]
     },
