@@ -223,10 +223,12 @@ export default defineConfig({
           text: 'Spring Security',
           collapsed: false,
           items: [
+            { text: '初识Spring Security', link: '/java/spring-security/introduction' },
             {
-              text: 'OAuth2.0认证授权',
-              link: '/java/spring-security/oauth2-authentication-authorization'
-            }
+              text: 'SpringBoot整合SpringSecurity',
+              link: '/java/spring-security/spring-boot-integration'
+            },
+            { text: 'OAuth2.0', link: '/java/spring-security/oauth2' }
           ]
         },
         {
