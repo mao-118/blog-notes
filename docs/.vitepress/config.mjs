@@ -219,6 +219,8 @@ export default defineConfig({
             { text: '私服', link: '/java/maven/private-repository' }
           ]
         },
+        // Spring Security 笔记内容较旧，暂时从侧边栏隐藏。
+        /*
         {
           text: 'Spring Security',
           collapsed: false,
@@ -231,6 +233,7 @@ export default defineConfig({
             { text: 'OAuth2.0', link: '/java/spring-security/oauth2' }
           ]
         },
+        */
         {
           text: 'spring boot',
           collapsed: false,
