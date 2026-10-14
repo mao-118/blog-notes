@@ -632,7 +632,7 @@ export default defineConfig({
         { text: '索引', link: '/mysql/indexes' },
         { text: 'SQL 优化', link: '/mysql/sql-optimization' },
         {
-          text: '视图、存储过程、触发器',
+          text: '视图',
           link: '/mysql/views-stored-procedures-triggers'
         },
         { text: '存储过程', link: '/mysql/stored-procedures' },
