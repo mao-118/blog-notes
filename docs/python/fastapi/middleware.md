@@ -15,15 +15,11 @@
 - 响应头处理
 - 性能监控
 
-## 中间件的概念与执行流程
+## 中间件的概念
 
 中间件（Middleware）是一个在每次请求进入 FastAPI 应用时都会被执行的函数。
 
-它在请求到达实际的路径操作（路由处理函数）之前运行，并且在响应返回给客户端之前再运行一次。
-
-![请求经过多个中间件与路由处理函数的流程](assets/middleware/request-processing-flow.png)
-
-自下而上。
+中间件可以在请求到达路径操作（路由处理函数）之前处理请求，也可以在获得响应后、返回客户端之前处理响应。前置处理与后置处理位于同一个函数中，以 `await call_next(request)` 为分界。
 
 ## 定义中间件
 
@@ -39,4 +35,28 @@ async def middleware(request, call_next):
 ```
 
 - `request`：请求。
-- `call_next`：传递请求给路径处理函数。
+- `call_next`：将请求传给下一层中间件或路径处理函数，并返回后续处理产生的响应。
+
+## 多个中间件的执行顺序
+
+当你使用 `@app.middleware()` 装饰器或 `app.add_middleware()` 方法添加多个中间件时，每个新中间件都会包裹应用，形成一个栈。最后添加的中间件是“最外层”的，最先添加的是“最内层”的。
+
+在请求路径上，最外层的中间件先运行。
+
+在响应路径上，它最后运行。
+
+例如：
+
+```python
+app.add_middleware(MiddlewareA)
+app.add_middleware(MiddlewareB)
+```
+
+这会产生如下执行顺序：
+
+- **请求**：MiddlewareB → MiddlewareA → 路由
+- **响应**：路由 → MiddlewareA → MiddlewareB
+
+这种栈式行为确保中间件按可预测且可控的顺序执行。
+
+参考：[FastAPI 官方文档：中间件](https://fastapi.tiangolo.com/zh/tutorial/middleware/#before-and-after-the-response)。
