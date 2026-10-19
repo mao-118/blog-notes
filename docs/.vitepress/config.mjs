@@ -617,8 +617,32 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: '待更新',
-              link: '/python/fastapi/pending-update'
+              text: 'FastAPI 简介',
+              link: '/python/fastapi/introduction'
+            },
+            {
+              text: 'FastAPI 入门',
+              link: '/python/fastapi/getting-started'
+            },
+            {
+              text: '中间件',
+              link: '/python/fastapi/middleware'
+            },
+            {
+              text: '依赖注入',
+              link: '/python/fastapi/dependency-injection'
+            },
+            {
+              text: 'ORM',
+              link: '/python/fastapi/orm'
+            },
+            {
+              text: '路由模块化',
+              link: '/python/fastapi/modular-routing'
+            },
+            {
+              text: '跨域',
+              link: '/python/fastapi/cross-origin'
             }
           ]
         }
